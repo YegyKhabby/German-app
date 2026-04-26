@@ -19,7 +19,7 @@ export function renderFlashcard() {
 // ── helpers ──────────────────────────────────────────────────────────────────
 
 function getRoot() {
-  return document.getElementById("screen-flashcard");
+  return document.getElementById("flashcard-body");
 }
 
 function clearRoot() {
