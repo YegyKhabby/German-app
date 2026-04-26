@@ -173,7 +173,7 @@ function renderCard() {
 
   const ratings = [
     { label: "Again", quality: 1, cls: "again" },
-    { label: "Hard",  quality: 2, cls: "hard"  },
+    { label: "Hard",  quality: 3, cls: "hard"  },
     { label: "Good",  quality: 4, cls: "good"  },
     { label: "Easy",  quality: 5, cls: "easy"  },
   ];

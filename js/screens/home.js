@@ -63,7 +63,7 @@ function setupSearch() {
     resultsEl.textContent = "";
     search(input.value).forEach(r => {
       const item = document.createElement("div"); item.className = "search-result-item";
-      const de   = document.createElement("div"); de.className = "de"; de.textContent = r.id;
+      const de   = document.createElement("div"); de.className = "de"; de.textContent = getWordById(r.id)?.german || r.id;
       const en   = document.createElement("div"); en.className = "en"; en.textContent = getWordById(r.id)?.english || "";
       item.append(de, en);
       item.onclick = () => {
