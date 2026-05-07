@@ -1,6 +1,6 @@
 import { speak } from "../tts.js";
 import { rateCard } from "../sr.js";
-import { recordReview, markMastered } from "../state.js";
+import { recordReview, markMastered, localDateStr } from "../state.js";
 import { navigate } from "../router.js";
 
 let _session = null;
@@ -64,7 +64,7 @@ function renderCard() {
   }
 
   const root = clearRoot();
-  const today = new Date().toISOString().slice(0, 10);
+  const today = localDateStr();
   const word = _session.words[_session.index];
   const isDeEn = _session.mode === "de-en";
 
@@ -213,7 +213,7 @@ function renderCard() {
 // ── Complete screen ───────────────────────────────────────────────────────────
 
 function renderComplete() {
-  const today = new Date().toISOString().slice(0, 10);
+  const today = localDateStr();
   recordReview(_session.reviewed, today);
 
   const reviewed = _session.reviewed.length;

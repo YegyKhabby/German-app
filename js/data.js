@@ -1,7 +1,7 @@
 const BATCHES = [
-  { id: "p47-60", label: "p.47-60", file: "data/p47-60.json" },
-  { id: "p61-74", label: "p.61-74", file: "data/p61-74.json" },
-  { id: "p75-88", label: "p.75-88", file: "data/p75-88.json" },
+  { id: "p75-88",     label: "p.75-88",     file: "data/p75-88.json"     },
+  { id: "p89-102",    label: "p.89-102",    file: "data/p89-102.json"    },
+  { id: "extra-b1b2", label: "Extra B1-B2", file: "data/extra-b1b2.json" },
 ];
 
 let _cache = {};

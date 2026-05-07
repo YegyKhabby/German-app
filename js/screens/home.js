@@ -1,5 +1,5 @@
 import { getBatches, loadAllBatches, getAllWords, buildSearchIndex, search, getWordById } from "../data.js";
-import { loadStats } from "../state.js";
+import { loadStats, localDateStr } from "../state.js";
 import { getDueIds } from "../sr.js";
 import { navigate } from "../router.js";
 
@@ -15,7 +15,7 @@ export async function renderHome() {
 function updateStats() {
   const stats  = loadStats();
   const allIds = getAllWords().map(w => w.id);
-  const today  = new Date().toISOString().slice(0, 10);
+  const today  = localDateStr();
   document.getElementById("stat-streak").textContent   = stats.streak;
   document.getElementById("stat-mastered").textContent = stats.mastered.length;
   document.getElementById("stat-due").textContent      = getDueIds(allIds, today).length;
@@ -36,7 +36,7 @@ function renderBatchPills() {
 function setupReviewButton() {
   document.getElementById("start-review-btn").onclick = () => {
     const allWords = getAllWords();
-    const today    = new Date().toISOString().slice(0, 10);
+    const today    = localDateStr();
     const dueIds   = getDueIds(allWords.map(w => w.id), today);
     const dueWords = dueIds.map(id => allWords.find(w => w.id === id)).filter(Boolean);
     if (!dueWords.length) { alert("No cards due today!"); return; }

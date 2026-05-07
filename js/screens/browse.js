@@ -3,7 +3,11 @@ import { speak } from "../tts.js";
 import { isBookmarked, toggleBookmark } from "../state.js";
 import { navigate } from "../router.js";
 
-const BATCH_LABELS = { "p47-60": "p.47-60", "p61-74": "p.61-74", "p75-88": "p.75-88" };
+const BATCH_LABELS = {
+  "p75-88":     "p.75-88",
+  "p89-102":    "p.89-102",
+  "extra-b1b2": "Extra B1-B2",
+};
 
 export async function renderBrowse() {
   const batchId = window._activeBatch;

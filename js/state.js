@@ -36,10 +36,16 @@ export function getDailyCountsLast14(today) {
   });
 }
 
+export function localDateStr() {
+  const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+}
+
 function addDays(dateStr, n) {
-  const d = new Date(dateStr + "T00:00:00Z");
-  d.setUTCDate(d.getUTCDate() + n);
-  return d.toISOString().slice(0, 10);
+  // Parse as local midnight to avoid UTC-offset shifting the date
+  const [y, m, day] = dateStr.split("-").map(Number);
+  const d = new Date(y, m - 1, day + n);
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
 }
 
 export function loadBookmarks() {

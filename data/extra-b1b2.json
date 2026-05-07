@@ -1,0 +1,4749 @@
+[
+  {
+    "day": 1,
+    "book_page": 89,
+    "section": "3.1 Reisen und Verkehr · Travel basics",
+    "insight": "Abfahrt and Ankunft are the two poles of every German journey — both built from fahren/kommen plus a directional prefix (ab- = away, an- = towards). ⚠ Lookalike alert: Aufenthalt looks like aufhalten (to hold up/detain) — and it is related, but Aufenthalt is always positive: a stay or stopover. Verspätung (delay) is so common on German trains that 'Der Zug hat Verspätung' is almost a national cliché. Fahrkarte = fare card (Fahr- from fahren + Karte = card); Fahrschein is a regional synonym.",
+    "words": [
+      {
+        "id": "Abfahrt",
+        "german": "Abfahrt",
+        "pronunciation": "[ˈapfaːrt]",
+        "pos": "f, -, -en",
+        "english": "departure",
+        "breakdown": [
+          {
+            "part": "ab-",
+            "meaning": "away / off",
+            "note": "separable prefix"
+          },
+          {
+            "part": "Fahrt",
+            "meaning": "journey / trip",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Opposite → Ankunft (arrival). Abfahrtszeit = departure time. Abfahrtsgleis = departure platform.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Abfahrt des Zuges ist um 14:30 Uhr.",
+            "en": "The train's departure is at 14:30."
+          },
+          {
+            "de": "Wir haben die Abfahrt um fünf Minuten verpasst.",
+            "en": "We missed the departure by five minutes."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Abfahrten. Genitive: der Abfahrt.",
+        "word_family": [
+          "abfahren",
+          "Ankunft",
+          "Abfahrtszeit",
+          "Abfahrtsgleis"
+        ],
+        "mnemonic": "ab (away) + Fahrt (trip) — the trip that goes away",
+        "present_examples": [
+          {
+            "de": "Die nächste Abfahrt nach München ist in zehn Minuten.",
+            "en": "The next departure to Munich is in ten minutes."
+          }
+        ]
+      },
+      {
+        "id": "Ankunft",
+        "german": "Ankunft",
+        "pronunciation": "[ˈankʊnft]",
+        "pos": "f, -, Anküfte",
+        "english": "arrival",
+        "breakdown": [
+          {
+            "part": "an-",
+            "meaning": "at / towards",
+            "note": "separable prefix"
+          },
+          {
+            "part": "Kunft",
+            "meaning": "coming",
+            "note": "from kommen — archaic noun form"
+          }
+        ],
+        "breakdown_note": "Opposite → Abfahrt (departure). Ankunftszeit = arrival time. Ankunftshalle = arrivals hall.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Ankunft des Fluges verzögert sich um eine Stunde.",
+            "en": "The arrival of the flight is delayed by one hour."
+          },
+          {
+            "de": "Wir warten auf die Ankunft der Gäste.",
+            "en": "We are waiting for the arrival of the guests."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Ankünfte (umlaut). Genitive: der Ankunft.",
+        "word_family": [
+          "ankommen",
+          "Abfahrt",
+          "Ankunftszeit",
+          "Ankunftshalle"
+        ],
+        "mnemonic": "an (at) + Kunft (coming) — the coming-to-a-place",
+        "present_examples": [
+          {
+            "de": "Die Ankunft ist für 18 Uhr geplant.",
+            "en": "The arrival is planned for 6 p.m."
+          }
+        ]
+      },
+      {
+        "id": "Aufenthalt",
+        "german": "Aufenthalt",
+        "pronunciation": "[ˈaufɛntˌhalt]",
+        "pos": "m, -(e)s, -e",
+        "english": "stay / stopover",
+        "breakdown": [
+          {
+            "part": "auf-",
+            "meaning": "up / at",
+            "note": "prefix"
+          },
+          {
+            "part": "enthalten",
+            "meaning": "to contain / hold",
+            "note": "base — archaic: 'to hold oneself at a place'"
+          }
+        ],
+        "breakdown_note": "Both a stay at a destination and a transit stopover. Aufenthaltsraum = common room. Kurzaufenthalt = short stay.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Zug hat in Mannheim zehn Minuten Aufenthalt.",
+            "en": "The train has a ten-minute stop in Mannheim."
+          },
+          {
+            "de": "Ihr Aufenthalt in Berlin hat ihr sehr gut gefallen.",
+            "en": "She really enjoyed her stay in Berlin."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Aufenthalte. Genitive: des Aufenthalts.",
+        "word_family": [
+          "aufhalten",
+          "Aufenthaltsraum",
+          "Aufenthaltsgenehmigung",
+          "Kurzaufenthalt"
+        ],
+        "mnemonic": "sich aufhalten = to stay/linger — Aufenthalt is the noun of that lingering",
+        "present_examples": [
+          {
+            "de": "Während meines Aufenthalts in Wien besuche ich viele Museen.",
+            "en": "During my stay in Vienna I visit many museums."
+          }
+        ]
+      },
+      {
+        "id": "Gepäck",
+        "german": "Gepäck",
+        "pronunciation": "[ɡəˈpɛk]",
+        "pos": "n, -(e)s, kein Pl.",
+        "english": "luggage / baggage",
+        "breakdown": [
+          {
+            "part": "ge-",
+            "meaning": "collective prefix",
+            "note": ""
+          },
+          {
+            "part": "Pack",
+            "meaning": "pack / bundle",
+            "note": "noun root"
+          }
+        ],
+        "breakdown_note": "Uncountable in German (no plural). A single item = ein Gepäckstück. Handgepäck = hand luggage. Gepäckaufgabe = baggage drop.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Darf ich Ihr Gepäck wiegen?",
+            "en": "May I weigh your luggage?"
+          },
+          {
+            "de": "Sie hat ihr Gepäck am Flughafen verloren.",
+            "en": "She lost her luggage at the airport."
+          }
+        ],
+        "grammar_notes": "Neuter noun, no plural. Genitive: des Gepäcks.",
+        "word_family": [
+          "Handgepäck",
+          "Gepäckstück",
+          "Gepäckaufgabe",
+          "Gepäckband"
+        ],
+        "mnemonic": "ge- (collective) + Pack (pack) — all your packs collected together",
+        "present_examples": [
+          {
+            "de": "Ich habe nur Handgepäck dabei.",
+            "en": "I only have hand luggage with me."
+          }
+        ]
+      },
+      {
+        "id": "Fahrkarte",
+        "german": "Fahrkarte",
+        "pronunciation": "[ˈfaːrˌkartə]",
+        "pos": "f, -, -n",
+        "english": "ticket (transport)",
+        "breakdown": [
+          {
+            "part": "fahr-",
+            "meaning": "travel / ride",
+            "note": "from fahren — to travel"
+          },
+          {
+            "part": "Karte",
+            "meaning": "card",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Ticket for trains, buses, trams. Einzel- vs. Monatskarte (single vs. monthly). Flugticket / Flugschein for planes.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe meine Fahrkarte online gekauft.",
+            "en": "I bought my ticket online."
+          },
+          {
+            "de": "Ohne gültige Fahrkarte darf man nicht einsteigen.",
+            "en": "You may not board without a valid ticket."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Fahrkarten. Genitive: der Fahrkarte.",
+        "word_family": [
+          "Monatskarte",
+          "Einzelkarte",
+          "Fahrkartenautomat",
+          "Flugticket"
+        ],
+        "mnemonic": "fahr (ride) + Karte (card) — your card to ride",
+        "present_examples": [
+          {
+            "de": "Wo kann ich hier eine Fahrkarte kaufen?",
+            "en": "Where can I buy a ticket here?"
+          }
+        ]
+      },
+      {
+        "id": "Verspätung",
+        "german": "Verspätung",
+        "pronunciation": "[fɛrˈʃpɛːtʊŋ]",
+        "pos": "f, -, -en",
+        "english": "delay",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "wrongly / too late",
+            "note": "prefix"
+          },
+          {
+            "part": "spät",
+            "meaning": "late",
+            "note": "adjective"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Der Zug hat Verspätung = the train is delayed (fixed phrase). Mit Verspätung ankommen = to arrive late.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der ICE hat heute 40 Minuten Verspätung.",
+            "en": "The ICE train is 40 minutes late today."
+          },
+          {
+            "de": "Wegen der Verspätung habe ich den Anschluss verpasst.",
+            "en": "Because of the delay I missed my connection."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Verspätungen. Genitive: der Verspätung.",
+        "word_family": [
+          "verspätet",
+          "verspäten",
+          "pünktlich",
+          "Pünktlichkeit"
+        ],
+        "mnemonic": "ver- (too) + spät (late) + -ung — the state of being too late",
+        "present_examples": [
+          {
+            "de": "Gibt es Verspätungen auf der Linie 5?",
+            "en": "Are there delays on line 5?"
+          }
+        ]
+      },
+      {
+        "id": "umsteigen",
+        "german": "umsteigen",
+        "pronunciation": "[ˈʊmˌʃtaɪɡən]",
+        "pos": "V/i. (sein)",
+        "english": "to change (trains/buses)",
+        "breakdown": [
+          {
+            "part": "um-",
+            "meaning": "over / around",
+            "note": "separable prefix — switching direction"
+          },
+          {
+            "part": "steigen",
+            "meaning": "to climb / board",
+            "note": "base verb — irregular"
+          }
+        ],
+        "breakdown_note": "Always intransitive with sein. In Frankfurt umsteigen = change in Frankfurt. Umsteigezeit = connection time.",
+        "conjugation": {
+          "prät": "stieg um",
+          "perf": "ist umgestiegen",
+          "note": "separable · irregular",
+          "imperative": "du: Steig um!  ·  Sie: Steigen Sie um!"
+        },
+        "examples": [
+          {
+            "de": "In Hamburg müssen Sie umsteigen.",
+            "en": "You have to change in Hamburg."
+          },
+          {
+            "de": "Wir sind zweimal umgestiegen, bevor wir ankamen.",
+            "en": "We changed twice before we arrived."
+          }
+        ],
+        "grammar_notes": "Separable verb. Past participle: umgestiegen. Auxiliary: sein.",
+        "word_family": [
+          "einsteigen",
+          "aussteigen",
+          "Umstieg",
+          "Umsteigezeit"
+        ],
+        "mnemonic": "um (around/over) + steigen (climb) — climb over to the other train",
+        "present_examples": [
+          {
+            "de": "Wo steige ich für den Flughafen um?",
+            "en": "Where do I change for the airport?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 1,
+    "book_page": 90,
+    "section": "3.1 Reisen und Verkehr · Departure verbs & accommodation",
+    "insight": "Buchen originally meant to write in a book (Buch) — hence 'to book/reserve'. ⚠ Lookalike alert: Unterkunft looks like Ankunft (arrival) — both end in -kunft (from kommen). Unterkunft = shelter-coming (where you come to stay); Ankunft = the coming-to-a-place. Übernachten = to stay overnight: über (over/across) + Nacht (night). Note: abfahren (train departs), abfliegen (plane takes off), ablegen (ship sets sail) — each transport type uses a different verb.",
+    "words": [
+      {
+        "id": "abfahren",
+        "german": "abfahren",
+        "pronunciation": "[ˈapˌfaːrən]",
+        "pos": "V/i. (sein)",
+        "english": "to depart / leave",
+        "breakdown": [
+          {
+            "part": "ab-",
+            "meaning": "away / off",
+            "note": "separable prefix"
+          },
+          {
+            "part": "fahren",
+            "meaning": "to travel / drive",
+            "note": "base verb — irregular"
+          }
+        ],
+        "breakdown_note": "Used for trains, buses, ships. Der Zug fährt ab = the train departs. Abfahrt is the noun.",
+        "conjugation": {
+          "prät": "fuhr ab",
+          "perf": "ist abgefahren",
+          "note": "separable · irregular (fahren class)",
+          "imperative": "du: Fahr ab!  ·  Sie: Fahren Sie ab!"
+        },
+        "examples": [
+          {
+            "de": "Der Bus fährt um 8 Uhr ab.",
+            "en": "The bus departs at 8 o'clock."
+          },
+          {
+            "de": "Der letzte Zug ist bereits abgefahren.",
+            "en": "The last train has already departed."
+          }
+        ],
+        "grammar_notes": "Separable verb. Auxiliary: sein. 3sg present: fährt ab.",
+        "word_family": [
+          "Abfahrt",
+          "ankommen",
+          "einfahren",
+          "abfliegen"
+        ],
+        "mnemonic": "ab (away) + fahren (travel) — travel away",
+        "present_examples": [
+          {
+            "de": "Wann fährt der nächste Zug nach Köln ab?",
+            "en": "When does the next train to Cologne depart?"
+          }
+        ]
+      },
+      {
+        "id": "ankommen",
+        "german": "ankommen",
+        "pronunciation": "[ˈanˌkɔmən]",
+        "pos": "V/i. (sein)",
+        "english": "to arrive",
+        "breakdown": [
+          {
+            "part": "an-",
+            "meaning": "at / towards",
+            "note": "separable prefix"
+          },
+          {
+            "part": "kommen",
+            "meaning": "to come",
+            "note": "base verb — irregular"
+          }
+        ],
+        "breakdown_note": "Ankommen in + Dative. Also figurative: Es kommt darauf an = it depends on it. Gut ankommen = to go down well.",
+        "conjugation": {
+          "prät": "kam an",
+          "perf": "ist angekommen",
+          "note": "separable · irregular (kommen class)",
+          "imperative": "du: Komm an!  ·  Sie: Kommen Sie an!"
+        },
+        "examples": [
+          {
+            "de": "Wir sind gestern Abend in Wien angekommen.",
+            "en": "We arrived in Vienna yesterday evening."
+          },
+          {
+            "de": "Der Brief ist noch nicht angekommen.",
+            "en": "The letter has not yet arrived."
+          }
+        ],
+        "grammar_notes": "Separable verb. Auxiliary: sein. 3sg present: kommt an.",
+        "word_family": [
+          "Ankunft",
+          "abfahren",
+          "Ankommen",
+          "gut ankommen"
+        ],
+        "mnemonic": "an (at/towards) + kommen (come) — come to the place",
+        "present_examples": [
+          {
+            "de": "Der Zug kommt um 15:20 Uhr in Berlin an.",
+            "en": "The train arrives in Berlin at 15:20."
+          }
+        ]
+      },
+      {
+        "id": "buchen",
+        "german": "buchen",
+        "pronunciation": "[ˈbuːxən]",
+        "pos": "V/t.",
+        "english": "to book / reserve",
+        "breakdown": [
+          {
+            "part": "Buch",
+            "meaning": "book",
+            "note": "noun root — originally: to write in a book"
+          },
+          {
+            "part": "-en",
+            "meaning": "verb suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Online buchen = book online. Frühbucher = early booker (early-bird). Buchung = booking (the noun).",
+        "conjugation": {
+          "prät": "buchte",
+          "perf": "hat gebucht",
+          "note": "regular",
+          "imperative": "du: Buche!  ·  Sie: Buchen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Ich habe das Hotel schon drei Monate im Voraus gebucht.",
+            "en": "I booked the hotel three months in advance."
+          },
+          {
+            "de": "Können Sie mir einen Flug nach Rom buchen?",
+            "en": "Can you book me a flight to Rome?"
+          }
+        ],
+        "grammar_notes": "Weak verb. Past participle: gebucht.",
+        "word_family": [
+          "Buchung",
+          "Frühbucher",
+          "Rückbuchung",
+          "vorbuchen"
+        ],
+        "mnemonic": "to write in the Buch (book) = to reserve your spot",
+        "present_examples": [
+          {
+            "de": "Er bucht alle Reisen über das Internet.",
+            "en": "He books all trips via the internet."
+          }
+        ]
+      },
+      {
+        "id": "Unterkunft",
+        "german": "Unterkunft",
+        "pronunciation": "[ˈʊntɐˌkʊnft]",
+        "pos": "f, -, Unterkünfte",
+        "english": "accommodation",
+        "breakdown": [
+          {
+            "part": "unter-",
+            "meaning": "under / below",
+            "note": "prefix — shelter below a roof"
+          },
+          {
+            "part": "Kunft",
+            "meaning": "coming",
+            "note": "archaic noun from kommen"
+          }
+        ],
+        "breakdown_note": "Where you come to shelter. Übernachtung is the act; Unterkunft is the place. Kostenlose Unterkunft = free accommodation.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Unterkunft war günstig, aber sehr sauber.",
+            "en": "The accommodation was cheap but very clean."
+          },
+          {
+            "de": "Haben Sie schon eine Unterkunft für die Reise gebucht?",
+            "en": "Have you already booked accommodation for the trip?"
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Unterkünfte (umlaut). Genitive: der Unterkunft.",
+        "word_family": [
+          "übernachten",
+          "Übernachtung",
+          "Unterkunftskosten",
+          "Herberge"
+        ],
+        "mnemonic": "unter (under) + Kunft (coming) — coming under a roof for shelter",
+        "present_examples": [
+          {
+            "de": "Wir suchen noch eine Unterkunft für das Wochenende.",
+            "en": "We are still looking for accommodation for the weekend."
+          }
+        ]
+      },
+      {
+        "id": "übernachten",
+        "german": "übernachten",
+        "pronunciation": "[ˌyːbɐˈnaxtən]",
+        "pos": "V/i.",
+        "english": "to stay overnight / spend the night",
+        "breakdown": [
+          {
+            "part": "über-",
+            "meaning": "over / across",
+            "note": "prefix — crossing the night"
+          },
+          {
+            "part": "Nacht",
+            "meaning": "night",
+            "note": "noun"
+          },
+          {
+            "part": "-en",
+            "meaning": "verb suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Inseparable in use. Wo übernachten Sie? = Where are you staying? Übernachtung = overnight stay (noun).",
+        "conjugation": {
+          "prät": "übernachtete",
+          "perf": "hat übernachtet",
+          "note": "regular",
+          "imperative": "du: Übernachte!  ·  Sie: Übernachten Sie!"
+        },
+        "examples": [
+          {
+            "de": "Wir haben in einem kleinen Gasthof übernachtet.",
+            "en": "We spent the night in a small inn."
+          },
+          {
+            "de": "Darf ich heute bei dir übernachten?",
+            "en": "May I stay at your place tonight?"
+          }
+        ],
+        "grammar_notes": "Weak verb, inseparable. Past participle: übernachtet.",
+        "word_family": [
+          "Übernachtung",
+          "Unterkunft",
+          "Nacht",
+          "Nachtlager"
+        ],
+        "mnemonic": "über (across) + Nacht (night) — crossing over through the night",
+        "present_examples": [
+          {
+            "de": "Er übernachtet immer im selben Hotel, wenn er nach Hamburg fährt.",
+            "en": "He always stays at the same hotel when he goes to Hamburg."
+          }
+        ]
+      },
+      {
+        "id": "Reisebüro",
+        "german": "Reisebüro",
+        "pronunciation": "[ˈraɪzəbyˌroː]",
+        "pos": "n, -s, -s",
+        "english": "travel agency",
+        "breakdown": [
+          {
+            "part": "Reise",
+            "meaning": "journey / travel",
+            "note": "noun"
+          },
+          {
+            "part": "Büro",
+            "meaning": "office",
+            "note": "noun — from French bureau"
+          }
+        ],
+        "breakdown_note": "Reisebüro handles bookings in person; online alternatives are Reiseportal (travel portal) or Buchungsplattform.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Reisebüro hat uns eine Pauschalreise empfohlen.",
+            "en": "The travel agency recommended a package holiday to us."
+          },
+          {
+            "de": "Früher buchten alle ihre Urlaube im Reisebüro.",
+            "en": "In the past everyone booked their holidays at the travel agency."
+          }
+        ],
+        "grammar_notes": "Neuter noun. Plural: die Reisebüros. Genitive: des Reisebüros.",
+        "word_family": [
+          "Reise",
+          "Büro",
+          "Reiseanbieter",
+          "Reiseportal"
+        ],
+        "mnemonic": "Reise (travel) + Büro (office) — the office where travel is organized",
+        "present_examples": [
+          {
+            "de": "Das Reisebüro ist dienstags bis samstags geöffnet.",
+            "en": "The travel agency is open Tuesday to Saturday."
+          }
+        ]
+      },
+      {
+        "id": "Reisepass",
+        "german": "Reisepass",
+        "pronunciation": "[ˈraɪzəˌpas]",
+        "pos": "m, -es, Reisepässe",
+        "english": "passport",
+        "breakdown": [
+          {
+            "part": "Reise",
+            "meaning": "journey / travel",
+            "note": "noun"
+          },
+          {
+            "part": "Pass",
+            "meaning": "pass / permit",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Reisepass = full passport (international). Personalausweis = national identity card (EU). Reisedokument = travel document (general).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Vergiss nicht, deinen Reisepass mitzunehmen.",
+            "en": "Don't forget to take your passport with you."
+          },
+          {
+            "de": "Mein Reisepass läuft nächsten Monat ab.",
+            "en": "My passport expires next month."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Reisepässe (umlaut). Genitive: des Reisepasses.",
+        "word_family": [
+          "Personalausweis",
+          "Reisedokument",
+          "Visumantrag",
+          "Pass"
+        ],
+        "mnemonic": "Reise (travel) + Pass (pass) — your pass to travel internationally",
+        "present_examples": [
+          {
+            "de": "Für diese Reise brauchen Sie einen gültigen Reisepass.",
+            "en": "You need a valid passport for this trip."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "book_page": 91,
+    "section": "3.1 Reisen und Verkehr · Borders & international travel",
+    "insight": "Zoll has two completely unrelated meanings: customs/duty AND the unit inch (2.54 cm) — a pure homonym. ⚠ Lookalike alert: Grenze looks nothing like its meaning 'border', because it is a loanword from Polish granica, borrowed in the Middle Ages via trade routes. Ausland vs. Inland: the suffix -land anchors both — Aus- (out) vs. In- (in). ⚠ Lookalike alert: Reiseziel — Ziel means goal/target, so a Reiseziel is literally your journey's goal, not a 'travel seal' (Reisesiegel). Don't confuse Ziel (goal) with Siegel (seal/stamp).",
+    "words": [
+      {
+        "id": "Zoll",
+        "german": "Zoll",
+        "pronunciation": "[tsɔl]",
+        "pos": "m, -(e)s, Zölle",
+        "english": "customs / duty",
+        "breakdown": [
+          {
+            "part": "Zoll",
+            "meaning": "toll / customs",
+            "note": "Germanic root — historical road/border toll"
+          }
+        ],
+        "breakdown_note": "Zollkontrolle = customs check. Zollfrei = duty-free. Also means 'inch' (2.54 cm) — a homonym.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Am Flughafen hat der Zoll mein Gepäck durchsucht.",
+            "en": "At the airport customs searched my luggage."
+          },
+          {
+            "de": "Alkohol über dem Freikontingent ist zollpflichtig.",
+            "en": "Alcohol above the duty-free allowance is subject to customs duty."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Zölle. Genitive: des Zolls.",
+        "word_family": [
+          "Zollkontrolle",
+          "Zollfrei",
+          "Zollbeamter",
+          "Zollgebühr"
+        ],
+        "mnemonic": "Zoll is the old toll at the border — pay to pass",
+        "present_examples": [
+          {
+            "de": "Beim Einreisen aus Drittländern muss man durch den Zoll.",
+            "en": "When entering from non-EU countries you must go through customs."
+          }
+        ]
+      },
+      {
+        "id": "Grenze",
+        "german": "Grenze",
+        "pronunciation": "[ˈɡrɛntsə]",
+        "pos": "f, -, -n",
+        "english": "border / boundary / limit",
+        "breakdown": [
+          {
+            "part": "Grenze",
+            "meaning": "border",
+            "note": "from Polish granica via medieval trade"
+          }
+        ],
+        "breakdown_note": "Grenzkontrolle = border check. An die Grenzen stoßen = to hit the limits. Grenze can be physical or figurative.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Grenze zwischen Deutschland und Frankreich ist offen.",
+            "en": "The border between Germany and France is open."
+          },
+          {
+            "de": "Er überschritt die Grenze des Erlaubten.",
+            "en": "He crossed the boundary of what is permitted."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Grenzen. Genitive: der Grenze.",
+        "word_family": [
+          "Grenzkontrolle",
+          "Grenzübergang",
+          "grenzenlos",
+          "begrenzen"
+        ],
+        "mnemonic": "Grenze = the line you must not cross without permission",
+        "present_examples": [
+          {
+            "de": "An diesem Grenzübergang gibt es keine Kontrollen mehr.",
+            "en": "At this border crossing there are no more checks."
+          }
+        ]
+      },
+      {
+        "id": "Ausland",
+        "german": "Ausland",
+        "pronunciation": "[ˈausˌlant]",
+        "pos": "n, -(e)s, kein Pl.",
+        "english": "abroad / foreign country",
+        "breakdown": [
+          {
+            "part": "aus-",
+            "meaning": "out",
+            "note": "prefix"
+          },
+          {
+            "part": "Land",
+            "meaning": "country / land",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Im Ausland = abroad. Ins Ausland fahren = to go abroad. Ausländer = foreigner. Opposite: Inland.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie hat drei Jahre im Ausland gelebt.",
+            "en": "She lived abroad for three years."
+          },
+          {
+            "de": "Deutsche Produkte sind im Ausland sehr beliebt.",
+            "en": "German products are very popular abroad."
+          }
+        ],
+        "grammar_notes": "Neuter noun, no plural. Genitive: des Auslands.",
+        "word_family": [
+          "Ausländer",
+          "ausländisch",
+          "Inland",
+          "Auslandsreise"
+        ],
+        "mnemonic": "aus (out) + Land (country) — the country outside your own",
+        "present_examples": [
+          {
+            "de": "Er arbeitet für eine Firma und ist oft im Ausland unterwegs.",
+            "en": "He works for a company and is often abroad."
+          }
+        ]
+      },
+      {
+        "id": "Inland",
+        "german": "Inland",
+        "pronunciation": "[ˈɪnˌlant]",
+        "pos": "n, -(e)s, kein Pl.",
+        "english": "domestic / home country",
+        "breakdown": [
+          {
+            "part": "in-",
+            "meaning": "in / within",
+            "note": "prefix"
+          },
+          {
+            "part": "Land",
+            "meaning": "country / land",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Im Inland = domestically. Inlandsflug = domestic flight. Opposite: Ausland.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Inlandsflüge sind in Deutschland oft teurer als Auslandsflüge.",
+            "en": "Domestic flights in Germany are often more expensive than international flights."
+          },
+          {
+            "de": "Die Nachfrage im Inland ist gesunken.",
+            "en": "Domestic demand has fallen."
+          }
+        ],
+        "grammar_notes": "Neuter noun, no plural. Genitive: des Inlands.",
+        "word_family": [
+          "Inlandsflug",
+          "Inlandspost",
+          "Ausland",
+          "inländisch"
+        ],
+        "mnemonic": "in (within) + Land (country) — within your own country",
+        "present_examples": [
+          {
+            "de": "Das Paket wird nur im Inland verschickt.",
+            "en": "The parcel is only sent within the country."
+          }
+        ]
+      },
+      {
+        "id": "Zeitverschiebung",
+        "german": "Zeitverschiebung",
+        "pronunciation": "[ˈtsaɪtfɛrˌʃiːbʊŋ]",
+        "pos": "f, -, -en",
+        "english": "time difference",
+        "breakdown": [
+          {
+            "part": "Zeit",
+            "meaning": "time",
+            "note": "noun"
+          },
+          {
+            "part": "Ver-",
+            "meaning": "shift / displacement",
+            "note": "prefix"
+          },
+          {
+            "part": "schiebung",
+            "meaning": "shifting",
+            "note": "from schieben — to push/shift"
+          }
+        ],
+        "breakdown_note": "Zwischen New York und Berlin gibt es 6 Stunden Zeitverschiebung. Jetlag is caused by Zeitverschiebung.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Zeitverschiebung zwischen Berlin und Tokio beträgt acht Stunden.",
+            "en": "The time difference between Berlin and Tokyo is eight hours."
+          },
+          {
+            "de": "Wegen der Zeitverschiebung bin ich noch müde.",
+            "en": "I'm still tired because of the time difference."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Zeitverschiebungen. Genitive: der Zeitverschiebung.",
+        "word_family": [
+          "Zeitzone",
+          "Jetlag",
+          "Sommerzeit",
+          "verschieben"
+        ],
+        "mnemonic": "Zeit (time) + verschieben (shift) — time shifted between two places",
+        "present_examples": [
+          {
+            "de": "Wie groß ist die Zeitverschiebung nach Sydney?",
+            "en": "What is the time difference to Sydney?"
+          }
+        ]
+      },
+      {
+        "id": "Gastgeber",
+        "german": "Gastgeber",
+        "pronunciation": "[ˈɡastˌɡeːbɐ]",
+        "pos": "m, -s, - / f: Gastgeberin",
+        "english": "host",
+        "breakdown": [
+          {
+            "part": "Gast",
+            "meaning": "guest",
+            "note": "noun"
+          },
+          {
+            "part": "geber",
+            "meaning": "giver",
+            "note": "from geben — to give"
+          }
+        ],
+        "breakdown_note": "Gastgeberin = female host. Gastgeber-Land = host country. Opposite: Gast (guest).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Gastgeber hat uns herzlich willkommen geheißen.",
+            "en": "The host welcomed us warmly."
+          },
+          {
+            "de": "Als Gastgeber der WM muss das Land viel investieren.",
+            "en": "As host of the World Cup the country must invest a lot."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Gastgeber. Feminine: die Gastgeberin.",
+        "word_family": [
+          "Gast",
+          "geben",
+          "Gastgeberin",
+          "Gastfreundschaft"
+        ],
+        "mnemonic": "Gast (guest) + geber (giver) — one who gives to guests",
+        "present_examples": [
+          {
+            "de": "Die Gastgeberin sorgt dafür, dass sich alle wohlfühlen.",
+            "en": "The hostess makes sure everyone feels at ease."
+          }
+        ]
+      },
+      {
+        "id": "Reiseziel",
+        "german": "Reiseziel",
+        "pronunciation": "[ˈraɪzəˌtsiːl]",
+        "pos": "n, -(e)s, -e",
+        "english": "travel destination",
+        "breakdown": [
+          {
+            "part": "Reise",
+            "meaning": "journey / travel",
+            "note": "noun"
+          },
+          {
+            "part": "Ziel",
+            "meaning": "goal / target / destination",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Beliebtes Reiseziel = popular tourist destination. Synonym: Reisedestination (formal/tourism industry).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Italien ist eines der beliebtesten Reiseziele der Deutschen.",
+            "en": "Italy is one of the most popular travel destinations for Germans."
+          },
+          {
+            "de": "Was ist Ihr nächstes Reiseziel?",
+            "en": "What is your next travel destination?"
+          }
+        ],
+        "grammar_notes": "Neuter noun. Plural: die Reiseziele. Genitive: des Reiseziels.",
+        "word_family": [
+          "Reise",
+          "Ziel",
+          "Urlaubsziel",
+          "Reisedestination"
+        ],
+        "mnemonic": "Reise (journey) + Ziel (goal) — the goal of your journey",
+        "present_examples": [
+          {
+            "de": "Dieses Jahr ist mein Reiseziel Spanien.",
+            "en": "This year my travel destination is Spain."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "book_page": 92,
+    "section": "3.1 Reisen und Verkehr · Airports & documents",
+    "insight": "Abflug (takeoff) vs. Landung (landing): note the asymmetry — Abflug uses ab- (away) + Flug (flight), while Landung comes from landen + -ung. ⚠ Lookalike alert: Staatsangehörigkeit contains angehören (to belong to), not gehören (to belong/be owned). angehören + Dative = to be a member of; gehören + Dative = to belong to someone as property. ⚠ Lookalike alert: Gepäckaufgabe — Aufgabe normally means 'task' or 'homework', but here it means 'surrender/hand-over'. Gepäck aufgeben = to check in your luggage (hand it over).",
+    "words": [
+      {
+        "id": "Abflug",
+        "german": "Abflug",
+        "pronunciation": "[ˈapˌfluːk]",
+        "pos": "m, -(e)s, Abflüge",
+        "english": "(plane) departure / takeoff",
+        "breakdown": [
+          {
+            "part": "ab-",
+            "meaning": "away / off",
+            "note": "separable prefix"
+          },
+          {
+            "part": "Flug",
+            "meaning": "flight",
+            "note": "noun from fliegen"
+          }
+        ],
+        "breakdown_note": "Used only for air travel. Abflugsgate = departure gate. Abflughalle = departures hall. Gegenteil: Landung.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Abflug ist um 6 Uhr morgens — bitte früh am Flughafen sein.",
+            "en": "The departure is at 6 a.m. — please be at the airport early."
+          },
+          {
+            "de": "Wegen Nebels wurden alle Abflüge gestrichen.",
+            "en": "All departures were cancelled due to fog."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Abflüge (umlaut). Genitive: des Abflugs.",
+        "word_family": [
+          "abfliegen",
+          "Landung",
+          "Abflugsgate",
+          "Abflughalle"
+        ],
+        "mnemonic": "ab (away) + Flug (flight) — the flight going away",
+        "present_examples": [
+          {
+            "de": "Der Abflug nach New York ist von Terminal 2.",
+            "en": "The departure to New York is from Terminal 2."
+          }
+        ]
+      },
+      {
+        "id": "Landung",
+        "german": "Landung",
+        "pronunciation": "[ˈlandʊŋ]",
+        "pos": "f, -, -en",
+        "english": "landing",
+        "breakdown": [
+          {
+            "part": "landen",
+            "meaning": "to land",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Landebahn = runway. Notlandung = emergency landing. Wasserlandung = water landing. Gegenteil: Abflug / Start.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Landung war wegen des starken Windes sehr holprig.",
+            "en": "The landing was very bumpy because of the strong wind."
+          },
+          {
+            "de": "Das Flugzeug hat eine sichere Landung gemacht.",
+            "en": "The plane made a safe landing."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Landungen. Genitive: der Landung.",
+        "word_family": [
+          "landen",
+          "Landebahn",
+          "Notlandung",
+          "Abflug"
+        ],
+        "mnemonic": "landen (to land) + -ung — the act of touching land",
+        "present_examples": [
+          {
+            "de": "Das Flugzeug beginnt jetzt mit dem Sinkflug zur Landung.",
+            "en": "The plane is now beginning its descent for landing."
+          }
+        ]
+      },
+      {
+        "id": "Staatsangehörigkeit",
+        "german": "Staatsangehörigkeit",
+        "pronunciation": "[ˈʃtaːtsʔanɡəˌhøːrɪçkaɪt]",
+        "pos": "f, -, -en",
+        "english": "nationality / citizenship",
+        "breakdown": [
+          {
+            "part": "Staats-",
+            "meaning": "of the state",
+            "note": "genitive compound"
+          },
+          {
+            "part": "Angehörigkeit",
+            "meaning": "membership / belonging",
+            "note": "from angehören — to belong to"
+          }
+        ],
+        "breakdown_note": "The bureaucratic word for nationality on forms. Staatsbürgerschaft is a synonym. Doppelte Staatsangehörigkeit = dual citizenship.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Bitte geben Sie Ihre Staatsangehörigkeit im Formular an.",
+            "en": "Please state your nationality on the form."
+          },
+          {
+            "de": "Er hat die deutsche Staatsangehörigkeit beantragt.",
+            "en": "He applied for German citizenship."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Staatsangehörigkeiten. Genitive: der Staatsangehörigkeit.",
+        "word_family": [
+          "Staatsbürger",
+          "Staatsbürgerschaft",
+          "angehören",
+          "Nationalität"
+        ],
+        "mnemonic": "Staats (state's) + Angehörigkeit (belonging) — belonging to a state",
+        "present_examples": [
+          {
+            "de": "Welche Staatsangehörigkeit haben Sie?",
+            "en": "What nationality do you have?"
+          }
+        ]
+      },
+      {
+        "id": "Urlaubsreise",
+        "german": "Urlaubsreise",
+        "pronunciation": "[ˈuːrlaʊpsˌraɪzə]",
+        "pos": "f, -, -n",
+        "english": "holiday trip",
+        "breakdown": [
+          {
+            "part": "Urlaub",
+            "meaning": "holiday / vacation",
+            "note": "noun"
+          },
+          {
+            "part": "Reise",
+            "meaning": "journey / trip",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Slightly more emphatic than Urlaub alone — stresses the travel aspect. Auf Urlaubsreise gehen = to go on a holiday trip.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Wir planen eine Urlaubsreise nach Griechenland.",
+            "en": "We are planning a holiday trip to Greece."
+          },
+          {
+            "de": "Die Urlaubsreise war leider sehr teuer.",
+            "en": "The holiday trip was unfortunately very expensive."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Urlaubsreisen. Genitive: der Urlaubsreise.",
+        "word_family": [
+          "Urlaub",
+          "Reise",
+          "Urlaubsort",
+          "Sommerreise"
+        ],
+        "mnemonic": "Urlaub (holiday) + Reise (journey) — a journey taken as a holiday",
+        "present_examples": [
+          {
+            "de": "Wo verbringen Sie Ihre nächste Urlaubsreise?",
+            "en": "Where are you spending your next holiday?"
+          }
+        ]
+      },
+      {
+        "id": "Gepäckaufgabe",
+        "german": "Gepäckaufgabe",
+        "pronunciation": "[ɡəˈpɛkˌʔaufɡaːbə]",
+        "pos": "f, -, -n",
+        "english": "baggage check-in / drop",
+        "breakdown": [
+          {
+            "part": "Gepäck",
+            "meaning": "luggage",
+            "note": "noun"
+          },
+          {
+            "part": "Aufgabe",
+            "meaning": "task / surrender / submission",
+            "note": "noun — from aufgeben"
+          }
+        ],
+        "breakdown_note": "The airport counter where you hand over checked luggage. Gepäck aufgeben = to check in luggage.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Gepäckaufgabe für unseren Flug ist am Schalter 12.",
+            "en": "Baggage check-in for our flight is at counter 12."
+          },
+          {
+            "de": "Wie viel Kilogramm darf man bei der Gepäckaufgabe eincheken?",
+            "en": "How many kilograms may you check in at baggage drop?"
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Gepäckaufgaben. Genitive: der Gepäckaufgabe.",
+        "word_family": [
+          "Gepäck",
+          "aufgeben",
+          "Handgepäck",
+          "Gepäckband"
+        ],
+        "mnemonic": "Gepäck (luggage) + aufgeben (surrender) — surrendering your luggage",
+        "present_examples": [
+          {
+            "de": "Die Schlange an der Gepäckaufgabe ist heute sehr lang.",
+            "en": "The queue at baggage check-in is very long today."
+          }
+        ]
+      },
+      {
+        "id": "Ausweiskontrolle",
+        "german": "Ausweiskontrolle",
+        "pronunciation": "[ˈausvaɪskɔnˌtroːlə]",
+        "pos": "f, -, -n",
+        "english": "passport / ID check",
+        "breakdown": [
+          {
+            "part": "Ausweis",
+            "meaning": "ID document",
+            "note": "noun — from ausweisen"
+          },
+          {
+            "part": "Kontrolle",
+            "meaning": "check / inspection",
+            "note": "noun — from French contrôle"
+          }
+        ],
+        "breakdown_note": "Can refer to passport control at borders or general ID checks. Reisepasskontrolle is more specific to passport checks.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Bei der Ausweiskontrolle wurde ein gefälschter Pass entdeckt.",
+            "en": "A forged passport was discovered at the ID check."
+          },
+          {
+            "de": "Bitte halten Sie Ihren Ausweis für die Kontrolle bereit.",
+            "en": "Please have your ID ready for the check."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Ausweiskontrollen. Genitive: der Ausweiskontrolle.",
+        "word_family": [
+          "Ausweis",
+          "Reisepass",
+          "Passkontrolle",
+          "kontrollieren"
+        ],
+        "mnemonic": "Ausweis (ID) + Kontrolle (check) — checking your ID document",
+        "present_examples": [
+          {
+            "de": "Die Ausweiskontrolle am Eingang dauert nur wenige Sekunden.",
+            "en": "The ID check at the entrance takes only a few seconds."
+          }
+        ]
+      },
+      {
+        "id": "Aufenthaltsgenehmigung",
+        "german": "Aufenthaltsgenehmigung",
+        "pronunciation": "[ˈaufɛnthaltsɡəˌneːmɪɡʊŋ]",
+        "pos": "f, -, -en",
+        "english": "residence permit",
+        "breakdown": [
+          {
+            "part": "Aufenthalt",
+            "meaning": "stay",
+            "note": "noun"
+          },
+          {
+            "part": "Genehmigung",
+            "meaning": "permission / approval",
+            "note": "noun — from genehmigen"
+          }
+        ],
+        "breakdown_note": "Required for non-EU citizens living in Germany. Niederlassungserlaubnis = permanent residence permit (stronger).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie muss ihre Aufenthaltsgenehmigung jedes Jahr verlängern.",
+            "en": "She has to renew her residence permit every year."
+          },
+          {
+            "de": "Ohne Aufenthaltsgenehmigung darf man in Deutschland nicht arbeiten.",
+            "en": "Without a residence permit you are not allowed to work in Germany."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Aufenthaltsgenehmigungen. Genitive: der Aufenthaltsgenehmigung.",
+        "word_family": [
+          "Aufenthalt",
+          "Genehmigung",
+          "Niederlassungserlaubnis",
+          "Ausländerbehörde"
+        ],
+        "mnemonic": "Aufenthalt (stay) + Genehmigung (permission) — permission to stay",
+        "present_examples": [
+          {
+            "de": "Wo beantrage ich eine Aufenthaltsgenehmigung?",
+            "en": "Where do I apply for a residence permit?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "book_page": 93,
+    "section": "3.2 Kommunikation · Messages & connection",
+    "insight": "Nachricht vs. Mitteilung: both mean 'message', but Nachricht is informal/everyday (a news item, a WhatsApp); Mitteilung is formal (an official notification). ⚠ Lookalike alert: Gespräch ends in -sprach (speech), like Sprache (language) and sprechen (to speak) — all share the same root. The ge- prefix creates a collective noun: all the back-and-forth speaking. ⚠ Lookalike alert: Austausch looks like Tausch (swap), because it IS from tauschen — aus- means both sides swap something OUT. Don't confuse with Auslass (outlet) or Ausnahme (exception).",
+    "words": [
+      {
+        "id": "Nachricht",
+        "german": "Nachricht",
+        "pronunciation": "[ˈnaːxrɪçt]",
+        "pos": "f, -, -en",
+        "english": "message / news",
+        "breakdown": [
+          {
+            "part": "nach-",
+            "meaning": "after / following",
+            "note": "prefix"
+          },
+          {
+            "part": "richt-",
+            "meaning": "direction / reporting",
+            "note": "from richten — to direct"
+          }
+        ],
+        "breakdown_note": "Die Nachrichten (pl.) = the news (broadcast). Eine Nachricht hinterlassen = to leave a message. SMS-Nachricht = text message.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe eine Nachricht auf dem Anrufbeantworter hinterlassen.",
+            "en": "I left a message on the answering machine."
+          },
+          {
+            "de": "Hast du die Nachrichten heute Abend gesehen?",
+            "en": "Did you watch the news this evening?"
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Nachrichten. Genitive: der Nachricht.",
+        "word_family": [
+          "Nachrichten",
+          "nachrichtlich",
+          "Eilmeldung",
+          "Meldung"
+        ],
+        "mnemonic": "nach (following) + richt (direction) — information directed after an event",
+        "present_examples": [
+          {
+            "de": "Sie schickt ihm täglich eine Nachricht über WhatsApp.",
+            "en": "She sends him a message on WhatsApp every day."
+          }
+        ]
+      },
+      {
+        "id": "Mitteilung",
+        "german": "Mitteilung",
+        "pronunciation": "[ˈmɪttaɪlʊŋ]",
+        "pos": "f, -, -en",
+        "english": "notification / announcement / message",
+        "breakdown": [
+          {
+            "part": "mit-",
+            "meaning": "with / along",
+            "note": "prefix"
+          },
+          {
+            "part": "teilen",
+            "meaning": "to share / divide",
+            "note": "base verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "More formal than Nachricht. Offizielle Mitteilung = official announcement. Sich mitteilen = to communicate/express oneself.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Behörde hat eine offizielle Mitteilung veröffentlicht.",
+            "en": "The authority published an official announcement."
+          },
+          {
+            "de": "Bitte bestätigen Sie den Empfang dieser Mitteilung.",
+            "en": "Please confirm receipt of this notification."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Mitteilungen. Genitive: der Mitteilung.",
+        "word_family": [
+          "mitteilen",
+          "Nachricht",
+          "Bekanntmachung",
+          "kommunizieren"
+        ],
+        "mnemonic": "mit-teilen = to share with — Mitteilung is what you share",
+        "present_examples": [
+          {
+            "de": "Das Unternehmen sendet regelmäßig Mitteilungen an seine Mitarbeiter.",
+            "en": "The company regularly sends notifications to its employees."
+          }
+        ]
+      },
+      {
+        "id": "Gespräch",
+        "german": "Gespräch",
+        "pronunciation": "[ɡəˈʃprɛːç]",
+        "pos": "n, -(e)s, -e",
+        "english": "conversation / talk",
+        "breakdown": [
+          {
+            "part": "ge-",
+            "meaning": "collective prefix",
+            "note": ""
+          },
+          {
+            "part": "sprach-",
+            "meaning": "speech",
+            "note": "from sprechen — to speak"
+          }
+        ],
+        "breakdown_note": "Ein Gespräch führen = to have/conduct a conversation. Telefongespräch = phone call. Verkaufsgespräch = sales talk.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Gespräch mit dem Chef verlief sehr positiv.",
+            "en": "The conversation with the boss went very positively."
+          },
+          {
+            "de": "Wir haben ein langes Gespräch über die Zukunft geführt.",
+            "en": "We had a long conversation about the future."
+          }
+        ],
+        "grammar_notes": "Neuter noun. Plural: die Gespräche. Genitive: des Gesprächs.",
+        "word_family": [
+          "sprechen",
+          "Gesprächspartner",
+          "Telefongespräch",
+          "gesprächig"
+        ],
+        "mnemonic": "ge- (collective) + sprechen (speak) — the collected back-and-forth of speaking",
+        "present_examples": [
+          {
+            "de": "Sie führt gerade ein wichtiges Gespräch und kann nicht gestört werden.",
+            "en": "She is having an important conversation and cannot be disturbed."
+          }
+        ]
+      },
+      {
+        "id": "Verbindung",
+        "german": "Verbindung",
+        "pronunciation": "[fɛrˈbɪndʊŋ]",
+        "pos": "f, -, -en",
+        "english": "connection / link",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "intensifier prefix",
+            "note": ""
+          },
+          {
+            "part": "binden",
+            "meaning": "to bind / connect",
+            "note": "base verb — irregular"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Works for phone connections, train connections, chemical bonds, and personal relationships. In Verbindung bleiben = stay in touch.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Zugverbindung nach Hamburg ist sehr gut.",
+            "en": "The train connection to Hamburg is excellent."
+          },
+          {
+            "de": "Ich habe keine gute Internetverbindung hier.",
+            "en": "I don't have a good internet connection here."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Verbindungen. Genitive: der Verbindung.",
+        "word_family": [
+          "verbinden",
+          "Bindung",
+          "Netzwerkverbindung",
+          "Zugverbindung"
+        ],
+        "mnemonic": "verbinden (to connect) + -ung — the result of connecting",
+        "present_examples": [
+          {
+            "de": "In Verbindung mit dem neuen Gesetz gelten andere Regeln.",
+            "en": "In connection with the new law, different rules apply."
+          }
+        ]
+      },
+      {
+        "id": "Austausch",
+        "german": "Austausch",
+        "pronunciation": "[ˈausˌtauʃ]",
+        "pos": "m, -(e)s, kein Pl.",
+        "english": "exchange",
+        "breakdown": [
+          {
+            "part": "aus-",
+            "meaning": "out",
+            "note": "separable prefix"
+          },
+          {
+            "part": "Tausch",
+            "meaning": "swap / exchange",
+            "note": "noun from tauschen"
+          }
+        ],
+        "breakdown_note": "Austausch can be of ideas, goods, students, or prisoners. Schüleraustausch = student exchange. Informationsaustausch = exchange of information.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der kulturelle Austausch zwischen den Ländern ist sehr wertvoll.",
+            "en": "Cultural exchange between countries is very valuable."
+          },
+          {
+            "de": "Im Austausch für seine Hilfe hat sie ihm ein Buch geschenkt.",
+            "en": "In exchange for his help she gave him a book."
+          }
+        ],
+        "grammar_notes": "Masculine noun, usually no plural. Genitive: des Austauschs.",
+        "word_family": [
+          "austauschen",
+          "tauschen",
+          "Schüleraustausch",
+          "Informationsaustausch"
+        ],
+        "mnemonic": "aus (out) + Tausch (swap) — both sides swap something out",
+        "present_examples": [
+          {
+            "de": "Der Austausch von Informationen läuft über eine sichere Plattform.",
+            "en": "The exchange of information runs via a secure platform."
+          }
+        ]
+      },
+      {
+        "id": "verständigen",
+        "german": "verständigen",
+        "pronunciation": "[fɛrˈʃtɛndɪɡən]",
+        "pos": "V/t., refl.",
+        "english": "to notify / communicate / make oneself understood",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "intensifier",
+            "note": "inseparable prefix"
+          },
+          {
+            "part": "ständig",
+            "meaning": "constant / permanent",
+            "note": "adjective root — from Stand/verstehen"
+          },
+          {
+            "part": "-en",
+            "meaning": "verb suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Sich verständigen = to communicate, to make oneself understood. Jemanden verständigen = to notify someone (formal). Verständigung = communication (noun).",
+        "conjugation": {
+          "prät": "verständigte",
+          "perf": "hat verständigt",
+          "note": "inseparable · regular",
+          "imperative": "du: Verständige!  ·  Sie: Verständigen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Bitte verständigen Sie sofort die Polizei.",
+            "en": "Please notify the police immediately."
+          },
+          {
+            "de": "Wir konnten uns trotz der Sprachbarriere gut verständigen.",
+            "en": "We were able to communicate well despite the language barrier."
+          }
+        ],
+        "grammar_notes": "Inseparable verb. Past participle: verständigt.",
+        "word_family": [
+          "Verständigung",
+          "verständlich",
+          "Verständnis",
+          "verstehen"
+        ],
+        "mnemonic": "ver + ständig (constant understanding) — to bring to a state of understanding",
+        "present_examples": [
+          {
+            "de": "Er verständigt seine Mitarbeiter per E-Mail über alle Änderungen.",
+            "en": "He notifies his employees of all changes by email."
+          }
+        ]
+      },
+      {
+        "id": "Verständigung",
+        "german": "Verständigung",
+        "pronunciation": "[fɛrˈʃtɛndɪɡʊŋ]",
+        "pos": "f, -, kein Pl.",
+        "english": "communication / mutual understanding",
+        "breakdown": [
+          {
+            "part": "verständigen",
+            "meaning": "to communicate",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Verständigung can mean the act of communicating OR a mutual understanding/agreement. Zur Verständigung = for communication purposes.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Verständigung zwischen den Parteien war schwierig.",
+            "en": "Communication between the parties was difficult."
+          },
+          {
+            "de": "Zur Verständigung haben wir einen Dolmetscher geholt.",
+            "en": "We brought in an interpreter for communication purposes."
+          }
+        ],
+        "grammar_notes": "Feminine noun, usually no plural. Genitive: der Verständigung.",
+        "word_family": [
+          "verständigen",
+          "Verständnis",
+          "verständlich",
+          "Kommunikation"
+        ],
+        "mnemonic": "verständigen + -ung — the process of making each other understood",
+        "present_examples": [
+          {
+            "de": "Die Verständigung auf Englisch funktioniert hier gut.",
+            "en": "Communication in English works well here."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "book_page": 94,
+    "section": "3.2 Kommunikation · Reporting & inquiries",
+    "insight": "⚠ Key lookalike: erkundigen looks like Kunde (customer) — but they are NOT related. erkundigen comes from kund (known/announced, archaic), the same root as ankündigen (to announce) and Auskunft (information). Sich erkundigen = to make something known to yourself by asking. Kunde (customer) comes from a completely different root (kennen → Bekanntschaft). ⚠ Also: beantworten vs. antworten — beantworten takes a DIRECT object (eine Frage beantworten), while antworten uses auf + Accusative (auf eine Frage antworten). Never say *auf eine Frage beantworten.",
+    "words": [
+      {
+        "id": "berichten",
+        "german": "berichten",
+        "pronunciation": "[bəˈrɪçtən]",
+        "pos": "V/t., i.",
+        "english": "to report",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "inseparable prefix",
+            "note": "transitivizing"
+          },
+          {
+            "part": "richten",
+            "meaning": "to direct / align",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Über etwas berichten = to report on something. Aus Berlin berichten = to report from Berlin. Bericht = the noun.",
+        "conjugation": {
+          "prät": "berichtete",
+          "perf": "hat berichtet",
+          "note": "inseparable · regular",
+          "imperative": "du: Berichte!  ·  Sie: Berichten Sie!"
+        },
+        "examples": [
+          {
+            "de": "Der Journalist berichtete live vom Tatort.",
+            "en": "The journalist reported live from the scene."
+          },
+          {
+            "de": "Sie berichtete ihren Eltern ausführlich von der Reise.",
+            "en": "She reported to her parents in detail about the trip."
+          }
+        ],
+        "grammar_notes": "Inseparable verb. Past participle: berichtet.",
+        "word_family": [
+          "Bericht",
+          "Reporter",
+          "Berichterstattung",
+          "Berichterstatter"
+        ],
+        "mnemonic": "be- + richten (align) — to align facts and direct them to the listener",
+        "present_examples": [
+          {
+            "de": "Der Korrespondent berichtet täglich aus Brüssel.",
+            "en": "The correspondent reports daily from Brussels."
+          }
+        ]
+      },
+      {
+        "id": "Bericht",
+        "german": "Bericht",
+        "pronunciation": "[bəˈrɪçt]",
+        "pos": "m, -(e)s, -e",
+        "english": "report",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "richt-",
+            "meaning": "direction / alignment",
+            "note": "from richten"
+          }
+        ],
+        "breakdown_note": "Einen Bericht erstellen / schreiben / vorlegen = to produce/write/present a report. Jahresbericht = annual report.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Bericht über den Unfall wurde sofort veröffentlicht.",
+            "en": "The report on the accident was published immediately."
+          },
+          {
+            "de": "Sie hat einen ausführlichen Bericht über die Konferenz geschrieben.",
+            "en": "She wrote a detailed report on the conference."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Berichte. Genitive: des Berichts.",
+        "word_family": [
+          "berichten",
+          "Berichterstattung",
+          "Jahresbericht",
+          "Lagebericht"
+        ],
+        "mnemonic": "aligned facts (richten) + be- = Bericht, what you hand to someone",
+        "present_examples": [
+          {
+            "de": "Der Arzt schreibt einen Bericht für die Krankenkasse.",
+            "en": "The doctor is writing a report for the health insurance."
+          }
+        ]
+      },
+      {
+        "id": "Meldung",
+        "german": "Meldung",
+        "pronunciation": "[ˈmɛldʊŋ]",
+        "pos": "f, -, -en",
+        "english": "report / announcement / registration",
+        "breakdown": [
+          {
+            "part": "melden",
+            "meaning": "to report / register",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Eilmeldung = breaking news. Sich anmelden = to register. Polizeiliche Meldung = police report. More urgent than Bericht.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Eine Eilmeldung unterbricht das laufende Programm.",
+            "en": "A breaking news alert interrupts the current programme."
+          },
+          {
+            "de": "Er hat eine Meldung bei der Polizei gemacht.",
+            "en": "He made a report to the police."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Meldungen. Genitive: der Meldung.",
+        "word_family": [
+          "melden",
+          "anmelden",
+          "Eilmeldung",
+          "Vermisstenanzeige"
+        ],
+        "mnemonic": "melden (to report) + -ung — an urgent reporting of something",
+        "present_examples": [
+          {
+            "de": "Die neueste Meldung besagt, dass der Verdächtige gefasst wurde.",
+            "en": "The latest report says the suspect has been caught."
+          }
+        ]
+      },
+      {
+        "id": "ankündigen",
+        "german": "ankündigen",
+        "pronunciation": "[ˈanˌkʏndɪɡən]",
+        "pos": "V/t.",
+        "english": "to announce",
+        "breakdown": [
+          {
+            "part": "an-",
+            "meaning": "at / towards",
+            "note": "separable prefix"
+          },
+          {
+            "part": "kündigen",
+            "meaning": "to declare / give notice",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Ankündigung = the announcement (noun). Sich ankündigen = to announce one's arrival. Nicht angekündigt = unannounced.",
+        "conjugation": {
+          "prät": "kündigte an",
+          "perf": "hat angekündigt",
+          "note": "separable · regular",
+          "imperative": "du: Kündige an!  ·  Sie: Kündigen Sie an!"
+        },
+        "examples": [
+          {
+            "de": "Die Regierung hat neue Maßnahmen angekündigt.",
+            "en": "The government has announced new measures."
+          },
+          {
+            "de": "Er hat seinen Besuch schon eine Woche vorher angekündigt.",
+            "en": "He announced his visit a week in advance."
+          }
+        ],
+        "grammar_notes": "Separable verb. Past participle: angekündigt.",
+        "word_family": [
+          "Ankündigung",
+          "kündigen",
+          "Kündigung",
+          "vorangekündigt"
+        ],
+        "mnemonic": "an (to/at) + kündigen (declare) — declare something to a waiting audience",
+        "present_examples": [
+          {
+            "de": "Das Unternehmen kündigt eine Pressekonferenz für morgen an.",
+            "en": "The company is announcing a press conference for tomorrow."
+          }
+        ]
+      },
+      {
+        "id": "Ankündigung",
+        "german": "Ankündigung",
+        "pronunciation": "[ˈanˌkʏndɪɡʊŋ]",
+        "pos": "f, -, -en",
+        "english": "announcement",
+        "breakdown": [
+          {
+            "part": "ankündigen",
+            "meaning": "to announce",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Ohne Ankündigung = without announcement / without warning. Vorabnkündigung = advance notice.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Ankündigung der Preiserhöhung überraschte die Kunden.",
+            "en": "The announcement of the price increase surprised customers."
+          },
+          {
+            "de": "Er erschien ohne jede Ankündigung an der Tür.",
+            "en": "He appeared at the door without any announcement."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Ankündigungen. Genitive: der Ankündigung.",
+        "word_family": [
+          "ankündigen",
+          "kündigen",
+          "Meldung",
+          "Bekanntmachung"
+        ],
+        "mnemonic": "ankündigen + -ung — the thing that was announced",
+        "present_examples": [
+          {
+            "de": "Die offizielle Ankündigung kommt morgen früh.",
+            "en": "The official announcement will come tomorrow morning."
+          }
+        ]
+      },
+      {
+        "id": "erkundigen",
+        "german": "erkundigen",
+        "pronunciation": "[ɛrˈkʊndɪɡən]",
+        "pos": "V/refl.",
+        "english": "to inquire / ask",
+        "breakdown": [
+          {
+            "part": "er-",
+            "meaning": "prefix — achieving a result",
+            "note": ""
+          },
+          {
+            "part": "kundigen",
+            "meaning": "to make known / inform",
+            "note": "from kund — known"
+          }
+        ],
+        "breakdown_note": "Always reflexive: sich erkundigen nach + Dative. Sich nach dem Weg erkundigen = to ask for directions.",
+        "conjugation": {
+          "prät": "erkundigte",
+          "perf": "hat erkundigt",
+          "note": "inseparable · regular",
+          "imperative": "du: Erkundige dich!  ·  Sie: Erkundigen Sie sich!"
+        },
+        "examples": [
+          {
+            "de": "Ich habe mich nach den Öffnungszeiten erkundigt.",
+            "en": "I inquired about the opening hours."
+          },
+          {
+            "de": "Sie erkundigte sich beim Arzt nach den Nebenwirkungen.",
+            "en": "She asked the doctor about the side effects."
+          }
+        ],
+        "grammar_notes": "Inseparable, always reflexive. Past participle: erkundigt.",
+        "word_family": [
+          "Erkundigung",
+          "erkunden",
+          "Kundschaft",
+          "Auskunft"
+        ],
+        "mnemonic": "er- (achieving) + kund (known) — making something known to yourself by asking",
+        "present_examples": [
+          {
+            "de": "Er erkundigt sich täglich nach dem Stand der Reparatur.",
+            "en": "He inquires daily about the status of the repair."
+          }
+        ]
+      },
+      {
+        "id": "beantworten",
+        "german": "beantworten",
+        "pronunciation": "[bəˈʔantˌvɔrtən]",
+        "pos": "V/t.",
+        "english": "to answer / respond to",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "inseparable prefix — object-taking",
+            "note": ""
+          },
+          {
+            "part": "antworten",
+            "meaning": "to answer",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Beantworten takes a direct object (accusative): eine Frage beantworten (NOT auf eine Frage beantworten). Contrast: antworten + auf + Acc.",
+        "conjugation": {
+          "prät": "beantwortete",
+          "perf": "hat beantwortet",
+          "note": "inseparable · regular",
+          "imperative": "du: Beantworte!  ·  Sie: Beantworten Sie!"
+        },
+        "examples": [
+          {
+            "de": "Bitte beantworten Sie alle Fragen im Formular.",
+            "en": "Please answer all questions on the form."
+          },
+          {
+            "de": "Er hat meine E-Mail noch nicht beantwortet.",
+            "en": "He has not yet answered my email."
+          }
+        ],
+        "grammar_notes": "Inseparable verb. Takes accusative object directly. Past participle: beantwortet.",
+        "word_family": [
+          "Antwort",
+          "antworten",
+          "Beantwortung",
+          "unbeantwortet"
+        ],
+        "mnemonic": "be- makes antworten transitive — you beantworten the question itself",
+        "present_examples": [
+          {
+            "de": "Sie beantwortet Kundenanfragen innerhalb von 24 Stunden.",
+            "en": "She answers customer enquiries within 24 hours."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "book_page": 95,
+    "section": "3.3 Arbeit und Beruf · Applications & terms",
+    "insight": "⚠ Lookalike pair: Arbeitgeber vs. Arbeitnehmer are a perfect logical mirror — who GIVES work (geben) vs. who TAKES work (nehmen). Bewerbung / bewerben come from werben (to advertise/recruit) — you are advertising yourself. ⚠ Lookalike alert: Gehalt has two meanings — salary AND content/substance (der Gehalt = the content, e.g. Alkoholgehalt = alcohol content). The salary meaning uses das Gehalt; the content meaning uses der Gehalt — gender marks the difference.",
+    "words": [
+      {
+        "id": "Bewerbung",
+        "german": "Bewerbung",
+        "pronunciation": "[bəˈvɛrbʊŋ]",
+        "pos": "f, -, -en",
+        "english": "(job) application",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "werben",
+            "meaning": "to advertise / recruit",
+            "note": "base verb — irregular"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Eine Bewerbung einreichen / abschicken = to submit an application. Bewerbungsmappe = application folder. Sich bewerben = to apply.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe meine Bewerbung gestern abgeschickt.",
+            "en": "I sent off my application yesterday."
+          },
+          {
+            "de": "Auf die Stelle sind über 200 Bewerbungen eingegangen.",
+            "en": "Over 200 applications were received for the position."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Bewerbungen. Genitive: der Bewerbung.",
+        "word_family": [
+          "bewerben",
+          "Bewerber",
+          "Bewerbungsgespräch",
+          "Bewerbungsunterlagen"
+        ],
+        "mnemonic": "sich bewerben = advertise yourself → Bewerbung = your self-advertisement",
+        "present_examples": [
+          {
+            "de": "Sie schreibt gerade ihre Bewerbung für eine Stelle als Ingenieurin.",
+            "en": "She is currently writing her application for a position as an engineer."
+          }
+        ]
+      },
+      {
+        "id": "bewerben",
+        "german": "bewerben",
+        "pronunciation": "[bəˈvɛrbən]",
+        "pos": "V/refl.",
+        "english": "to apply (for)",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "werben",
+            "meaning": "to advertise / recruit",
+            "note": "irregular base — wirbt, warb, geworben"
+          }
+        ],
+        "breakdown_note": "Sich bewerben um + Accusative = to apply for. Sich als + job title bewerben = to apply as. Strong verb: wirbt, warb, hat geworben.",
+        "conjugation": {
+          "prät": "bewarb",
+          "perf": "hat beworben",
+          "note": "inseparable · irregular (werben class) · always reflexive",
+          "imperative": "du: Bewirb dich!  ·  Sie: Bewerben Sie sich!"
+        },
+        "examples": [
+          {
+            "de": "Er hat sich um eine Stelle als Programmierer beworben.",
+            "en": "He applied for a position as a programmer."
+          },
+          {
+            "de": "Wie viele Stellen haben Sie sich diesen Monat beworben?",
+            "en": "How many positions have you applied for this month?"
+          }
+        ],
+        "grammar_notes": "Inseparable, always reflexive. 3sg present: bewirbt sich. Past participle: beworben.",
+        "word_family": [
+          "Bewerbung",
+          "Bewerber",
+          "Werbung",
+          "werben"
+        ],
+        "mnemonic": "sich be-werben = advertise yourself for a job",
+        "present_examples": [
+          {
+            "de": "Sie bewirbt sich gleichzeitig bei drei verschiedenen Firmen.",
+            "en": "She is applying to three different companies at the same time."
+          }
+        ]
+      },
+      {
+        "id": "Stelle",
+        "german": "Stelle",
+        "pronunciation": "[ˈʃtɛlə]",
+        "pos": "f, -, -n",
+        "english": "position / job / place",
+        "breakdown": [
+          {
+            "part": "stellen",
+            "meaning": "to place / put",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Eine Stelle antreten = to start a job. Arbeitsstelle = job position. Stelle can also mean place/spot (an erster Stelle = in first place).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Stelle wurde intern ausgeschrieben.",
+            "en": "The position was advertised internally."
+          },
+          {
+            "de": "Sie hat eine neue Stelle bei einer Bank gefunden.",
+            "en": "She found a new position at a bank."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Stellen. Genitive: der Stelle.",
+        "word_family": [
+          "stellen",
+          "Arbeitsstelle",
+          "Stellenangebot",
+          "Stellengesuch"
+        ],
+        "mnemonic": "Stelle = a placed position — where you are placed in the work hierarchy",
+        "present_examples": [
+          {
+            "de": "Im Stellenangebot sind flexible Arbeitszeiten angegeben.",
+            "en": "Flexible working hours are listed in the job advertisement."
+          }
+        ]
+      },
+      {
+        "id": "Beschäftigung",
+        "german": "Beschäftigung",
+        "pronunciation": "[bəˈʃɛftɪɡʊŋ]",
+        "pos": "f, -, -en",
+        "english": "employment / occupation / activity",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "schäftigen",
+            "meaning": "to keep busy",
+            "note": "from Geschäft — business"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Beschäftigung = employment (general). Beschäftigungsgrad = employment rate. Selbstbeschäftigung = self-employment / self-occupation.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er sucht nach einer neuen Beschäftigung, seit er entlassen wurde.",
+            "en": "He has been looking for new employment since he was dismissed."
+          },
+          {
+            "de": "Die Vollbeschäftigung ist ein Ziel der Wirtschaftspolitik.",
+            "en": "Full employment is a goal of economic policy."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Beschäftigungen. Genitive: der Beschäftigung.",
+        "word_family": [
+          "beschäftigen",
+          "Beschäftigte",
+          "Vollbeschäftigung",
+          "Arbeitslosigkeit"
+        ],
+        "mnemonic": "sich beschäftigen = to busy oneself → Beschäftigung = what keeps you busy",
+        "present_examples": [
+          {
+            "de": "Ihre Hauptbeschäftigung ist die Buchhaltung.",
+            "en": "Her main occupation is bookkeeping."
+          }
+        ]
+      },
+      {
+        "id": "Arbeitgeber",
+        "german": "Arbeitgeber",
+        "pronunciation": "[ˈarbaɪtˌɡeːbɐ]",
+        "pos": "m, -s, - / f: Arbeitgeberin",
+        "english": "employer",
+        "breakdown": [
+          {
+            "part": "Arbeit",
+            "meaning": "work",
+            "note": "noun"
+          },
+          {
+            "part": "geber",
+            "meaning": "giver",
+            "note": "from geben — to give"
+          }
+        ],
+        "breakdown_note": "Opposite: Arbeitnehmer (employee). Arbeitgeberverband = employers' association. Arbeitgeber pays the salary.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Arbeitgeber ist verpflichtet, Sozialversicherungsbeiträge zu zahlen.",
+            "en": "The employer is obliged to pay social insurance contributions."
+          },
+          {
+            "de": "Sie hat ihren Arbeitgeber über die Schwangerschaft informiert.",
+            "en": "She informed her employer about the pregnancy."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Arbeitgeber. Feminine: die Arbeitgeberin.",
+        "word_family": [
+          "Arbeitnehmer",
+          "Arbeit",
+          "geben",
+          "Arbeitgeberverband"
+        ],
+        "mnemonic": "Arbeit (work) + geber (giver) — the one who gives work",
+        "present_examples": [
+          {
+            "de": "Der Arbeitgeber bietet flexible Homeoffice-Möglichkeiten an.",
+            "en": "The employer offers flexible home-office options."
+          }
+        ]
+      },
+      {
+        "id": "Arbeitnehmer",
+        "german": "Arbeitnehmer",
+        "pronunciation": "[ˈarbaɪtˌneːmɐ]",
+        "pos": "m, -s, - / f: Arbeitnehmerin",
+        "english": "employee",
+        "breakdown": [
+          {
+            "part": "Arbeit",
+            "meaning": "work",
+            "note": "noun"
+          },
+          {
+            "part": "nehmer",
+            "meaning": "taker",
+            "note": "from nehmen — to take"
+          }
+        ],
+        "breakdown_note": "Opposite: Arbeitgeber (employer). Arbeitnehmerrechte = employee rights. Arbeitnehmervertreter = employee representative.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Arbeitnehmer haben das Recht auf einen Mindestlohn.",
+            "en": "Employees have the right to a minimum wage."
+          },
+          {
+            "de": "Der Betriebsrat vertritt die Interessen der Arbeitnehmer.",
+            "en": "The works council represents the interests of the employees."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Arbeitnehmer. Feminine: die Arbeitnehmerin.",
+        "word_family": [
+          "Arbeitgeber",
+          "Arbeit",
+          "nehmen",
+          "Arbeitnehmervertreter"
+        ],
+        "mnemonic": "Arbeit (work) + nehmer (taker) — the one who takes the work",
+        "present_examples": [
+          {
+            "de": "Als Arbeitnehmer hat man Anspruch auf bezahlten Urlaub.",
+            "en": "As an employee you are entitled to paid holiday."
+          }
+        ]
+      },
+      {
+        "id": "Gehalt",
+        "german": "Gehalt",
+        "pronunciation": "[ɡəˈhalt]",
+        "pos": "n, -(e)s, Gehälter",
+        "english": "salary (monthly)",
+        "breakdown": [
+          {
+            "part": "ge-",
+            "meaning": "collective prefix",
+            "note": ""
+          },
+          {
+            "part": "halten",
+            "meaning": "to hold",
+            "note": "root — what is held/kept for you"
+          }
+        ],
+        "breakdown_note": "Monthly fixed salary. Contrast: Lohn (hourly/piece-rate wage). Gehaltserhöhung = pay rise. Gehaltsabrechnung = pay slip.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ihr Gehalt wurde um fünf Prozent erhöht.",
+            "en": "Her salary was increased by five per cent."
+          },
+          {
+            "de": "Das Gehalt wird jeden Monat am 28. überwiesen.",
+            "en": "The salary is transferred on the 28th every month."
+          }
+        ],
+        "grammar_notes": "Neuter noun. Plural: die Gehälter (umlaut). Genitive: des Gehalts.",
+        "word_family": [
+          "Lohn",
+          "Gehaltserhöhung",
+          "Gehaltsabrechnung",
+          "Jahresgehalt"
+        ],
+        "mnemonic": "ge-halten = held for you — what your employer holds/keeps and pays you monthly",
+        "present_examples": [
+          {
+            "de": "Er verhandelt gerade über ein höheres Gehalt.",
+            "en": "He is currently negotiating a higher salary."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "book_page": 96,
+    "section": "3.3 Arbeit und Beruf · Employment actions",
+    "insight": "⚠ Key lookalike: einstellen has two opposite meanings — (1) to HIRE someone (jemanden einstellen = to place someone into the company); (2) to STOP or ADJUST something (die Produktion einstellen = to halt production; den Sender einstellen = to tune the radio). Context is essential. ⚠ Lookalike alert: kündigen vs. ankündigen — kündigen ends a contract; ankündigen announces something in the future. They share the root kund (to make known) but mean opposite things.",
+    "words": [
+      {
+        "id": "Lohn",
+        "german": "Lohn",
+        "pronunciation": "[loːn]",
+        "pos": "m, -(e)s, Löhne",
+        "english": "wage (hourly/piece-rate)",
+        "breakdown": [
+          {
+            "part": "Lohn",
+            "meaning": "reward / wage",
+            "note": "Germanic root"
+          }
+        ],
+        "breakdown_note": "Hourly or piece-rate pay. Contrast: Gehalt (monthly salary). Mindestlohn = minimum wage. Lohnerhöhung = wage increase.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der gesetzliche Mindestlohn wird nächstes Jahr erhöht.",
+            "en": "The statutory minimum wage will be raised next year."
+          },
+          {
+            "de": "Die Bauarbeiter erhalten ihren Lohn wöchentlich.",
+            "en": "The construction workers receive their wages weekly."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Löhne (umlaut). Genitive: des Lohns.",
+        "word_family": [
+          "Gehalt",
+          "Mindestlohn",
+          "Lohnerhöhung",
+          "löhnen"
+        ],
+        "mnemonic": "Lohn = reward — the reward for your labour, counted by the hour",
+        "present_examples": [
+          {
+            "de": "Für Überstunden gibt es einen höheren Lohn.",
+            "en": "Overtime is paid at a higher wage."
+          }
+        ]
+      },
+      {
+        "id": "Überstunden",
+        "german": "Überstunden",
+        "pronunciation": "[ˈyːbɐˌʃtʊndən]",
+        "pos": "Pl.",
+        "english": "overtime",
+        "breakdown": [
+          {
+            "part": "über-",
+            "meaning": "over / above",
+            "note": "prefix"
+          },
+          {
+            "part": "Stunden",
+            "meaning": "hours",
+            "note": "plural of Stunde"
+          }
+        ],
+        "breakdown_note": "Always plural in German. Überstunden machen = to do overtime. Überstundenausgleich = compensatory time off. Bezahlte Überstunden = paid overtime.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie macht regelmäßig Überstunden, ohne extra Bezahlung zu erhalten.",
+            "en": "She regularly works overtime without receiving extra pay."
+          },
+          {
+            "de": "Die Überstunden werden entweder bezahlt oder als Freizeit ausgeglichen.",
+            "en": "Overtime is either paid or offset as time off."
+          }
+        ],
+        "grammar_notes": "Always plural. No singular form in this sense.",
+        "word_family": [
+          "Stunde",
+          "Mehrarbeit",
+          "Überstundenausgleich",
+          "Zeitausgleich"
+        ],
+        "mnemonic": "über (over) + Stunden (hours) — hours worked over the normal amount",
+        "present_examples": [
+          {
+            "de": "Wegen des Projekts machen alle im Team gerade Überstunden.",
+            "en": "Because of the project everyone on the team is doing overtime now."
+          }
+        ]
+      },
+      {
+        "id": "Kündigung",
+        "german": "Kündigung",
+        "pronunciation": "[ˈkʏndɪɡʊŋ]",
+        "pos": "f, -, -en",
+        "english": "dismissal / resignation / notice",
+        "breakdown": [
+          {
+            "part": "kündigen",
+            "meaning": "to terminate / give notice",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Works in both directions: Arbeitgeberkündigung (employer dismissal) and Arbeitnehmerkündigung (resignation). Kündigungsfrist = notice period.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er hat die Kündigung schriftlich erhalten.",
+            "en": "He received the dismissal in writing."
+          },
+          {
+            "de": "Nach zehn Jahren hat sie ihre Kündigung eingereicht.",
+            "en": "After ten years she handed in her resignation."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Kündigungen. Genitive: der Kündigung.",
+        "word_family": [
+          "kündigen",
+          "Kündigungsfrist",
+          "Abfindung",
+          "fristlos kündigen"
+        ],
+        "mnemonic": "kündigen + -ung — the official act of declaring the work relationship over",
+        "present_examples": [
+          {
+            "de": "Die Kündigung muss die Kündigungsfrist von vier Wochen einhalten.",
+            "en": "The notice must observe the four-week notice period."
+          }
+        ]
+      },
+      {
+        "id": "kündigen",
+        "german": "kündigen",
+        "pronunciation": "[ˈkʏndɪɡən]",
+        "pos": "V/t., i.",
+        "english": "to quit / give notice / terminate",
+        "breakdown": [
+          {
+            "part": "kund-",
+            "meaning": "known / announced",
+            "note": "from kund — archaic: to make known"
+          },
+          {
+            "part": "-igen",
+            "meaning": "verb suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Jemandem kündigen (+ Dative) = employer dismisses employee. Selbst kündigen = resign. Fristlos kündigen = dismiss without notice.",
+        "conjugation": {
+          "prät": "kündigte",
+          "perf": "hat gekündigt",
+          "note": "regular",
+          "imperative": "du: Kündige!  ·  Sie: Kündigen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Er hat seiner Vermieterin wegen des Lärms gekündigt.",
+            "en": "He gave notice to his landlady because of the noise."
+          },
+          {
+            "de": "Die Firma hat zwanzig Mitarbeitern gekündigt.",
+            "en": "The company dismissed twenty employees."
+          }
+        ],
+        "grammar_notes": "Weak verb. Takes Dative for person: Er hat ihr gekündigt = He dismissed her.",
+        "word_family": [
+          "Kündigung",
+          "ankündigen",
+          "Kündigungsfrist",
+          "aufkündigen"
+        ],
+        "mnemonic": "kund machen = to make known — you make it known that the contract ends",
+        "present_examples": [
+          {
+            "de": "Sie kündigt und sucht eine bessere Stelle.",
+            "en": "She is resigning and looking for a better position."
+          }
+        ]
+      },
+      {
+        "id": "einstellen",
+        "german": "einstellen",
+        "pronunciation": "[ˈaɪnˌʃtɛlən]",
+        "pos": "V/t.",
+        "english": "to hire / employ / adjust / stop",
+        "breakdown": [
+          {
+            "part": "ein-",
+            "meaning": "in / into",
+            "note": "separable prefix"
+          },
+          {
+            "part": "stellen",
+            "meaning": "to place / set",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Two key meanings: (1) to hire (jemanden einstellen); (2) to stop/adjust (Produktion einstellen / Sender einstellen). Context is essential.",
+        "conjugation": {
+          "prät": "stellte ein",
+          "perf": "hat eingestellt",
+          "note": "separable · regular",
+          "imperative": "du: Stell ein!  ·  Sie: Stellen Sie ein!"
+        },
+        "examples": [
+          {
+            "de": "Das Unternehmen stellt dieses Jahr keine neuen Mitarbeiter ein.",
+            "en": "The company is not hiring any new employees this year."
+          },
+          {
+            "de": "Die Fabrik hat die Produktion eingestellt.",
+            "en": "The factory has stopped production."
+          }
+        ],
+        "grammar_notes": "Separable verb. Past participle: eingestellt.",
+        "word_family": [
+          "Einstellung",
+          "entlassen",
+          "Stellenangebot",
+          "anstellen"
+        ],
+        "mnemonic": "ein-stellen = place someone in — to place a new worker into the company",
+        "present_examples": [
+          {
+            "de": "Wir stellen ab sofort Softwareentwickler ein.",
+            "en": "We are hiring software developers with immediate effect."
+          }
+        ]
+      },
+      {
+        "id": "entlassen",
+        "german": "entlassen",
+        "pronunciation": "[ɛntˈlasən]",
+        "pos": "V/t.",
+        "english": "to dismiss / fire / release",
+        "breakdown": [
+          {
+            "part": "ent-",
+            "meaning": "away from",
+            "note": "prefix"
+          },
+          {
+            "part": "lassen",
+            "meaning": "to let / allow",
+            "note": "base verb — irregular"
+          }
+        ],
+        "breakdown_note": "From employment: dismiss/fire. From hospital: discharge. From prison: release. ent- signals moving away from a state.",
+        "conjugation": {
+          "prät": "entließ",
+          "perf": "hat entlassen",
+          "note": "inseparable · irregular (lassen class)",
+          "imperative": "du: Entlass!  ·  Sie: Entlassen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Der Manager wurde wegen Betrugs fristlos entlassen.",
+            "en": "The manager was dismissed without notice for fraud."
+          },
+          {
+            "de": "Der Patient wurde gestern aus dem Krankenhaus entlassen.",
+            "en": "The patient was discharged from hospital yesterday."
+          }
+        ],
+        "grammar_notes": "Inseparable verb. 3sg present: entlässt. Past participle: entlassen.",
+        "word_family": [
+          "Entlassung",
+          "einstellen",
+          "kündigen",
+          "freilassen"
+        ],
+        "mnemonic": "ent- (away) + lassen (let) — letting someone away from their position",
+        "present_examples": [
+          {
+            "de": "Das Unternehmen entlässt hundert Mitarbeiter aufgrund von Kosteneinsparungen.",
+            "en": "The company is dismissing a hundred employees due to cost savings."
+          }
+        ]
+      },
+      {
+        "id": "Probezeit",
+        "german": "Probezeit",
+        "pronunciation": "[ˈproːbəˌtsaɪt]",
+        "pos": "f, -, -en",
+        "english": "probationary period",
+        "breakdown": [
+          {
+            "part": "Probe",
+            "meaning": "trial / test / rehearsal",
+            "note": "noun"
+          },
+          {
+            "part": "Zeit",
+            "meaning": "time",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Usually 3–6 months in Germany. During Probezeit, both sides can terminate with 2 weeks' notice. Probezeit bestehen = to pass probation.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Probezeit beträgt in der Regel sechs Monate.",
+            "en": "The probationary period is usually six months."
+          },
+          {
+            "de": "Er hat die Probezeit erfolgreich bestanden.",
+            "en": "He successfully passed the probationary period."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Probezeiten. Genitive: der Probezeit.",
+        "word_family": [
+          "Probe",
+          "Zeit",
+          "Probearbeit",
+          "Probezeit bestehen"
+        ],
+        "mnemonic": "Probe (trial) + Zeit (time) — your trial-time at the new job",
+        "present_examples": [
+          {
+            "de": "Sie ist noch in der Probezeit und muss sich beweisen.",
+            "en": "She is still in the probationary period and must prove herself."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "book_page": 97,
+    "section": "3.3 Arbeit und Beruf · Career & qualifications",
+    "insight": "Beruf vs. Job vs. Tätigkeit: Beruf is your vocation (lifelong identity); Job is casual/colloquial; Tätigkeit is the formal bureaucratic word used on official forms. ⚠ Lookalike alert: Lebenslauf — Lauf means run/course (not 'leaf'/Blatt), so this is literally the 'course of your life', not a 'life leaf'. ⚠ Lookalike alert: Fachmann contains Fach (subject/compartment), not Fach as in Bach/Dach — it's the same Fach as in Schulfach (school subject) or Fachgebiet (field of expertise).",
+    "words": [
+      {
+        "id": "Beruf",
+        "german": "Beruf",
+        "pronunciation": "[bəˈruːf]",
+        "pos": "m, -(e)s, -e",
+        "english": "profession / occupation",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "rufen",
+            "meaning": "to call",
+            "note": "base verb — irregular: rief, gerufen"
+          }
+        ],
+        "breakdown_note": "Von Beruf sein = to be by profession. Berufserfahrung = professional experience. Berufsschule = vocational school. More weighty than Job.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Was sind Sie von Beruf?",
+            "en": "What is your profession?"
+          },
+          {
+            "de": "Sie hat ihren Beruf mit viel Leidenschaft ausgeübt.",
+            "en": "She practised her profession with great passion."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Berufe. Genitive: des Berufs.",
+        "word_family": [
+          "beruflich",
+          "Berufsschule",
+          "Berufserfahrung",
+          "berufen"
+        ],
+        "mnemonic": "be-rufen = to be called — your profession is your calling",
+        "present_examples": [
+          {
+            "de": "Er übt seinen Beruf seit zwanzig Jahren mit großer Freude aus.",
+            "en": "He has practised his profession for twenty years with great joy."
+          }
+        ]
+      },
+      {
+        "id": "Lebenslauf",
+        "german": "Lebenslauf",
+        "pronunciation": "[ˈleːbənsˌlaʊf]",
+        "pos": "m, -(e)s, Lebensläufe",
+        "english": "CV / résumé",
+        "breakdown": [
+          {
+            "part": "Lebens-",
+            "meaning": "of life",
+            "note": "genitive of Leben"
+          },
+          {
+            "part": "Lauf",
+            "meaning": "course / run",
+            "note": "noun from laufen"
+          }
+        ],
+        "breakdown_note": "The course of one's life — the German CV. Tabellarischer Lebenslauf = tabular CV (standard format). Lücken im Lebenslauf = gaps in the CV.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Bitte schicken Sie uns Ihren Lebenslauf und ein Motivationsschreiben.",
+            "en": "Please send us your CV and a cover letter."
+          },
+          {
+            "de": "Ihr Lebenslauf ist sehr beeindruckend.",
+            "en": "Your CV is very impressive."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Lebensläufe (umlaut). Genitive: des Lebenslaufs.",
+        "word_family": [
+          "Leben",
+          "Lauf",
+          "laufen",
+          "Bewerbungsunterlagen"
+        ],
+        "mnemonic": "Lebens (life's) + Lauf (course/run) — the run of your life on paper",
+        "present_examples": [
+          {
+            "de": "Er aktualisiert gerade seinen Lebenslauf für die neue Bewerbung.",
+            "en": "He is currently updating his CV for the new application."
+          }
+        ]
+      },
+      {
+        "id": "Vorstellungsgespräch",
+        "german": "Vorstellungsgespräch",
+        "pronunciation": "[foːrˈʃtɛlʊŋsɡəˌʃprɛːç]",
+        "pos": "n, -(e)s, -e",
+        "english": "job interview",
+        "breakdown": [
+          {
+            "part": "Vorstellung",
+            "meaning": "introduction / presentation",
+            "note": "noun from vorstellen"
+          },
+          {
+            "part": "Gespräch",
+            "meaning": "conversation",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Synonym: Bewerbungsgespräch. Zum Vorstellungsgespräch eingeladen werden = to be invited for interview.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Vorstellungsgespräch verlief sehr gut.",
+            "en": "The job interview went very well."
+          },
+          {
+            "de": "Sie hat sich intensiv auf das Vorstellungsgespräch vorbereitet.",
+            "en": "She prepared intensively for the job interview."
+          }
+        ],
+        "grammar_notes": "Neuter noun. Plural: die Vorstellungsgespräche. Genitive: des Vorstellungsgesprächs.",
+        "word_family": [
+          "Gespräch",
+          "vorstellen",
+          "Bewerbungsgespräch",
+          "Vorstellungsrunde"
+        ],
+        "mnemonic": "Vorstellung (introduction) + Gespräch (conversation) — the conversation where you introduce yourself",
+        "present_examples": [
+          {
+            "de": "Morgen hat er ein Vorstellungsgespräch bei einer großen Firma.",
+            "en": "Tomorrow he has a job interview at a large company."
+          }
+        ]
+      },
+      {
+        "id": "Fachmann",
+        "german": "Fachmann",
+        "pronunciation": "[ˈfaxˌman]",
+        "pos": "m, -(e)s, Fachleute / f: Fachfrau",
+        "english": "specialist / expert",
+        "breakdown": [
+          {
+            "part": "Fach",
+            "meaning": "subject / field / compartment",
+            "note": "noun"
+          },
+          {
+            "part": "Mann",
+            "meaning": "man",
+            "note": "noun — but gender-neutral plural: Fachleute"
+          }
+        ],
+        "breakdown_note": "Fachfrau = female specialist. Fachleute (pl.) = specialists (gender-neutral). Fachkraft = skilled worker (formal). Fachgebiet = field of expertise.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Für diese Reparatur brauchen wir einen Fachmann.",
+            "en": "We need a specialist for this repair."
+          },
+          {
+            "de": "Sie ist eine anerkannte Fachfrau auf dem Gebiet der Robotik.",
+            "en": "She is a recognised expert in the field of robotics."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Fachleute (not Fachmänner in modern usage). Feminine: die Fachfrau.",
+        "word_family": [
+          "Fachfrau",
+          "Fachleute",
+          "Fachkraft",
+          "Fachgebiet"
+        ],
+        "mnemonic": "Fach (field/subject) + Mann (person) — person of a specific field",
+        "present_examples": [
+          {
+            "de": "Die Firma beschäftigt ausschließlich Fachleute mit Berufserfahrung.",
+            "en": "The company employs only specialists with professional experience."
+          }
+        ]
+      },
+      {
+        "id": "Qualifikation",
+        "german": "Qualifikation",
+        "pronunciation": "[ˌkvalifɪkaˈtsi̯oːn]",
+        "pos": "f, -, -en",
+        "english": "qualification",
+        "breakdown": [
+          {
+            "part": "Qualität",
+            "meaning": "quality",
+            "note": "Latin qualitas"
+          },
+          {
+            "part": "-fikation",
+            "meaning": "making",
+            "note": "from Latin facere — to make"
+          }
+        ],
+        "breakdown_note": "Qualifikationen nachweisen = to prove qualifications. Berufsqualifikation = professional qualification. Qualifiziert = qualified (adjective).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Welche Qualifikationen bringen Sie für diese Stelle mit?",
+            "en": "What qualifications do you bring for this position?"
+          },
+          {
+            "de": "Er hat alle nötigen Qualifikationen für den Job.",
+            "en": "He has all the necessary qualifications for the job."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Qualifikationen. Genitive: der Qualifikation.",
+        "word_family": [
+          "qualifiziert",
+          "qualifizieren",
+          "Qualifikationsnachweis",
+          "Berufsqualifikation"
+        ],
+        "mnemonic": "qualitas (quality) + -fikation (making) — what makes you quality for the job",
+        "present_examples": [
+          {
+            "de": "Die Stelle erfordert eine abgeschlossene technische Qualifikation.",
+            "en": "The position requires a completed technical qualification."
+          }
+        ]
+      },
+      {
+        "id": "Weiterbildung",
+        "german": "Weiterbildung",
+        "pronunciation": "[ˈvaɪtɐˌbɪldʊŋ]",
+        "pos": "f, -, -en",
+        "english": "further training / continuing education",
+        "breakdown": [
+          {
+            "part": "weiter-",
+            "meaning": "further / continuing",
+            "note": "prefix"
+          },
+          {
+            "part": "Bildung",
+            "meaning": "education / formation",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "An der Weiterbildung teilnehmen = to take part in further training. Berufliche Weiterbildung = professional development. Synonym: Fortbildung.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Unternehmen bezahlt die Weiterbildung seiner Mitarbeiter.",
+            "en": "The company pays for further training of its employees."
+          },
+          {
+            "de": "Sie nimmt an einem Weiterbildungskurs für Projektmanagement teil.",
+            "en": "She is attending a further training course in project management."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Weiterbildungen. Genitive: der Weiterbildung.",
+        "word_family": [
+          "Bildung",
+          "Fortbildung",
+          "Ausbildung",
+          "Umschulung"
+        ],
+        "mnemonic": "weiter (further) + Bildung (education) — education that goes further",
+        "present_examples": [
+          {
+            "de": "Weiterbildung ist in der schnelllebigen IT-Branche unerlässlich.",
+            "en": "Further training is indispensable in the fast-moving IT industry."
+          }
+        ]
+      },
+      {
+        "id": "Erfahrung",
+        "german": "Erfahrung",
+        "pronunciation": "[ɛrˈfaːrʊŋ]",
+        "pos": "f, -, -en",
+        "english": "experience",
+        "breakdown": [
+          {
+            "part": "er-",
+            "meaning": "prefix — achieving / reaching",
+            "note": ""
+          },
+          {
+            "part": "fahren",
+            "meaning": "to travel / go",
+            "note": "base verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Berufserfahrung = professional experience. Erfahrungen sammeln = to gain experience. Aus Erfahrung lernen = to learn from experience.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie hat zehn Jahre Berufserfahrung als Lehrerin.",
+            "en": "She has ten years of professional experience as a teacher."
+          },
+          {
+            "de": "Aus dieser Erfahrung habe ich viel gelernt.",
+            "en": "I learnt a lot from this experience."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Erfahrungen. Genitive: der Erfahrung.",
+        "word_family": [
+          "erfahren",
+          "erfahren (adj.)",
+          "Berufserfahrung",
+          "unerfahren"
+        ],
+        "mnemonic": "er-fahren = to travel through/to — experience as something you travel through",
+        "present_examples": [
+          {
+            "de": "Für diese Stelle sind mindestens drei Jahre Erfahrung erforderlich.",
+            "en": "At least three years of experience are required for this position."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "book_page": 98,
+    "section": "3.3 Arbeit und Beruf · Skills & workplace structure",
+    "insight": "Kenntnisse is almost always plural — you rarely have a single Kenntnis. On CVs: Kenntnisse (knowledge areas), Fähigkeiten (abilities), Fertigkeiten (practical skills) — German CV language uses all three with subtle differences. ⚠ Lookalike alert: Beförderung means both PROMOTION at work and TRANSPORTATION/CONVEYANCE (Beförderungsmittel = means of transport). Same word, very different contexts. ⚠ Lookalike alert: Ausbildung vs. Fortbildung vs. Weiterbildung — Ausbildung = initial vocational training; Fortbildung = advancing existing skills; Weiterbildung = any further education.",
+    "words": [
+      {
+        "id": "Kenntnisse",
+        "german": "Kenntnisse",
+        "pronunciation": "[ˈkɛntnɪsə]",
+        "pos": "Pl. (sg: Kenntnis, f, -, -se)",
+        "english": "knowledge / skills",
+        "breakdown": [
+          {
+            "part": "kennen",
+            "meaning": "to know (persons/things)",
+            "note": "base verb"
+          },
+          {
+            "part": "-tnis",
+            "meaning": "noun suffix",
+            "note": "forming abstract nouns"
+          },
+          {
+            "part": "-se",
+            "meaning": "plural suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Almost always plural in job contexts: gute Englischkenntnisse = good English skills. Grundkenntnisse = basic knowledge. Fachkenntnisse = specialist knowledge.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie verfügt über sehr gute Kenntnisse in Python und SQL.",
+            "en": "She has very good skills in Python and SQL."
+          },
+          {
+            "de": "Grundkenntnisse in Buchhaltung werden vorausgesetzt.",
+            "en": "Basic knowledge of bookkeeping is expected."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Singular: die Kenntnis. Plural: die Kenntnisse. Used nearly exclusively in plural for skills.",
+        "word_family": [
+          "kennen",
+          "Kenntnis",
+          "Fachkenntnisse",
+          "Grundkenntnisse"
+        ],
+        "mnemonic": "kennen (to know) + -tnis — things you know; always plural in the job ad",
+        "present_examples": [
+          {
+            "de": "Der Job erfordert gute Kenntnisse im Bereich Marketing.",
+            "en": "The job requires good knowledge in the field of marketing."
+          }
+        ]
+      },
+      {
+        "id": "Fähigkeit",
+        "german": "Fähigkeit",
+        "pronunciation": "[ˈfɛːɪçkaɪt]",
+        "pos": "f, -, -en",
+        "english": "ability / skill / capability",
+        "breakdown": [
+          {
+            "part": "fähig",
+            "meaning": "capable / able",
+            "note": "adjective"
+          },
+          {
+            "part": "-keit",
+            "meaning": "abstract noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Die Fähigkeit zu + infinitive = the ability to do something. Soziale Fähigkeiten = social skills. Synonym: Kompetenz (more formal).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie hat die Fähigkeit, komplexe Probleme einfach zu erklären.",
+            "en": "She has the ability to explain complex problems simply."
+          },
+          {
+            "de": "Soziale Fähigkeiten sind im Kundenservice besonders wichtig.",
+            "en": "Social skills are particularly important in customer service."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Fähigkeiten. Genitive: der Fähigkeit.",
+        "word_family": [
+          "fähig",
+          "Unfähigkeit",
+          "Kompetenz",
+          "Fertigkeit"
+        ],
+        "mnemonic": "fähig (capable) + -keit — the state of being capable",
+        "present_examples": [
+          {
+            "de": "Analytische Fähigkeiten werden in diesem Beruf sehr geschätzt.",
+            "en": "Analytical skills are highly valued in this profession."
+          }
+        ]
+      },
+      {
+        "id": "Ausbildung",
+        "german": "Ausbildung",
+        "pronunciation": "[ˈausˌbɪldʊŋ]",
+        "pos": "f, -, -en",
+        "english": "vocational training / education",
+        "breakdown": [
+          {
+            "part": "aus-",
+            "meaning": "out / fully",
+            "note": "prefix"
+          },
+          {
+            "part": "Bildung",
+            "meaning": "education / formation",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Berufsausbildung = vocational training (dual system: school + company). Ausbildungsplatz = apprenticeship place. Contrast: Studium (university).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er macht eine Ausbildung zum Elektroniker.",
+            "en": "He is doing an apprenticeship as an electrician."
+          },
+          {
+            "de": "Die Ausbildung dauert in der Regel drei Jahre.",
+            "en": "The vocational training usually lasts three years."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Ausbildungen. Genitive: der Ausbildung.",
+        "word_family": [
+          "ausbilden",
+          "Auszubildender",
+          "Studium",
+          "Weiterbildung"
+        ],
+        "mnemonic": "aus (fully) + Bildung (formation) — being fully formed/trained for a trade",
+        "present_examples": [
+          {
+            "de": "Nach der Ausbildung möchte sie im selben Betrieb arbeiten.",
+            "en": "After her training she wants to work in the same company."
+          }
+        ]
+      },
+      {
+        "id": "Fortbildung",
+        "german": "Fortbildung",
+        "pronunciation": "[ˈfɔrtˌbɪldʊŋ]",
+        "pos": "f, -, -en",
+        "english": "professional development / advanced training",
+        "breakdown": [
+          {
+            "part": "fort-",
+            "meaning": "forward / onward",
+            "note": "prefix"
+          },
+          {
+            "part": "Bildung",
+            "meaning": "education / formation",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "More narrowly professional than Weiterbildung — specifically advancing existing skills. An einer Fortbildung teilnehmen = to attend a professional development course.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Fortbildung zum Datenschutzbeauftragten dauert zwei Tage.",
+            "en": "The professional development course for data protection officers takes two days."
+          },
+          {
+            "de": "Der Arbeitgeber finanziert Fortbildungen im Bereich Führungskompetenz.",
+            "en": "The employer finances professional development in leadership skills."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Fortbildungen. Genitive: der Fortbildung.",
+        "word_family": [
+          "Weiterbildung",
+          "Ausbildung",
+          "Bildung",
+          "fortbilden"
+        ],
+        "mnemonic": "fort (forward) + Bildung (education) — education that moves you forward professionally",
+        "present_examples": [
+          {
+            "de": "Sie nimmt regelmäßig an Fortbildungen teil, um auf dem neuesten Stand zu bleiben.",
+            "en": "She regularly attends professional development courses to stay up to date."
+          }
+        ]
+      },
+      {
+        "id": "Beförderung",
+        "german": "Beförderung",
+        "pronunciation": "[bəˈfœrdərʊŋ]",
+        "pos": "f, -, -en",
+        "english": "promotion / transportation",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "fördern",
+            "meaning": "to promote / support / convey",
+            "note": "base verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Two meanings: (1) career promotion (eine Beförderung bekommen); (2) transportation of goods (Güterbeförderung). Context separates them.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Nach fünf Jahren hat sie endlich die lang ersehnte Beförderung bekommen.",
+            "en": "After five years she finally got the long-awaited promotion."
+          },
+          {
+            "de": "Die Beförderung von Gefahrgütern unterliegt strengen Vorschriften.",
+            "en": "The transportation of hazardous goods is subject to strict regulations."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Beförderungen. Genitive: der Beförderung.",
+        "word_family": [
+          "befördern",
+          "Förderung",
+          "Güterbeförderung",
+          "aufsteigen"
+        ],
+        "mnemonic": "be-fördern = to move something forward — either you or goods move forward",
+        "present_examples": [
+          {
+            "de": "Er hofft auf eine Beförderung zum Abteilungsleiter noch dieses Jahr.",
+            "en": "He is hoping for a promotion to department head this year."
+          }
+        ]
+      },
+      {
+        "id": "Abteilung",
+        "german": "Abteilung",
+        "pronunciation": "[ˈaptaɪlʊŋ]",
+        "pos": "f, -, -en",
+        "english": "department / division",
+        "breakdown": [
+          {
+            "part": "ab-",
+            "meaning": "off / away",
+            "note": "prefix"
+          },
+          {
+            "part": "teilen",
+            "meaning": "to divide",
+            "note": "base verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Abteilungsleiter = department head. In welcher Abteilung arbeiten Sie? = Which department do you work in?",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er leitet die Abteilung für Forschung und Entwicklung.",
+            "en": "He heads the research and development department."
+          },
+          {
+            "de": "Die Personalabteilung kümmert sich um alle Einstellungen.",
+            "en": "The human resources department handles all hirings."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Abteilungen. Genitive: der Abteilung.",
+        "word_family": [
+          "abteilen",
+          "Abteilungsleiter",
+          "Unterabteilung",
+          "Teilen"
+        ],
+        "mnemonic": "ab-teilen (divide off) + -ung — a section divided off from the whole",
+        "present_examples": [
+          {
+            "de": "In welcher Abteilung arbeiten Sie zurzeit?",
+            "en": "Which department do you currently work in?"
+          }
+        ]
+      },
+      {
+        "id": "Kollege",
+        "german": "Kollege",
+        "pronunciation": "[kɔˈleːɡə]",
+        "pos": "m, -n, -n / f: Kollegin",
+        "english": "colleague",
+        "breakdown": [
+          {
+            "part": "col-",
+            "meaning": "together",
+            "note": "Latin com- assimilated"
+          },
+          {
+            "part": "lega",
+            "meaning": "one bound together",
+            "note": "from Latin legare — to bind / delegate"
+          }
+        ],
+        "breakdown_note": "Kollegin = female colleague. Kollegen (pl.) = colleagues. Mit Kollegen auskommen = to get along with colleagues.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Meine Kollegen haben mir sehr beim Einarbeiten geholfen.",
+            "en": "My colleagues helped me a lot during my induction."
+          },
+          {
+            "de": "Sie versteht sich gut mit allen Kollegen im Büro.",
+            "en": "She gets on well with all colleagues in the office."
+          }
+        ],
+        "grammar_notes": "Weak masculine noun (n-declension). Plural: die Kollegen. Feminine: die Kollegin.",
+        "word_family": [
+          "Kollegin",
+          "Kollegialität",
+          "kollegial",
+          "Team"
+        ],
+        "mnemonic": "col- (together) + lega (bound) — bound together in the same workplace",
+        "present_examples": [
+          {
+            "de": "Ein Kollege hat mich auf die freie Stelle aufmerksam gemacht.",
+            "en": "A colleague drew my attention to the vacancy."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "book_page": 99,
+    "section": "3.4 Gesellschaft · Community & civic life",
+    "insight": "Gemeinschaft vs. Gesellschaft is one of sociology's founding distinctions (Ferdinand Tönnies, 1887): Gemeinschaft = warm personal community bonds; Gesellschaft = formal contractual society. ⚠ Lookalike alert: Behörde (authority/government office) looks like gehören (to belong) — but Behörde comes from hören (to hear/obey) via Old High German: an authority is one that is 'listened to'. ⚠ Lookalike alert: Amt means a public office/position, not 'amount'. Bürger originally meant town-dweller (Burg = fortified town); now it means citizen.",
+    "words": [
+      {
+        "id": "Gemeinschaft",
+        "german": "Gemeinschaft",
+        "pronunciation": "[ɡəˈmaɪnʃaft]",
+        "pos": "f, -, -en",
+        "english": "community",
+        "breakdown": [
+          {
+            "part": "gemein-",
+            "meaning": "common / shared",
+            "note": "adjective root"
+          },
+          {
+            "part": "schaft",
+            "meaning": "collective noun suffix",
+            "note": "— group sharing a trait"
+          }
+        ],
+        "breakdown_note": "Warm, personal bonds (Tönnies: Gemeinschaft vs. Gesellschaft). Europäische Gemeinschaft = European Community. Gemeinschaftsgefühl = sense of community.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "In einer starken Gemeinschaft helfen die Menschen einander.",
+            "en": "In a strong community people help each other."
+          },
+          {
+            "de": "Die Dorfgemeinschaft organisiert jedes Jahr ein Fest.",
+            "en": "The village community organises a festival every year."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Gemeinschaften. Genitive: der Gemeinschaft.",
+        "word_family": [
+          "gemeinsam",
+          "Gemeinwohl",
+          "Gesellschaft",
+          "Solidarität"
+        ],
+        "mnemonic": "gemein (shared/common) + -schaft (group) — a group sharing something in common",
+        "present_examples": [
+          {
+            "de": "Das Gefühl der Gemeinschaft ist in kleinen Städten oft stärker.",
+            "en": "The sense of community is often stronger in small towns."
+          }
+        ]
+      },
+      {
+        "id": "Gesellschaft",
+        "german": "Gesellschaft",
+        "pronunciation": "[ɡəˈzɛlʃaft]",
+        "pos": "f, -, -en",
+        "english": "society / company (people)",
+        "breakdown": [
+          {
+            "part": "Geselle",
+            "meaning": "journeyman / companion",
+            "note": "noun — one who joins"
+          },
+          {
+            "part": "schaft",
+            "meaning": "collective noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Formal, contractual bonds (Tönnies). Also means company: in jemandes Gesellschaft = in someone's company. GmbH = Gesellschaft mit beschränkter Haftung.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die moderne Gesellschaft steht vor großen Herausforderungen.",
+            "en": "Modern society faces great challenges."
+          },
+          {
+            "de": "Er genoss die Gesellschaft seiner alten Freunde.",
+            "en": "He enjoyed the company of his old friends."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Gesellschaften. Genitive: der Gesellschaft.",
+        "word_family": [
+          "gesellschaftlich",
+          "Gemeinschaft",
+          "Gesellschaftsform",
+          "GmbH"
+        ],
+        "mnemonic": "Geselle (companion) + -schaft — formal companionship scaled up to a whole society",
+        "present_examples": [
+          {
+            "de": "Gesellschaftliche Verantwortung wird von Unternehmen erwartet.",
+            "en": "Social responsibility is expected of companies."
+          }
+        ]
+      },
+      {
+        "id": "Bevölkerung",
+        "german": "Bevölkerung",
+        "pronunciation": "[bəˈfœlkərʊŋ]",
+        "pos": "f, -, -en",
+        "english": "population",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "Volk",
+            "meaning": "people / folk",
+            "note": "noun"
+          },
+          {
+            "part": "-er-",
+            "meaning": "verbal infix",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Bevölkerungswachstum = population growth. Bevölkerungsdichte = population density. Die gesamte Bevölkerung = the entire population.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Bevölkerung Deutschlands beträgt etwa 84 Millionen Menschen.",
+            "en": "The population of Germany is approximately 84 million people."
+          },
+          {
+            "de": "Ein großer Teil der Bevölkerung lebt in städtischen Gebieten.",
+            "en": "A large part of the population lives in urban areas."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Bevölkerungen. Genitive: der Bevölkerung.",
+        "word_family": [
+          "Volk",
+          "bevölkern",
+          "Einwohner",
+          "Bevölkerungsdichte"
+        ],
+        "mnemonic": "be-Volk-ern = to fill with Volk — Bevölkerung = the Volk filling a country",
+        "present_examples": [
+          {
+            "de": "Die alternde Bevölkerung stellt das Rentensystem vor Probleme.",
+            "en": "The ageing population poses problems for the pension system."
+          }
+        ]
+      },
+      {
+        "id": "Einwohner",
+        "german": "Einwohner",
+        "pronunciation": "[ˈaɪnˌvoːnɐ]",
+        "pos": "m, -s, - / f: Einwohnerin",
+        "english": "inhabitant / resident",
+        "breakdown": [
+          {
+            "part": "ein-",
+            "meaning": "in",
+            "note": "prefix"
+          },
+          {
+            "part": "wohnen",
+            "meaning": "to live / reside",
+            "note": "base verb"
+          },
+          {
+            "part": "-er",
+            "meaning": "agent suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Einwohnerzahl = number of inhabitants. Berlin hat etwa 3,7 Millionen Einwohner. More specific than Bevölkerung (population).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "München hat über 1,5 Millionen Einwohner.",
+            "en": "Munich has over 1.5 million inhabitants."
+          },
+          {
+            "de": "Die Einwohner der Stadt protestierten gegen den Lärm.",
+            "en": "The inhabitants of the city protested against the noise."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Einwohner. Feminine: die Einwohnerin.",
+        "word_family": [
+          "wohnen",
+          "Bewohner",
+          "Einwohnerzahl",
+          "Einwohnermeldeamt"
+        ],
+        "mnemonic": "ein (in) + wohnen (live) + -er — one who lives in a place",
+        "present_examples": [
+          {
+            "de": "Als Einwohner dieser Stadt haben Sie das Wahlrecht.",
+            "en": "As an inhabitant of this city you have the right to vote."
+          }
+        ]
+      },
+      {
+        "id": "Bürger",
+        "german": "Bürger",
+        "pronunciation": "[ˈbʏrɡɐ]",
+        "pos": "m, -s, - / f: Bürgerin",
+        "english": "citizen",
+        "breakdown": [
+          {
+            "part": "Burg",
+            "meaning": "fortress / fortified town",
+            "note": "noun — historic origin"
+          },
+          {
+            "part": "-er",
+            "meaning": "agent / inhabitant suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Originally: inhabitant of a fortified town. Now: citizen (Staatsbürger). Bürgermeister = mayor. Bürgersteig = pavement/sidewalk.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Jeder Bürger hat das Recht auf freie Meinungsäußerung.",
+            "en": "Every citizen has the right to freedom of expression."
+          },
+          {
+            "de": "Die Bürger wurden zu einer Gemeindeversammlung eingeladen.",
+            "en": "The citizens were invited to a community meeting."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Bürger. Feminine: die Bürgerin.",
+        "word_family": [
+          "Bürgerin",
+          "Staatsbürger",
+          "Bürgermeister",
+          "bürgerlich"
+        ],
+        "mnemonic": "Burg (fortified town) + -er — one who lives within the Burg = a citizen",
+        "present_examples": [
+          {
+            "de": "Als Bürger der EU genießt man das Recht auf Freizügigkeit.",
+            "en": "As an EU citizen you enjoy the right to freedom of movement."
+          }
+        ]
+      },
+      {
+        "id": "Behörde",
+        "german": "Behörde",
+        "pronunciation": "[bəˈhøːrdə]",
+        "pos": "f, -, -n",
+        "english": "authority / government office",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "hören",
+            "meaning": "to hear / belong",
+            "note": "archaic sense — jurisdiction area"
+          },
+          {
+            "part": "-de",
+            "meaning": "suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Usually plural: die Behörden (the authorities). Zuständige Behörde = responsible authority. Behördengang = trip to a government office.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die zuständige Behörde hat den Antrag abgelehnt.",
+            "en": "The responsible authority rejected the application."
+          },
+          {
+            "de": "Sie hat stundenlang bei der Behörde gewartet.",
+            "en": "She waited at the government office for hours."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Behörden. Genitive: der Behörde.",
+        "word_family": [
+          "Amt",
+          "Verwaltung",
+          "Behördengang",
+          "zuständig"
+        ],
+        "mnemonic": "behören (to belong to jurisdiction) — the office that has jurisdiction over you",
+        "present_examples": [
+          {
+            "de": "Welche Behörde ist für die Anmeldung zuständig?",
+            "en": "Which authority is responsible for the registration?"
+          }
+        ]
+      },
+      {
+        "id": "Amt",
+        "german": "Amt",
+        "pronunciation": "[amt]",
+        "pos": "n, -(e)s, Ämter",
+        "english": "office / authority / post",
+        "breakdown": [
+          {
+            "part": "Amt",
+            "meaning": "office / charge",
+            "note": "Germanic root — duty assigned by authority"
+          }
+        ],
+        "breakdown_note": "Amt is more specific than Behörde — a defined post or function. Standesamt = registry office. Finanzamt = tax office. Ein Amt bekleiden = to hold an office.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er hat das Amt des Bürgermeisters seit zehn Jahren inne.",
+            "en": "He has held the office of mayor for ten years."
+          },
+          {
+            "de": "Das Standesamt ist für Geburten, Heiraten und Sterbefälle zuständig.",
+            "en": "The registry office handles births, marriages and deaths."
+          }
+        ],
+        "grammar_notes": "Neuter noun. Plural: die Ämter (umlaut). Genitive: des Amts / Amtes.",
+        "word_family": [
+          "amtlich",
+          "Amtsgericht",
+          "Finanzamt",
+          "Standesamt"
+        ],
+        "mnemonic": "Amt = a charge/duty entrusted to you — an office you are charged with",
+        "present_examples": [
+          {
+            "de": "Das Finanzamt erwartet die Steuererklärung bis Ende Juli.",
+            "en": "The tax office expects the tax return by the end of July."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "book_page": 100,
+    "section": "3.4 Gesellschaft · Politics & rights",
+    "insight": "⚠ Key lookalike: Wahl means BOTH election AND choice — 'Ich habe keine Wahl' (I have no choice) vs. 'die Bundestagswahl' (federal election). ⚠ Triple meaning: Recht = (1) the right (das Recht auf Bildung = the right to education); (2) the law (das Recht sprechen = to administer justice); (3) recht as adverb = quite/rather (recht gut = quite good; recht haben = to be right). Pflicht pairs with Recht: 'Rechte und Pflichten' (rights and duties) is a fixed pairing in legal German.",
+    "words": [
+      {
+        "id": "Demokratie",
+        "german": "Demokratie",
+        "pronunciation": "[demoˈkraːtiː]",
+        "pos": "f, -, -n",
+        "english": "democracy",
+        "breakdown": [
+          {
+            "part": "demo-",
+            "meaning": "people (Greek)",
+            "note": "from demos — the people"
+          },
+          {
+            "part": "kratie",
+            "meaning": "rule (Greek)",
+            "note": "from kratein — to rule"
+          }
+        ],
+        "breakdown_note": "Demokratie leben = to practise democracy. Demokratiedefizit = democratic deficit. Parlamentarische Demokratie = parliamentary democracy.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Demokratie lebt von der aktiven Beteiligung der Bürger.",
+            "en": "Democracy thrives on the active participation of citizens."
+          },
+          {
+            "de": "In einer Demokratie hat jeder das Recht, seine Meinung zu äußern.",
+            "en": "In a democracy everyone has the right to express their opinion."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Demokratien. Genitive: der Demokratie.",
+        "word_family": [
+          "demokratisch",
+          "Demokrat",
+          "Demokratisierung",
+          "antidemokratisch"
+        ],
+        "mnemonic": "demos (people) + kratos (rule) — rule by the people",
+        "present_examples": [
+          {
+            "de": "Deutschland ist eine parlamentarische Demokratie.",
+            "en": "Germany is a parliamentary democracy."
+          }
+        ]
+      },
+      {
+        "id": "Wahl",
+        "german": "Wahl",
+        "pronunciation": "[vaːl]",
+        "pos": "f, -, -en",
+        "english": "election / choice",
+        "breakdown": [
+          {
+            "part": "wählen",
+            "meaning": "to vote / choose",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Double meaning: election (Bundestagswahl) AND choice (Ich habe keine Wahl = I have no choice). Zur Wahl gehen = to go to vote.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Bei der letzten Wahl war die Wahlbeteiligung sehr hoch.",
+            "en": "Voter turnout at the last election was very high."
+          },
+          {
+            "de": "Du hast keine andere Wahl, als zuzustimmen.",
+            "en": "You have no other choice but to agree."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Wahlen. Genitive: der Wahl.",
+        "word_family": [
+          "wählen",
+          "Wähler",
+          "Wahlrecht",
+          "Bundestagswahl"
+        ],
+        "mnemonic": "Wahl = both the ballot and the choice — you choose with your vote",
+        "present_examples": [
+          {
+            "de": "Die Wahl findet alle vier Jahre statt.",
+            "en": "The election takes place every four years."
+          }
+        ]
+      },
+      {
+        "id": "wählen",
+        "german": "wählen",
+        "pronunciation": "[ˈvɛːlən]",
+        "pos": "V/t.",
+        "english": "to vote / choose / elect / dial",
+        "breakdown": [
+          {
+            "part": "Wahl",
+            "meaning": "choice / election",
+            "note": "base noun"
+          },
+          {
+            "part": "-en",
+            "meaning": "verb suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Wählen covers: to vote, to elect, to choose, and to dial (a phone number). Context always makes it clear.",
+        "conjugation": {
+          "prät": "wählte",
+          "perf": "hat gewählt",
+          "note": "regular",
+          "imperative": "du: Wähle!  ·  Sie: Wählen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Haben Sie schon gewählt?",
+            "en": "Have you voted yet?"
+          },
+          {
+            "de": "Sie haben ihn zum Vorsitzenden gewählt.",
+            "en": "They elected him as chairperson."
+          }
+        ],
+        "grammar_notes": "Weak verb. Past participle: gewählt.",
+        "word_family": [
+          "Wahl",
+          "Wähler",
+          "Wahlrecht",
+          "auswählen"
+        ],
+        "mnemonic": "Wahl (choice) → wählen = to make a choice, at the polls or elsewhere",
+        "present_examples": [
+          {
+            "de": "Wer wählt, bestimmt die Zukunft des Landes mit.",
+            "en": "Whoever votes helps shape the country's future."
+          }
+        ]
+      },
+      {
+        "id": "Partei",
+        "german": "Partei",
+        "pronunciation": "[parˈtaɪ]",
+        "pos": "f, -, -en",
+        "english": "(political) party",
+        "breakdown": [
+          {
+            "part": "Part-",
+            "meaning": "part / side",
+            "note": "from Latin pars — part"
+          },
+          {
+            "part": "-ei",
+            "meaning": "collective noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Einer Partei beitreten = to join a party. Parteilos = non-partisan. Also: legal party (die klagende Partei = the plaintiff).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Welcher Partei gehören Sie an?",
+            "en": "Which party do you belong to?"
+          },
+          {
+            "de": "Die Partei hat ihr Wahlprogramm vorgestellt.",
+            "en": "The party presented its election manifesto."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Parteien. Genitive: der Partei.",
+        "word_family": [
+          "parteilos",
+          "Parteiführer",
+          "Parteienprogramm",
+          "Mehrheitspartei"
+        ],
+        "mnemonic": "Partei = a part/side — those who take one part/side in politics",
+        "present_examples": [
+          {
+            "de": "Die regierende Partei liegt in den Umfragen vorne.",
+            "en": "The governing party is ahead in the polls."
+          }
+        ]
+      },
+      {
+        "id": "Recht",
+        "german": "Recht",
+        "pronunciation": "[rɛçt]",
+        "pos": "n, -(e)s, -e",
+        "english": "right / law",
+        "breakdown": [
+          {
+            "part": "recht",
+            "meaning": "right / correct / just",
+            "note": "adjective/adverb root"
+          }
+        ],
+        "breakdown_note": "Das Recht = the law / a right. Recht haben = to be right. Recht + adj = rather/quite (recht gut = quite good). Rechtsstaat = constitutional state.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Jeder Mensch hat das Recht auf eine faire Behandlung.",
+            "en": "Every person has the right to fair treatment."
+          },
+          {
+            "de": "Das Recht auf freie Meinungsäußerung ist im Grundgesetz verankert.",
+            "en": "The right to freedom of expression is enshrined in the Basic Law."
+          }
+        ],
+        "grammar_notes": "Neuter noun. Plural: die Rechte. Genitive: des Rechts.",
+        "word_family": [
+          "rechtlich",
+          "Rechtsstaat",
+          "Grundrecht",
+          "berechtigt"
+        ],
+        "mnemonic": "recht (right/correct) → Recht = what is right, codified into law",
+        "present_examples": [
+          {
+            "de": "Sie hat Recht — das Gesetz gilt ab sofort.",
+            "en": "She is right — the law applies with immediate effect."
+          }
+        ]
+      },
+      {
+        "id": "Pflicht",
+        "german": "Pflicht",
+        "pronunciation": "[pflɪçt]",
+        "pos": "f, -, -en",
+        "english": "duty / obligation",
+        "breakdown": [
+          {
+            "part": "pflegen",
+            "meaning": "to care for / tend",
+            "note": "archaic connection — duty as something to nurture"
+          }
+        ],
+        "breakdown_note": "Rechte und Pflichten = rights and duties (fixed pairing). Pflichtbewusst = conscientious. Schulpflicht = compulsory schooling.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Es ist die Pflicht jedes Bürgers, die Gesetze zu befolgen.",
+            "en": "It is the duty of every citizen to obey the laws."
+          },
+          {
+            "de": "Die Schulpflicht gilt in Deutschland für alle Kinder bis 18.",
+            "en": "Compulsory schooling applies to all children in Germany up to age 18."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Pflichten. Genitive: der Pflicht.",
+        "word_family": [
+          "pflichtbewusst",
+          "Schulpflicht",
+          "Wehrpflicht",
+          "verpflichten"
+        ],
+        "mnemonic": "Pflicht = something you must tend to — your unavoidable duty",
+        "present_examples": [
+          {
+            "de": "Als Elternteil hat man die Pflicht, das Kind zu versorgen.",
+            "en": "As a parent you have the duty to provide for the child."
+          }
+        ]
+      },
+      {
+        "id": "Verantwortung",
+        "german": "Verantwortung",
+        "pronunciation": "[fɛrˈʔantvɔrtʊŋ]",
+        "pos": "f, -, kein Pl.",
+        "english": "responsibility",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "Antwort",
+            "meaning": "answer / response",
+            "note": "noun"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Verantwortung übernehmen = to take responsibility. Verantwortungsbewusst = responsible/conscientious. Verantwortlich für + Acc = responsible for.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er hat die Verantwortung für das Projekt übernommen.",
+            "en": "He took on responsibility for the project."
+          },
+          {
+            "de": "Mit großer Macht kommt große Verantwortung.",
+            "en": "With great power comes great responsibility."
+          }
+        ],
+        "grammar_notes": "Feminine noun, usually no plural. Genitive: der Verantwortung.",
+        "word_family": [
+          "verantworten",
+          "verantwortlich",
+          "Verantwortungsbewusstsein",
+          "Antwort"
+        ],
+        "mnemonic": "ver-Antwort-ung = having to answer for something — accountability",
+        "present_examples": [
+          {
+            "de": "Die Verantwortung für den Fehler liegt klar beim Management.",
+            "en": "The responsibility for the mistake lies clearly with management."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "book_page": 101,
+    "section": "3.5 Medien und Öffentlichkeit · Broadcast & print",
+    "insight": "Nachrichten is always plural for 'the news': die Nachrichten schauen/hören. ⚠ Lookalike alert: Rundfunk contains Funk (radio signal), not Funke (spark) — though both come from the same root. Rund (round/all-around) + Funk = signals sent in all directions. ⚠ Lookalike alert: Sender (broadcaster/channel) and senden (to send/broadcast) share the root, but Sender also means 'transmitter' technically. Don't confuse with absender (sender of a letter). Schlagzeile = headline: Schlag (blow/strike) + Zeile (line) — a line that hits you.",
+    "words": [
+      {
+        "id": "Nachrichten",
+        "german": "Nachrichten",
+        "pronunciation": "[ˈnaːxrɪçtən]",
+        "pos": "Pl.",
+        "english": "the news",
+        "breakdown": [
+          {
+            "part": "Nach-",
+            "meaning": "after / following",
+            "note": "prefix"
+          },
+          {
+            "part": "richten",
+            "meaning": "to direct / align",
+            "note": "from richten"
+          },
+          {
+            "part": "-en",
+            "meaning": "plural suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Always plural for 'the news': die Nachrichten schauen/hören. Nachrichtensprecherin = newsreader (f). Abendnachrichten = evening news.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Hast du heute schon die Nachrichten gehört?",
+            "en": "Have you already heard the news today?"
+          },
+          {
+            "de": "Die Nachrichten um 20 Uhr sind die meistgesehene Sendung in Deutschland.",
+            "en": "The 8 o'clock news is the most watched programme in Germany."
+          }
+        ],
+        "grammar_notes": "Plural form only for 'the news'. Singular: die Nachricht = a message.",
+        "word_family": [
+          "Nachricht",
+          "Abendnachrichten",
+          "Nachrichtensendung",
+          "Nachrichtenagentur"
+        ],
+        "mnemonic": "Nachricht × many = the full stream of news coming after events",
+        "present_examples": [
+          {
+            "de": "Sie schaut jeden Abend die Nachrichten, bevor sie ins Bett geht.",
+            "en": "She watches the news every evening before she goes to bed."
+          }
+        ]
+      },
+      {
+        "id": "Zeitung",
+        "german": "Zeitung",
+        "pronunciation": "[ˈtsaɪtʊŋ]",
+        "pos": "f, -, -en",
+        "english": "newspaper",
+        "breakdown": [
+          {
+            "part": "Zeit",
+            "meaning": "time",
+            "note": "noun"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": "— tidings of the time"
+          }
+        ],
+        "breakdown_note": "Tageszeitung = daily newspaper. Wochenzeitung = weekly paper. Zeitungsartikel = newspaper article. Zeitung lesen = to read the paper.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er liest jeden Morgen die Zeitung beim Frühstück.",
+            "en": "He reads the newspaper every morning at breakfast."
+          },
+          {
+            "de": "Die Auflage der Tageszeitungen ist in den letzten Jahren gesunken.",
+            "en": "The circulation of daily newspapers has fallen in recent years."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Zeitungen. Genitive: der Zeitung.",
+        "word_family": [
+          "Zeitschrift",
+          "Tageszeitung",
+          "Zeitungsartikel",
+          "Zeitungskiosk"
+        ],
+        "mnemonic": "Zeit (time) + -ung — tidings of the time, printed daily",
+        "present_examples": [
+          {
+            "de": "Welche Zeitung abonnieren Sie?",
+            "en": "Which newspaper do you subscribe to?"
+          }
+        ]
+      },
+      {
+        "id": "Schlagzeile",
+        "german": "Schlagzeile",
+        "pronunciation": "[ˈʃlaːkˌtsaɪlə]",
+        "pos": "f, -, -n",
+        "english": "headline",
+        "breakdown": [
+          {
+            "part": "Schlag",
+            "meaning": "blow / strike",
+            "note": "noun from schlagen"
+          },
+          {
+            "part": "Zeile",
+            "meaning": "line / row",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Schlagzeilen machen = to make headlines. Reißerische Schlagzeile = sensationalist headline. The Schlag suggests a line that hits you.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Schlagzeile des Tages lautete: 'Einigung in letzter Minute'.",
+            "en": "The headline of the day read: 'Last-minute agreement'."
+          },
+          {
+            "de": "Der Skandal machte weltweit Schlagzeilen.",
+            "en": "The scandal made headlines worldwide."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Schlagzeilen. Genitive: der Schlagzeile.",
+        "word_family": [
+          "Zeile",
+          "Überschrift",
+          "Titel",
+          "schlagen"
+        ],
+        "mnemonic": "Schlag (strike) + Zeile (line) — the line that strikes you first",
+        "present_examples": [
+          {
+            "de": "Welche Schlagzeilen haben Sie heute gelesen?",
+            "en": "What headlines have you read today?"
+          }
+        ]
+      },
+      {
+        "id": "Artikel",
+        "german": "Artikel",
+        "pronunciation": "[arˈtiːkəl]",
+        "pos": "m, -s, -",
+        "english": "article",
+        "breakdown": [
+          {
+            "part": "Artikel",
+            "meaning": "article",
+            "note": "Latin articulus — small joint / section"
+          }
+        ],
+        "breakdown_note": "Newspaper article AND grammatical article (bestimmter/unbestimmter Artikel). Leitartikel = editorial. Zeitungsartikel = newspaper article.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie hat einen interessanten Artikel über Klimawandel geschrieben.",
+            "en": "She wrote an interesting article about climate change."
+          },
+          {
+            "de": "Der Artikel wurde von Tausenden Menschen geteilt.",
+            "en": "The article was shared by thousands of people."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Artikel (same form). Genitive: des Artikels.",
+        "word_family": [
+          "Zeitungsartikel",
+          "Leitartikel",
+          "Fachartikel",
+          "Kolumne"
+        ],
+        "mnemonic": "articulus = a small section — an article is a small section of a publication",
+        "present_examples": [
+          {
+            "de": "Der Artikel erscheint morgen in der Tageszeitung.",
+            "en": "The article will appear in the daily newspaper tomorrow."
+          }
+        ]
+      },
+      {
+        "id": "Rundfunk",
+        "german": "Rundfunk",
+        "pronunciation": "[ˈrʊntˌfʊŋk]",
+        "pos": "m, -(e)s, kein Pl.",
+        "english": "broadcasting / radio",
+        "breakdown": [
+          {
+            "part": "rund-",
+            "meaning": "round / all-around",
+            "note": "prefix"
+          },
+          {
+            "part": "Funk",
+            "meaning": "radio signal / wireless",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "ARD = Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten. Öffentlich-rechtlicher Rundfunk = public broadcasting. Rundfunkanstalt = broadcasting organisation.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der öffentlich-rechtliche Rundfunk wird durch den Rundfunkbeitrag finanziert.",
+            "en": "Public broadcasting is financed by the broadcasting licence fee."
+          },
+          {
+            "de": "Sie arbeitet als Redakteurin beim Rundfunk.",
+            "en": "She works as an editor at the broadcaster."
+          }
+        ],
+        "grammar_notes": "Masculine noun, no plural. Genitive: des Rundfunks.",
+        "word_family": [
+          "Funk",
+          "Rundfunkanstalt",
+          "öffentlich-rechtlich",
+          "Rundfunkbeitrag"
+        ],
+        "mnemonic": "rund (all-around) + Funk (radio waves) — signals sent out in all directions",
+        "present_examples": [
+          {
+            "de": "Der Rundfunk muss unabhängig und ausgewogen berichten.",
+            "en": "Broadcasting must report independently and in a balanced way."
+          }
+        ]
+      },
+      {
+        "id": "Sender",
+        "german": "Sender",
+        "pronunciation": "[ˈzɛndɐ]",
+        "pos": "m, -s, -",
+        "english": "broadcaster / channel / transmitter",
+        "breakdown": [
+          {
+            "part": "senden",
+            "meaning": "to send / broadcast",
+            "note": "base verb"
+          },
+          {
+            "part": "-er",
+            "meaning": "agent suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "TV channel or radio station. Öffentlich-rechtlicher Sender = public broadcaster. Privatsender = commercial channel. Also: the transmitter device.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Welcher Sender überträgt das Spiel heute Abend?",
+            "en": "Which channel is broadcasting the game tonight?"
+          },
+          {
+            "de": "Der private Sender zeigt mehr Werbung als die öffentlichen.",
+            "en": "The commercial channel shows more advertising than the public ones."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Sender (same form). Genitive: des Senders.",
+        "word_family": [
+          "senden",
+          "Sendung",
+          "Rundfunksender",
+          "Privatsender"
+        ],
+        "mnemonic": "senden (to send/broadcast) + -er — the one that sends out the signal",
+        "present_examples": [
+          {
+            "de": "Der Sender plant eine neue Talkshow für das Herbstprogramm.",
+            "en": "The broadcaster is planning a new talk show for the autumn programme."
+          }
+        ]
+      },
+      {
+        "id": "Übertragung",
+        "german": "Übertragung",
+        "pronunciation": "[ˈyːbɐˌtraːɡʊŋ]",
+        "pos": "f, -, -en",
+        "english": "broadcast / transmission / transfer",
+        "breakdown": [
+          {
+            "part": "über-",
+            "meaning": "over / across",
+            "note": "prefix"
+          },
+          {
+            "part": "tragen",
+            "meaning": "to carry",
+            "note": "base verb — irregular"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Live-Übertragung = live broadcast. Datenübertragung = data transfer. Übertragung von Rechten = transfer of rights.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Live-Übertragung des Konzerts lief ohne Probleme.",
+            "en": "The live broadcast of the concert went without problems."
+          },
+          {
+            "de": "Die Übertragung der Eigentumsrechte wurde notariell beglaubigt.",
+            "en": "The transfer of ownership rights was notarially certified."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Übertragungen. Genitive: der Übertragung.",
+        "word_family": [
+          "übertragen",
+          "Übertragungsrate",
+          "Live-Übertragung",
+          "Datenübertragung"
+        ],
+        "mnemonic": "über-tragen (carry across) + -ung — carrying the signal across to you",
+        "present_examples": [
+          {
+            "de": "Die Übertragung des Finales beginnt um 20:15 Uhr.",
+            "en": "The broadcast of the final begins at 20:15."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "book_page": 102,
+    "section": "3.5 Medien und Öffentlichkeit · Public discourse",
+    "insight": "Beitrag (contribution) is a versatile false-friend magnet: ein Beitrag leisten (make a contribution), ein TV-Beitrag (a TV segment/report), ein Mitgliedsbeitrag (membership fee) — three very different meanings, one word. ⚠ Lookalike trio: Freiheit (freedom), Gleichheit (equality), Gerechtigkeit (justice) — these echo Liberté, Égalité, Fraternité. Note: Freiheit ends in -heit; Gleichheit in -heit; Gerechtigkeit in -keit — both -heit and -keit are feminine abstract noun suffixes meaning '-ness/-hood'. ⚠ Meinungsfreiheit = freedom of opinion (Meinung = opinion, not 'mine').",
+    "words": [
+      {
+        "id": "Beitrag",
+        "german": "Beitrag",
+        "pronunciation": "[ˈbaɪˌtraːk]",
+        "pos": "m, -(e)s, Beiträge",
+        "english": "contribution / report / fee",
+        "breakdown": [
+          {
+            "part": "bei-",
+            "meaning": "by / alongside",
+            "note": "prefix"
+          },
+          {
+            "part": "Trag-",
+            "meaning": "carrying",
+            "note": "from tragen — to carry"
+          }
+        ],
+        "breakdown_note": "Three core meanings: (1) TV/radio report (ein Beitrag im Radio); (2) contribution to a discussion; (3) membership/insurance fee (Beitrag zahlen).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er hat einen wichtigen Beitrag zur Diskussion geleistet.",
+            "en": "He made an important contribution to the discussion."
+          },
+          {
+            "de": "Der monatliche Beitrag für die Mitgliedschaft beträgt 20 Euro.",
+            "en": "The monthly membership fee is 20 euros."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Beiträge (umlaut). Genitive: des Beitrags.",
+        "word_family": [
+          "beitragen",
+          "Mitgliedsbeitrag",
+          "Rundfunkbeitrag",
+          "Debattenbeitrag"
+        ],
+        "mnemonic": "bei-tragen = carry alongside — what you carry alongside the main effort",
+        "present_examples": [
+          {
+            "de": "Der Beitrag über erneuerbare Energien läuft heute Abend im Radio.",
+            "en": "The report on renewable energies airs on the radio tonight."
+          }
+        ]
+      },
+      {
+        "id": "Reporter",
+        "german": "Reporter",
+        "pronunciation": "[rɛˈpɔrtɐ]",
+        "pos": "m, -s, - / f: Reporterin",
+        "english": "reporter",
+        "breakdown": [
+          {
+            "part": "report-",
+            "meaning": "report",
+            "note": "from Latin reportare — to carry back"
+          },
+          {
+            "part": "-er",
+            "meaning": "agent suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Reporterin = female reporter. Auslandsreporter = foreign correspondent. Undercover-Reporter = undercover journalist.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Reporter berichtete live vom Krisengebiet.",
+            "en": "The reporter reported live from the crisis area."
+          },
+          {
+            "de": "Die Reporterin hat monatelang an der Enthüllungsgeschichte gearbeitet.",
+            "en": "The reporter worked for months on the investigative story."
+          }
+        ],
+        "grammar_notes": "Masculine noun. Plural: die Reporter (same form). Feminine: die Reporterin.",
+        "word_family": [
+          "Reporterin",
+          "Reportage",
+          "berichten",
+          "Korrespondent"
+        ],
+        "mnemonic": "reportare (carry back) + -er — carries news back from the scene",
+        "present_examples": [
+          {
+            "de": "Der Reporter ist gerade auf dem Weg zum Tatort.",
+            "en": "The reporter is currently on the way to the scene."
+          }
+        ]
+      },
+      {
+        "id": "veröffentlichen",
+        "german": "veröffentlichen",
+        "pronunciation": "[fɛrˈʔœfəntlɪçən]",
+        "pos": "V/t.",
+        "english": "to publish",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "intensifier prefix",
+            "note": ""
+          },
+          {
+            "part": "öffentlich",
+            "meaning": "public",
+            "note": "adjective"
+          },
+          {
+            "part": "-en",
+            "meaning": "verb suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "To make something public. Veröffentlichung = the publication (noun). Online veröffentlichen = to publish online. Synonym: publizieren (more formal).",
+        "conjugation": {
+          "prät": "veröffentlichte",
+          "perf": "hat veröffentlicht",
+          "note": "inseparable · regular",
+          "imperative": "du: Veröffentliche!  ·  Sie: Veröffentlichen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Der Verlag hat das Buch letzten Herbst veröffentlicht.",
+            "en": "The publisher published the book last autumn."
+          },
+          {
+            "de": "Die Ergebnisse der Studie wurden in einer Fachzeitschrift veröffentlicht.",
+            "en": "The results of the study were published in a specialist journal."
+          }
+        ],
+        "grammar_notes": "Inseparable verb. Past participle: veröffentlicht.",
+        "word_family": [
+          "Veröffentlichung",
+          "öffentlich",
+          "Öffentlichkeit",
+          "publizieren"
+        ],
+        "mnemonic": "ver + öffentlich (public) + -en — to make something fully public",
+        "present_examples": [
+          {
+            "de": "Das Ministerium veröffentlicht den Bericht heute um 12 Uhr.",
+            "en": "The ministry is publishing the report today at noon."
+          }
+        ]
+      },
+      {
+        "id": "Veröffentlichung",
+        "german": "Veröffentlichung",
+        "pronunciation": "[fɛrˈʔœfəntlɪçʊŋ]",
+        "pos": "f, -, -en",
+        "english": "publication",
+        "breakdown": [
+          {
+            "part": "veröffentlichen",
+            "meaning": "to publish",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Both the act of publishing and the published work itself. Neueste Veröffentlichung = latest publication. Zur Veröffentlichung freigeben = to release for publication.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Veröffentlichung der Daten sorgte für einen Skandal.",
+            "en": "The publication of the data caused a scandal."
+          },
+          {
+            "de": "Es ist seine erste Veröffentlichung nach zehn Jahren.",
+            "en": "It is his first publication in ten years."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Veröffentlichungen. Genitive: der Veröffentlichung.",
+        "word_family": [
+          "veröffentlichen",
+          "öffentlich",
+          "Publikation",
+          "Herausgabe"
+        ],
+        "mnemonic": "veröffentlichen + -ung — the act of or result of making something public",
+        "present_examples": [
+          {
+            "de": "Die Veröffentlichung des Berichts steht kurz bevor.",
+            "en": "The publication of the report is imminent."
+          }
+        ]
+      },
+      {
+        "id": "Freiheit",
+        "german": "Freiheit",
+        "pronunciation": "[ˈfraɪhaɪt]",
+        "pos": "f, -, -en",
+        "english": "freedom / liberty",
+        "breakdown": [
+          {
+            "part": "frei",
+            "meaning": "free",
+            "note": "adjective"
+          },
+          {
+            "part": "-heit",
+            "meaning": "abstract noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Redefreiheit = freedom of speech. Pressefreiheit = press freedom. Freiheit nehmen = to take the liberty. In Freiheit = at liberty (not imprisoned).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Freiheit der Presse ist ein Grundpfeiler der Demokratie.",
+            "en": "Press freedom is a cornerstone of democracy."
+          },
+          {
+            "de": "Er wurde nach zehn Jahren aus der Haft in die Freiheit entlassen.",
+            "en": "He was released from prison into freedom after ten years."
+          }
+        ],
+        "grammar_notes": "Feminine noun. Plural: die Freiheiten. Genitive: der Freiheit.",
+        "word_family": [
+          "frei",
+          "befreien",
+          "Redefreiheit",
+          "Pressefreiheit"
+        ],
+        "mnemonic": "frei (free) + -heit — the state of being free",
+        "present_examples": [
+          {
+            "de": "Freiheit bedeutet auch, Verantwortung zu übernehmen.",
+            "en": "Freedom also means taking responsibility."
+          }
+        ]
+      },
+      {
+        "id": "Gerechtigkeit",
+        "german": "Gerechtigkeit",
+        "pronunciation": "[ɡəˈrɛçtɪçkaɪt]",
+        "pos": "f, -, kein Pl.",
+        "english": "justice / fairness",
+        "breakdown": [
+          {
+            "part": "gerecht",
+            "meaning": "just / fair",
+            "note": "adjective"
+          },
+          {
+            "part": "-igkeit",
+            "meaning": "abstract noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Soziale Gerechtigkeit = social justice. Gerechtigkeit walten lassen = to let justice prevail. Gegenteil: Ungerechtigkeit (injustice).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Soziale Gerechtigkeit ist ein zentrales Thema in der Politik.",
+            "en": "Social justice is a central topic in politics."
+          },
+          {
+            "de": "Er kämpft sein ganzes Leben für Gerechtigkeit.",
+            "en": "He has fought for justice his whole life."
+          }
+        ],
+        "grammar_notes": "Feminine noun, no plural. Genitive: der Gerechtigkeit.",
+        "word_family": [
+          "gerecht",
+          "Ungerechtigkeit",
+          "Rechtsstaat",
+          "Gleichheit"
+        ],
+        "mnemonic": "gerecht (just/fair) + -igkeit — the abstract quality of being just",
+        "present_examples": [
+          {
+            "de": "Ohne Gerechtigkeit kann keine stabile Gesellschaft bestehen.",
+            "en": "Without justice no stable society can exist."
+          }
+        ]
+      },
+      {
+        "id": "Gleichheit",
+        "german": "Gleichheit",
+        "pronunciation": "[ˈɡlaɪçhaɪt]",
+        "pos": "f, -, kein Pl.",
+        "english": "equality",
+        "breakdown": [
+          {
+            "part": "gleich",
+            "meaning": "equal / same",
+            "note": "adjective"
+          },
+          {
+            "part": "-heit",
+            "meaning": "abstract noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Gleichheit vor dem Gesetz = equality before the law. Chancengleichheit = equal opportunities. Gegenteil: Ungleichheit (inequality).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Grundgesetz garantiert die Gleichheit aller Menschen vor dem Gesetz.",
+            "en": "The Basic Law guarantees the equality of all people before the law."
+          },
+          {
+            "de": "Echte Gleichheit bedeutet mehr als formale Chancengleichheit.",
+            "en": "True equality means more than formal equal opportunities."
+          }
+        ],
+        "grammar_notes": "Feminine noun, no plural. Genitive: der Gleichheit.",
+        "word_family": [
+          "gleich",
+          "Ungleichheit",
+          "Chancengleichheit",
+          "gleichberechtigt"
+        ],
+        "mnemonic": "gleich (equal) + -heit — the state of being equal",
+        "present_examples": [
+          {
+            "de": "Die Bewegung kämpft für mehr Gleichheit in der Gesellschaft.",
+            "en": "The movement is fighting for more equality in society."
+          }
+        ]
+      },
+      {
+        "id": "Meinungsfreiheit",
+        "german": "Meinungsfreiheit",
+        "pronunciation": "[ˈmaɪnʊŋsfraɪhaɪt]",
+        "pos": "f, -, kein Pl.",
+        "english": "freedom of opinion / speech",
+        "breakdown": [
+          {
+            "part": "Meinung",
+            "meaning": "opinion",
+            "note": "noun"
+          },
+          {
+            "part": "Freiheit",
+            "meaning": "freedom",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Enshrined in Article 5 of the Grundgesetz. Meinungsfreiheit ≠ Redefreiheit: Meinungsfreiheit is specifically the freedom to hold and express opinions.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Meinungsfreiheit ist in Artikel 5 des Grundgesetzes verankert.",
+            "en": "Freedom of opinion is enshrined in Article 5 of the Basic Law."
+          },
+          {
+            "de": "Meinungsfreiheit schützt keine Aufrufe zur Gewalt.",
+            "en": "Freedom of opinion does not protect calls for violence."
+          }
+        ],
+        "grammar_notes": "Feminine noun, no plural. Genitive: der Meinungsfreiheit.",
+        "word_family": [
+          "Meinung",
+          "Freiheit",
+          "Pressefreiheit",
+          "Redefreiheit"
+        ],
+        "mnemonic": "Meinung (opinion) + Freiheit (freedom) — the freedom to have and voice opinions",
+        "present_examples": [
+          {
+            "de": "Die Meinungsfreiheit gilt auch für unpopuläre Ansichten.",
+            "en": "Freedom of opinion also applies to unpopular views."
+          }
+        ]
+      },
+      {
+        "id": "Öffentlichkeit",
+        "german": "Öffentlichkeit",
+        "pronunciation": "[ˈʔœfəntlɪçkaɪt]",
+        "pos": "f, -, kein Pl.",
+        "english": "the public / public sphere",
+        "breakdown": [
+          {
+            "part": "öffentlich",
+            "meaning": "public",
+            "note": "adjective"
+          },
+          {
+            "part": "-keit",
+            "meaning": "abstract noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "In der Öffentlichkeit = in public. An die Öffentlichkeit gehen = to go public (with information). Öffentlichkeitsarbeit = public relations.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Behörde hat die Informationen der Öffentlichkeit zugänglich gemacht.",
+            "en": "The authority made the information accessible to the public."
+          },
+          {
+            "de": "Er scheut die Öffentlichkeit und gibt selten Interviews.",
+            "en": "He shies away from the public eye and rarely gives interviews."
+          }
+        ],
+        "grammar_notes": "Feminine noun, no plural. Genitive: der Öffentlichkeit.",
+        "word_family": [
+          "öffentlich",
+          "veröffentlichen",
+          "Öffentlichkeitsarbeit",
+          "Privatheit"
+        ],
+        "mnemonic": "öffentlich (public) + -keit — the abstract realm of what is public",
+        "present_examples": [
+          {
+            "de": "Das Thema hat großes Interesse in der Öffentlichkeit geweckt.",
+            "en": "The topic has aroused great interest among the public."
+          }
+        ]
+      }
+    ]
+  }
+]
