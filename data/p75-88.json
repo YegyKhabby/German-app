@@ -1,0 +1,5032 @@
+[
+  {
+    "day": 1,
+    "book_page": 75,
+    "section": "2.7 Actions and Activities · tail end",
+    "insight": "The zer- prefix is German's destruction prefix — it signals that something is broken apart completely and irreversibly: zerbrechen (shatter), zerreißen (tear apart), zerschlagen (smash), zerquetschen (crush). Verwirklichen comes from wirklich (real/actual), so literally 'to make real'. Realisieren is the international synonym. Wagen always implies courage against risk — the related noun Wagnis means a risky venture. Zulassen is the administrative verb for permitting or licensing: Zulassung zum Studium (university admission), Fahrzeugzulassung (vehicle registration).",
+    "words": [
+      {
+        "id": "verwirklichen",
+        "german": "verwirklichen",
+        "pronunciation": "[fɛrˈvɪrklɪçən]",
+        "pos": "V/t., refl.",
+        "english": "to realise / bring to life",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "intensifier",
+            "note": "inseparable"
+          },
+          {
+            "part": "wirklich",
+            "meaning": "real/actual",
+            "note": "adjective root"
+          },
+          {
+            "part": "-en",
+            "meaning": "verb suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "verwirklichen = bring to life · realisieren = realise (more technical/neutral) · umsetzen = implement (plans). Sich verwirklichen = to fulfil oneself/find self-expression. Related noun: Verwirklichung.",
+        "conjugation": {
+          "prät": "verwirklichte",
+          "perf": "hat verwirklicht",
+          "note": "inseparable",
+          "imperativ": "du: Verwirkliche!  ·  Sie: Verwirklichen Sie!",
+          "imperative": "du: Verwirkliche!  ·  Sie: Verwirklichen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Sie konnte endlich ihren Traum verwirklichen.",
+            "en": "She was finally able to realise her dream."
+          },
+          {
+            "de": "Er verwirklicht sich durch seine Kunst.",
+            "en": "He expresses himself through his art."
+          },
+          {
+            "de": "Nach Jahren harter Arbeit konnte er seinen Traum endlich verwirklichen.",
+            "en": "After years of hard work he was finally able to realise his dream."
+          },
+          {
+            "de": "Nach Jahren harter Arbeit konnte er seinen Traum endlich verwirklichen.",
+            "en": "After years of hard work he was finally able to realise his dream."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Verwirklichung",
+        "german": "Verwirklichung",
+        "pronunciation": "[fɛrˈvɪrklɪçʊŋ]",
+        "pos": "f, -, kein Pl.",
+        "english": "realisation / fulfilment",
+        "breakdown": [
+          {
+            "part": "verwirklichen",
+            "meaning": "to realise",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Die Verwirklichung eines Traums = the realisation of a dream. Selbstverwirklichung = self-realisation (a key concept in German cultural discourse).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Verwirklichung dieses Projekts dauerte drei Jahre.",
+            "en": "The realisation of this project took three years."
+          },
+          {
+            "de": "Die Verwirklichung dieses Projekts dauerte länger als geplant.",
+            "en": "The realisation of this project took longer than planned."
+          },
+          {
+            "de": "Die Verwirklichung dieses Projekts dauerte länger als geplant.",
+            "en": "The realisation of this project took longer than planned."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "verwöhnen",
+        "german": "verwöhnen",
+        "pronunciation": "[fɛrˈvøːnən]",
+        "pos": "V/t.",
+        "english": "to spoil / pamper",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "excess prefix",
+            "note": "inseparable"
+          },
+          {
+            "part": "wöhnen",
+            "meaning": "to accustom",
+            "note": "archaic base — from gewöhnen"
+          }
+        ],
+        "breakdown_note": "Spoil with excessive care or treats. Verwöhnt (adj.) = spoiled/pampered. Ein verwöhntes Kind = a spoilt child. Can be positive: verwöhnt durch guten Kaffee = treated to good coffee.",
+        "conjugation": {
+          "prät": "verwöhnte",
+          "perf": "hat verwöhnt",
+          "note": "inseparable",
+          "imperativ": "du: Verwöhne!  ·  Sie: Verwöhnen Sie!",
+          "imperative": "du: Verwöhne!  ·  Sie: Verwöhnen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Die Großeltern verwöhnen das Kind mit Süßigkeiten.",
+            "en": "The grandparents spoil the child with sweets."
+          },
+          {
+            "de": "Im Urlaub haben wir uns mit gutem Essen verwöhnt.",
+            "en": "On holiday we treated ourselves to good food."
+          },
+          {
+            "de": "Im Urlaub haben wir uns mit gutem Essen verwöhnt.",
+            "en": "On holiday we treated ourselves to good food."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "wagen",
+        "german": "wagen",
+        "pronunciation": "[ˈvaːgən]",
+        "pos": "V/t., refl.",
+        "english": "to dare / venture",
+        "breakdown": [],
+        "breakdown_note": "Always implies courage against risk; sich wagen = dare to go somewhere; Wagnis = risk/venture (related noun). Wer wagt, der gewinnt = nothing ventured, nothing gained. Wagemutig = daring (adjective).",
+        "conjugation": {
+          "prät": "wagte",
+          "perf": "hat gewagt",
+          "note": "regular",
+          "imperativ": "du: Wag!  ·  Sie: Wagen Sie!",
+          "imperative": "du: Wag!  ·  Sie: Wagen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Ich wage es nicht, allein in das dunkle Haus zu gehen.",
+            "en": "I dare not go into the dark house alone."
+          },
+          {
+            "de": "Wer nicht wagt, der nicht gewinnt.",
+            "en": "Nothing ventured, nothing gained."
+          },
+          {
+            "de": "Sie wagte es, dem Chef direkt zu widersprechen.",
+            "en": "She dared to contradict the boss directly."
+          },
+          {
+            "de": "Sie wagte es, dem Chef direkt zu widersprechen.",
+            "en": "She dared to contradict the boss directly."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "wehren",
+        "german": "wehren",
+        "pronunciation": "[ˈveːrən]",
+        "pos": "V/refl.",
+        "english": "to defend / resist",
+        "breakdown": [
+          {
+            "part": "Wehr",
+            "meaning": "defence/resistance",
+            "note": "related noun"
+          },
+          {
+            "part": "-en",
+            "meaning": "verb suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Almost always reflexive: sich wehren (gegen + acc) = to defend oneself against. Abwehren = to ward off. Notwehr = self-defence (legal term). Sich nicht mehr wehren können = to be unable to fight back.",
+        "conjugation": {
+          "prät": "wehrte",
+          "perf": "hat gewehrt",
+          "note": "regular",
+          "imperativ": "du: Wehr dich!  ·  Sie: Wehren Sie sich!",
+          "imperative": "du: Wehr dich!  ·  Sie: Wehren Sie sich!"
+        },
+        "examples": [
+          {
+            "de": "Er wehrte sich gegen die falschen Anschuldigungen.",
+            "en": "He defended himself against the false accusations."
+          },
+          {
+            "de": "Das Kind wehrte sich gegen die ungerechte Behandlung.",
+            "en": "The child defended itself against the unfair treatment."
+          },
+          {
+            "de": "Das Kind wehrte sich gegen die ungerechte Behandlung.",
+            "en": "The child defended itself against the unfair treatment."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "zerbrechen",
+        "german": "zerbrechen",
+        "pronunciation": "[tsɛrˈbrɛçən]",
+        "pos": "V/t., i., refl.",
+        "english": "to shatter / smash",
+        "breakdown": [
+          {
+            "part": "zer-",
+            "meaning": "apart/to pieces",
+            "note": "inseparable prefix: irreversible destruction"
+          },
+          {
+            "part": "brechen",
+            "meaning": "to break",
+            "note": "base verb — irregular"
+          }
+        ],
+        "breakdown_note": "zer- prefix signals breaking apart completely; zerbrechen = shatter, zerreißen = tear apart, zerschlagen = smash. Hat = broke it (transitive); ist = broke on its own (intransitive). Sich den Kopf zerbrechen = to rack one's brains.",
+        "conjugation": {
+          "prät": "zerbrach",
+          "perf": "hat / ist zerbrochen",
+          "note": "irregular — hat = transitive; ist = intransitive",
+          "imperativ": "du: Zerbrich!  ·  Sie: Zerbrechen Sie!",
+          "imperative": "du: Zerbrich!  ·  Sie: Zerbrechen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Die Tasse ist beim Spülen zerbrochen.",
+            "en": "The cup broke while being washed up."
+          },
+          {
+            "de": "Er zerbricht sich den Kopf über das Problem.",
+            "en": "He is racking his brains over the problem."
+          },
+          {
+            "de": "Das Glas ist auf dem Fliesenboden zerbrochen.",
+            "en": "The glass broke on the tiled floor."
+          },
+          {
+            "de": "Das Glas ist auf dem Fliesenboden zerbrochen.",
+            "en": "The glass broke on the tiled floor."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "zerreißen",
+        "german": "zerreißen",
+        "pronunciation": "[tsɛrˈraɪsən]",
+        "pos": "V/t.",
+        "english": "to tear apart",
+        "breakdown": [
+          {
+            "part": "zer-",
+            "meaning": "apart/completely",
+            "note": "inseparable prefix"
+          },
+          {
+            "part": "reißen",
+            "meaning": "to tear",
+            "note": "base verb — irregular"
+          }
+        ],
+        "breakdown_note": "Tear something completely apart. Zerreißprobe = test of endurance (lit. tearing test). Also figurative: Es zerreißt mir das Herz = it breaks my heart.",
+        "conjugation": {
+          "prät": "zerriss",
+          "perf": "hat zerrissen",
+          "note": "irregular · inseparable",
+          "imperativ": "du: Zerreiß!  ·  Sie: Zerreißen Sie!",
+          "imperative": "du: Zerreiß!  ·  Sie: Zerreißen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Er zerriss den Brief in kleine Stücke.",
+            "en": "He tore the letter into small pieces."
+          },
+          {
+            "de": "Er zerriss die falschen Dokumente sofort.",
+            "en": "He immediately tore up the wrong documents."
+          },
+          {
+            "de": "Er zerriss die falschen Dokumente sofort.",
+            "en": "He immediately tore up the wrong documents."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "zudecken",
+        "german": "zudecken",
+        "pronunciation": "[ˈtsuːdɛkən]",
+        "pos": "V/t.",
+        "english": "to cover up / tuck in",
+        "breakdown": [
+          {
+            "part": "zu-",
+            "meaning": "over/closed",
+            "note": "separable prefix"
+          },
+          {
+            "part": "decken",
+            "meaning": "to cover",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Cover up or tuck in. Jemanden zudecken = to tuck someone in (in bed). Zugedeckt = covered up. Synonym in other contexts: abdecken (cover over/uncover).",
+        "conjugation": {
+          "prät": "deckte zu",
+          "perf": "hat zugedeckt",
+          "note": "separable",
+          "imperativ": "du: Deck zu!  ·  Sie: Decken Sie zu!",
+          "imperative": "du: Deck zu!  ·  Sie: Decken Sie zu!"
+        },
+        "examples": [
+          {
+            "de": "Sie deckte das schlafende Kind warm zu.",
+            "en": "She tucked the sleeping child in warmly."
+          },
+          {
+            "de": "Die Mutter deckte das Kind mit einer Wolldecke zu.",
+            "en": "The mother covered the child with a woollen blanket."
+          },
+          {
+            "de": "Die Mutter deckte das Kind mit einer Wolldecke zu.",
+            "en": "The mother covered the child with a woollen blanket."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "zulassen",
+        "german": "zulassen",
+        "pronunciation": "[ˈtsuːlasən]",
+        "pos": "V/t.",
+        "english": "to allow / permit / admit",
+        "breakdown": [
+          {
+            "part": "zu-",
+            "meaning": "towards/in",
+            "note": "separable prefix"
+          },
+          {
+            "part": "lassen",
+            "meaning": "to let/allow",
+            "note": "base verb — irregular"
+          }
+        ],
+        "breakdown_note": "To allow, permit, or admit. Zulassung = admission/licensing. Zum Studium zugelassen werden = to be admitted to university. Fahrzeugzulassung = vehicle registration. Nicht zulassen = to prohibit.",
+        "conjugation": {
+          "prät": "ließ zu",
+          "perf": "hat zugelassen",
+          "note": "separable · irregular",
+          "imperativ": "du: Lass zu!  ·  Sie: Lassen Sie zu!",
+          "imperative": "du: Lass zu!  ·  Sie: Lassen Sie zu!"
+        },
+        "examples": [
+          {
+            "de": "Hunde werden in diesem Restaurant nicht zugelassen.",
+            "en": "Dogs are not allowed in this restaurant."
+          },
+          {
+            "de": "Sie wurde zum Studium an der Universität zugelassen.",
+            "en": "She was admitted to university."
+          },
+          {
+            "de": "Das neue Gesetz lässt keine Ausnahmen zu.",
+            "en": "The new law allows no exceptions."
+          },
+          {
+            "de": "Das neue Gesetz lässt keine Ausnahmen zu.",
+            "en": "The new law allows no exceptions."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "book_page": 76,
+    "section": "2.8 Learning and Knowledge · Lernen und Wissen",
+    "insight": "Beispiel, Begriff, and Bedeutung are the three essential vocabulary words of academic and classroom German. Zum Beispiel (z.B.) = for example; zum Begriff werden = to become a household name; von großer Bedeutung = of great importance. Im Begriff sein + infinitive is an extremely common phrase meaning to be just about to do something. Bildung is one of German's most culturally loaded nouns — it spans education, culture, and personal formation. A 'gebildeter Mensch' (a bildung-having person) implies not just schooling but broad cultural awareness. Bibliothek vs. Bücherei: Bibliothek is larger and academic; Bücherei is smaller and local/public.",
+    "words": [
+      {
+        "id": "zusammenlegen",
+        "german": "zusammenlegen",
+        "pronunciation": "[tsʊˈzamənleːgən]",
+        "pos": "V/t.",
+        "english": "to pool / put together / merge",
+        "breakdown": [
+          {
+            "part": "zusammen-",
+            "meaning": "together",
+            "note": "separable prefix"
+          },
+          {
+            "part": "legen",
+            "meaning": "to lay/put",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Pool resources, merge two organisations, or fold something together. Wir legen unser Geld zusammen = we pool our money. Zusammenlegung = merger/consolidation.",
+        "conjugation": {
+          "prät": "legte zusammen",
+          "perf": "hat zusammengelegt",
+          "note": "separable",
+          "imperativ": "du: Leg zusammen!  ·  Sie: Legen Sie zusammen!",
+          "imperative": "du: Leg zusammen!  ·  Sie: Legen Sie zusammen!"
+        },
+        "examples": [
+          {
+            "de": "Die Schüler legten ihr Geld zusammen und kauften ein Geschenk.",
+            "en": "The pupils pooled their money and bought a present."
+          },
+          {
+            "de": "Wir legen unser Geld zusammen und kaufen ein gemeinsames Geschenk.",
+            "en": "We pool our money and buy a joint present."
+          },
+          {
+            "de": "Wir legen unser Geld zusammen und kaufen ein gemeinsames Geschenk.",
+            "en": "We pool our money and buy a joint present."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "aufschreiben",
+        "german": "aufschreiben",
+        "pronunciation": "[ˈaufʃraɪbən]",
+        "pos": "V/t.",
+        "english": "to write down / note",
+        "breakdown": [
+          {
+            "part": "auf-",
+            "meaning": "onto (paper)",
+            "note": "separable prefix"
+          },
+          {
+            "part": "schreiben",
+            "meaning": "to write",
+            "note": "base verb — irregular"
+          }
+        ],
+        "breakdown_note": "Write down to not forget. Schreib das auf! (Write that down!) Notieren is more formal. Aufschreiben = jot down (casual); notieren = note (formal/official).",
+        "conjugation": {
+          "prät": "schrieb auf",
+          "perf": "hat aufgeschrieben",
+          "note": "separable · irregular",
+          "imperativ": "du: Schreib auf!  ·  Sie: Schreiben Sie auf!",
+          "imperative": "du: Schreib auf!  ·  Sie: Schreiben Sie auf!"
+        },
+        "examples": [
+          {
+            "de": "Schreib dir die Telefonnummer auf, sonst vergisst du sie.",
+            "en": "Write down the phone number, otherwise you'll forget it."
+          },
+          {
+            "de": "Schreib die wichtigsten Punkte der Besprechung auf.",
+            "en": "Write down the most important points of the meeting."
+          },
+          {
+            "de": "Schreib die wichtigsten Punkte der Besprechung auf.",
+            "en": "Write down the most important points of the meeting."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "bedeuten",
+        "german": "bedeuten",
+        "pronunciation": "[bəˈdɔɪtən]",
+        "pos": "V/t.",
+        "english": "to mean / signify",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "inseparable prefix",
+            "note": "transitivizing"
+          },
+          {
+            "part": "deuten",
+            "meaning": "to indicate/interpret",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Mean or signify. Was bedeutet dieses Wort? = What does this word mean? Also expresses importance: Das bedeutet mir viel = that means a lot to me.",
+        "conjugation": {
+          "prät": "bedeutete",
+          "perf": "hat bedeutet",
+          "note": "inseparable",
+          "imperativ": "du: Bedeute!  ·  Sie: Bedeuten Sie!",
+          "imperative": "du: Bedeute!  ·  Sie: Bedeuten Sie!"
+        },
+        "examples": [
+          {
+            "de": "Was bedeutet dieses Wort auf Deutsch?",
+            "en": "What does this word mean in German?"
+          },
+          {
+            "de": "Das bedeutet nicht, dass er recht hat.",
+            "en": "That doesn't mean that he is right."
+          },
+          {
+            "de": "Was bedeutet das Wort 'Fernweh' auf Englisch?",
+            "en": "What does the word 'Fernweh' mean in English?"
+          },
+          {
+            "de": "Was bedeutet das Wort 'Fernweh' auf Englisch?",
+            "en": "What does the word 'Fernweh' mean in English?"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Bedeutung",
+        "german": "Bedeutung",
+        "pronunciation": "[bəˈdɔɪtʊŋ]",
+        "pos": "f, -, -en",
+        "english": "meaning / significance",
+        "breakdown": [
+          {
+            "part": "bedeuten",
+            "meaning": "to mean",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Meaning but also importance. Von großer Bedeutung = of great importance. Bedeutungslos = insignificant/meaningless. Dieses Wort hat mehrere Bedeutungen = this word has several meanings.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Dieses Wort hat mehrere Bedeutungen.",
+            "en": "This word has several meanings."
+          },
+          {
+            "de": "Die Sache ist von großer Bedeutung für uns alle.",
+            "en": "The matter is of great importance for all of us."
+          },
+          {
+            "de": "Der Begriff hat in diesem Kontext eine andere Bedeutung.",
+            "en": "The term has a different meaning in this context."
+          },
+          {
+            "de": "Der Begriff hat in diesem Kontext eine andere Bedeutung.",
+            "en": "The term has a different meaning in this context."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Begabung",
+        "german": "Begabung",
+        "pronunciation": "[bəˈgaːbʊŋ]",
+        "pos": "f, -, -en",
+        "english": "talent / gift",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "Gabe",
+            "meaning": "gift/talent",
+            "note": "noun root"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Natural talent or aptitude. Begabt = gifted (adjective). Eine musikalische/sprachliche Begabung = a musical/linguistic talent. Hochbegabung = exceptional giftedness.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie hat eine außergewöhnliche Begabung für Sprachen.",
+            "en": "She has an exceptional talent for languages."
+          },
+          {
+            "de": "Ihr musikalisches Talent ist eine außergewöhnliche Begabung.",
+            "en": "Her musical talent is an exceptional gift."
+          },
+          {
+            "de": "Ihr musikalisches Talent ist eine außergewöhnliche Begabung.",
+            "en": "Her musical talent is an exceptional gift."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Begriff",
+        "german": "Begriff",
+        "pronunciation": "[bəˈgrɪf]",
+        "pos": "m, -(e)s, -e",
+        "english": "concept / term",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "inseparable prefix",
+            "note": ""
+          },
+          {
+            "part": "greifen",
+            "meaning": "to grasp",
+            "note": "base verb — conceptual grasping"
+          }
+        ],
+        "breakdown_note": "Concept, term, or notion. Im Begriff sein + infinitive = to be just about to do something (very common phrase). Grundbegriff = basic concept. Fachbegriff = technical term.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das ist ein wichtiger Begriff in der Grammatik.",
+            "en": "That is an important term in grammar."
+          },
+          {
+            "de": "Er war gerade im Begriff zu gehen, als das Telefon klingelte.",
+            "en": "He was just about to leave when the phone rang."
+          },
+          {
+            "de": "Er war im Begriff, das Gebäude zu verlassen, als es klingelte.",
+            "en": "He was about to leave the building when the bell rang."
+          },
+          {
+            "de": "Er war im Begriff, das Gebäude zu verlassen, als es klingelte.",
+            "en": "He was about to leave the building when the bell rang."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Beispiel",
+        "german": "Beispiel",
+        "pronunciation": "[ˈbaɪʃpiːl]",
+        "pos": "n, -(e)s, -e",
+        "english": "example",
+        "breakdown": [
+          {
+            "part": "bei-",
+            "meaning": "alongside/by way of",
+            "note": ""
+          },
+          {
+            "part": "Spiel",
+            "meaning": "play/show",
+            "note": "root — showing by demonstration"
+          }
+        ],
+        "breakdown_note": "Zum Beispiel (z.B.) = for example. Ein Beispiel geben = to give an example. Beispielsweise = for example (slightly more formal). Zum Beispiel nehmen = to take as an example.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Kannst du mir ein Beispiel geben?",
+            "en": "Can you give me an example?"
+          },
+          {
+            "de": "Zum Beispiel kann man das so lösen.",
+            "en": "For example you can solve it this way."
+          },
+          {
+            "de": "Können Sie das bitte an einem konkreten Beispiel erläutern?",
+            "en": "Could you please explain that with a concrete example?"
+          },
+          {
+            "de": "Können Sie das bitte an einem konkreten Beispiel erläutern?",
+            "en": "Could you please explain that with a concrete example?"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Bibliothek",
+        "german": "Bibliothek",
+        "pronunciation": "[bibliɔˈteːk]",
+        "pos": "f, -, -en",
+        "english": "library",
+        "breakdown": [
+          {
+            "part": "Biblio-",
+            "meaning": "book (Greek)",
+            "note": "from Greek biblion = book"
+          },
+          {
+            "part": "-thek",
+            "meaning": "collection (Greek)",
+            "note": "from Greek theke = depository"
+          }
+        ],
+        "breakdown_note": "Academic or university library. Bücherei (Day 6) is smaller and local. Nationalbibliothek = national library. Bibliothekar = librarian.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe das Buch aus der Bibliothek ausgeliehen.",
+            "en": "I borrowed the book from the library."
+          },
+          {
+            "de": "Die Universitätsbibliothek hat eine riesige Sammlung alter Manuskripte.",
+            "en": "The university library has a huge collection of old manuscripts."
+          },
+          {
+            "de": "Die Universitätsbibliothek hat eine riesige Sammlung alter Manuskripte.",
+            "en": "The university library has a huge collection of old manuscripts."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Bildung",
+        "german": "Bildung",
+        "pronunciation": "[ˈbɪldʊŋ]",
+        "pos": "f, -, kein Pl.",
+        "english": "education / culture / formation",
+        "breakdown": [
+          {
+            "part": "bilden",
+            "meaning": "to form/educate",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "One of German's most culturally loaded nouns — spans schooling, culture, and personal formation. Allgemeinbildung = general education. Berufsbildung = vocational training. Ein gebildeter Mensch = a well-educated/cultured person.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Bildung ist wichtiger als ein gutes Gehalt.",
+            "en": "Education is more important than a good salary."
+          },
+          {
+            "de": "Eine gute Bildung öffnet viele Türen im Berufsleben.",
+            "en": "A good education opens many doors in professional life."
+          },
+          {
+            "de": "Eine gute Bildung öffnet viele Türen im Berufsleben.",
+            "en": "A good education opens many doors in professional life."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "book_page": 77,
+    "section": "2.8 Learning and Knowledge (continued)",
+    "insight": "Geschichte is a beautiful double: die Geschichte = history (the course of events) AND a story or tale (eine Geschichte erzählen = to tell a story). Fortschritt literally means a forward step (fort = forward, Schritt = step) — Fortschritte machen (make progress) is nearly always used in the plural. Buch vs. Buchstabe: a Buchstabe (letter) is literally a 'book stick' — the word comes from the ancient Germanic practice of carving runes on wooden staves. Fähig and fähig-sein are versatile: Er ist nicht fähig dazu (he is not capable of it), Fähigkeiten (skills/abilities, almost always plural in job contexts).",
+    "words": [
+      {
+        "id": "Buch",
+        "german": "Buch",
+        "pronunciation": "[buːx]",
+        "pos": "n, -(e)s, Bücher",
+        "english": "book",
+        "breakdown": [],
+        "breakdown_note": "Plural: Bücher (umlaut). Key compounds: Taschenbuch (paperback), Lehrbuch (textbook), Notizbuch (notebook), Bilderbuch (picture book). Ein Buch lesen / schreiben / veröffentlichen.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich lese gerade ein sehr spannendes Buch.",
+            "en": "I'm currently reading a very exciting book."
+          },
+          {
+            "de": "Dieses Buch hat mein Leben verändert.",
+            "en": "This book changed my life."
+          },
+          {
+            "de": "Dieses Buch hat mein Leben verändert.",
+            "en": "This book changed my life."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Buchstabe",
+        "german": "Buchstabe",
+        "pronunciation": "[ˈbuːxʃtaːbə]",
+        "pos": "m, -ns, -n",
+        "english": "letter (of the alphabet)",
+        "breakdown": [
+          {
+            "part": "Buch",
+            "meaning": "book",
+            "note": "first element"
+          },
+          {
+            "part": "Stabe/Stab",
+            "meaning": "staff/stick",
+            "note": "second element — ancient letters carved on wood"
+          }
+        ],
+        "breakdown_note": "Großbuchstabe = capital letter, Kleinbuchstabe = lowercase. Deutsche Buchstaben include Ä, Ö, Ü, and ß. Always use buchstabieren to spell out.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das deutsche Alphabet hat 26 Buchstaben plus Ä, Ö, Ü und ß.",
+            "en": "The German alphabet has 26 letters plus Ä, Ö, Ü and ß."
+          },
+          {
+            "de": "Der Buchstabe 'ß' kommt nur im Deutschen vor.",
+            "en": "The letter 'ß' only occurs in German."
+          },
+          {
+            "de": "Der Buchstabe 'ß' kommt nur im Deutschen vor.",
+            "en": "The letter 'ß' only occurs in German."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Fach",
+        "german": "Fach",
+        "pronunciation": "[fax]",
+        "pos": "n, -(e)s, Fächer",
+        "english": "subject / field / compartment",
+        "breakdown": [],
+        "breakdown_note": "School/academic subject (Lieblingsfach = favourite subject) or professional field. Fachmann = specialist, Fachgebiet = field of expertise. Also a physical compartment: Briefkasten mit mehreren Fächern.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Mein Lieblingsfach in der Schule war Biologie.",
+            "en": "My favourite subject at school was biology."
+          },
+          {
+            "de": "Mathematik ist nicht mein stärkstes Fach.",
+            "en": "Mathematics is not my strongest subject."
+          },
+          {
+            "de": "Mathematik ist nicht mein stärkstes Fach.",
+            "en": "Mathematics is not my strongest subject."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Forschung",
+        "german": "Forschung",
+        "pronunciation": "[ˈfɔrʃʊŋ]",
+        "pos": "f, -, kein Pl.",
+        "english": "research",
+        "breakdown": [
+          {
+            "part": "forschen",
+            "meaning": "to research",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Scientific or academic research. Grundlagenforschung = fundamental research. Forschungsergebnis = research result. Forschungsreise = research expedition.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Universität investiert viel Geld in die Forschung.",
+            "en": "The university invests a lot of money in research."
+          },
+          {
+            "de": "Die medizinische Forschung hat in den letzten Jahren große Fortschritte gemacht.",
+            "en": "Medical research has made great progress in recent years."
+          },
+          {
+            "de": "Die medizinische Forschung hat in den letzten Jahren große Fortschritte gemacht.",
+            "en": "Medical research has made great progress in recent years."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Fortschritt",
+        "german": "Fortschritt",
+        "pronunciation": "[ˈfɔrtʃrɪt]",
+        "pos": "m, -(e)s, -e",
+        "english": "progress",
+        "breakdown": [
+          {
+            "part": "fort-",
+            "meaning": "forward/onwards",
+            "note": "prefix"
+          },
+          {
+            "part": "Schritt",
+            "meaning": "step",
+            "note": "noun"
+          }
+        ],
+        "breakdown_note": "Moving forward step by step. Fortschritte machen = to make progress (often plural). Fortschrittlich = progressive (Day 7). Rückschritt = regression/step backward.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der technische Fortschritt geht immer schneller voran.",
+            "en": "Technological progress is advancing ever faster."
+          },
+          {
+            "de": "Die Studentin macht große Fortschritte beim Deutschlernen.",
+            "en": "The student is making great progress in learning German."
+          },
+          {
+            "de": "Die Studentin macht große Fortschritte beim Deutschlernen.",
+            "en": "The student is making great progress in learning German."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "fähig",
+        "german": "fähig",
+        "pronunciation": "[ˈfɛːɪç]",
+        "pos": "Adj.",
+        "english": "capable / able",
+        "breakdown": [],
+        "breakdown_note": "Capable of doing something — takes infinitive with zu: Er ist fähig, das zu lösen. Unfähig = incapable. Note: in der Lage sein and imstande sein (Day 8) are close synonyms.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er ist zu allem fähig, wenn er will.",
+            "en": "He is capable of anything when he wants to be."
+          },
+          {
+            "de": "Sie ist zu mehr fähig, als sie selbst glaubt.",
+            "en": "She is capable of more than she herself believes."
+          },
+          {
+            "de": "Sie ist zu mehr fähig, als sie selbst glaubt.",
+            "en": "She is capable of more than she herself believes."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Fähigkeit",
+        "german": "Fähigkeit",
+        "pronunciation": "[ˈfɛːɪçkaɪt]",
+        "pos": "f, -, -en",
+        "english": "ability / skill",
+        "breakdown": [
+          {
+            "part": "fähig",
+            "meaning": "capable",
+            "note": "adjective root"
+          },
+          {
+            "part": "-keit",
+            "meaning": "-ness/-ty",
+            "note": "noun suffix"
+          }
+        ],
+        "breakdown_note": "Skill, ability, or capacity. Plural often used: seine Fähigkeiten zeigen (show one's abilities). Natürliche Fähigkeit = natural aptitude. Schlüsselkompetenz/Fähigkeit = key skill.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Diese Aufgabe erfordert besondere Fähigkeiten.",
+            "en": "This task requires special abilities."
+          },
+          {
+            "de": "Die Fähigkeit zuzuhören ist in jedem Beruf wichtig.",
+            "en": "The ability to listen is important in every profession."
+          },
+          {
+            "de": "Die Fähigkeit zuzuhören ist in jedem Beruf wichtig.",
+            "en": "The ability to listen is important in every profession."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Germanistik",
+        "german": "Germanistik",
+        "pronunciation": "[gɛrmaˈnɪstɪk]",
+        "pos": "f, -, kein Pl.",
+        "english": "German studies",
+        "breakdown": [
+          {
+            "part": "German-",
+            "meaning": "German language/literature",
+            "note": "root"
+          },
+          {
+            "part": "-istik",
+            "meaning": "-ics/study of",
+            "note": "suffix"
+          }
+        ],
+        "breakdown_note": "Academic study of German language and literature. Ein Student der Germanistik = a German studies student. Anglistik = English studies; Romanistik = Romance studies.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie studiert Germanistik an der Humboldt-Universität in Berlin.",
+            "en": "She studies German at the Humboldt University in Berlin."
+          },
+          {
+            "de": "Nach dem Germanistikstudium möchte sie Lehrerin werden.",
+            "en": "After her German studies she wants to become a teacher."
+          },
+          {
+            "de": "Nach dem Germanistikstudium möchte sie Lehrerin werden.",
+            "en": "After her German studies she wants to become a teacher."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Geschichte",
+        "german": "Geschichte",
+        "pronunciation": "[gəˈʃɪçtə]",
+        "pos": "f, -, -n",
+        "english": "history / story",
+        "breakdown": [
+          {
+            "part": "geschehen",
+            "meaning": "to happen",
+            "note": "related verb"
+          }
+        ],
+        "breakdown_note": "Two meanings: history (die Geschichte = history as subject) and story/tale (eine Geschichte erzählen = to tell a story). Geschichtsbuch = history book. Weltgeschichte = world history.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Geschichte war mein Lieblingsfach in der Schule.",
+            "en": "History was my favourite subject at school."
+          },
+          {
+            "de": "Er erzählt seinen Kindern immer eine Geschichte vor dem Schlafen.",
+            "en": "He always tells his children a story before bed."
+          },
+          {
+            "de": "Er erzählt den Kindern immer spannende Geschichten zum Einschlafen.",
+            "en": "He always tells the children exciting stories to go to sleep."
+          },
+          {
+            "de": "Er erzählt den Kindern immer spannende Geschichten zum Einschlafen.",
+            "en": "He always tells the children exciting stories to go to sleep."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "geschichtlich",
+        "german": "geschichtlich",
+        "pronunciation": "[gəˈʃɪçtlɪç]",
+        "pos": "Adj.",
+        "english": "historical",
+        "breakdown": [
+          {
+            "part": "Geschichte",
+            "meaning": "history",
+            "note": "noun root"
+          },
+          {
+            "part": "-lich",
+            "meaning": "-al/-ic",
+            "note": "adjectival suffix"
+          }
+        ],
+        "breakdown_note": "Historical in the scholarly sense. Near-synonym: historisch (Day 7 — more international in tone). Geschichtliche Ereignisse = historical events. Geschichtlich bedeutsam = historically significant.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das ist ein geschichtlich bedeutsames Ereignis.",
+            "en": "This is a historically significant event."
+          },
+          {
+            "de": "Der Fall der Berliner Mauer war ein geschichtlich bedeutsames Ereignis.",
+            "en": "The fall of the Berlin Wall was a historically significant event."
+          },
+          {
+            "de": "Der Fall der Berliner Mauer war ein geschichtlich bedeutsames Ereignis.",
+            "en": "The fall of the Berlin Wall was a historically significant event."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Korrektur",
+        "german": "Korrektur",
+        "pronunciation": "[kɔrɛkˈtuːr]",
+        "pos": "f, -, -en",
+        "english": "correction / proofreading",
+        "breakdown": [
+          {
+            "part": "korrigieren",
+            "meaning": "to correct",
+            "note": "related verb — from Latin corrigere"
+          }
+        ],
+        "breakdown_note": "Correction or proofreading. Korrekturen machen/anbringen = to make corrections. Korrekturlesen = proofreading. Korrekturabzug = proof copy (publishing).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Lehrer machte viele Korrekturen in meinem Aufsatz.",
+            "en": "The teacher made many corrections in my essay."
+          },
+          {
+            "de": "Bitte lesen Sie den Text noch einmal zur Korrektur durch.",
+            "en": "Please read the text again to check for corrections."
+          },
+          {
+            "de": "Bitte lesen Sie den Text noch einmal zur Korrektur durch.",
+            "en": "Please read the text again to check for corrections."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "book_page": 78,
+    "section": "2.8 Learning and Knowledge (continued)",
+    "insight": "Lehren vs. lernen is a classic false-friend trap for English speakers: lehren = to teach, lernen = to learn — the direction is opposite to English 'learn'/'teach'. Lesen is a strong verb: las / hat gelesen — and forms vorlesen (read aloud), anlesen (start reading), durchlesen (read through). Rechnen with means to count on or expect something: Ich rechne mit Regen (I'm expecting rain) — not only arithmetic. Probe covers trial, test, AND rehearsal; auf Probe = on a trial basis.",
+    "words": [
+      {
+        "id": "korrigieren",
+        "german": "korrigieren",
+        "pronunciation": "[kɔriˈgiːrən]",
+        "pos": "V/t.",
+        "english": "to correct",
+        "breakdown": [
+          {
+            "part": "Korrektur",
+            "meaning": "correction",
+            "note": "related noun"
+          }
+        ],
+        "breakdown_note": "Correct mistakes in writing or speech. Hefte korrigieren = mark exercise books. Compare: berichtigen (correct a factual error), verbessern (improve quality).",
+        "conjugation": {
+          "prät": "korrigierte",
+          "perf": "hat korrigiert",
+          "note": "regular (borrowed verb)",
+          "imperativ": "du: Korrigiere!  ·  Sie: Korrigieren Sie!",
+          "imperative": "du: Korrigiere!  ·  Sie: Korrigieren Sie!"
+        },
+        "examples": [
+          {
+            "de": "Er korrigierte die Fehler in meinem Aufsatz.",
+            "en": "He corrected the mistakes in my essay."
+          },
+          {
+            "de": "Die Lehrerin korrigiert die Aufsätze ihrer Schüler über das Wochenende.",
+            "en": "The teacher marks her pupils' essays over the weekend."
+          },
+          {
+            "de": "Die Lehrerin korrigiert die Aufsätze ihrer Schüler über das Wochenende.",
+            "en": "The teacher marks her pupils' essays over the weekend."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "lehren",
+        "german": "lehren",
+        "pronunciation": "[ˈleːrən]",
+        "pos": "V/t.",
+        "english": "to teach",
+        "breakdown": [
+          {
+            "part": "Lehrer",
+            "meaning": "teacher",
+            "note": "related noun"
+          }
+        ],
+        "breakdown_note": "lehren = to teach (convey knowledge, often at university level) · unterrichten = to teach/instruct (in a classroom, institutional). Ein Fach lehren = to teach a subject. Lehre = teaching/apprenticeship.",
+        "conjugation": {
+          "prät": "lehrte",
+          "perf": "hat gelehrt",
+          "note": "regular",
+          "imperativ": "du: Lehr!  ·  Sie: Lehren Sie!",
+          "imperative": "du: Lehr!  ·  Sie: Lehren Sie!"
+        },
+        "examples": [
+          {
+            "de": "Sie lehrt Mathematik an der Universität.",
+            "en": "She teaches mathematics at the university."
+          },
+          {
+            "de": "Erfahrung lehrt uns, was kein Buch erklären kann.",
+            "en": "Experience teaches us what no book can explain."
+          },
+          {
+            "de": "Erfahrung lehrt uns, was kein Buch erklären kann.",
+            "en": "Experience teaches us what no book can explain."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Lehrer",
+        "german": "Lehrer",
+        "pronunciation": "[ˈleːrər]",
+        "pos": "m, -s, -",
+        "english": "teacher",
+        "breakdown": [
+          {
+            "part": "lehren",
+            "meaning": "to teach",
+            "note": "verb"
+          },
+          {
+            "part": "-er",
+            "meaning": "agent noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Male teacher (f: Lehrerin). Plural: Lehrer (no change). Grundschullehrer = primary school teacher. Klassenlehrer = form teacher. Lehrerzimmer = staff room.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Unser Deutschlehrer erklärt sehr verständlich.",
+            "en": "Our German teacher explains very clearly."
+          },
+          {
+            "de": "Unser Geschichtslehrer erklärt die Themen immer sehr lebendig.",
+            "en": "Our history teacher always explains the topics very vividly."
+          },
+          {
+            "de": "Unser Geschichtslehrer erklärt die Themen immer sehr lebendig.",
+            "en": "Our history teacher always explains the topics very vividly."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "lernen",
+        "german": "lernen",
+        "pronunciation": "[ˈlɛrnən]",
+        "pos": "V/t., i.",
+        "english": "to learn",
+        "breakdown": [],
+        "breakdown_note": "lernen = learn (acquire skill/knowledge) · studieren = study at university · üben = practise (already known). Auswendig lernen = to learn by heart. Lernziel = learning objective.",
+        "conjugation": {
+          "prät": "lernte",
+          "perf": "hat gelernt",
+          "note": "regular",
+          "imperativ": "du: Lerne!  ·  Sie: Lernen Sie!",
+          "imperative": "du: Lerne!  ·  Sie: Lernen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Sie lernt seit drei Jahren Deutsch.",
+            "en": "She has been learning German for three years."
+          },
+          {
+            "de": "Er lernte das Gedicht auswendig.",
+            "en": "He learned the poem by heart."
+          },
+          {
+            "de": "Man lernt nie aus — das ganze Leben lang.",
+            "en": "You never stop learning — throughout your whole life."
+          },
+          {
+            "de": "Man lernt nie aus — das ganze Leben lang.",
+            "en": "You never stop learning — throughout your whole life."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "lesen",
+        "german": "lesen",
+        "pronunciation": "[ˈleːzən]",
+        "pos": "V/t., i.",
+        "english": "to read",
+        "breakdown": [],
+        "breakdown_note": "Strong verb (las/gelesen). Present: ich lese, du liest, er liest. Vorlesen = read aloud, anlesen = start reading, durchlesen = read through. Lesezeichen = bookmark.",
+        "conjugation": {
+          "prät": "las",
+          "perf": "hat gelesen",
+          "note": "irregular — e→ie: du liest / er liest",
+          "imperativ": "du: Lies!  ·  Sie: Lesen Sie!",
+          "imperative": "du: Lies!  ·  Sie: Lesen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Ich lese jeden Abend vor dem Schlafen.",
+            "en": "I read every evening before sleeping."
+          },
+          {
+            "de": "Er liest sehr schnell.",
+            "en": "He reads very quickly."
+          },
+          {
+            "de": "Hast du den neuen Roman von ihr schon gelesen?",
+            "en": "Have you already read her new novel?"
+          },
+          {
+            "de": "Hast du den neuen Roman von ihr schon gelesen?",
+            "en": "Have you already read her new novel?"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Methode",
+        "german": "Methode",
+        "pronunciation": "[meˈtoːdə]",
+        "pos": "f, -, -n",
+        "english": "method",
+        "breakdown": [
+          {
+            "part": "Methodo-",
+            "meaning": "path/way (Greek)",
+            "note": "from Greek methodos = pursuit"
+          }
+        ],
+        "breakdown_note": "Method or approach. Plural: Methoden. Lehrmethode = teaching method. Methodisch = methodical. Eine Methode anwenden = to apply a method.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Diese Lehrmethode ist sehr effektiv.",
+            "en": "This teaching method is very effective."
+          },
+          {
+            "de": "Wir brauchen eine neue Methode, um dieses Problem zu lösen.",
+            "en": "We need a new method to solve this problem."
+          },
+          {
+            "de": "Wir brauchen eine neue Methode, um dieses Problem zu lösen.",
+            "en": "We need a new method to solve this problem."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Naturwissenschaft",
+        "german": "Naturwissenschaft",
+        "pronunciation": "[naˈtuːrvɪsənʃaft]",
+        "pos": "f, -, -en",
+        "english": "natural science",
+        "breakdown": [
+          {
+            "part": "Natur",
+            "meaning": "nature",
+            "note": "first component"
+          },
+          {
+            "part": "Wissenschaft",
+            "meaning": "science",
+            "note": "second component"
+          }
+        ],
+        "breakdown_note": "Often plural: die Naturwissenschaften (the sciences). Naturwissenschaftler = natural scientist. Contrast: Geisteswissenschaften = humanities.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Physik, Chemie und Biologie sind Naturwissenschaften.",
+            "en": "Physics, chemistry and biology are natural sciences."
+          },
+          {
+            "de": "Naturwissenschaften und Geisteswissenschaften ergänzen sich gegenseitig.",
+            "en": "Natural sciences and humanities complement each other."
+          },
+          {
+            "de": "Naturwissenschaften und Geisteswissenschaften ergänzen sich gegenseitig.",
+            "en": "Natural sciences and humanities complement each other."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Probe",
+        "german": "Probe",
+        "pronunciation": "[ˈproːbə]",
+        "pos": "f, -, -n",
+        "english": "trial / test / rehearsal",
+        "breakdown": [],
+        "breakdown_note": "Three uses: trial (auf Probe = on a trial basis), test/sample, and rehearsal (Theaterprobe = theatre rehearsal). Auf die Probe stellen = to put to the test. Probefahrt = test drive.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Morgen haben wir eine Probe für das Konzert.",
+            "en": "Tomorrow we have a rehearsal for the concert."
+          },
+          {
+            "de": "Die letzte Probe vor dem Konzert verlief sehr gut.",
+            "en": "The last rehearsal before the concert went very well."
+          },
+          {
+            "de": "Die letzte Probe vor dem Konzert verlief sehr gut.",
+            "en": "The last rehearsal before the concert went very well."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "rechnen",
+        "german": "rechnen",
+        "pronunciation": "[ˈrɛçnən]",
+        "pos": "V/t., i.",
+        "english": "to calculate / reckon",
+        "breakdown": [
+          {
+            "part": "Rechnung",
+            "meaning": "bill/calculation",
+            "note": "related noun"
+          }
+        ],
+        "breakdown_note": "Calculate or do arithmetic. Rechnen mit = expect/reckon with something: Ich rechne mit Regen = I'm expecting rain. Rechner = calculator/computer. Im Kopf rechnen = mental arithmetic.",
+        "conjugation": {
+          "prät": "rechnete",
+          "perf": "hat gerechnet",
+          "note": "regular",
+          "imperativ": "du: Rechne!  ·  Sie: Rechnen Sie!",
+          "imperative": "du: Rechne!  ·  Sie: Rechnen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Kannst du im Kopf rechnen?",
+            "en": "Can you calculate in your head?"
+          },
+          {
+            "de": "Wir rechnen mit einer Verzögerung.",
+            "en": "We are expecting a delay."
+          },
+          {
+            "de": "Ich habe nicht mit so vielen Gästen gerechnet.",
+            "en": "I had not reckoned on so many guests."
+          },
+          {
+            "de": "Ich habe nicht mit so vielen Gästen gerechnet.",
+            "en": "I had not reckoned on so many guests."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Rechnung",
+        "german": "Rechnung",
+        "pronunciation": "[ˈrɛçnʊŋ]",
+        "pos": "f, -, -en",
+        "english": "bill / invoice / calculation",
+        "breakdown": [
+          {
+            "part": "rechnen",
+            "meaning": "to calculate",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Bill (in a restaurant/shop), invoice, or arithmetic calculation. Rechnung bezahlen = to pay the bill. Auf Rechnung kaufen = to buy on account. In Rechnung stellen = to invoice.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Kann ich bitte die Rechnung haben?",
+            "en": "Could I have the bill please?"
+          },
+          {
+            "de": "Die Rechnung war höher als erwartet.",
+            "en": "The bill was higher than expected."
+          },
+          {
+            "de": "Die Rechnung war höher als erwartet.",
+            "en": "The bill was higher than expected."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "book_page": 79,
+    "section": "2.8 Learning and Knowledge (continued)",
+    "insight": "Schwer vs. schwierig: schwer has two meanings — heavy (physical weight) and difficult — while schwierig only ever means difficult. Es ist schwer zu sagen (it is hard to say) uses schwer, never schwierig. Wissen vs. kennen vs. können: wissen = know a fact (Ich weiß, wo er ist), kennen = know a person or place (Ich kenne Berlin), können = know how to do something. Seite means both page and side — context is always clear. Wort has two plurals: Wörter for individual dictionary words, Worte for meaningful words in context (Worte des Dankes = words of thanks).",
+    "words": [
+      {
+        "id": "schwer",
+        "german": "schwer",
+        "pronunciation": "[ʃveːr]",
+        "pos": "Adj./Adv.",
+        "english": "heavy / difficult / serious",
+        "breakdown": [],
+        "breakdown_note": "schwer can mean heavy (weight) AND difficult — context distinguishes. schwierig only means difficult. Ein schwerer Fehler = a serious mistake. Schwergewicht = heavyweight. Es ist schwer zu sagen = it's hard to say.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Koffer ist sehr schwer.",
+            "en": "The suitcase is very heavy."
+          },
+          {
+            "de": "Das war eine schwere Prüfung.",
+            "en": "That was a difficult exam."
+          },
+          {
+            "de": "Es fällt mir schwer, mich zu konzentrieren, wenn es laut ist.",
+            "en": "I find it hard to concentrate when it is noisy."
+          },
+          {
+            "de": "Es fällt mir schwer, mich zu konzentrieren, wenn es laut ist.",
+            "en": "I find it hard to concentrate when it is noisy."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "schwierig",
+        "german": "schwierig",
+        "pronunciation": "[ˈʃviːrɪç]",
+        "pos": "Adj.",
+        "english": "difficult",
+        "breakdown": [],
+        "breakdown_note": "Only means difficult — never heavy. Schwierigkeit = difficulty. Eine schwierige Aufgabe = a difficult task. Schwierigkeitsgrad = level of difficulty.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Dieses Rätsel ist wirklich schwierig.",
+            "en": "This puzzle is really difficult."
+          },
+          {
+            "de": "Der Test war so schwierig, dass viele ihn nicht bestanden.",
+            "en": "The test was so difficult that many did not pass it."
+          },
+          {
+            "de": "Der Test war so schwierig, dass viele ihn nicht bestanden.",
+            "en": "The test was so difficult that many did not pass it."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Seite",
+        "german": "Seite",
+        "pronunciation": "[ˈzaɪtə]",
+        "pos": "f, -, -n",
+        "english": "page / side",
+        "breakdown": [],
+        "breakdown_note": "Two meanings: page (auf Seite drei = on page three) and side (auf der rechten Seite = on the right-hand side). Zur Seite gehen = step aside. Einseitig = one-sided.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Schlag das Buch auf Seite 47 auf.",
+            "en": "Open the book to page 47."
+          },
+          {
+            "de": "Das Krankenhaus liegt auf der linken Seite.",
+            "en": "The hospital is on the left side."
+          },
+          {
+            "de": "Ich habe das Buch bis zur letzten Seite gelesen.",
+            "en": "I read the book right up to the last page."
+          },
+          {
+            "de": "Ich habe das Buch bis zur letzten Seite gelesen.",
+            "en": "I read the book right up to the last page."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Theorie",
+        "german": "Theorie",
+        "pronunciation": "[teoˈriː]",
+        "pos": "f, -, -n",
+        "english": "theory",
+        "breakdown": [
+          {
+            "part": "Greek theoria",
+            "meaning": "observation/contemplation",
+            "note": "from theorein = to observe"
+          }
+        ],
+        "breakdown_note": "Theory. In der Theorie vs. in der Praxis = in theory vs. in practice. Theoretisch = theoretical. Eine Theorie aufstellen = to put forward a theory. Verschwörungstheorie = conspiracy theory.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "In der Theorie klingt das gut, aber in der Praxis ist es schwierig.",
+            "en": "In theory that sounds good, but in practice it is difficult."
+          },
+          {
+            "de": "Seine Theorie wurde von anderen Wissenschaftlern angezweifelt.",
+            "en": "His theory was questioned by other scientists."
+          },
+          {
+            "de": "Seine Theorie wurde von anderen Wissenschaftlern angezweifelt.",
+            "en": "His theory was questioned by other scientists."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "wissen",
+        "german": "wissen",
+        "pronunciation": "[ˈvɪsən]",
+        "pos": "V/t.",
+        "english": "to know (a fact)",
+        "breakdown": [],
+        "breakdown_note": "wissen = know a fact · kennen = know a person or place · können = know how to do something. Irregular present: ich weiß, du weißt, er weiß. No imperative form. Soweit ich weiß = as far as I know.",
+        "conjugation": {
+          "prät": "wusste",
+          "perf": "hat gewusst",
+          "note": "irregular modal-type verb — ich weiß (present)"
+        },
+        "examples": [
+          {
+            "de": "Ich weiß nicht, wo er jetzt ist.",
+            "en": "I don't know where he is now."
+          },
+          {
+            "de": "Weißt du, wann der Zug abfährt?",
+            "en": "Do you know when the train departs?"
+          },
+          {
+            "de": "Weißt du schon, wann die Prüfung stattfindet?",
+            "en": "Do you already know when the exam is taking place?"
+          },
+          {
+            "de": "Weißt du schon, wann die Prüfung stattfindet?",
+            "en": "Do you already know when the exam is taking place?"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Wissen",
+        "german": "Wissen",
+        "pronunciation": "[ˈvɪsən]",
+        "pos": "n, -s, kein Pl.",
+        "english": "knowledge",
+        "breakdown": [
+          {
+            "part": "wissen",
+            "meaning": "to know",
+            "note": "verb — noun form of infinitive"
+          }
+        ],
+        "breakdown_note": "Knowledge. Meines Wissens = to my knowledge. Wissensdurst = thirst for knowledge. Wissenslücke = gap in knowledge. Allgemeinwissen = general knowledge.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ihr Wissen auf diesem Gebiet ist beeindruckend.",
+            "en": "Her knowledge in this field is impressive."
+          },
+          {
+            "de": "Wissen ist Macht — das gilt heute mehr denn je.",
+            "en": "Knowledge is power — that is truer today than ever."
+          },
+          {
+            "de": "Wissen ist Macht — das gilt heute mehr denn je.",
+            "en": "Knowledge is power — that is truer today than ever."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Wissenschaft",
+        "german": "Wissenschaft",
+        "pronunciation": "[ˈvɪsənʃaft]",
+        "pos": "f, -, -en",
+        "english": "science / academic discipline",
+        "breakdown": [
+          {
+            "part": "Wissen",
+            "meaning": "knowledge",
+            "note": "first element"
+          },
+          {
+            "part": "-schaft",
+            "meaning": "-ship/field",
+            "note": "collective suffix"
+          }
+        ],
+        "breakdown_note": "Science or academic discipline. Die Wissenschaften = the sciences. Wissenschaftsfreiheit = academic freedom. Covers both Natur- and Geisteswissenschaften.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Wissenschaft hat in den letzten Jahrzehnten enorme Fortschritte gemacht.",
+            "en": "Science has made enormous progress in recent decades."
+          },
+          {
+            "de": "Die Wissenschaft kann nicht alle Fragen des Lebens beantworten.",
+            "en": "Science cannot answer all of life's questions."
+          },
+          {
+            "de": "Die Wissenschaft kann nicht alle Fragen des Lebens beantworten.",
+            "en": "Science cannot answer all of life's questions."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Wissenschaftler",
+        "german": "Wissenschaftler",
+        "pronunciation": "[ˈvɪsənʃaftlər]",
+        "pos": "m, -s, -",
+        "english": "scientist / scholar",
+        "breakdown": [
+          {
+            "part": "Wissenschaft",
+            "meaning": "science",
+            "note": "base"
+          },
+          {
+            "part": "-ler",
+            "meaning": "person suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Scientist or scholar. Female: Wissenschaftlerin. Naturwissenschaftler = natural scientist. Sozialwissenschaftler = social scientist.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Wissenschaftler haben eine neue Behandlung entwickelt.",
+            "en": "The scientists have developed a new treatment."
+          },
+          {
+            "de": "Die Wissenschaftlerin erhielt den Nobelpreis für ihre Forschung.",
+            "en": "The scientist received the Nobel Prize for her research."
+          },
+          {
+            "de": "Die Wissenschaftlerin erhielt den Nobelpreis für ihre Forschung.",
+            "en": "The scientist received the Nobel Prize for her research."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "wissenschaftlich",
+        "german": "wissenschaftlich",
+        "pronunciation": "[ˈvɪsənʃaftlɪç]",
+        "pos": "Adj./Adv.",
+        "english": "scientific / scholarly",
+        "breakdown": [
+          {
+            "part": "Wissenschaft",
+            "meaning": "science",
+            "note": "base"
+          },
+          {
+            "part": "-lich",
+            "meaning": "-ic/-al",
+            "note": "suffix"
+          }
+        ],
+        "breakdown_note": "Scientific or scholarly. Wissenschaftliche Arbeit = scientific/scholarly work. Nicht wissenschaftlich = unscientific. Wissenschaftlich bewiesen = scientifically proven.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Experiment lieferte wissenschaftlich wertvolle Ergebnisse.",
+            "en": "The experiment yielded scientifically valuable results."
+          },
+          {
+            "de": "Dieser Zusammenhang ist wissenschaftlich bewiesen.",
+            "en": "This connection has been scientifically proven."
+          },
+          {
+            "de": "Dieser Zusammenhang ist wissenschaftlich bewiesen.",
+            "en": "This connection has been scientifically proven."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Zeichen",
+        "german": "Zeichen",
+        "pronunciation": "[ˈtsaɪçən]",
+        "pos": "n, -s, -",
+        "english": "sign / symbol / mark",
+        "breakdown": [
+          {
+            "part": "zeigen",
+            "meaning": "to show/point",
+            "note": "related verb"
+          }
+        ],
+        "breakdown_note": "Sign, symbol, or mark. Verkehrszeichen = traffic sign. Satzzeichen = punctuation mark. Ein Zeichen geben = to give a signal. Zeichensprache = sign language.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das rote Licht ist ein Zeichen für Gefahr.",
+            "en": "The red light is a sign of danger."
+          },
+          {
+            "de": "Das Handzeichen war das vereinbarte Zeichen zum Aufbrechen.",
+            "en": "The hand signal was the agreed sign to set off."
+          },
+          {
+            "de": "Das Handzeichen war das vereinbarte Zeichen zum Aufbrechen.",
+            "en": "The hand signal was the agreed sign to set off."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Zeile",
+        "german": "Zeile",
+        "pronunciation": "[ˈtsaɪlə]",
+        "pos": "f, -, -n",
+        "english": "line (of text)",
+        "breakdown": [],
+        "breakdown_note": "Line of text, code, or verse. Zeilenumbruch = line break. Ein paar Zeilen schreiben = to write a few lines. Important in both literature and programming.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Lies bitte die erste Zeile laut vor.",
+            "en": "Please read the first line aloud."
+          },
+          {
+            "de": "Schreib mir ein paar Zeilen, wenn du angekommen bist.",
+            "en": "Write me a few lines when you have arrived."
+          },
+          {
+            "de": "Schreib mir ein paar Zeilen, wenn du angekommen bist.",
+            "en": "Write me a few lines when you have arrived."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "book_page": 80,
+    "section": "2.8 Learning and Knowledge · Level 2001–4000",
+    "insight": "Bibliothek vs. Bücherei in practice: Bibliothek implies a larger, often academic or national collection, while Bücherei is the everyday term for a local public lending library (Stadtbücherei). Blatt covers both leaf (natural) and sheet of paper (artificial) — ein Blatt Papier is the standard way to say a sheet of paper. Überlegung comes from überlegen (to weigh up / consider) — nach reiflicher Überlegung (after mature consideration) is a fixed phrase in formal letters. Besichtigen is specifically for guided or visual inspection of sites, buildings, or flats — not used for examinations of people or objects (that is untersuchen).",
+    "words": [
+      {
+        "id": "Überlegung",
+        "german": "Überlegung",
+        "pronunciation": "[ˌyːbərˈleːgʊŋ]",
+        "pos": "f, -, -en",
+        "english": "deliberation / consideration",
+        "breakdown": [
+          {
+            "part": "überlegen",
+            "meaning": "to consider/think over",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Deliberation or consideration. Nach reiflicher Überlegung = after careful consideration. Überlegungen anstellen = to make/conduct deliberations. Related: sich überlegen = to consider (reflexive verb).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Nach langer Überlegung habe ich mich entschieden.",
+            "en": "After long deliberation I made a decision."
+          },
+          {
+            "de": "Nach reiflicher Überlegung habe ich mich doch dagegen entschieden.",
+            "en": "After careful deliberation I decided against it after all."
+          },
+          {
+            "de": "Nach reiflicher Überlegung habe ich mich doch dagegen entschieden.",
+            "en": "After careful deliberation I decided against it after all."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Band",
+        "german": "Band",
+        "pronunciation": "[bant]",
+        "pos": "m, -(e)s, Bände",
+        "english": "volume (of a book series)",
+        "breakdown": [
+          {
+            "part": "binden",
+            "meaning": "to bind",
+            "note": "related verb — volumes are bound books"
+          }
+        ],
+        "breakdown_note": "Volume of a series — der erste Band = volume one. Note: same spelling as n, -(e)s, Bänder (ribbon/band) and n, -(e)s, Bands (musical band) — different gender and plural!",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe gerade den zweiten Band dieser Trilogie gelesen.",
+            "en": "I have just read the second volume of this trilogy."
+          },
+          {
+            "de": "Der dritte Band der Reihe ist endlich erschienen.",
+            "en": "The third volume of the series has finally been published."
+          },
+          {
+            "de": "Der dritte Band der Reihe ist endlich erschienen.",
+            "en": "The third volume of the series has finally been published."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "besichtigen",
+        "german": "besichtigen",
+        "pronunciation": "[bəˈzɪçtɪgən]",
+        "pos": "V/t.",
+        "english": "to visit / view / inspect",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "inseparable prefix",
+            "note": "transitivizing"
+          },
+          {
+            "part": "Sicht",
+            "meaning": "sight/view",
+            "note": "root"
+          },
+          {
+            "part": "-igen",
+            "meaning": "verb suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "View or tour a tourist site, museum, or property. Eine Stadt besichtigen = to sightsee in a city. Sehenswürdigkeiten besichtigen = to visit the sights.",
+        "conjugation": {
+          "prät": "besichtigte",
+          "perf": "hat besichtigt",
+          "note": "inseparable",
+          "imperativ": "du: Besichtige!  ·  Sie: Besichtigen Sie!",
+          "imperative": "du: Besichtige!  ·  Sie: Besichtigen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Wir haben das Schloss besichtigt.",
+            "en": "We visited/toured the castle."
+          },
+          {
+            "de": "Wir haben heute das Stadtmuseum besichtigt.",
+            "en": "We visited the city museum today."
+          },
+          {
+            "de": "Wir haben heute das Stadtmuseum besichtigt.",
+            "en": "We visited the city museum today."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Biologie",
+        "german": "Biologie",
+        "pronunciation": "[bioloˈgiː]",
+        "pos": "f, -, kein Pl.",
+        "english": "biology",
+        "breakdown": [
+          {
+            "part": "Bio-",
+            "meaning": "life (Greek)",
+            "note": "from Greek bios = life"
+          },
+          {
+            "part": "-logie",
+            "meaning": "study of (Greek)",
+            "note": "from Greek logos = reason/study"
+          }
+        ],
+        "breakdown_note": "Biology — the study of life. Biologisch = biological. Biowissenschaften = life sciences. Also used for the school subject.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "In der Biologie lernt man viel über lebende Organismen.",
+            "en": "In biology you learn a lot about living organisms."
+          },
+          {
+            "de": "Im Biologieunterricht haben wir Froschlaich beobachtet.",
+            "en": "In biology class we observed frog spawn."
+          },
+          {
+            "de": "Im Biologieunterricht haben wir Froschlaich beobachtet.",
+            "en": "In biology class we observed frog spawn."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Blatt",
+        "german": "Blatt",
+        "pronunciation": "[blat]",
+        "pos": "n, -(e)s, Blätter",
+        "english": "leaf / sheet (of paper)",
+        "breakdown": [],
+        "breakdown_note": "Leaf (natural) or sheet of paper. Ein Blatt Papier = a sheet of paper. Notenblatt = sheet of music. Kein Blatt vor den Mund nehmen = to speak one's mind (lit. not hold a leaf before one's mouth).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie schrieb ihre Notizen auf ein leeres Blatt Papier.",
+            "en": "She wrote her notes on a blank sheet of paper."
+          },
+          {
+            "de": "Nimm bitte ein leeres Blatt Papier für die Übung.",
+            "en": "Please take a blank sheet of paper for the exercise."
+          },
+          {
+            "de": "Nimm bitte ein leeres Blatt Papier für die Übung.",
+            "en": "Please take a blank sheet of paper for the exercise."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Block",
+        "german": "Block",
+        "pronunciation": "[blɔk]",
+        "pos": "m, -(e)s, Blöcke / Blocks",
+        "english": "notepad / block",
+        "breakdown": [],
+        "breakdown_note": "Notepad (Notizblock) or physical block. Plural: Blöcke for solid blocks; Blocks for notepads. Blockbuchstaben = block capitals. Schreibblock = writing pad.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er schrieb die Aufgaben auf seinen Block.",
+            "en": "He wrote the tasks on his notepad."
+          },
+          {
+            "de": "Er notierte die Adresse schnell auf seinem Block.",
+            "en": "He quickly noted down the address on his notepad."
+          },
+          {
+            "de": "Er notierte die Adresse schnell auf seinem Block.",
+            "en": "He quickly noted down the address on his notepad."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Buchhandlung",
+        "german": "Buchhandlung",
+        "pronunciation": "[ˈbuːxhandlʊŋ]",
+        "pos": "f, -, -en",
+        "english": "bookshop",
+        "breakdown": [
+          {
+            "part": "Buch",
+            "meaning": "book",
+            "note": "first element"
+          },
+          {
+            "part": "Handlung",
+            "meaning": "trade/shop",
+            "note": "second element"
+          }
+        ],
+        "breakdown_note": "Bookshop or bookstore. Antiquarische Buchhandlung = second-hand bookshop. In Germany bookshops are protected by fixed book prices (Buchpreisbindung).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "In dieser Buchhandlung gibt es eine große Auswahl an Kriminalromanen.",
+            "en": "This bookshop has a large selection of crime novels."
+          },
+          {
+            "de": "In der Buchhandlung um die Ecke gibt es eine tolle Auswahl.",
+            "en": "The bookshop around the corner has a great selection."
+          },
+          {
+            "de": "In der Buchhandlung um die Ecke gibt es eine tolle Auswahl.",
+            "en": "The bookshop around the corner has a great selection."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Bücherei",
+        "german": "Bücherei",
+        "pronunciation": "[ˈbʏçəraɪ]",
+        "pos": "f, -, -en",
+        "english": "(public) library",
+        "breakdown": [
+          {
+            "part": "Bücher",
+            "meaning": "books",
+            "note": "plural of Buch"
+          },
+          {
+            "part": "-ei",
+            "meaning": "place/collection suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Smaller, local public lending library. Stadtbücherei = municipal library. Distinct from Bibliothek (larger, academic/national). Schulbücherei = school library.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Stadtbücherei hat jeden Tag bis 19 Uhr geöffnet.",
+            "en": "The public library is open every day until 7 p.m."
+          },
+          {
+            "de": "Die Schulbücherei ist jeden Mittag für Schüler geöffnet.",
+            "en": "The school library is open for pupils every lunchtime."
+          },
+          {
+            "de": "Die Schulbücherei ist jeden Mittag für Schüler geöffnet.",
+            "en": "The school library is open for pupils every lunchtime."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "book_page": 81,
+    "section": "2.8 Learning and Knowledge · Level 2001–4000 (continued)",
+    "insight": "Forschung vs. Erforschung: Forschung is research as an ongoing activity or institution; Erforschung is the thorough investigation of a specific thing to its conclusion (er- signals completion). Fortschrittlich (progressive) and rückschrittlich (backward/reactionary) are the political antonym pair. Historisch vs. geschichtlich are near synonyms — historisch is more international in flavour (used in headlines), while geschichtlich is slightly more German-academic. Fachmann has the unusual plural Fachmänner — the gender-neutral alternative Fachkraft (skilled worker/specialist) is increasingly used in official and HR contexts. Chemie in informal speech also means interpersonal chemistry: Die Chemie stimmt = the chemistry is right.",
+    "words": [
+      {
+        "id": "Chemie",
+        "german": "Chemie",
+        "pronunciation": "[çeˈmiː]",
+        "pos": "f, -, kein Pl.",
+        "english": "chemistry",
+        "breakdown": [
+          {
+            "part": "Chemi-",
+            "meaning": "chemistry (Ar.)",
+            "note": "from Arabic al-kīmiyā"
+          }
+        ],
+        "breakdown_note": "Chemistry. Chemieunterricht = chemistry class. Also used figuratively: die Chemie stimmt = the chemistry is right (between people). Organische/anorganische Chemie = organic/inorganic chemistry.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "In der Chemie haben wir heute ein Experiment durchgeführt.",
+            "en": "Today we carried out an experiment in chemistry."
+          },
+          {
+            "de": "Die Chemie zwischen den beiden ist von Anfang an gut gewesen.",
+            "en": "The chemistry between the two has been good from the start."
+          },
+          {
+            "de": "Die Chemie zwischen den beiden ist von Anfang an gut gewesen.",
+            "en": "The chemistry between the two has been good from the start."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "chemisch",
+        "german": "chemisch",
+        "pronunciation": "[ˈçeːmɪʃ]",
+        "pos": "Adj./Adv.",
+        "english": "chemical",
+        "breakdown": [
+          {
+            "part": "Chemie",
+            "meaning": "chemistry",
+            "note": "base"
+          },
+          {
+            "part": "-isch",
+            "meaning": "-al/-ic",
+            "note": "adjectival suffix"
+          }
+        ],
+        "breakdown_note": "Chemical. Chemische Reaktion = chemical reaction. Chemische Reinigung = dry cleaning (lit. chemical cleaning). Chemisch behandelt = chemically treated.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Wasser wurde chemisch gereinigt.",
+            "en": "The water was treated chemically."
+          },
+          {
+            "de": "Der Stoff reagiert chemisch mit Wasser.",
+            "en": "The substance reacts chemically with water."
+          },
+          {
+            "de": "Der Stoff reagiert chemisch mit Wasser.",
+            "en": "The substance reacts chemically with water."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "entdecken",
+        "german": "entdecken",
+        "pronunciation": "[ɛntˈdɛkən]",
+        "pos": "V/t.",
+        "english": "to discover",
+        "breakdown": [
+          {
+            "part": "ent-",
+            "meaning": "uncovering/revealing",
+            "note": "inseparable prefix"
+          },
+          {
+            "part": "decken",
+            "meaning": "to cover",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Discover or find — remove the cover to reveal. Columbus entdeckte Amerika im Jahr 1492. Also: einen Fehler entdecken = discover an error.",
+        "conjugation": {
+          "prät": "entdeckte",
+          "perf": "hat entdeckt",
+          "note": "inseparable",
+          "imperativ": "du: Entdecke!  ·  Sie: Entdecken Sie!",
+          "imperative": "du: Entdecke!  ·  Sie: Entdecken Sie!"
+        },
+        "examples": [
+          {
+            "de": "Columbus entdeckte Amerika im Jahr 1492.",
+            "en": "Columbus discovered America in 1492."
+          },
+          {
+            "de": "Sie entdeckte, dass der Brief geöffnet worden war.",
+            "en": "She discovered that the letter had been opened."
+          },
+          {
+            "de": "Sie entdeckte beim Aufräumen alte Fotos von ihrer Kindheit.",
+            "en": "While tidying up she discovered old photos from her childhood."
+          },
+          {
+            "de": "Sie entdeckte beim Aufräumen alte Fotos von ihrer Kindheit.",
+            "en": "While tidying up she discovered old photos from her childhood."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Entdeckung",
+        "german": "Entdeckung",
+        "pronunciation": "[ɛntˈdɛkʊŋ]",
+        "pos": "f, -, -en",
+        "english": "discovery",
+        "breakdown": [
+          {
+            "part": "entdecken",
+            "meaning": "to discover",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Discovery. Eine wichtige Entdeckung machen = to make an important discovery. Entdeckungsreise = voyage of discovery.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Entdeckung des Penicillins war ein Meilenstein der Medizin.",
+            "en": "The discovery of penicillin was a milestone in medicine."
+          },
+          {
+            "de": "Die Entdeckung der Röntgenstrahlen veränderte die Medizin für immer.",
+            "en": "The discovery of X-rays changed medicine for ever."
+          },
+          {
+            "de": "Die Entdeckung der Röntgenstrahlen veränderte die Medizin für immer.",
+            "en": "The discovery of X-rays changed medicine for ever."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Erdkunde",
+        "german": "Erdkunde",
+        "pronunciation": "[ˈeːrtkʊndə]",
+        "pos": "f, -, kein Pl.",
+        "english": "geography (school subject)",
+        "breakdown": [
+          {
+            "part": "Erde",
+            "meaning": "earth/ground",
+            "note": "first element"
+          },
+          {
+            "part": "Kunde",
+            "meaning": "knowledge/information",
+            "note": "second element"
+          }
+        ],
+        "breakdown_note": "Geography as a school subject (traditional German term). Geographie is the academic/scientific term. Erdkundebuch = geography textbook.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Im Erdkundeunterricht haben wir heute über Klimazonen gesprochen.",
+            "en": "In geography class today we talked about climate zones."
+          },
+          {
+            "de": "Im Erdkundeunterricht lernten wir, wie man eine Karte liest.",
+            "en": "In geography class we learned how to read a map."
+          },
+          {
+            "de": "Im Erdkundeunterricht lernten wir, wie man eine Karte liest.",
+            "en": "In geography class we learned how to read a map."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Erforschung",
+        "german": "Erforschung",
+        "pronunciation": "[ɛrˈfɔrʃʊŋ]",
+        "pos": "f, -, kein Pl.",
+        "english": "exploration / investigation",
+        "breakdown": [
+          {
+            "part": "erforschen",
+            "meaning": "to explore/research",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Exploration or thorough investigation — the er- prefix signals completion. More active than Forschung alone. Die Erforschung des Weltalls = space exploration.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Erforschung des Meeresbodens ist sehr teuer.",
+            "en": "The exploration of the ocean floor is very expensive."
+          },
+          {
+            "de": "Die Erforschung des Weltraums ist noch längst nicht abgeschlossen.",
+            "en": "The exploration of outer space is far from finished."
+          },
+          {
+            "de": "Die Erforschung des Weltraums ist noch längst nicht abgeschlossen.",
+            "en": "The exploration of outer space is far from finished."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Fachmann",
+        "german": "Fachmann",
+        "pronunciation": "[ˈfaxman]",
+        "pos": "m, -(e)s, Fachmänner",
+        "english": "expert / specialist",
+        "breakdown": [
+          {
+            "part": "Fach",
+            "meaning": "field/subject",
+            "note": "first element"
+          },
+          {
+            "part": "Mann",
+            "meaning": "man",
+            "note": "second element"
+          }
+        ],
+        "breakdown_note": "Expert or specialist (male). Female: Fachfrau. Gender-neutral: Fachkraft (specialist). Fachgebiet = field of expertise. Fachliteratur = specialist literature.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Für diesen Defekt müssen wir einen Fachmann rufen.",
+            "en": "For this fault we need to call an expert."
+          },
+          {
+            "de": "Bei Elektroanlagen sollte man immer einen Fachmann hinzuziehen.",
+            "en": "For electrical installations you should always consult a specialist."
+          },
+          {
+            "de": "Bei Elektroanlagen sollte man immer einen Fachmann hinzuziehen.",
+            "en": "For electrical installations you should always consult a specialist."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Formel",
+        "german": "Formel",
+        "pronunciation": "[ˈfɔrməl]",
+        "pos": "f, -, -n",
+        "english": "formula",
+        "breakdown": [
+          {
+            "part": "Form",
+            "meaning": "form/shape",
+            "note": "root"
+          },
+          {
+            "part": "-el",
+            "meaning": "diminutive/formative suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Formula (mathematical, chemical, or linguistic). Erfolgsformel = formula for success. Redeformel = set phrase/formulaic expression.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie schrieb die mathematische Formel an die Tafel.",
+            "en": "She wrote the mathematical formula on the board."
+          },
+          {
+            "de": "Die Formel für die Fläche eines Kreises lautet: A = π r².",
+            "en": "The formula for the area of a circle is: A = π r²."
+          },
+          {
+            "de": "Die Formel für die Fläche eines Kreises lautet: A = π r².",
+            "en": "The formula for the area of a circle is: A = π r²."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Forscher",
+        "german": "Forscher",
+        "pronunciation": "[ˈfɔrʃər]",
+        "pos": "m, -s, -",
+        "english": "researcher / explorer",
+        "breakdown": [
+          {
+            "part": "forschen",
+            "meaning": "to research",
+            "note": "verb"
+          },
+          {
+            "part": "-er",
+            "meaning": "agent noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Researcher or explorer. Female: Forscherin. Meeresforscher = marine researcher. Often paired with Wissenschaftler (scientist).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Forscher veröffentlichten ihre Ergebnisse in einer Fachzeitschrift.",
+            "en": "The researchers published their results in a specialist journal."
+          },
+          {
+            "de": "Die Forscher arbeiten gemeinsam an einem Impfstoff.",
+            "en": "The researchers are working together on a vaccine."
+          },
+          {
+            "de": "Die Forscher arbeiten gemeinsam an einem Impfstoff.",
+            "en": "The researchers are working together on a vaccine."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "fortschrittlich",
+        "german": "fortschrittlich",
+        "pronunciation": "[ˈfɔrtʃrɪtlɪç]",
+        "pos": "Adj.",
+        "english": "progressive / advanced",
+        "breakdown": [
+          {
+            "part": "Fortschritt",
+            "meaning": "progress",
+            "note": "noun root"
+          },
+          {
+            "part": "-lich",
+            "meaning": "-ive/-al",
+            "note": "adjectival suffix"
+          }
+        ],
+        "breakdown_note": "Progressive, advanced, or forward-looking. Often used in political/social contexts. Fortschrittliche Ideen = progressive ideas. Contrast: rückschrittlich/konservativ = backward/conservative.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Dieses Land hat eine sehr fortschrittliche Bildungspolitik.",
+            "en": "This country has a very progressive education policy."
+          },
+          {
+            "de": "Das Unternehmen gilt als besonders fortschrittlich in der Branche.",
+            "en": "The company is regarded as particularly progressive in the industry."
+          },
+          {
+            "de": "Das Unternehmen gilt als besonders fortschrittlich in der Branche.",
+            "en": "The company is regarded as particularly progressive in the industry."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Geographie",
+        "german": "Geographie",
+        "pronunciation": "[geoˈgraːfiː]",
+        "pos": "f, -, kein Pl.",
+        "english": "geography",
+        "breakdown": [
+          {
+            "part": "Geo-",
+            "meaning": "earth (Greek)",
+            "note": "from Greek gē"
+          },
+          {
+            "part": "-graphie",
+            "meaning": "writing/description (Greek)",
+            "note": "from Greek graphein = to write"
+          }
+        ],
+        "breakdown_note": "Geography (academic/scientific term). School subject: Erdkunde. Humangeographie = human geography. Physische Geographie = physical geography.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie studiert Geographie mit Schwerpunkt Stadtplanung.",
+            "en": "She is studying geography with a focus on urban planning."
+          },
+          {
+            "de": "Geographie verbindet Naturwissenschaften mit Gesellschaftskunde.",
+            "en": "Geography connects the natural sciences with social studies."
+          },
+          {
+            "de": "Geographie verbindet Naturwissenschaften mit Gesellschaftskunde.",
+            "en": "Geography connects the natural sciences with social studies."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "historisch",
+        "german": "historisch",
+        "pronunciation": "[hɪsˈtoːrɪʃ]",
+        "pos": "Adj./Adv.",
+        "english": "historical",
+        "breakdown": [
+          {
+            "part": "Historia",
+            "meaning": "history (Greek/Latin)",
+            "note": "from Greek historia = inquiry"
+          },
+          {
+            "part": "-isch",
+            "meaning": "-al/-ic",
+            "note": "adjectival suffix"
+          }
+        ],
+        "breakdown_note": "Historical — more international in tone than geschichtlich. Historisch bedeutsam = historically significant. Historisch vs. geschichtlich: historisch is more common in headlines and international contexts.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das ist ein historisch wichtiges Datum für unser Land.",
+            "en": "This is a historically important date for our country."
+          },
+          {
+            "de": "Der Vertrag war ein historischer Meilenstein für Europa.",
+            "en": "The treaty was a historical milestone for Europe."
+          },
+          {
+            "de": "Der Vertrag war ein historischer Meilenstein für Europa.",
+            "en": "The treaty was a historical milestone for Europe."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "book_page": 82,
+    "section": "2.8 Learning and Knowledge · Level 2001–4000 (continued)",
+    "insight": "Imstande sein is a fixed phrase — im Stande (with space) is also correct but rarer. Synonym: in der Lage sein (to be in a position to). Praxis is a Greek borrowing (praxis = action) and covers both 'practice as opposed to theory' and 'a professional practice' (Arztpraxis = doctor's surgery). Theorie und Praxis is one of German's most common contrasting pairs. Konzentrieren is almost always reflexive: sich auf etwas konzentrieren = to concentrate on something. Notiz and Mitteilung (Day 13) are similar but different: a Notiz is a personal jotting, a Mitteilung is a communication directed to someone else.",
+    "words": [
+      {
+        "id": "imstande sein",
+        "german": "imstande sein",
+        "pronunciation": "[ɪmˈʃtandə zaɪn]",
+        "pos": "Phrase (adj. + inf.)",
+        "english": "to be capable of / able to",
+        "breakdown": [
+          {
+            "part": "im",
+            "meaning": "in the",
+            "note": "contracted prep + article"
+          },
+          {
+            "part": "Stande",
+            "meaning": "state/standing",
+            "note": "dative of Stand"
+          },
+          {
+            "part": "sein",
+            "meaning": "to be",
+            "note": "auxiliary"
+          }
+        ],
+        "breakdown_note": "Im Stande (with space) is also correct but rarer. Ich bin nicht imstande = I am not capable. Synonym: in der Lage sein = to be in a position to.",
+        "conjugation": {
+          "prät": "war imstande",
+          "perf": "ist imstande gewesen",
+          "note": "phrase · irregular (auxiliary sein)"
+        },
+        "examples": [
+          {
+            "de": "Ich bin nicht imstande, so schwere Kisten zu tragen.",
+            "en": "I am not capable of carrying such heavy crates."
+          },
+          {
+            "de": "Er war nach der langen Nacht kaum imstande, klar zu denken.",
+            "en": "After the long night he was barely capable of thinking clearly."
+          },
+          {
+            "de": "Er war nach der langen Nacht kaum imstande, klar zu denken.",
+            "en": "After the long night he was barely capable of thinking clearly."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "konkret",
+        "german": "konkret",
+        "pronunciation": "[kɔnˈkreːt]",
+        "pos": "Adj./Adv.",
+        "english": "concrete / specific",
+        "breakdown": [
+          {
+            "part": "Latin concretus",
+            "meaning": "grown together/hardened",
+            "note": "from concrescere = to grow together"
+          }
+        ],
+        "breakdown_note": "Concrete in the sense of specific, real, tangible. Opposite: abstrakt. Konkrete Maßnahmen = specific measures. Konkret gesagt = to put it concretely/specifically.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Kannst du mir ein konkretes Beispiel geben?",
+            "en": "Can you give me a concrete/specific example?"
+          },
+          {
+            "de": "Hast du einen konkreten Plan, wie du das erreichen willst?",
+            "en": "Do you have a concrete plan of how you want to achieve that?"
+          },
+          {
+            "de": "Hast du einen konkreten Plan, wie du das erreichen willst?",
+            "en": "Do you have a concrete plan of how you want to achieve that?"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Konzentration",
+        "german": "Konzentration",
+        "pronunciation": "[kɔntsɛntraˈtsioːn]",
+        "pos": "f, -, -en",
+        "english": "concentration",
+        "breakdown": [
+          {
+            "part": "konzentrieren",
+            "meaning": "to concentrate",
+            "note": "verb"
+          },
+          {
+            "part": "-tion",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Mental focus or chemical concentration. Konzentrationsschwäche = difficulty concentrating. Konzentrationslager = concentration camp (historical term).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Bei dieser Aufgabe braucht man viel Konzentration.",
+            "en": "This task requires a lot of concentration."
+          },
+          {
+            "de": "Nach dem Mittagessen lässt die Konzentration oft nach.",
+            "en": "After lunch concentration often drops."
+          },
+          {
+            "de": "Nach dem Mittagessen lässt die Konzentration oft nach.",
+            "en": "After lunch concentration often drops."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "konzentrieren",
+        "german": "konzentrieren",
+        "pronunciation": "[kɔntsɛnˈtriːrən]",
+        "pos": "V/refl.",
+        "english": "to concentrate",
+        "breakdown": [
+          {
+            "part": "Konzentration",
+            "meaning": "concentration",
+            "note": "related noun"
+          }
+        ],
+        "breakdown_note": "Always reflexive for mental focus: sich konzentrieren auf + acc. Ich kann mich nicht konzentrieren = I can't concentrate. Also transitive in chemistry: eine Lösung konzentrieren.",
+        "conjugation": {
+          "prät": "konzentrierte sich",
+          "perf": "hat sich konzentriert",
+          "note": "reflexive",
+          "imperativ": "du: Konzentriere dich!  ·  Sie: Konzentrieren Sie sich!",
+          "imperative": "du: Konzentriere dich!  ·  Sie: Konzentrieren Sie sich!"
+        },
+        "examples": [
+          {
+            "de": "Ich kann mich bei diesem Lärm nicht konzentrieren.",
+            "en": "I cannot concentrate with this noise."
+          },
+          {
+            "de": "Bitte konzentriere dich auf die Aufgabe vor dir.",
+            "en": "Please concentrate on the task in front of you."
+          },
+          {
+            "de": "Bitte konzentriere dich auf die Aufgabe vor dir.",
+            "en": "Please concentrate on the task in front of you."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Notiz",
+        "german": "Notiz",
+        "pronunciation": "[noˈtiːts]",
+        "pos": "f, -, -en",
+        "english": "note / jotting",
+        "breakdown": [
+          {
+            "part": "Latin notitia",
+            "meaning": "knowledge/note",
+            "note": "from nota = mark"
+          }
+        ],
+        "breakdown_note": "Personal note or jotting. Notizen machen = to take notes. Notizblock = notepad. Keine Notiz nehmen von = to take no notice of (fixed phrase).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie machte sich während des Vortrags viele Notizen.",
+            "en": "She took many notes during the lecture."
+          },
+          {
+            "de": "Er machte sich eine Notiz, damit er es nicht vergaß.",
+            "en": "He made himself a note so that he would not forget it."
+          },
+          {
+            "de": "Er machte sich eine Notiz, damit er es nicht vergaß.",
+            "en": "He made himself a note so that he would not forget it."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Philosophie",
+        "german": "Philosophie",
+        "pronunciation": "[filozofˈiː]",
+        "pos": "f, -, kein Pl.",
+        "english": "philosophy",
+        "breakdown": [
+          {
+            "part": "Philo-",
+            "meaning": "love of (Greek)",
+            "note": "from Greek philein = to love"
+          },
+          {
+            "part": "-sophie",
+            "meaning": "wisdom (Greek)",
+            "note": "from Greek sophia = wisdom"
+          }
+        ],
+        "breakdown_note": "Philosophy. Philosophisch = philosophical. Philosophieren = to philosophise. Das ist meine Philosophie = that is my philosophy (informal).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er studiert Philosophie und Soziologie an der Universität.",
+            "en": "He is studying philosophy and sociology at university."
+          },
+          {
+            "de": "Die Philosophie des Stoizismus betont Gelassenheit und Vernunft.",
+            "en": "The philosophy of stoicism emphasises composure and reason."
+          },
+          {
+            "de": "Die Philosophie des Stoizismus betont Gelassenheit und Vernunft.",
+            "en": "The philosophy of stoicism emphasises composure and reason."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Physik",
+        "german": "Physik",
+        "pronunciation": "[fyˈziːk]",
+        "pos": "f, -, kein Pl.",
+        "english": "physics",
+        "breakdown": [
+          {
+            "part": "Physik-",
+            "meaning": "nature (Greek)",
+            "note": "from Greek physis = nature"
+          }
+        ],
+        "breakdown_note": "Physics. Physikalisch = physical (relating to physics). Physiker = physicist. Kernphysik = nuclear physics. Theoretische/Experimentalphysik = theoretical/experimental physics.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Physik war das schwerste Fach in der Schule für mich.",
+            "en": "Physics was the most difficult subject for me at school."
+          },
+          {
+            "de": "Quantenphysik ist eines der faszinierendsten Gebiete der Physik.",
+            "en": "Quantum physics is one of the most fascinating areas of physics."
+          },
+          {
+            "de": "Quantenphysik ist eines der faszinierendsten Gebiete der Physik.",
+            "en": "Quantum physics is one of the most fascinating areas of physics."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Praxis",
+        "german": "Praxis",
+        "pronunciation": "[ˈpraksɪs]",
+        "pos": "f, -, kein Pl.",
+        "english": "practice / surgery",
+        "breakdown": [
+          {
+            "part": "Greek praxis",
+            "meaning": "action/practice",
+            "note": "from prattein = to do"
+          }
+        ],
+        "breakdown_note": "Practice (as opposed to theory) OR a doctor's/lawyer's practice. In der Praxis = in practice. Theorie und Praxis = theory and practice. Arztpraxis = medical practice/surgery.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "In der Praxis sieht das ganz anders aus als in der Theorie.",
+            "en": "In practice it looks quite different from the theory."
+          },
+          {
+            "de": "Das Studium war gut, aber die Praxis war dann doch ganz anders.",
+            "en": "The studies were good, but in practice things were quite different."
+          },
+          {
+            "de": "Das Studium war gut, aber die Praxis war dann doch ganz anders.",
+            "en": "The studies were good, but in practice things were quite different."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Symbol",
+        "german": "Symbol",
+        "pronunciation": "[zʏmˈboːl]",
+        "pos": "n, -s, -e",
+        "english": "symbol",
+        "breakdown": [
+          {
+            "part": "Sym-",
+            "meaning": "together (Greek)",
+            "note": "from syn = together"
+          },
+          {
+            "part": "-bol",
+            "meaning": "throw (Greek)",
+            "note": "from ballein = to throw"
+          }
+        ],
+        "breakdown_note": "Symbol or token. Symbolisch = symbolic. Ein Symbol für Frieden = a symbol of peace. Symbolik = symbolism.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Taube ist ein Symbol des Friedens.",
+            "en": "The dove is a symbol of peace."
+          },
+          {
+            "de": "Das Herz ist ein Symbol für Liebe in vielen Kulturen.",
+            "en": "The heart is a symbol of love in many cultures."
+          },
+          {
+            "de": "Das Herz ist ein Symbol für Liebe in vielen Kulturen.",
+            "en": "The heart is a symbol of love in many cultures."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Tabelle",
+        "german": "Tabelle",
+        "pronunciation": "[taˈbɛlə]",
+        "pos": "f, -, -n",
+        "english": "table / chart",
+        "breakdown": [
+          {
+            "part": "Latin tabella",
+            "meaning": "small board",
+            "note": "diminutive of tabula = board/table"
+          }
+        ],
+        "breakdown_note": "Data table or chart. Tabellenkalkulation = spreadsheet. Rangtabelle = league table. Im Tabellenformat = in tabular form.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Ergebnisse sind in einer Tabelle zusammengefasst.",
+            "en": "The results are summarised in a table."
+          },
+          {
+            "de": "Die Daten wurden übersichtlich in einer Tabelle dargestellt.",
+            "en": "The data were presented clearly in a table."
+          },
+          {
+            "de": "Die Daten wurden übersichtlich in einer Tabelle dargestellt.",
+            "en": "The data were presented clearly in a table."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "book_page": 83,
+    "section": "2.8 Learning and Knowledge · Level 2001–4000 (continued)",
+    "insight": "Übersetzen is one of German's notable homograph pairs. Inseparable überˈsetzen (stress on second syllable) = to translate across languages. Separable ˈübersetzen (stress on first syllable) = to ferry or carry across water. Überblick and Einblick and Ausblick form a family of Blick compounds: Überblick = overview (from above), Einblick = insight (looking in), Ausblick = outlook/prospect (looking out). Verfasser vs. Autor: both mean author, but Verfasser is more formal and appears in academic citations and legal documents. Verständnis is tricky: ich habe Verständnis für = I understand and sympathise with, not simply 'I understand the words'.",
+    "words": [
+      {
+        "id": "These",
+        "german": "These",
+        "pronunciation": "[ˈteːzə]",
+        "pos": "f, -, -n",
+        "english": "thesis / proposition",
+        "breakdown": [
+          {
+            "part": "Greek thesis",
+            "meaning": "placing/proposition",
+            "note": "from tithenai = to place"
+          }
+        ],
+        "breakdown_note": "Thesis or proposition in academic writing. Eine These aufstellen = to put forward a thesis. Luthers Thesen = Luther's Theses. Not the same as a degree thesis (= Dissertation / Abschlussarbeit).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Wissenschaftler stellte eine interessante These auf.",
+            "en": "The scientist put forward an interesting thesis."
+          },
+          {
+            "de": "Ihre These wurde von den Professoren intensiv diskutiert.",
+            "en": "Her thesis was discussed intensively by the professors."
+          },
+          {
+            "de": "Ihre These wurde von den Professoren intensiv diskutiert.",
+            "en": "Her thesis was discussed intensively by the professors."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Überblick",
+        "german": "Überblick",
+        "pronunciation": "[ˈyːbərblɪk]",
+        "pos": "m, -(e)s, kein Pl.",
+        "english": "overview / survey",
+        "breakdown": [
+          {
+            "part": "über-",
+            "meaning": "over/above",
+            "note": "prefix"
+          },
+          {
+            "part": "Blick",
+            "meaning": "look/glance",
+            "note": "noun — seeing from above"
+          }
+        ],
+        "breakdown_note": "Overview or survey. Den Überblick behalten = to stay on top of things. Den Überblick verlieren = to lose track. Compare: Einblick (insight), Ausblick (outlook/prospect).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Artikel gibt einen guten Überblick über die Geschichte.",
+            "en": "The article gives a good overview of the history."
+          },
+          {
+            "de": "Der Einführungskurs gibt einen guten Überblick über das Fachgebiet.",
+            "en": "The introductory course gives a good overview of the subject area."
+          },
+          {
+            "de": "Der Einführungskurs gibt einen guten Überblick über das Fachgebiet.",
+            "en": "The introductory course gives a good overview of the subject area."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "übersetzen",
+        "german": "übersetzen",
+        "pronunciation": "[ˌyːbərˈzɛtsən]",
+        "pos": "V/t.",
+        "english": "to translate",
+        "breakdown": [
+          {
+            "part": "über-",
+            "meaning": "across",
+            "note": "inseparable in translation meaning"
+          },
+          {
+            "part": "setzen",
+            "meaning": "to set/place",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Inseparable überˈsetzen = translate (stress on second syllable); separable ˈübersetzen = ferry across water (stress on first syllable) — same spelling, stress distinguishes them.",
+        "conjugation": {
+          "prät": "übersetzte",
+          "perf": "hat übersetzt",
+          "note": "inseparable (translation sense)",
+          "imperativ": "du: Übersetze!  ·  Sie: Übersetzen Sie!",
+          "imperative": "du: Übersetze!  ·  Sie: Übersetzen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Kannst du diesen Satz ins Deutsche übersetzen?",
+            "en": "Can you translate this sentence into German?"
+          },
+          {
+            "de": "Kannst du diesen Brief für mich ins Englische übersetzen?",
+            "en": "Can you translate this letter into English for me?"
+          },
+          {
+            "de": "Kannst du diesen Brief für mich ins Englische übersetzen?",
+            "en": "Can you translate this letter into English for me?"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Übersetzung",
+        "german": "Übersetzung",
+        "pronunciation": "[ˌyːbərˈzɛtsʊŋ]",
+        "pos": "f, -, -en",
+        "english": "translation",
+        "breakdown": [
+          {
+            "part": "übersetzen",
+            "meaning": "to translate",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Translation. Übersetzungsfehler = translation error. Wörtliche Übersetzung = literal translation. Übersetzungsbüro = translation agency.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Übersetzung des Romans dauerte zwei Jahre.",
+            "en": "The translation of the novel took two years."
+          },
+          {
+            "de": "Die Übersetzung dieses Romans in alle Weltsprachen dauerte Jahre.",
+            "en": "The translation of this novel into all world languages took years."
+          },
+          {
+            "de": "Die Übersetzung dieses Romans in alle Weltsprachen dauerte Jahre.",
+            "en": "The translation of this novel into all world languages took years."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "unbekannt",
+        "german": "unbekannt",
+        "pronunciation": "[ˈunbəkant]",
+        "pos": "Adj.",
+        "english": "unknown",
+        "breakdown": [
+          {
+            "part": "un-",
+            "meaning": "not/un-",
+            "note": "negating prefix"
+          },
+          {
+            "part": "bekannt",
+            "meaning": "known/acquainted",
+            "note": "adjective"
+          }
+        ],
+        "breakdown_note": "Unknown. Aus unbekanntem Grund = for an unknown reason. Unbekannte Größe = unknown quantity (maths). Der Unbekannte = the unknown person/stranger.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Ursache des Unfalls ist noch unbekannt.",
+            "en": "The cause of the accident is still unknown."
+          },
+          {
+            "de": "Der Täter ist bisher noch unbekannt.",
+            "en": "The perpetrator is still unknown."
+          },
+          {
+            "de": "Der Täter ist bisher noch unbekannt.",
+            "en": "The perpetrator is still unknown."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "untersuchen",
+        "german": "untersuchen",
+        "pronunciation": "[ʊntərˈzuːxən]",
+        "pos": "V/t.",
+        "english": "to examine / investigate",
+        "breakdown": [
+          {
+            "part": "unter-",
+            "meaning": "under/thoroughly",
+            "note": "inseparable prefix"
+          },
+          {
+            "part": "suchen",
+            "meaning": "to search",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Examine, investigate, or inspect. Medical: einen Patienten untersuchen. Legal/police: einen Fall untersuchen. Also: eine Probe untersuchen = to analyse a sample.",
+        "conjugation": {
+          "prät": "untersuchte",
+          "perf": "hat untersucht",
+          "note": "inseparable",
+          "imperativ": "du: Untersuche!  ·  Sie: Untersuchen Sie!",
+          "imperative": "du: Untersuche!  ·  Sie: Untersuchen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Der Arzt untersuchte den Patienten sorgfältig.",
+            "en": "The doctor examined the patient carefully."
+          },
+          {
+            "de": "Die Polizei untersucht den Vorfall sehr sorgfältig.",
+            "en": "The police are investigating the incident very carefully."
+          },
+          {
+            "de": "Die Polizei untersucht den Vorfall sehr sorgfältig.",
+            "en": "The police are investigating the incident very carefully."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Untersuchung",
+        "german": "Untersuchung",
+        "pronunciation": "[ʊntərˈzuːxʊŋ]",
+        "pos": "f, -, -en",
+        "english": "examination / investigation",
+        "breakdown": [
+          {
+            "part": "untersuchen",
+            "meaning": "to examine",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Examination, investigation, or study. Ärztliche Untersuchung = medical examination. Untersuchungsausschuss = parliamentary inquiry committee.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die polizeiliche Untersuchung ist noch im Gange.",
+            "en": "The police investigation is still under way."
+          },
+          {
+            "de": "Die ärztliche Untersuchung ergab keine Auffälligkeiten.",
+            "en": "The medical examination revealed nothing unusual."
+          },
+          {
+            "de": "Die ärztliche Untersuchung ergab keine Auffälligkeiten.",
+            "en": "The medical examination revealed nothing unusual."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Verfasser",
+        "german": "Verfasser",
+        "pronunciation": "[fɛrˈfasər]",
+        "pos": "m, -s, -",
+        "english": "author / writer (formal)",
+        "breakdown": [
+          {
+            "part": "verfassen",
+            "meaning": "to write/compose",
+            "note": "verb"
+          },
+          {
+            "part": "-er",
+            "meaning": "agent noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Author or writer (formal). Female: Verfasserin. More formal than Autor. Often used in academic/legal contexts: der Verfasser dieses Berichts = the author of this report.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Verfasser des Artikels ist uns nicht bekannt.",
+            "en": "The author of the article is not known to us."
+          },
+          {
+            "de": "Der Verfasser dieses Briefes ist bis heute unbekannt.",
+            "en": "The author of this letter is still unknown today."
+          },
+          {
+            "de": "Der Verfasser dieses Briefes ist bis heute unbekannt.",
+            "en": "The author of this letter is still unknown today."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Verständnis",
+        "german": "Verständnis",
+        "pronunciation": "[fɛrˈʃtɛntnɪs]",
+        "pos": "n, -ses, kein Pl.",
+        "english": "understanding / comprehension",
+        "breakdown": [
+          {
+            "part": "verstehen",
+            "meaning": "to understand",
+            "note": "related verb"
+          },
+          {
+            "part": "-nis",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Understanding or comprehension. Kein Verständnis haben für = to have no understanding for. Ich bitte um Ihr Verständnis = I ask for your understanding (formal). Verständnisvoll = understanding/sympathetic (adj).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe volles Verständnis für deine Situation.",
+            "en": "I have full understanding for your situation."
+          },
+          {
+            "de": "Ich bitte um Ihr Verständnis für die Unannehmlichkeiten.",
+            "en": "I ask for your understanding regarding the inconveniences."
+          },
+          {
+            "de": "Ich bitte um Ihr Verständnis für die Unannehmlichkeiten.",
+            "en": "I ask for your understanding regarding the inconveniences."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "book_page": 84,
+    "section": "2.8 end · 3.1 General Language · Allgemeine Sprache",
+    "insight": "Schweigen is the verb for deliberate silence — staying silent when one could speak. The related adjective schweigsam (taciturn) describes a permanent trait (Day 12). Laut is both an adjective (loud) and a preposition taking the dative: laut Gesetz (according to the law), laut Bericht (according to the report) — very common in news writing and official language. Vorlesen is the separable compound: er liest vor (present), er las vor (Präteritum). The related Vorlesung is a university lecture — historically a 'reading before students'. Ruhig softens commands in spoken German: Du kannst ruhig gehen = you may as well go / it is perfectly fine to go.",
+    "words": [
+      {
+        "id": "vorlesen",
+        "german": "vorlesen",
+        "pronunciation": "[ˈfoːrleːzən]",
+        "pos": "V/t., i.",
+        "english": "to read aloud",
+        "breakdown": [
+          {
+            "part": "vor-",
+            "meaning": "to/before",
+            "note": "separable prefix — reading to someone"
+          },
+          {
+            "part": "lesen",
+            "meaning": "to read",
+            "note": "base verb — irregular"
+          }
+        ],
+        "breakdown_note": "Read aloud to someone. Separable: er liest vor. Vorlesen ist wichtig für Kinder = reading aloud is important for children. Related: Vorlesung = university lecture.",
+        "conjugation": {
+          "prät": "las vor",
+          "perf": "hat vorgelesen",
+          "note": "separable · irregular",
+          "imperativ": "du: Lies vor!  ·  Sie: Lesen Sie vor!",
+          "imperative": "du: Lies vor!  ·  Sie: Lesen Sie vor!"
+        },
+        "examples": [
+          {
+            "de": "Sie liest ihrer Tochter jeden Abend eine Geschichte vor.",
+            "en": "She reads her daughter a story every evening."
+          },
+          {
+            "de": "Die Lehrerin liest der Klasse einen Auszug aus dem Roman vor.",
+            "en": "The teacher reads an excerpt from the novel to the class."
+          },
+          {
+            "de": "Die Lehrerin liest der Klasse einen Auszug aus dem Roman vor.",
+            "en": "The teacher reads an excerpt from the novel to the class."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Antwort",
+        "german": "Antwort",
+        "pronunciation": "[ˈantvɔrt]",
+        "pos": "f, -, -en",
+        "english": "answer / reply",
+        "breakdown": [
+          {
+            "part": "ant-/and-",
+            "meaning": "toward/against",
+            "note": "Old High German prefix"
+          },
+          {
+            "part": "Wort",
+            "meaning": "word",
+            "note": "root"
+          }
+        ],
+        "breakdown_note": "Answer or reply. Antwort geben = to give an answer. Auf eine Frage antworten = to answer a question. Antwortschreiben = written reply.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Auf diese Frage gibt es keine einfache Antwort.",
+            "en": "There is no simple answer to this question."
+          },
+          {
+            "de": "Seine Antwort kam unerwartet schnell.",
+            "en": "His answer came unexpectedly quickly."
+          },
+          {
+            "de": "Seine Antwort kam unerwartet schnell.",
+            "en": "His answer came unexpectedly quickly."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "antworten",
+        "german": "antworten",
+        "pronunciation": "[ˈantvɔrtən]",
+        "pos": "V/i.",
+        "english": "to answer / reply",
+        "breakdown": [
+          {
+            "part": "Antwort",
+            "meaning": "answer",
+            "note": "noun base"
+          },
+          {
+            "part": "-en",
+            "meaning": "verb suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Takes auf + dative for the question: auf eine Frage antworten. Or with dative person: jmdm. antworten = reply to someone.",
+        "conjugation": {
+          "prät": "antwortete",
+          "perf": "hat geantwortet",
+          "note": "regular",
+          "imperativ": "du: Antworte!  ·  Sie: Antworten Sie!",
+          "imperative": "du: Antworte!  ·  Sie: Antworten Sie!"
+        },
+        "examples": [
+          {
+            "de": "Er antwortete nicht auf meine Frage.",
+            "en": "He did not answer my question."
+          },
+          {
+            "de": "Sie antwortete auf jede Frage ruhig und überlegt.",
+            "en": "She answered every question calmly and thoughtfully."
+          },
+          {
+            "de": "Sie antwortete auf jede Frage ruhig und überlegt.",
+            "en": "She answered every question calmly and thoughtfully."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "laut",
+        "german": "laut",
+        "pronunciation": "[laʊt]",
+        "pos": "Adj./Adv./Präp.",
+        "english": "loud / according to",
+        "breakdown": [],
+        "breakdown_note": "Loud (adjective/adverb) or according to (preposition + dative): Laut Gesetz = according to the law; laut Wetterbericht = according to the weather forecast. The preposition use is very common in news writing.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sprich bitte nicht so laut!",
+            "en": "Please don't speak so loudly!"
+          },
+          {
+            "de": "Laut Wetterbericht kommt morgen Regen.",
+            "en": "According to the weather forecast, rain is coming tomorrow."
+          },
+          {
+            "de": "Die Musik war so laut, dass man sein eigenes Wort nicht verstand.",
+            "en": "The music was so loud that you could not hear yourself speak."
+          },
+          {
+            "de": "Die Musik war so laut, dass man sein eigenes Wort nicht verstand.",
+            "en": "The music was so loud that you could not hear yourself speak."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "leise",
+        "german": "leise",
+        "pronunciation": "[ˈlaɪzə]",
+        "pos": "Adj./Adv.",
+        "english": "quiet / soft / gentle",
+        "breakdown": [],
+        "breakdown_note": "Quiet or soft. Leise sprechen = to speak softly. Leiser werden = to become quieter. Antonym: laut.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Bitte sprich etwas leiser — das Baby schläft.",
+            "en": "Please speak a bit more quietly — the baby is sleeping."
+          },
+          {
+            "de": "Er sagte es so leise, dass ich es kaum hören konnte.",
+            "en": "He said it so quietly that I could barely hear it."
+          },
+          {
+            "de": "Er sagte es so leise, dass ich es kaum hören konnte.",
+            "en": "He said it so quietly that I could barely hear it."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "ruhig",
+        "german": "ruhig",
+        "pronunciation": "[ˈruːɪç]",
+        "pos": "Adj./Adv.",
+        "english": "quiet / calm / peaceful",
+        "breakdown": [
+          {
+            "part": "Ruhe",
+            "meaning": "rest/calm",
+            "note": "noun root"
+          },
+          {
+            "part": "-ig",
+            "meaning": "-ful/-ly",
+            "note": "adjectival suffix"
+          }
+        ],
+        "breakdown_note": "Calm, quiet, or peaceful. Ruhe! = Be quiet! Ruhig bleiben = to remain calm. Note: ruhig in spoken German can soften commands — Du kannst ruhig gehen = you may as well go (it's fine).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "In dieser Straße ist es sehr ruhig — fast keine Autos.",
+            "en": "This street is very quiet — almost no cars."
+          },
+          {
+            "de": "Bleib ruhig — alles wird gut.",
+            "en": "Stay calm — everything will be fine."
+          },
+          {
+            "de": "Bleib ruhig — alles wird gut.",
+            "en": "Stay calm — everything will be fine."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "schweigen",
+        "german": "schweigen",
+        "pronunciation": "[ˈʃvaɪgən]",
+        "pos": "V/i.",
+        "english": "to be / stay silent",
+        "breakdown": [],
+        "breakdown_note": "schweigen = be/stay silent · still sein = be quiet · verstummen = fall silent (suddenly). Schweigsam = taciturn (Day 12). Das Schweigen brechen = to break the silence. Schweigen bewahren = to maintain silence.",
+        "conjugation": {
+          "prät": "schwieg",
+          "perf": "hat geschwiegen",
+          "note": "irregular strong verb",
+          "imperativ": "du: Schweig!  ·  Sie: Schweigen Sie!",
+          "imperative": "du: Schweig!  ·  Sie: Schweigen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Alle schwiegen, als die Nachricht bekannt wurde.",
+            "en": "Everyone fell silent when the news became known."
+          },
+          {
+            "de": "Er schwieg hartnäckig über den Vorfall.",
+            "en": "He remained stubbornly silent about the incident."
+          },
+          {
+            "de": "Manchmal ist Schweigen die klügste Antwort.",
+            "en": "Sometimes silence is the wisest answer."
+          },
+          {
+            "de": "Manchmal ist Schweigen die klügste Antwort.",
+            "en": "Sometimes silence is the wisest answer."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "book_page": 85,
+    "section": "3.1 General Language · Allgemeine Sprache",
+    "insight": "Sprache vs. Zunge: in German the word for language is Sprache (from sprechen), not Zunge (tongue) — Muttersprache is the mother tongue but the metaphor is speech, not tongue. Wörtlich vs. buchstäblich: both mean literally, but wörtlich refers to word-for-word translation (wörtliche Übersetzung), while buchstäblich (letter by letter) is used for emphasis: Er ist buchstäblich verschwunden = he literally disappeared. Zuhören takes a dative: jemandem zuhören. Anhören takes an accusative: etwas anhören (listen to a piece of music) or is reflexive: Das hört sich gut an (that sounds good). Aussprache has two meanings: pronunciation AND frank discussion (eine Aussprache haben).",
+    "words": [
+      {
+        "id": "Sprache",
+        "german": "Sprache",
+        "pronunciation": "[ˈʃpraːxə]",
+        "pos": "f, -, -n",
+        "english": "language / speech",
+        "breakdown": [
+          {
+            "part": "sprechen",
+            "meaning": "to speak",
+            "note": "related verb"
+          }
+        ],
+        "breakdown_note": "Language or speech. Fremdsprache = foreign language. Muttersprache = mother tongue (Day 13). Sprachbarriere = language barrier. Zur Sprache bringen = to bring up (a topic).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Deutsch ist eine sehr interessante Sprache.",
+            "en": "German is a very interesting language."
+          },
+          {
+            "de": "Das Erlernen einer neuen Sprache erweitert den Horizont.",
+            "en": "Learning a new language broadens one's horizons."
+          },
+          {
+            "de": "Das Erlernen einer neuen Sprache erweitert den Horizont.",
+            "en": "Learning a new language broadens one's horizons."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "still",
+        "german": "still",
+        "pronunciation": "[ʃtɪl]",
+        "pos": "Adj./Adv.",
+        "english": "quiet / still / calm",
+        "breakdown": [],
+        "breakdown_note": "Still, quiet, or motionless. Sei still! = Be quiet! Stille = silence/stillness (noun). Der Stille Ozean = the Pacific Ocean (lit. the silent ocean). Still vs. ruhig: still implies absence of movement or sound; ruhig implies calm composure.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Im Wald ist es sehr still und friedlich.",
+            "en": "In the forest it is very quiet and peaceful."
+          },
+          {
+            "de": "Bitte sei still — ich muss mich konzentrieren.",
+            "en": "Please be quiet — I need to concentrate."
+          },
+          {
+            "de": "Bitte sei still — ich muss mich konzentrieren.",
+            "en": "Please be quiet — I need to concentrate."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Wort",
+        "german": "Wort",
+        "pronunciation": "[vɔrt]",
+        "pos": "n, -(e)s, Wörter / Worte",
+        "english": "word",
+        "breakdown": [],
+        "breakdown_note": "Two plurals: Wörter = individual dictionary words; Worte = meaningful words in context (Worte des Dankes = words of thanks). Das letzte Wort haben = to have the last word.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Dieses Wort kenne ich nicht.",
+            "en": "I don't know this word."
+          },
+          {
+            "de": "Er sprach einige Worte des Abschieds.",
+            "en": "He spoke a few words of farewell."
+          },
+          {
+            "de": "Mit einem einzigen Wort veränderte er die Stimmung im Raum.",
+            "en": "With a single word he changed the mood in the room."
+          },
+          {
+            "de": "Mit einem einzigen Wort veränderte er die Stimmung im Raum.",
+            "en": "With a single word he changed the mood in the room."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "wörtlich",
+        "german": "wörtlich",
+        "pronunciation": "[ˈvœrtlɪç]",
+        "pos": "Adj./Adv.",
+        "english": "literal / word-for-word",
+        "breakdown": [
+          {
+            "part": "Wort",
+            "meaning": "word",
+            "note": "noun root"
+          },
+          {
+            "part": "-lich",
+            "meaning": "-al/-ly",
+            "note": "adjectival suffix"
+          }
+        ],
+        "breakdown_note": "Literal or word-for-word. Wörtlich nehmen = to take literally. Eine wörtliche Übersetzung = a word-for-word translation. Wörtlich zitieren = to quote verbatim.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Nimm das nicht so wörtlich — er meint das nicht so.",
+            "en": "Don't take that so literally — he doesn't mean it that way."
+          },
+          {
+            "de": "Übersetze das nicht wörtlich — das ergibt keinen Sinn.",
+            "en": "Don't translate that literally — it makes no sense."
+          },
+          {
+            "de": "Übersetze das nicht wörtlich — das ergibt keinen Sinn.",
+            "en": "Don't translate that literally — it makes no sense."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "zuhören",
+        "german": "zuhören",
+        "pronunciation": "[ˈtsuːhøːrən]",
+        "pos": "V/i.",
+        "english": "to listen (attentively)",
+        "breakdown": [
+          {
+            "part": "zu-",
+            "meaning": "towards",
+            "note": "separable prefix"
+          },
+          {
+            "part": "hören",
+            "meaning": "to hear",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Listen attentively to someone or something. Takes dative: jmdm. zuhören = to listen to someone. Zuhörer = listener/audience. Gut zuhören können = to be a good listener.",
+        "conjugation": {
+          "prät": "hörte zu",
+          "perf": "hat zugehört",
+          "note": "separable",
+          "imperativ": "du: Hör zu!  ·  Sie: Hören Sie zu!",
+          "imperative": "du: Hör zu!  ·  Sie: Hören Sie zu!"
+        },
+        "examples": [
+          {
+            "de": "Die Kinder hörten der Geschichte gespannt zu.",
+            "en": "The children listened to the story eagerly."
+          },
+          {
+            "de": "Ein guter Therapeut muss vor allem gut zuhören können.",
+            "en": "A good therapist must above all be able to listen well."
+          },
+          {
+            "de": "Ein guter Therapeut muss vor allem gut zuhören können.",
+            "en": "A good therapist must above all be able to listen well."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Anfrage",
+        "german": "Anfrage",
+        "pronunciation": "[ˈanfraːgə]",
+        "pos": "f, -, -n",
+        "english": "inquiry / request",
+        "breakdown": [
+          {
+            "part": "an-",
+            "meaning": "to/towards",
+            "note": "separable prefix"
+          },
+          {
+            "part": "fragen",
+            "meaning": "to ask",
+            "note": "base verb"
+          },
+          {
+            "part": "-e",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Inquiry or request (often formal or written). Schriftliche Anfrage = written inquiry. Parlamentarische Anfrage = parliamentary question. Auf Anfrage = on request.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Wir haben eine schriftliche Anfrage von einem Kunden erhalten.",
+            "en": "We have received a written inquiry from a customer."
+          },
+          {
+            "de": "Wir haben Ihre Anfrage erhalten und werden uns melden.",
+            "en": "We have received your inquiry and will be in touch."
+          },
+          {
+            "de": "Wir haben Ihre Anfrage erhalten und werden uns melden.",
+            "en": "We have received your inquiry and will be in touch."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "anhören",
+        "german": "anhören",
+        "pronunciation": "[ˈanhøːrən]",
+        "pos": "V/t., refl.",
+        "english": "to listen to / hear out",
+        "breakdown": [
+          {
+            "part": "an-",
+            "meaning": "to/onto",
+            "note": "separable prefix"
+          },
+          {
+            "part": "hören",
+            "meaning": "to hear",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Listen to something (etwas anhören) or hear someone out (jmdn. anhören). Reflexive: Das hört sich gut an = that sounds good. More deliberate than just hören.",
+        "conjugation": {
+          "prät": "hörte an",
+          "perf": "hat angehört",
+          "note": "separable",
+          "imperativ": "du: Hör an!  ·  Sie: Hören Sie an!",
+          "imperative": "du: Hör an!  ·  Sie: Hören Sie an!"
+        },
+        "examples": [
+          {
+            "de": "Hör dir diese Musik an — sie ist wunderschön.",
+            "en": "Listen to this music — it's wonderful."
+          },
+          {
+            "de": "Das hört sich interessant an.",
+            "en": "That sounds interesting."
+          },
+          {
+            "de": "Hör dir das neue Album an — es ist wirklich toll.",
+            "en": "Listen to the new album — it is really great."
+          },
+          {
+            "de": "Hör dir das neue Album an — es ist wirklich toll.",
+            "en": "Listen to the new album — it is really great."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Aussprache",
+        "german": "Aussprache",
+        "pronunciation": "[ˈausʃpraːxə]",
+        "pos": "f, -, kein Pl. / -n",
+        "english": "pronunciation / frank discussion",
+        "breakdown": [
+          {
+            "part": "aus-",
+            "meaning": "out",
+            "note": "separable prefix"
+          },
+          {
+            "part": "sprechen",
+            "meaning": "to speak",
+            "note": "related verb"
+          },
+          {
+            "part": "-e",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Pronunciation OR a frank face-to-face discussion. Eine klare Aussprache = clear pronunciation. Eine Aussprache haben = to have a frank discussion. Aussprachewörterbuch = pronunciation dictionary.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ihre Aussprache ist fast perfekt.",
+            "en": "Her pronunciation is almost perfect."
+          },
+          {
+            "de": "Ihre Aussprache verbessert sich von Woche zu Woche.",
+            "en": "Her pronunciation is improving from week to week."
+          },
+          {
+            "de": "Ihre Aussprache verbessert sich von Woche zu Woche.",
+            "en": "Her pronunciation is improving from week to week."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "book_page": 86,
+    "section": "3.1 General Language · Level 2001–4000",
+    "insight": "Schweigsam (taciturn) and schweigen (to be silent, Day 10) share the same root but -sam signals a permanent character trait (like sparsam = thrifty, langsam = slow). Witz means both joke and wit/intelligence — ein witziger Mensch is a witty person. Verständigung covers both communication and mutual understanding — it comes from sich verständigen = to communicate or reach agreement. Compare: Verständnis (understanding/comprehension, Day 9) is more about grasping something; Verständigung is about the act of communicating. Verständlich (understandable) and unverständlich (incomprehensible) are useful hedges in polite language: Das ist verständlich = that is understandable (I appreciate your position).",
+    "words": [
+      {
+        "id": "aussprechen",
+        "german": "aussprechen",
+        "pronunciation": "[ˈausʃprɛçən]",
+        "pos": "V/t., refl.",
+        "english": "to pronounce / express",
+        "breakdown": [
+          {
+            "part": "aus-",
+            "meaning": "out/fully",
+            "note": "separable prefix"
+          },
+          {
+            "part": "sprechen",
+            "meaning": "to speak",
+            "note": "base verb — irregular"
+          }
+        ],
+        "breakdown_note": "Pronounce or fully express. Schwer auszusprechen = hard to pronounce. Sich aussprechen = to speak one's mind / have a frank talk. Einen Wunsch aussprechen = to express a wish.",
+        "conjugation": {
+          "prät": "sprach aus",
+          "perf": "hat ausgesprochen",
+          "note": "separable · irregular",
+          "imperativ": "du: Sprich aus!  ·  Sie: Sprechen Sie aus!",
+          "imperative": "du: Sprich aus!  ·  Sie: Sprechen Sie aus!"
+        },
+        "examples": [
+          {
+            "de": "Dieses Wort ist sehr schwer auszusprechen.",
+            "en": "This word is very hard to pronounce."
+          },
+          {
+            "de": "Der Richter sprach das Urteil aus.",
+            "en": "The judge pronounced the verdict."
+          },
+          {
+            "de": "Dieses Wort ist für Anfänger schwer auszusprechen.",
+            "en": "This word is hard for beginners to pronounce."
+          },
+          {
+            "de": "Dieses Wort ist für Anfänger schwer auszusprechen.",
+            "en": "This word is hard for beginners to pronounce."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "buchstabieren",
+        "german": "buchstabieren",
+        "pronunciation": "[buːxʃtaˈbiːrən]",
+        "pos": "V/t.",
+        "english": "to spell",
+        "breakdown": [
+          {
+            "part": "Buchstabe",
+            "meaning": "letter of the alphabet",
+            "note": "base noun"
+          },
+          {
+            "part": "-ieren",
+            "meaning": "verb suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Spell out letters one by one. Wie buchstabiert man das? = How do you spell that? Buchstabiertafel = spelling alphabet (used in phone calls).",
+        "conjugation": {
+          "prät": "buchstabierte",
+          "perf": "hat buchstabiert",
+          "note": "regular (borrowed verb pattern)",
+          "imperativ": "du: Buchstabiere!  ·  Sie: Buchstabieren Sie!",
+          "imperative": "du: Buchstabiere!  ·  Sie: Buchstabieren Sie!"
+        },
+        "examples": [
+          {
+            "de": "Können Sie Ihren Namen bitte buchstabieren?",
+            "en": "Could you please spell your name?"
+          },
+          {
+            "de": "Wie buchstabiert man Ihren Nachnamen?",
+            "en": "How do you spell your surname?"
+          },
+          {
+            "de": "Wie buchstabiert man Ihren Nachnamen?",
+            "en": "How do you spell your surname?"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Kommentar",
+        "german": "Kommentar",
+        "pronunciation": "[kɔmɛnˈtaːr]",
+        "pos": "m, -(e)s, -e",
+        "english": "comment / commentary",
+        "breakdown": [
+          {
+            "part": "Latin commentarius",
+            "meaning": "notes/commentary",
+            "note": "from commentari = to consider"
+          }
+        ],
+        "breakdown_note": "Comment or commentary. Kein Kommentar! = No comment! Kommentieren = to comment on. Kommentarfunktion = comment function (on websites).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er gab keinen Kommentar zu den Vorwürfen ab.",
+            "en": "He made no comment on the allegations."
+          },
+          {
+            "de": "Unter dem Beitrag gab es hunderte von Kommentaren.",
+            "en": "Under the post there were hundreds of comments."
+          },
+          {
+            "de": "Unter dem Beitrag gab es hunderte von Kommentaren.",
+            "en": "Under the post there were hundreds of comments."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Laut",
+        "german": "Laut",
+        "pronunciation": "[laʊt]",
+        "pos": "m, -(e)s, -e",
+        "english": "sound / phoneme",
+        "breakdown": [
+          {
+            "part": "laut",
+            "meaning": "loud",
+            "note": "related adjective — sounds that are produced"
+          }
+        ],
+        "breakdown_note": "Linguistic sound or phoneme. Distinct from Ton (musical tone) and Geräusch (noise). Konsonant/Vokal = consonant/vowel (types of Laute). Laute von sich geben = to make sounds.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das 'Sch' in 'Schule' ist ein Laut, kein einzelner Buchstabe.",
+            "en": "The 'sch' in 'Schule' is a sound, not an individual letter."
+          },
+          {
+            "de": "Das 'ch' im Deutschen ist für viele ein schwieriger Laut.",
+            "en": "The 'ch' in German is a difficult sound for many."
+          },
+          {
+            "de": "Das 'ch' im Deutschen ist für viele ein schwieriger Laut.",
+            "en": "The 'ch' in German is a difficult sound for many."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "schweigsam",
+        "german": "schweigsam",
+        "pronunciation": "[ˈʃvaɪkzaːm]",
+        "pos": "Adj.",
+        "english": "taciturn / reticent",
+        "breakdown": [
+          {
+            "part": "schweigen",
+            "meaning": "to be silent",
+            "note": "verb root"
+          },
+          {
+            "part": "-sam",
+            "meaning": "-ent/-ful",
+            "note": "adjectival suffix — indicating a tendency"
+          }
+        ],
+        "breakdown_note": "Taciturn or given to silence as a permanent character trait. (-sam signals habitual tendency — compare sparsam = thrifty, langsam = slow). Stronger and more innate than einfach still.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er ist von Natur aus sehr schweigsam und redet wenig.",
+            "en": "He is by nature very taciturn and speaks little."
+          },
+          {
+            "de": "Nach dem Streit war er tagelang schweigsam.",
+            "en": "After the argument he was silent for days."
+          },
+          {
+            "de": "Nach dem Streit war er tagelang schweigsam.",
+            "en": "After the argument he was silent for days."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Verständigung",
+        "german": "Verständigung",
+        "pronunciation": "[fɛrˈʃtɛndɪgʊŋ]",
+        "pos": "f, -, kein Pl.",
+        "english": "communication / understanding",
+        "breakdown": [
+          {
+            "part": "sich verständigen",
+            "meaning": "to communicate/reach agreement",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Communication or reaching mutual understanding. Also: notification (jmdn. verständigen = to notify someone). Völkerverständigung = international understanding between peoples.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ohne gemeinsame Sprache ist die Verständigung sehr schwer.",
+            "en": "Without a common language, communication is very difficult."
+          },
+          {
+            "de": "Dank der gemeinsamen Sprache gelang die Verständigung sofort.",
+            "en": "Thanks to the common language communication succeeded immediately."
+          },
+          {
+            "de": "Dank der gemeinsamen Sprache gelang die Verständigung sofort.",
+            "en": "Thanks to the common language communication succeeded immediately."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "verständlich",
+        "german": "verständlich",
+        "pronunciation": "[fɛrˈʃtɛntlɪç]",
+        "pos": "Adj./Adv.",
+        "english": "understandable / comprehensible",
+        "breakdown": [
+          {
+            "part": "verstehen",
+            "meaning": "to understand",
+            "note": "related verb"
+          },
+          {
+            "part": "-lich",
+            "meaning": "-ible/-able",
+            "note": "adjectival suffix"
+          }
+        ],
+        "breakdown_note": "Understandable or comprehensible. Sich verständlich machen = to make oneself understood. Unverständlich = incomprehensible. Das ist verständlich = that is understandable (I appreciate your position).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ihre Erklärung war sehr klar und verständlich.",
+            "en": "Her explanation was very clear and understandable."
+          },
+          {
+            "de": "Erkläre es bitte so verständlich wie möglich.",
+            "en": "Please explain it as clearly as possible."
+          },
+          {
+            "de": "Erkläre es bitte so verständlich wie möglich.",
+            "en": "Please explain it as clearly as possible."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Witz",
+        "german": "Witz",
+        "pronunciation": "[vɪts]",
+        "pos": "m, -es, -e",
+        "english": "joke / wit",
+        "breakdown": [],
+        "breakdown_note": "Joke or wit. Einen Witz erzählen/machen = to tell a joke. Witzig = funny. Das ist kein Witz! = That's no joke! Also a quality of cleverness: Er hat Witz = he has wit.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er erzählt immer sehr gute Witze.",
+            "en": "He always tells very good jokes."
+          },
+          {
+            "de": "Sein Witz ist trocken und sehr britisch.",
+            "en": "His wit is dry and very British."
+          },
+          {
+            "de": "Sein Witz ist trocken und sehr britisch.",
+            "en": "His wit is dry and very British."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "book_page": 87,
+    "section": "3.2 Speech · Sprechen",
+    "insight": "Erzählen vs. sagen vs. berichten: erzählen = narrate/tell (a story or events at length), sagen = say (a specific thing), berichten = report (facts, news). Ausdruck covers both expression (facial or linguistic) and printout (computer Ausdruck). Zum Ausdruck bringen = to express, zum Ausdruck kommen = to be expressed/evident. Mitteilen is a formal and deliberate verb — used in official communications and announcements. Wir teilen Ihnen mit, dass... = we hereby inform you that... The related noun Mitteilung appears in headlines and form letters. Muttersprache vs. Erstsprache: Muttersprache is the colloquial and emotionally loaded term; Erstsprache (L1) is the neutral academic/linguistic term.",
+    "words": [
+      {
+        "id": "Ausdruck",
+        "german": "Ausdruck",
+        "pronunciation": "[ˈausdrʊk]",
+        "pos": "m, -(e)s, Ausdrücke",
+        "english": "expression / term",
+        "breakdown": [
+          {
+            "part": "aus-",
+            "meaning": "out",
+            "note": "separable prefix"
+          },
+          {
+            "part": "Druck",
+            "meaning": "press/print",
+            "note": "related noun"
+          }
+        ],
+        "breakdown_note": "Expression, term, or printout (computer). Zum Ausdruck bringen = to express/convey. Zum Ausdruck kommen = to be expressed/evident. Ausdrucksstark = expressive.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Dieser Ausdruck ist in der deutschen Sprache sehr häufig.",
+            "en": "This expression is very common in the German language."
+          },
+          {
+            "de": "Dieser Ausdruck ist typisch für die gesprochene Sprache.",
+            "en": "This expression is typical of spoken language."
+          },
+          {
+            "de": "Dieser Ausdruck ist typisch für die gesprochene Sprache.",
+            "en": "This expression is typical of spoken language."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Aussage",
+        "german": "Aussage",
+        "pronunciation": "[ˈaʊszaːgə]",
+        "pos": "f, -, -n",
+        "english": "statement / testimony",
+        "breakdown": [
+          {
+            "part": "aus-",
+            "meaning": "out",
+            "note": "separable prefix"
+          },
+          {
+            "part": "sagen",
+            "meaning": "to say",
+            "note": "base verb"
+          },
+          {
+            "part": "-e",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Statement or testimony. Zeugenaussage = witness statement. Eine Aussage machen = to make a statement. Eine Aussage verweigern = to refuse to testify (legal).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Aussagen der Zeugen waren widersprüchlich.",
+            "en": "The witnesses' statements were contradictory."
+          },
+          {
+            "de": "Die Aussage des Zeugen war für den Prozess entscheidend.",
+            "en": "The witness's statement was crucial for the trial."
+          },
+          {
+            "de": "Die Aussage des Zeugen war für den Prozess entscheidend.",
+            "en": "The witness's statement was crucial for the trial."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "bemerken",
+        "german": "bemerken",
+        "pronunciation": "[bəˈmɛrkən]",
+        "pos": "V/t.",
+        "english": "to notice / remark",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "inseparable prefix",
+            "note": "transitivizing"
+          },
+          {
+            "part": "merken",
+            "meaning": "to notice/note",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Notice or remark. Ich habe es nicht bemerkt = I didn't notice it. Also used for making a comment: er bemerkte, dass... = he remarked that...",
+        "conjugation": {
+          "prät": "bemerkte",
+          "perf": "hat bemerkt",
+          "note": "inseparable",
+          "imperativ": "du: Bemerke!  ·  Sie: Bemerken Sie!",
+          "imperative": "du: Bemerke!  ·  Sie: Bemerken Sie!"
+        },
+        "examples": [
+          {
+            "de": "Er bemerkte sofort, dass etwas nicht stimmte.",
+            "en": "He immediately noticed that something was wrong."
+          },
+          {
+            "de": "Hast du bemerkt, dass er heute nicht da ist?",
+            "en": "Did you notice that he is not here today?"
+          },
+          {
+            "de": "Hast du bemerkt, dass er heute nicht da ist?",
+            "en": "Did you notice that he is not here today?"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Bemerkung",
+        "german": "Bemerkung",
+        "pronunciation": "[bəˈmɛrkʊŋ]",
+        "pos": "f, -, -en",
+        "english": "remark / comment",
+        "breakdown": [
+          {
+            "part": "bemerken",
+            "meaning": "to remark",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Remark or comment. Eine Bemerkung machen = to make a remark. Nebenbei bemerkt = by the way/incidentally. Taktlose Bemerkung = tactless remark.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Seine Bemerkung war sehr unhöflich und unangebracht.",
+            "en": "His remark was very rude and inappropriate."
+          },
+          {
+            "de": "Seine spitze Bemerkung verletzte sie tief.",
+            "en": "His cutting remark hurt her deeply."
+          },
+          {
+            "de": "Seine spitze Bemerkung verletzte sie tief.",
+            "en": "His cutting remark hurt her deeply."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "erzählen",
+        "german": "erzählen",
+        "pronunciation": "[ɛrˈtsɛːlən]",
+        "pos": "V/t.",
+        "english": "to tell / narrate",
+        "breakdown": [
+          {
+            "part": "er-",
+            "meaning": "completive/intensive prefix",
+            "note": "inseparable"
+          },
+          {
+            "part": "zählen",
+            "meaning": "to count",
+            "note": "base verb — recount events"
+          }
+        ],
+        "breakdown_note": "Tell or narrate. Jmdm. etwas erzählen = to tell someone something. Erzähler = narrator. Erzählung = narrative/short story. Compare: sagen (say a specific thing), berichten (report facts).",
+        "conjugation": {
+          "prät": "erzählte",
+          "perf": "hat erzählt",
+          "note": "inseparable",
+          "imperativ": "du: Erzähle!  ·  Sie: Erzählen Sie!",
+          "imperative": "du: Erzähle!  ·  Sie: Erzählen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Kannst du mir von deiner Reise erzählen?",
+            "en": "Can you tell me about your trip?"
+          },
+          {
+            "de": "Erzähl mir, was heute in der Schule passiert ist.",
+            "en": "Tell me what happened at school today."
+          },
+          {
+            "de": "Erzähl mir, was heute in der Schule passiert ist.",
+            "en": "Tell me what happened at school today."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Gespräch",
+        "german": "Gespräch",
+        "pronunciation": "[gəˈʃprɛːç]",
+        "pos": "n, -(e)s, -e",
+        "english": "conversation / talk",
+        "breakdown": [
+          {
+            "part": "sprechen",
+            "meaning": "to speak",
+            "note": "related verb — ge- nominalizing prefix"
+          }
+        ],
+        "breakdown_note": "Conversation or talk. Ein Gespräch führen = to have a conversation. Ein Gespräch beginnen = to start a conversation. Telefonisches Gespräch = phone call. Gesprächsstoff = topic of conversation.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Gespräch mit ihm war sehr interessant und informativ.",
+            "en": "The conversation with him was very interesting and informative."
+          },
+          {
+            "de": "Das Gespräch mit der Beraterin war sehr hilfreich.",
+            "en": "The conversation with the counsellor was very helpful."
+          },
+          {
+            "de": "Das Gespräch mit der Beraterin war sehr hilfreich.",
+            "en": "The conversation with the counsellor was very helpful."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "mitteilen",
+        "german": "mitteilen",
+        "pronunciation": "[ˈmɪttaɪlən]",
+        "pos": "V/t.",
+        "english": "to inform / notify / communicate",
+        "breakdown": [
+          {
+            "part": "mit-",
+            "meaning": "with/along",
+            "note": "separable prefix — sharing information"
+          },
+          {
+            "part": "teilen",
+            "meaning": "to share/divide",
+            "note": "base verb"
+          }
+        ],
+        "breakdown_note": "Inform or notify — formal tone. Jmdm. etwas mitteilen = to inform someone of something. Wir teilen Ihnen mit, dass... = we hereby inform you that... (letter formula).",
+        "conjugation": {
+          "prät": "teilte mit",
+          "perf": "hat mitgeteilt",
+          "note": "separable",
+          "imperativ": "du: Teile mit!  ·  Sie: Teilen Sie mit!",
+          "imperative": "du: Teile mit!  ·  Sie: Teilen Sie mit!"
+        },
+        "examples": [
+          {
+            "de": "Bitte teilen Sie uns Ihre Adresse mit.",
+            "en": "Please inform us of your address."
+          },
+          {
+            "de": "Bitte teile uns so früh wie möglich mit, ob du kommt.",
+            "en": "Please let us know as early as possible whether you are coming."
+          },
+          {
+            "de": "Bitte teile uns so früh wie möglich mit, ob du kommt.",
+            "en": "Please let us know as early as possible whether you are coming."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Mitteilung",
+        "german": "Mitteilung",
+        "pronunciation": "[ˈmɪttaɪlʊŋ]",
+        "pos": "f, -, -en",
+        "english": "communication / message / notification",
+        "breakdown": [
+          {
+            "part": "mitteilen",
+            "meaning": "to inform/share",
+            "note": "verb"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Official communication or notification. Laut Mitteilung = according to the notification. Offizielle Mitteilung = official communication. Also: SMS-Mitteilung = text message.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die offizielle Mitteilung wurde an alle Mitarbeiter verschickt.",
+            "en": "The official notification was sent to all employees."
+          },
+          {
+            "de": "Die offizielle Mitteilung wurde an alle Mitarbeiter verschickt.",
+            "en": "The official notification was sent to all employees."
+          },
+          {
+            "de": "Die offizielle Mitteilung wurde an alle Mitarbeiter verschickt.",
+            "en": "The official notification was sent to all employees."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Muttersprache",
+        "german": "Muttersprache",
+        "pronunciation": "[ˈmʊtərʃpraːxə]",
+        "pos": "f, -, -n",
+        "english": "mother tongue / native language",
+        "breakdown": [
+          {
+            "part": "Mutter",
+            "meaning": "mother",
+            "note": "first element"
+          },
+          {
+            "part": "Sprache",
+            "meaning": "language",
+            "note": "second element"
+          }
+        ],
+        "breakdown_note": "Mother tongue or native language. Muttersprachler = native speaker. Synonym: Erstsprache (L1 — neutral academic term). Seine Muttersprache sprechen = to speak one's mother tongue.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Seine Muttersprache ist Arabisch, aber er spricht perfektes Deutsch.",
+            "en": "His mother tongue is Arabic, but he speaks perfect German."
+          },
+          {
+            "de": "Obwohl sie seit 20 Jahren in Deutschland lebt, ist ihre Muttersprache Türkisch.",
+            "en": "Although she has lived in Germany for 20 years, her mother tongue is Turkish."
+          },
+          {
+            "de": "Obwohl sie seit 20 Jahren in Deutschland lebt, ist ihre Muttersprache Türkisch.",
+            "en": "Although she has lived in Germany for 20 years, her mother tongue is Turkish."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "book_page": 88,
+    "section": "3.2 Speech (continued)",
+    "insight": "Sprechen, reden, and sagen form the core speaking trio. Sprechen is the neutral all-purpose verb for using language — Deutsch sprechen, über ein Thema sprechen. Reden implies more extended, informal, or emotionally coloured talk — Wir müssen reden (we need to talk). Sagen specifies what was said — er sagte, dass... Rufen (call/shout) and its compound anrufen (phone) are essential: Beruf (profession) literally means a calling (from rufen). Stimme covers both voice and vote — the double meaning is transparent in Stimmzettel (ballot paper) and Abstimmung (vote/ballot). Satz has at least four meanings: sentence (grammar), set (tennis), rate (finance: Steuersatz), and a leap (einen Satz machen = to jump).",
+    "words": [
+      {
+        "id": "reden",
+        "german": "reden",
+        "pronunciation": "[ˈreːdən]",
+        "pos": "V/i., t.",
+        "english": "to talk / speak",
+        "breakdown": [
+          {
+            "part": "Rede",
+            "meaning": "speech/talk",
+            "note": "related noun"
+          }
+        ],
+        "breakdown_note": "Talk or speak — more informal or continuous than sprechen. Eine Rede halten = to give a speech. Über etwas reden = to talk about something. Gerüchte/Unsinn reden = to talk nonsense/rumours.",
+        "conjugation": {
+          "prät": "redete",
+          "perf": "hat geredet",
+          "note": "regular",
+          "imperativ": "du: Rede!  ·  Sie: Reden Sie!",
+          "imperative": "du: Rede!  ·  Sie: Reden Sie!"
+        },
+        "examples": [
+          {
+            "de": "Wir haben lange über das Problem geredet.",
+            "en": "We talked for a long time about the problem."
+          },
+          {
+            "de": "Wir müssen ernsthaft über dieses Problem reden.",
+            "en": "We need to talk seriously about this problem."
+          },
+          {
+            "de": "Wir müssen ernsthaft über dieses Problem reden.",
+            "en": "We need to talk seriously about this problem."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "rufen",
+        "german": "rufen",
+        "pronunciation": "[ˈruːfən]",
+        "pos": "V/t., i.",
+        "english": "to call / shout",
+        "breakdown": [],
+        "breakdown_note": "Call or shout. Rufen Sie einen Arzt! = Call a doctor! Anrufen = to call by phone. Beruf = profession (lit. a calling — from rufen). Um Hilfe rufen = to call for help.",
+        "conjugation": {
+          "prät": "rief",
+          "perf": "hat gerufen",
+          "note": "irregular strong verb",
+          "imperativ": "du: Ruf!  ·  Sie: Rufen Sie!",
+          "imperative": "du: Ruf!  ·  Sie: Rufen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Er rief laut nach Hilfe.",
+            "en": "He shouted loudly for help."
+          },
+          {
+            "de": "Ruf mal an, wenn du ankommst.",
+            "en": "Give us a call when you arrive."
+          },
+          {
+            "de": "Sie rief seinen Namen, aber er antwortete nicht.",
+            "en": "She called his name but he did not answer."
+          },
+          {
+            "de": "Sie rief seinen Namen, aber er antwortete nicht.",
+            "en": "She called his name but he did not answer."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "sagen",
+        "german": "sagen",
+        "pronunciation": "[ˈzaːgən]",
+        "pos": "V/t.",
+        "english": "to say / tell",
+        "breakdown": [],
+        "breakdown_note": "Say or tell — one of the most basic verbs. Ich sage dir = I'm telling you. Sag mal = tell me/say. Das heißt = that means; so zu sagen = so to speak.",
+        "conjugation": {
+          "prät": "sagte",
+          "perf": "hat gesagt",
+          "note": "regular",
+          "imperativ": "du: Sag!  ·  Sie: Sagen Sie!",
+          "imperative": "du: Sag!  ·  Sie: Sagen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Was wolltest du mir eigentlich sagen?",
+            "en": "What did you actually want to tell me?"
+          },
+          {
+            "de": "Er sagte, er kommt morgen.",
+            "en": "He said he would come tomorrow."
+          },
+          {
+            "de": "Ich wollte dir schon lange sagen, wie sehr ich dich schätze.",
+            "en": "I have wanted to tell you for a long time how much I appreciate you."
+          },
+          {
+            "de": "Ich wollte dir schon lange sagen, wie sehr ich dich schätze.",
+            "en": "I have wanted to tell you for a long time how much I appreciate you."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Satz",
+        "german": "Satz",
+        "pronunciation": "[zats]",
+        "pos": "m, -es, Sätze",
+        "english": "sentence / rate / set",
+        "breakdown": [],
+        "breakdown_note": "At least four meanings: sentence (grammar), leap (einen Satz machen), set (tennis), and rate (Steuersatz = tax rate). Hauptsatz = main clause. Nebensatz = subordinate clause. Satzzeichen = punctuation mark.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Bilde einen Satz mit diesem Wort.",
+            "en": "Form a sentence with this word."
+          },
+          {
+            "de": "Bilde einen Satz mit jedem neuen Vokabular.",
+            "en": "Form a sentence with each new vocabulary item."
+          },
+          {
+            "de": "Bilde einen Satz mit jedem neuen Vokabular.",
+            "en": "Form a sentence with each new vocabulary item."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "sprechen",
+        "german": "sprechen",
+        "pronunciation": "[ˈʃprɛçən]",
+        "pos": "V/i., t.",
+        "english": "to speak",
+        "breakdown": [],
+        "breakdown_note": "Speak — the standard all-purpose verb for language use. Present: ich spreche, du sprichst, er spricht (e→i). Sprecher = speaker. Compare: reden (informal, extended talking), sagen (say a specific thing).",
+        "conjugation": {
+          "prät": "sprach",
+          "perf": "hat gesprochen",
+          "note": "irregular — e→i in du/er forms",
+          "imperativ": "du: Sprich!  ·  Sie: Sprechen Sie!",
+          "imperative": "du: Sprich!  ·  Sie: Sprechen Sie!"
+        },
+        "examples": [
+          {
+            "de": "Sie spricht fließend Deutsch und Englisch.",
+            "en": "She speaks German and English fluently."
+          },
+          {
+            "de": "Können wir nach der Stunde kurz miteinander sprechen?",
+            "en": "Can we speak briefly with each other after the lesson?"
+          },
+          {
+            "de": "Können wir nach der Stunde kurz miteinander sprechen?",
+            "en": "Can we speak briefly with each other after the lesson?"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      },
+      {
+        "id": "Stimme",
+        "german": "Stimme",
+        "pronunciation": "[ˈʃtɪmə]",
+        "pos": "f, -, -n",
+        "english": "voice / vote",
+        "breakdown": [
+          {
+            "part": "stimmen",
+            "meaning": "to be correct/tune",
+            "note": "related verb"
+          }
+        ],
+        "breakdown_note": "Voice or vote. Mit leiser Stimme = in a soft voice. Stimmzettel = ballot paper. Abstimmen = to vote. Seine Stimme abgeben = to cast one's vote. Stimmung = mood (related).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er hat eine sehr angenehme Stimme.",
+            "en": "He has a very pleasant voice."
+          },
+          {
+            "de": "Bei der Wahl bekam sie die meisten Stimmen.",
+            "en": "In the election she got the most votes."
+          },
+          {
+            "de": "Bei der Wahl gab sie ihre Stimme für die Grünen ab.",
+            "en": "In the election she cast her vote for the Greens."
+          },
+          {
+            "de": "Bei der Wahl gab sie ihre Stimme für die Grünen ab.",
+            "en": "In the election she cast her vote for the Greens."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": null,
+        "mnemonic": null,
+        "present_examples": []
+      }
+    ]
+  }
+]
