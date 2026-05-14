@@ -3,7 +3,7 @@
     "day": 1,
     "book_page": 89,
     "section": "3.1 Sprechen",
-    "insight": "Abfahrt and Ankunft are the two poles of every German journey — both built from fahren/kommen plus a directional prefix (ab- = away, an- = towards). ⚠ Lookalike alert: Aufenthalt looks like aufhalten (to hold up/detain) — and it is related, but Aufenthalt is always positive: a stay or stopover. Verspätung (delay) is so common on German trains that 'Der Zug hat Verspätung' is almost a national cliché. Fahrkarte = fare card (Fahr- from fahren + Karte = card); Fahrschein is a regional synonym.",
+    "insight": "wiederholen is inseparable despite looking separable — ich wiederhole (no split), never *ich hole wieder. Compare: wieder holen (two words, separable) = to fetch again; wiederholen (one word, inseparable) = to repeat. ⚠ Lookalike alert: ankündigen vs. kündigen — they share the root kund (to make known), but kündigen = to terminate a contract, ankündigen = to announce something future. The root kund- runs through Auskunft, erkundigen, and ankündigen — all about making things known.",
     "words": [
       {
         "id": "wiederholen",
@@ -464,7 +464,7 @@
     "day": 2,
     "book_page": 90,
     "section": "3.1 Sprechen",
-    "insight": "Buchen originally meant to write in a book (Buch) — hence 'to book/reserve'. ⚠ Lookalike alert: Unterkunft looks like Ankunft (arrival) — both end in -kunft (from kommen). Unterkunft = shelter-coming (where you come to stay); Ankunft = the coming-to-a-place. Übernachten = to stay overnight: über (over/across) + Nacht (night). Note: abfahren (train departs), abfliegen (plane takes off), ablegen (ship sets sail) — each transport type uses a different verb.",
+    "insight": "German has a rich set of speaking-volume verbs: sprechen (neutral) → flüstern (whisper) → murmeln (murmur) → raunen (mysterious whisper) → rufen (call out) → schreien (shout/scream). ⚠ mündlich vs. schriftlich are the essential pair for exam contexts — oral vs. written. Mund (mouth) → mündlich; Schrift (writing) → schriftlich. schildern is richer than beschreiben — it paints a scene; beschreiben is neutral and factual.",
     "words": [
       {
         "id": "die Besprechung",
@@ -957,7 +957,7 @@
     "day": 3,
     "book_page": 91,
     "section": "3.1 Sprechen",
-    "insight": "Zoll has two completely unrelated meanings: customs/duty AND the unit inch (2.54 cm) — a pure homonym. ⚠ Lookalike alert: Grenze looks nothing like its meaning 'border', because it is a loanword from Polish granica, borrowed in the Middle Ages via trade routes. Ausland vs. Inland: the suffix -land anchors both — Aus- (out) vs. In- (in). ⚠ Lookalike alert: Reiseziel — Ziel means goal/target, so a Reiseziel is literally your journey's goal, not a 'travel seal' (Reisesiegel). Don't confuse Ziel (goal) with Siegel (seal/stamp).",
+    "insight": "schreien is a strong (irregular) verb: schreien – schrie – hat geschrien. ⚠ Lookalike alert: Vereinbarung looks like Vereinigung (union/merger) — but Vereinbarung = agreement/arrangement (from vereinbaren = to arrange), while Vereinigung = unification (from vereinigen = to unite). vereinbaren is inseparable: ich vereinbare — despite ver- + ein + bar looking like three parts, it never splits. Wiederholung can mean both repetition (general) and a TV rerun — same word, very different registers.",
     "words": [
       {
         "id": "schreien",
@@ -1256,7 +1256,7 @@
     "day": 4,
     "book_page": 92,
     "section": "3.2 Schreiben",
-    "insight": "Abflug (takeoff) vs. Landung (landing): note the asymmetry — Abflug uses ab- (away) + Flug (flight), while Landung comes from landen + -ung. ⚠ Lookalike alert: Staatsangehörigkeit contains angehören (to belong to), not gehören (to belong/be owned). angehören + Dative = to be a member of; gehören + Dative = to belong to someone as property. ⚠ Lookalike alert: Gepäckaufgabe — Aufgabe normally means 'task' or 'homework', but here it means 'surrender/hand-over'. Gepäck aufgeben = to check in your luggage (hand it over).",
+    "insight": "Schrift covers three meanings: handwriting, a writing system (die arabische Schrift), and a publication. ⚠ Lookalike alert: schriftlich vs. schriftweise — schriftlich = in writing (the normal word); schriftweise is rare/technical. Always use schriftlich for 'in writing'. lauten is impersonal — the subject is always a text, rule, or order, never a person: Die Antwort lautet 'ja' (The answer is 'yes'). Never *Ich laute 'ja'. Rechtschreibung = recht (correct) + Schreibung (writing) — literally 'right-writing'.",
     "words": [
       {
         "id": "die Schrift",
@@ -1617,7 +1617,7 @@
     "day": 5,
     "book_page": 93,
     "section": "3.3 Informieren",
-    "insight": "Nachricht vs. Mitteilung: both mean 'message', but Nachricht is informal/everyday (a news item, a WhatsApp); Mitteilung is formal (an official notification). ⚠ Lookalike alert: Gespräch ends in -sprach (speech), like Sprache (language) and sprechen (to speak) — all share the same root. The ge- prefix creates a collective noun: all the back-and-forth speaking. ⚠ Lookalike alert: Austausch looks like Tausch (swap), because it IS from tauschen — aus- means both sides swap something OUT. Don't confuse with Auslass (outlet) or Ausnahme (exception).",
+    "insight": "berichten, beschreiben, schildern, and erklären all involve conveying information but with different emphases: berichten = report facts (journalistic); beschreiben = describe neutrally; schildern = depict vividly; erklären = explain with logic or causation. ⚠ erklären has two registers: casual (explain to me) and formal (declare — den Krieg erklären = declare war). Auskunft shares the root kund- with ankündigen and erkundigen — all from the idea of making something known.",
     "words": [
       {
         "id": "die Auskunft",
@@ -1974,7 +1974,7 @@
     "day": 6,
     "book_page": 94,
     "section": "3.3 Informieren",
-    "insight": "⚠ Key lookalike: erkundigen looks like Kunde (customer) — but they are NOT related. erkundigen comes from kund (known/announced, archaic), the same root as ankündigen (to announce) and Auskunft (information). Sich erkundigen = to make something known to yourself by asking. Kunde (customer) comes from a completely different root (kennen → Bekanntschaft). ⚠ Also: beantworten vs. antworten — beantworten takes a DIRECT object (eine Frage beantworten), while antworten uses auf + Accusative (auf eine Frage antworten). Never say *auf eine Frage beantworten.",
+    "insight": "⚠ Key lookalike: erkundigen looks like Kunde (customer) — but they are NOT related. erkundigen comes from kund (known/announced, archaic), the same root as ankündigen and Auskunft. Kunde (customer) comes from kennen (to know/be acquainted with) → Bekanntschaft. Was ist los? is one of the most essential phrases in spoken German — los means 'loose/off', so it's literally 'what has come loose?' = what's going on? Melden has a reflexive use: sich melden = to get in touch / to raise your hand (in class).",
     "words": [
       {
         "id": "informieren",
@@ -2370,7 +2370,7 @@
     "day": 7,
     "book_page": 95,
     "section": "3.3 Informieren",
-    "insight": "⚠ Lookalike pair: Arbeitgeber vs. Arbeitnehmer are a perfect logical mirror — who GIVES work (geben) vs. who TAKES work (nehmen). Bewerbung / bewerben come from werben (to advertise/recruit) — you are advertising yourself. ⚠ Lookalike alert: Gehalt has two meanings — salary AND content/substance (der Gehalt = the content, e.g. Alkoholgehalt = alcohol content). The salary meaning uses das Gehalt; the content meaning uses der Gehalt — gender marks the difference.",
+    "insight": "⚠ Grammar trap of the chapter: beantworten vs. antworten. beantworten takes a DIRECT object: eine Frage beantworten (acc.). antworten uses auf + Accusative: auf eine Frage antworten. Never *auf eine Frage beantworten — this mixes the two constructions. verraten has a surprisingly gentle second meaning: Kannst du mir verraten, wo …? = Can you let me in on where …? It's betrayal softened into a friendly request for a secret tip.",
     "words": [
       {
         "id": "beantworten",
@@ -2751,7 +2751,7 @@
     "day": 8,
     "book_page": 96,
     "section": "3.4 Meinen und Diskutieren",
-    "insight": "⚠ Key lookalike: einstellen has two opposite meanings — (1) to HIRE someone (jemanden einstellen = to place someone into the company); (2) to STOP or ADJUST something (die Produktion einstellen = to halt production; den Sender einstellen = to tune the radio). Context is essential. ⚠ Lookalike alert: kündigen vs. ankündigen — kündigen ends a contract; ankündigen announces something in the future. They share the root kund (to make known) but mean opposite things.",
+    "insight": "einerseits … andererseits is one of the most useful linking structures for expressing nuance in German — essential for essays, debates, and B2/C1 level writing. ⚠ Lookalike alert: Ansicht vs. Aussicht — Ansicht = opinion/view (abstract); Aussicht = outlook/prospect (often literal: a view from a window, or future prospects). begründen is the academic verb for justification — Bitte begründen Sie Ihre Antwort is heard in every German exam. Begründung = the justification given.",
     "words": [
       {
         "id": "allerdings",
@@ -3139,7 +3139,7 @@
     "day": 9,
     "book_page": 97,
     "section": "3.4 Meinen und Diskutieren",
-    "insight": "Beruf vs. Job vs. Tätigkeit: Beruf is your vocation (lifelong identity); Job is casual/colloquial; Tätigkeit is the formal bureaucratic word used on official forms. ⚠ Lookalike alert: Lebenslauf — Lauf means run/course (not 'leaf'/Blatt), so this is literally the 'course of your life', not a 'life leaf'. ⚠ Lookalike alert: Fachmann contains Fach (subject/compartment), not Fach as in Bach/Dach — it's the same Fach as in Schulfach (school subject) or Fachgebiet (field of expertise).",
+    "insight": "überreden vs. überzeugen is a classic German distinction: überreden = talk someone into something (emotional/persistent pressure, they may not be fully convinced); überzeugen = convince with evidence or logic (the person genuinely comes around). ⚠ empfehlen has a vowel change: empfehlen → er empfiehlt (present) → empfahl (Prät.) → empfohlen (Perf.). feststellen (separable) introduces a conclusion: Ich stelle fest, dass … = I find/note that … — very common in academic and formal German.",
     "words": [
       {
         "id": "empfehlen",
@@ -3504,7 +3504,7 @@
     "day": 10,
     "book_page": 98,
     "section": "3.4 Meinen und Diskutieren",
-    "insight": "Kenntnisse is almost always plural — you rarely have a single Kenntnis. On CVs: Kenntnisse (knowledge areas), Fähigkeiten (abilities), Fertigkeiten (practical skills) — German CV language uses all three with subtle differences. ⚠ Lookalike alert: Beförderung means both PROMOTION at work and TRANSPORTATION/CONVEYANCE (Beförderungsmittel = means of transport). Same word, very different contexts. ⚠ Lookalike alert: Ausbildung vs. Fortbildung vs. Weiterbildung — Ausbildung = initial vocational training; Fortbildung = advancing existing skills; Weiterbildung = any further education.",
+    "insight": "sachlich is a key word in German debate culture — Bleiben Sie sachlich! = stick to the facts, not emotions. ⚠ Einstellung has three completely different meanings depending on context: (1) attitude/stance, (2) hiring/employment, (3) setting/adjustment of a device. Always check context. gewissermaßen and sozusagen are hedging adverbs that soften a claim — both translate roughly as 'so to speak' or 'in a way', but sozusagen is slightly more colloquial.",
     "words": [
       {
         "id": "wesentlich",
@@ -3960,7 +3960,7 @@
     "day": 11,
     "book_page": 99,
     "section": "3.4 Meinen und Diskutieren",
-    "insight": "Gemeinschaft vs. Gesellschaft is one of sociology's founding distinctions (Ferdinand Tönnies, 1887): Gemeinschaft = warm personal community bonds; Gesellschaft = formal contractual society. ⚠ Lookalike alert: Behörde (authority/government office) looks like gehören (to belong) — but Behörde comes from hören (to hear/obey) via Old High German: an authority is one that is 'listened to'. ⚠ Lookalike alert: Amt means a public office/position, not 'amount'. Bürger originally meant town-dweller (Burg = fortified town); now it means citizen.",
+    "insight": "⚠ selbstverständlich, sowieso, and ohnehin all mean 'of course/anyway' but with different nuances: selbstverständlich = self-evident, it goes without saying (slightly formal); sowieso = anyway, colloquial and very common in speech; ohnehin = in any case, slightly more formal than sowieso. Stellungnahme = Stellung (position) + Nahme (taking, from nehmen) — literally 'position-taking'. Used for official statements in law, journalism, and politics. Urteil vs. Vorurteil: Urteil = judgement (formed from evidence); Vorurteil = pre-judgement = prejudice.",
     "words": [
       {
         "id": "selbstverständlich",
@@ -4417,7 +4417,7 @@
     "day": 12,
     "book_page": 100,
     "section": "3.5 Zustimmen und Ablehnen",
-    "insight": "⚠ Key lookalike: Wahl means BOTH election AND choice — 'Ich habe keine Wahl' (I have no choice) vs. 'die Bundestagswahl' (federal election). ⚠ Triple meaning: Recht = (1) the right (das Recht auf Bildung = the right to education); (2) the law (das Recht sprechen = to administer justice); (3) recht as adverb = quite/rather (recht gut = quite good; recht haben = to be right). Pflicht pairs with Recht: 'Rechte und Pflichten' (rights and duties) is a fixed pairing in legal German.",
+    "insight": "⚠ ablehnen vs. zurückweisen vs. verweigern — three ways to refuse: ablehnen = decline/reject (applications, proposals — most common); zurückweisen = turn back/rebuff (slightly stronger, often official); verweigern = refuse outright (duties, orders — strongest). doch is one of German's most powerful particles — its unique role is contradicting a negative: 'Du kommst nicht.' 'Doch!' — there is no single English equivalent for this. dennoch (literary) and trotzdem (colloquial) both mean 'nevertheless' but dennoch is more formal.",
     "words": [
       {
         "id": "ablehnen",
@@ -4757,7 +4757,7 @@
     "day": 13,
     "book_page": 101,
     "section": "3.5 Zustimmen und Ablehnen",
-    "insight": "Nachrichten is always plural for 'the news': die Nachrichten schauen/hören. ⚠ Lookalike alert: Rundfunk contains Funk (radio signal), not Funke (spark) — though both come from the same root. Rund (round/all-around) + Funk = signals sent in all directions. ⚠ Lookalike alert: Sender (broadcaster/channel) and senden (to send/broadcast) share the root, but Sender also means 'transmitter' technically. Don't confuse with absender (sender of a letter). Schlagzeile = headline: Schlag (blow/strike) + Zeile (line) — a line that hits you.",
+    "insight": "egal is from French égal (equal) — das ist mir egal = that is all equal to me = I don't care. ⚠ ja as a modal particle (not the yes-word) expresses that something is obvious or self-evident: Das weißt du ja = you know that (as everyone does). Das ist ja toll! = That really is great! (surprise/emphasis). Learning modal particles (ja, doch, mal, denn, eigentlich) is essential for sounding natural in German. lieber is the comparative of gern: gern – lieber – am liebsten (gladly – rather – most of all).",
     "words": [
       {
         "id": "egal",
@@ -5206,7 +5206,7 @@
     "day": 14,
     "book_page": 102,
     "section": "3.5 Zustimmen und Ablehnen",
-    "insight": "Beitrag (contribution) is a versatile false-friend magnet: ein Beitrag leisten (make a contribution), ein TV-Beitrag (a TV segment/report), ein Mitgliedsbeitrag (membership fee) — three very different meanings, one word. ⚠ Lookalike trio: Freiheit (freedom), Gleichheit (equality), Gerechtigkeit (justice) — these echo Liberté, Égalité, Fraternité. Note: Freiheit ends in -heit; Gleichheit in -heit; Gerechtigkeit in -keit — both -heit and -keit are feminine abstract noun suffixes meaning '-ness/-hood'. ⚠ Meinungsfreiheit = freedom of opinion (Meinung = opinion, not 'mine').",
+    "insight": "⚠ Wahl means BOTH choice and election — Ich habe keine Wahl (I have no choice) vs. die Bundestagswahl (the federal election). Both senses come from wählen (to choose/vote). widersprechen takes the Dative: Ich widerspreche Ihnen (I contradict you) — not *Ich widerspreche Sie. zugeben (separable) = to admit; gestehen = to confess (stronger, often criminal context). Zustimmung (approval/consent) pairs with Ablehnung (rejection) as the two poles of agreement — together they frame all the vocabulary in this chapter's final section.",
     "words": [
       {
         "id": "richtig",
