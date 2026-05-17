@@ -1,0 +1,5401 @@
+[
+  {
+    "day": 1,
+    "book_page": 103,
+    "section": "Freude und Begeisterung",
+    "insight": "sich freuen takes the preposition auf + Accusative for future events and über + Accusative for past/present ones: Ich freue mich auf den Urlaub (I'm looking forward to the holiday) vs. Ich freue mich über das Geschenk (I'm happy about the gift). ⚠ Lookalike alert: die Freude (joy) vs. der Frieden (peace) — they look similar but share no root. begeistert and enthusiastisch both mean enthusiastic, but begeistert is far more common in everyday German.",
+    "words": [
+      {
+        "id": "sich freuen",
+        "german": "sich freuen",
+        "pronunciation": "[zɪç ˈfʁɔɪ̯ən]",
+        "pos": "V.refl.",
+        "english": "to be happy / to look forward (to)",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "freu-",
+            "meaning": "joy",
+            "note": "from Freude"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "freute sich",
+          "perf": "hat sich gefreut",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Ich freue mich sehr über deinen Besuch.",
+            "en": "I'm very happy about your visit."
+          },
+          {
+            "de": "Sie freut sich schon auf die Ferien.",
+            "en": "She is already looking forward to the holidays."
+          }
+        ],
+        "grammar_notes": "Two prepositions: sich freuen AUF + Acc. (future event) vs. sich freuen ÜBER + Acc. (present/past event). Ich freue mich auf das Konzert. / Ich freue mich über das Geschenk.",
+        "word_family": [
+          {
+            "word": "die Freude",
+            "meaning": "joy, delight"
+          },
+          {
+            "word": "erfreulich",
+            "meaning": "pleasing, gratifying"
+          },
+          {
+            "word": "freudig",
+            "meaning": "joyful, glad"
+          },
+          {
+            "word": "der Frieden",
+            "meaning": "peace — ⚠ looks similar but unrelated",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "Think 'froy' = free + joy — you're FREE to feel JOY.",
+        "present_examples": []
+      },
+      {
+        "id": "die Freude",
+        "german": "die Freude",
+        "pronunciation": "[ˈfʁɔɪ̯də]",
+        "pos": "N.f.",
+        "english": "joy, delight, pleasure",
+        "breakdown": [
+          {
+            "part": "Freude",
+            "meaning": "joy",
+            "note": "from Proto-Germanic *frauþō"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Es macht mir große Freude, hier zu sein.",
+            "en": "It gives me great joy to be here."
+          },
+          {
+            "de": "Die Kinder sprangen vor Freude.",
+            "en": "The children jumped for joy."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich freuen",
+            "meaning": "to be happy"
+          },
+          {
+            "word": "erfreulich",
+            "meaning": "pleasing"
+          },
+          {
+            "word": "die Schadenfreude",
+            "meaning": "pleasure at another's misfortune"
+          },
+          {
+            "word": "freudestrahlend",
+            "meaning": "beaming with joy"
+          }
+        ],
+        "mnemonic": "Freude sounds like 'froy-duh' — Freud studied joy and desire.",
+        "present_examples": []
+      },
+      {
+        "id": "begeistert",
+        "german": "begeistert",
+        "pronunciation": "[bəˈɡaɪ̯stɐt]",
+        "pos": "Adj.",
+        "english": "enthusiastic, thrilled, excited",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "intensifying prefix",
+            "note": ""
+          },
+          {
+            "part": "Geist",
+            "meaning": "spirit/mind",
+            "note": ""
+          },
+          {
+            "part": "-ert",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'be-spirited' — filled with spirit/enthusiasm. The verb is begeistern.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Publikum war begeistert.",
+            "en": "The audience was thrilled."
+          },
+          {
+            "de": "Ich bin von diesem Buch total begeistert.",
+            "en": "I'm totally enthusiastic about this book."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "begeistern",
+            "meaning": "to enthuse, to inspire"
+          },
+          {
+            "word": "die Begeisterung",
+            "meaning": "enthusiasm"
+          },
+          {
+            "word": "der Geist",
+            "meaning": "spirit, mind, ghost"
+          },
+          {
+            "word": "geistreich",
+            "meaning": "witty, clever"
+          }
+        ],
+        "mnemonic": "Be-GEIST-ert: the GHOST of enthusiasm has taken over your spirit.",
+        "present_examples": []
+      },
+      {
+        "id": "die Begeisterung",
+        "german": "die Begeisterung",
+        "pronunciation": "[bəˈɡaɪ̯stəʁʊŋ]",
+        "pos": "N.f.",
+        "english": "enthusiasm, excitement, passion",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "Geist",
+            "meaning": "spirit",
+            "note": ""
+          },
+          {
+            "part": "-erung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie spricht mit großer Begeisterung über ihre Arbeit.",
+            "en": "She speaks about her work with great enthusiasm."
+          },
+          {
+            "de": "Die Begeisterung der Fans war ansteckend.",
+            "en": "The fans' excitement was contagious."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "begeistert",
+            "meaning": "enthusiastic"
+          },
+          {
+            "word": "begeistern",
+            "meaning": "to enthuse"
+          },
+          {
+            "word": "die Begeisterungsfähigkeit",
+            "meaning": "capacity for enthusiasm"
+          }
+        ],
+        "mnemonic": "Begeisterung: when the GEIST (spirit) gets all stirred UP.",
+        "present_examples": []
+      },
+      {
+        "id": "genießen",
+        "german": "genießen",
+        "pronunciation": "[ɡəˈniːsən]",
+        "pos": "V.t.",
+        "english": "to enjoy, to savour",
+        "breakdown": [
+          {
+            "part": "ge-",
+            "meaning": "perfective prefix",
+            "note": ""
+          },
+          {
+            "part": "nießen",
+            "meaning": "to enjoy/use",
+            "note": "archaic root"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "genoss",
+          "perf": "hat genossen",
+          "note": "strong verb; Genuss is the noun"
+        },
+        "examples": [
+          {
+            "de": "Wir genossen den Sonnenuntergang.",
+            "en": "We enjoyed the sunset."
+          },
+          {
+            "de": "Genieße jeden Moment!",
+            "en": "Savour every moment!"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Genuss",
+            "meaning": "enjoyment, pleasure, indulgence"
+          },
+          {
+            "word": "genussvoll",
+            "meaning": "pleasurable, with relish"
+          },
+          {
+            "word": "der Genießer",
+            "meaning": "connoisseur, person who savours life"
+          },
+          {
+            "word": "genießbar",
+            "meaning": "enjoyable, edible"
+          }
+        ],
+        "mnemonic": "Genießen — 'geh-NEESE-en': sniff the cheese with pleasure.",
+        "present_examples": []
+      },
+      {
+        "id": "schwärmen",
+        "german": "schwärmen",
+        "pronunciation": "[ˈʃvɛʁmən]",
+        "pos": "V.i.",
+        "english": "to rave (about), to be enthusiastic (about); to swarm",
+        "breakdown": [
+          {
+            "part": "Schwarm",
+            "meaning": "swarm; crush",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er schwärmt von seiner Reise nach Japan.",
+            "en": "He raves about his trip to Japan."
+          },
+          {
+            "de": "Die Bienen schwärmen im Sommer.",
+            "en": "The bees swarm in summer."
+          }
+        ],
+        "grammar_notes": "Takes von + Dative or für + Accusative: Sie schwärmt von Italien. / Er schwärmt für Jazz.",
+        "word_family": [
+          {
+            "word": "der Schwarm",
+            "meaning": "swarm; crush (romantic)"
+          },
+          {
+            "word": "schwärmerisch",
+            "meaning": "gushing, rapturous"
+          },
+          {
+            "word": "die Schwärmerei",
+            "meaning": "gushing enthusiasm, infatuation"
+          }
+        ],
+        "mnemonic": "SCHWÄRM-en: bees SWARM because they're so excited about the queen.",
+        "present_examples": []
+      },
+      {
+        "id": "jubeln",
+        "german": "jubeln",
+        "pronunciation": "[ˈjuːbəln]",
+        "pos": "V.i.",
+        "english": "to cheer, to rejoice, to exult",
+        "breakdown": [
+          {
+            "part": "Jubel",
+            "meaning": "cheering, jubilation",
+            "note": "from Latin iubilum"
+          },
+          {
+            "part": "-n",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Menge jubelte nach dem Tor.",
+            "en": "The crowd cheered after the goal."
+          },
+          {
+            "de": "Die Kinder jubelten, als es Eis gab.",
+            "en": "The children cheered when there was ice cream."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Jubel",
+            "meaning": "cheering, jubilation"
+          },
+          {
+            "word": "jubilieren",
+            "meaning": "to jubilate (formal)"
+          },
+          {
+            "word": "das Jubiläum",
+            "meaning": "anniversary, jubilee — ⚠ same Latin root but different word",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "JUBELN sounds like JUBILEE — both are celebrations.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "book_page": 104,
+    "section": "Trauer und Schmerz",
+    "insight": "weinen, heulen, schluchzen form a scale of crying intensity: weinen = to cry (neutral); heulen = to cry loudly/bawl (colloquial); schluchzen = to sob. ⚠ das Leid (suffering, sorrow) vs. das Lied (song) — one vowel apart, completely different meanings. leiden is a strong verb: leiden – litt – hat gelitten. trösten takes a direct object (Accusative): Ich tröste ihn — never *Ich tröste mit ihm.",
+    "words": [
+      {
+        "id": "weinen",
+        "german": "weinen",
+        "pronunciation": "[ˈvaɪ̯nən]",
+        "pos": "V.i.",
+        "english": "to cry, to weep",
+        "breakdown": [
+          {
+            "part": "wein-",
+            "meaning": "cry/wine",
+            "note": "Old High German: winên = to wail"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "weinte",
+          "perf": "hat geweint",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Sie weinte vor Freude.",
+            "en": "She cried with joy."
+          },
+          {
+            "de": "Das Kind weinte die ganze Nacht.",
+            "en": "The child cried all night."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Träne",
+            "meaning": "tear (drop)"
+          },
+          {
+            "word": "weinerlich",
+            "meaning": "tearful, whiny"
+          },
+          {
+            "word": "der Weinkrampf",
+            "meaning": "crying fit"
+          },
+          {
+            "word": "der Wein",
+            "meaning": "wine — ⚠ same spelling, completely different word",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "WEINEN: 'vine-en' — crying into your wine.",
+        "present_examples": []
+      },
+      {
+        "id": "die Trauer",
+        "german": "die Trauer",
+        "pronunciation": "[ˈtʁaʊ̯ɐ]",
+        "pos": "N.f.",
+        "english": "grief, mourning, sorrow",
+        "breakdown": [
+          {
+            "part": "Trauer",
+            "meaning": "grief",
+            "note": "from trauern, to mourn"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Trauer um den Verlust war groß.",
+            "en": "The grief over the loss was great."
+          },
+          {
+            "de": "Sie trug Schwarz als Zeichen der Trauer.",
+            "en": "She wore black as a sign of mourning."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "trauern",
+            "meaning": "to mourn, to grieve"
+          },
+          {
+            "word": "traurig",
+            "meaning": "sad"
+          },
+          {
+            "word": "die Trauerfeier",
+            "meaning": "funeral service"
+          },
+          {
+            "word": "der Trauerfall",
+            "meaning": "bereavement"
+          }
+        ],
+        "mnemonic": "TRAUER: sounds like 'trouer' (French: to pierce) — grief pierces the heart.",
+        "present_examples": []
+      },
+      {
+        "id": "trauern",
+        "german": "trauern",
+        "pronunciation": "[ˈtʁaʊ̯ɐn]",
+        "pos": "V.i.",
+        "english": "to mourn, to grieve",
+        "breakdown": [
+          {
+            "part": "Trauer",
+            "meaning": "grief",
+            "note": ""
+          },
+          {
+            "part": "-n",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "trauerte",
+          "perf": "hat getrauert",
+          "note": "weak verb; takes um + Acc. for the person mourned"
+        },
+        "examples": [
+          {
+            "de": "Er trauert noch immer um seine Frau.",
+            "en": "He is still mourning his wife."
+          },
+          {
+            "de": "Die ganze Stadt trauerte um die Opfer.",
+            "en": "The whole city mourned the victims."
+          }
+        ],
+        "grammar_notes": "Takes um + Accusative: Sie trauert um ihren Vater (She mourns her father).",
+        "word_family": [
+          {
+            "word": "die Trauer",
+            "meaning": "grief"
+          },
+          {
+            "word": "traurig",
+            "meaning": "sad"
+          },
+          {
+            "word": "betrauern",
+            "meaning": "to mourn (formal)"
+          }
+        ],
+        "mnemonic": "TRAUERN: to TRAIL through sorrow.",
+        "present_examples": []
+      },
+      {
+        "id": "leiden",
+        "german": "leiden",
+        "pronunciation": "[ˈlaɪ̯dən]",
+        "pos": "V.i.",
+        "english": "to suffer; to stand/tolerate (in negation)",
+        "breakdown": [
+          {
+            "part": "leid-",
+            "meaning": "suffering",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "litt",
+          "perf": "hat gelitten",
+          "note": "strong verb"
+        },
+        "examples": [
+          {
+            "de": "Er leidet an einer seltenen Krankheit.",
+            "en": "He suffers from a rare illness."
+          },
+          {
+            "de": "Ich kann Ungerechtigkeit nicht leiden.",
+            "en": "I can't stand injustice."
+          }
+        ],
+        "grammar_notes": "leiden an + Dat. = to suffer from (illness). leiden unter + Dat. = to suffer because of. Ich kann ihn nicht leiden = I can't stand him.",
+        "word_family": [
+          {
+            "word": "das Leid",
+            "meaning": "suffering, sorrow"
+          },
+          {
+            "word": "leidend",
+            "meaning": "suffering, ailing"
+          },
+          {
+            "word": "leider",
+            "meaning": "unfortunately"
+          },
+          {
+            "word": "das Leiden",
+            "meaning": "the suffering; ailment"
+          }
+        ],
+        "mnemonic": "LEIDEN: to SLIDE into suffering — litt, gelitten.",
+        "present_examples": []
+      },
+      {
+        "id": "der Schmerz",
+        "german": "der Schmerz",
+        "pronunciation": "[ʃmɛʁts]",
+        "pos": "N.m.",
+        "english": "pain, ache; grief",
+        "breakdown": [
+          {
+            "part": "Schmerz",
+            "meaning": "pain",
+            "note": "from Old High German smerzo"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Schmerz in meinem Rücken ist unerträglich.",
+            "en": "The pain in my back is unbearable."
+          },
+          {
+            "de": "Sie spürte einen stechenden Schmerz.",
+            "en": "She felt a stabbing pain."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "schmerzen",
+            "meaning": "to hurt, to ache"
+          },
+          {
+            "word": "schmerzhaft",
+            "meaning": "painful"
+          },
+          {
+            "word": "schmerzlos",
+            "meaning": "painless"
+          },
+          {
+            "word": "der Kopfschmerz",
+            "meaning": "headache"
+          }
+        ],
+        "mnemonic": "SCHMERZ: SMARTS — it smarts! That's pain.",
+        "present_examples": []
+      },
+      {
+        "id": "das Leid",
+        "german": "das Leid",
+        "pronunciation": "[laɪ̯t]",
+        "pos": "N.n.",
+        "english": "suffering, sorrow, grief",
+        "breakdown": [
+          {
+            "part": "Leid",
+            "meaning": "suffering",
+            "note": "from leiden"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Krieg bringt viel Leid.",
+            "en": "War brings much suffering."
+          },
+          {
+            "de": "Es tut mir leid. (= I'm sorry)",
+            "en": "It causes me suffering — hence: I'm sorry."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "leiden",
+            "meaning": "to suffer"
+          },
+          {
+            "word": "leidvoll",
+            "meaning": "sorrowful"
+          },
+          {
+            "word": "das Lied",
+            "meaning": "song — ⚠ one letter different, completely different meaning",
+            "lookalike": true
+          },
+          {
+            "word": "leider",
+            "meaning": "unfortunately"
+          }
+        ],
+        "mnemonic": "Das LEID / das LIED — suffering vs. song, just one letter apart. Don't mix them up!",
+        "present_examples": []
+      },
+      {
+        "id": "trösten",
+        "german": "trösten",
+        "pronunciation": "[ˈtʁøːstən]",
+        "pos": "V.t.",
+        "english": "to comfort, to console",
+        "breakdown": [
+          {
+            "part": "Trost",
+            "meaning": "comfort/consolation",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "tröstete",
+          "perf": "hat getröstet",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Sie tröstete ihn nach dem Misserfolg.",
+            "en": "She comforted him after the failure."
+          },
+          {
+            "de": "Musik tröstet mich in schwierigen Zeiten.",
+            "en": "Music consoles me in difficult times."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Trost",
+            "meaning": "comfort, consolation"
+          },
+          {
+            "word": "tröstlich",
+            "meaning": "comforting"
+          },
+          {
+            "word": "untröstlich",
+            "meaning": "inconsolable"
+          },
+          {
+            "word": "der Trostpreis",
+            "meaning": "consolation prize"
+          }
+        ],
+        "mnemonic": "TRÖSTEN: TRUST — you trust someone to comfort you.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "book_page": 105,
+    "section": "Ärger und Wut",
+    "insight": "sich ärgern takes über + Accusative: Ich ärgere mich über den Lärm (I'm annoyed about the noise). ⚠ der Ärger has two registers: (1) annoyance/anger and (2) trouble/bother — context decides which. \"Das macht Ärger\" = that causes trouble; \"Ich empfinde Ärger\" = I feel annoyance. die Wut is stronger than der Ärger — Wut implies rage. nerven is colloquial but extremely common: Das nervt mich = that gets on my nerves.",
+    "words": [
+      {
+        "id": "sich ärgern",
+        "german": "sich ärgern",
+        "pronunciation": "[zɪç ˈɛʁɡɐn]",
+        "pos": "V.refl.",
+        "english": "to be annoyed, to get angry",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "ärger-",
+            "meaning": "annoyance",
+            "note": "from Ärger"
+          },
+          {
+            "part": "-n",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "ärgerte sich",
+          "perf": "hat sich geärgert",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Er ärgert sich über die lange Wartezeit.",
+            "en": "He is annoyed about the long wait."
+          },
+          {
+            "de": "Ich ärgere mich, dass ich das vergessen habe.",
+            "en": "I'm annoyed that I forgot that."
+          }
+        ],
+        "grammar_notes": "Takes über + Accusative: Ich ärgere mich über den Lärm. Can also be transitive (non-reflexive): Das ärgert mich = That annoys me.",
+        "word_family": [
+          {
+            "word": "der Ärger",
+            "meaning": "annoyance; trouble"
+          },
+          {
+            "word": "ärgerlich",
+            "meaning": "annoying; annoyed"
+          },
+          {
+            "word": "ärgern",
+            "meaning": "to annoy (someone else)"
+          },
+          {
+            "word": "verärgert",
+            "meaning": "annoyed, displeased"
+          }
+        ],
+        "mnemonic": "ÄRGERN: sounds like 'argern' — arguing makes you angry.",
+        "present_examples": []
+      },
+      {
+        "id": "der Ärger",
+        "german": "der Ärger",
+        "pronunciation": "[ˈɛʁɡɐ]",
+        "pos": "N.m.",
+        "english": "annoyance, anger; trouble, bother",
+        "breakdown": [
+          {
+            "part": "Ärger",
+            "meaning": "annoyance",
+            "note": "related to arg = bad, malicious"
+          }
+        ],
+        "breakdown_note": "Two registers: der Ärger = (1) the feeling of annoyance (Ich empfinde Ärger) and (2) trouble/bother (Das macht Ärger). Context distinguishes them.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das macht nur Ärger.",
+            "en": "That only causes trouble."
+          },
+          {
+            "de": "Sie konnte ihren Ärger nicht verbergen.",
+            "en": "She couldn't hide her annoyance."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich ärgern",
+            "meaning": "to be annoyed"
+          },
+          {
+            "word": "ärgerlich",
+            "meaning": "annoying; annoyed"
+          },
+          {
+            "word": "verärgert",
+            "meaning": "displeased, annoyed"
+          }
+        ],
+        "mnemonic": "ÄRGER: 'arguer' — arguing brings Ärger.",
+        "present_examples": []
+      },
+      {
+        "id": "die Wut",
+        "german": "die Wut",
+        "pronunciation": "[vuːt]",
+        "pos": "N.f.",
+        "english": "rage, fury, anger",
+        "breakdown": [
+          {
+            "part": "Wut",
+            "meaning": "rage",
+            "note": "from Old High German wuot = madness, fury"
+          }
+        ],
+        "breakdown_note": "Wut is stronger than Ärger. Wut implies rage bordering on madness; Ärger is ordinary annoyance.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er zitterte vor Wut.",
+            "en": "He trembled with rage."
+          },
+          {
+            "de": "Sie ließ ihre Wut an ihm aus.",
+            "en": "She took out her rage on him."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "wütend",
+            "meaning": "furious, enraged"
+          },
+          {
+            "word": "die Wutausbruch",
+            "meaning": "outburst of rage"
+          },
+          {
+            "word": "wüten",
+            "meaning": "to rage, to storm"
+          },
+          {
+            "word": "wutentbrannt",
+            "meaning": "furious, incensed"
+          }
+        ],
+        "mnemonic": "WUT: like 'what?!' — furious disbelief.",
+        "present_examples": []
+      },
+      {
+        "id": "wütend",
+        "german": "wütend",
+        "pronunciation": "[ˈvyːtənt]",
+        "pos": "Adj.",
+        "english": "furious, enraged, angry",
+        "breakdown": [
+          {
+            "part": "Wut",
+            "meaning": "rage",
+            "note": ""
+          },
+          {
+            "part": "-end",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er war wütend auf mich.",
+            "en": "He was furious at me."
+          },
+          {
+            "de": "Die Menge wurde wütend.",
+            "en": "The crowd became enraged."
+          }
+        ],
+        "grammar_notes": "wütend auf + Accusative = furious at/with someone. wütend über + Accusative = furious about something.",
+        "word_family": [
+          {
+            "word": "die Wut",
+            "meaning": "rage"
+          },
+          {
+            "word": "wüten",
+            "meaning": "to rage"
+          },
+          {
+            "word": "rasend",
+            "meaning": "raging, frantic — synonym"
+          },
+          {
+            "word": "tobend",
+            "meaning": "raging, rampaging"
+          }
+        ],
+        "mnemonic": "WÜTEND: say it fast — 'voo-tent' — pitch a tent in your rage.",
+        "present_examples": []
+      },
+      {
+        "id": "nerven",
+        "german": "nerven",
+        "pronunciation": "[ˈnɛʁvən]",
+        "pos": "V.t.",
+        "english": "to get on someone's nerves, to annoy",
+        "breakdown": [
+          {
+            "part": "Nerv",
+            "meaning": "nerve",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Hör auf, du nervst mich!",
+            "en": "Stop it, you're getting on my nerves!"
+          },
+          {
+            "de": "Das laute Musik nervt mich wirklich.",
+            "en": "The loud music really annoys me."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Nerv",
+            "meaning": "nerve"
+          },
+          {
+            "word": "nervös",
+            "meaning": "nervous"
+          },
+          {
+            "word": "nervig",
+            "meaning": "annoying, grating (colloquial)"
+          },
+          {
+            "word": "die Nerven verlieren",
+            "meaning": "to lose one's nerve"
+          }
+        ],
+        "mnemonic": "NERVEN: it NERVES you — gets on your nerves.",
+        "present_examples": []
+      },
+      {
+        "id": "stören",
+        "german": "stören",
+        "pronunciation": "[ˈʃtøːʁən]",
+        "pos": "V.t.",
+        "english": "to disturb, to bother, to interrupt",
+        "breakdown": [
+          {
+            "part": "stör-",
+            "meaning": "disturbance",
+            "note": "from Old High German stōren = to scatter/destroy"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "störte",
+          "perf": "hat gestört",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Bitte stör mich nicht beim Arbeiten.",
+            "en": "Please don't disturb me while I'm working."
+          },
+          {
+            "de": "Der Lärm stört mich sehr.",
+            "en": "The noise bothers me a lot."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Störung",
+            "meaning": "disturbance, interference, disruption"
+          },
+          {
+            "word": "störend",
+            "meaning": "disturbing, disruptive"
+          },
+          {
+            "word": "ungestört",
+            "meaning": "undisturbed"
+          },
+          {
+            "word": "der Störenfried",
+            "meaning": "troublemaker"
+          }
+        ],
+        "mnemonic": "STÖREN: STORM + disturb — a storm STÖRS everything.",
+        "present_examples": []
+      },
+      {
+        "id": "sich beschweren",
+        "german": "sich beschweren",
+        "pronunciation": "[zɪç bəˈʃveːʁən]",
+        "pos": "V.refl.",
+        "english": "to complain, to make a complaint",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "schwer",
+            "meaning": "heavy/difficult",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "beschwerte sich",
+          "perf": "hat sich beschwert",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Sie beschwerte sich über den schlechten Service.",
+            "en": "She complained about the poor service."
+          },
+          {
+            "de": "Ich will mich nicht beschweren, aber …",
+            "en": "I don't want to complain, but …"
+          }
+        ],
+        "grammar_notes": "Takes über + Accusative (about what) or bei + Dative (to whom): Er beschwerte sich beim Manager über den Service.",
+        "word_family": [
+          {
+            "word": "die Beschwerde",
+            "meaning": "complaint; ailment (pl. Beschwerden)"
+          },
+          {
+            "word": "schwer",
+            "meaning": "heavy, difficult"
+          },
+          {
+            "word": "beschwert",
+            "meaning": "burdened, weighed down"
+          },
+          {
+            "word": "die Beschwerdestelle",
+            "meaning": "complaints department"
+          }
+        ],
+        "mnemonic": "BESCHWEREN: making something SCHWER (heavy) for others — a complaint weighs on everyone.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "book_page": 106,
+    "section": "Überraschung und Staunen",
+    "insight": "erschrecken has two forms: erschrecken (strong, intransitive) = to be startled — er erschrak; erschrecken (weak, transitive) = to frighten someone — er erschreckte ihn. ⚠ erstaunt (astonished) vs. enttäuscht (disappointed) — easily confused by learners; both describe reactions but on opposite ends of the emotional scale. verblüffen is stronger than überraschen — it implies being completely baffled, not just mildly surprised.",
+    "words": [
+      {
+        "id": "überraschen",
+        "german": "überraschen",
+        "pronunciation": "[ˌyːbɐˈʁaʃən]",
+        "pos": "V.t.",
+        "english": "to surprise",
+        "breakdown": [
+          {
+            "part": "über-",
+            "meaning": "over/above",
+            "note": ""
+          },
+          {
+            "part": "rasch",
+            "meaning": "quick/sudden",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "überraschte",
+          "perf": "hat überrascht",
+          "note": "inseparable weak verb"
+        },
+        "examples": [
+          {
+            "de": "Er überraschte sie mit einem Blumenstrauß.",
+            "en": "He surprised her with a bouquet."
+          },
+          {
+            "de": "Das Ergebnis hat mich sehr überrascht.",
+            "en": "The result surprised me a lot."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Überraschung",
+            "meaning": "surprise"
+          },
+          {
+            "word": "überraschend",
+            "meaning": "surprising, unexpected"
+          },
+          {
+            "word": "überraschenderweise",
+            "meaning": "surprisingly"
+          },
+          {
+            "word": "unerwarteterweise",
+            "meaning": "unexpectedly — near-synonym"
+          }
+        ],
+        "mnemonic": "ÜBERRASCHEN: 'over-rushing' — surprise catches you off guard.",
+        "present_examples": []
+      },
+      {
+        "id": "die Überraschung",
+        "german": "die Überraschung",
+        "pronunciation": "[ˌyːbɐˈʁaʃʊŋ]",
+        "pos": "N.f.",
+        "english": "surprise",
+        "breakdown": [
+          {
+            "part": "überraschen",
+            "meaning": "to surprise",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Was für eine Überraschung!",
+            "en": "What a surprise!"
+          },
+          {
+            "de": "Die Party war eine große Überraschung für sie.",
+            "en": "The party was a big surprise for her."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "überraschen",
+            "meaning": "to surprise"
+          },
+          {
+            "word": "überraschend",
+            "meaning": "surprising"
+          },
+          {
+            "word": "die Überraschungsparty",
+            "meaning": "surprise party"
+          }
+        ],
+        "mnemonic": "Überraschung: the 'ung' turns the verb into the noun — the act of surprising.",
+        "present_examples": []
+      },
+      {
+        "id": "staunen",
+        "german": "staunen",
+        "pronunciation": "[ˈʃtaʊ̯nən]",
+        "pos": "V.i.",
+        "english": "to be amazed, to marvel",
+        "breakdown": [
+          {
+            "part": "Staunen",
+            "meaning": "amazement",
+            "note": "from Middle High German stūnen"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "staunte",
+          "perf": "hat gestaunt",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Alle staunten über seine Leistung.",
+            "en": "Everyone was amazed at his performance."
+          },
+          {
+            "de": "Ich staune immer wieder, wie schnell Zeit vergeht.",
+            "en": "I'm amazed again and again at how fast time passes."
+          }
+        ],
+        "grammar_notes": "staunen über + Accusative = to marvel at something.",
+        "word_family": [
+          {
+            "word": "das Staunen",
+            "meaning": "amazement, wonder"
+          },
+          {
+            "word": "erstaunen",
+            "meaning": "to astonish (stronger)"
+          },
+          {
+            "word": "staunend",
+            "meaning": "amazed, in wonder"
+          },
+          {
+            "word": "erstaunlich",
+            "meaning": "astonishing, remarkable"
+          }
+        ],
+        "mnemonic": "STAUNEN: 'stow-nen' — you're so amazed you stow your jaw on the floor.",
+        "present_examples": []
+      },
+      {
+        "id": "erschrecken",
+        "german": "erschrecken",
+        "pronunciation": "[ɛʁˈʃʁɛkən]",
+        "pos": "V.",
+        "english": "to be startled / to frighten (someone)",
+        "breakdown": [
+          {
+            "part": "er-",
+            "meaning": "prefix (change of state)",
+            "note": ""
+          },
+          {
+            "part": "schrecken",
+            "meaning": "to frighten/scare",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "erschrak (intr.) / erschreckte (tr.)",
+          "perf": "ist erschrocken (intr.) / hat erschreckt (tr.)",
+          "note": "Two conjugations: strong intransitive (to be startled) vs. weak transitive (to frighten someone)"
+        },
+        "examples": [
+          {
+            "de": "Ich bin erschrocken, als das Telefon klingelte.",
+            "en": "I was startled when the phone rang."
+          },
+          {
+            "de": "Der laute Knall erschreckte das Kind.",
+            "en": "The loud bang frightened the child."
+          }
+        ],
+        "grammar_notes": "Intransitive (strong): Ich erschrak = I was startled. Transitive (weak): Ich erschreckte ihn = I frightened him.",
+        "word_family": [
+          {
+            "word": "der Schrecken",
+            "meaning": "fright, horror"
+          },
+          {
+            "word": "schrecklich",
+            "meaning": "terrible, dreadful"
+          },
+          {
+            "word": "erschreckend",
+            "meaning": "alarming, frightening"
+          },
+          {
+            "word": "abschrecken",
+            "meaning": "to deter, to put off"
+          }
+        ],
+        "mnemonic": "ERSCHRECKEN: 'air-SHRECK-en' — Shrek jumps out and startles you!",
+        "present_examples": []
+      },
+      {
+        "id": "erstaunt",
+        "german": "erstaunt",
+        "pronunciation": "[ɛʁˈʃtaʊ̯nt]",
+        "pos": "Adj.",
+        "english": "astonished, amazed",
+        "breakdown": [
+          {
+            "part": "er-",
+            "meaning": "intensifying prefix",
+            "note": ""
+          },
+          {
+            "part": "staun-",
+            "meaning": "amazement",
+            "note": ""
+          },
+          {
+            "part": "-t",
+            "meaning": "past participle as adj.",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie war völlig erstaunt über die Neuigkeit.",
+            "en": "She was completely astonished by the news."
+          },
+          {
+            "de": "Er schaute mich erstaunt an.",
+            "en": "He looked at me in astonishment."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "erstaunen",
+            "meaning": "to astonish"
+          },
+          {
+            "word": "das Erstaunen",
+            "meaning": "astonishment"
+          },
+          {
+            "word": "erstaunlich",
+            "meaning": "astonishing, remarkable"
+          },
+          {
+            "word": "staunen",
+            "meaning": "to be amazed (milder)"
+          }
+        ],
+        "mnemonic": "ERSTAUNT: 'ehr-STOWNT' — you're stunned with astonishment.",
+        "present_examples": []
+      },
+      {
+        "id": "verblüffen",
+        "german": "verblüffen",
+        "pronunciation": "[fɛʁˈblʏfən]",
+        "pos": "V.t.",
+        "english": "to baffle, to flabbergast, to perplex",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "intensifying prefix",
+            "note": ""
+          },
+          {
+            "part": "blüff-",
+            "meaning": "bluff/surprise",
+            "note": "from Low German"
+          }
+        ],
+        "breakdown_note": "Stronger than überraschen — verblüffen implies being completely stumped or baffled, not just mildly surprised.",
+        "conjugation": {
+          "prät": "verblüffte",
+          "perf": "hat verblüfft",
+          "note": "weak, inseparable"
+        },
+        "examples": [
+          {
+            "de": "Seine Antwort hat mich verblüfft.",
+            "en": "His answer baffled me."
+          },
+          {
+            "de": "Der Zauberer verblüffte das Publikum.",
+            "en": "The magician flabbergasted the audience."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "verblüffend",
+            "meaning": "baffling, astonishing"
+          },
+          {
+            "word": "die Verblüffung",
+            "meaning": "bewilderment, astonishment"
+          },
+          {
+            "word": "verblüfft",
+            "meaning": "baffled, flabbergasted"
+          }
+        ],
+        "mnemonic": "VERBLÜFFEN: 'ver-BLUFF-en' — a bluff so good it totally stumps you.",
+        "present_examples": []
+      },
+      {
+        "id": "unerwartet",
+        "german": "unerwartet",
+        "pronunciation": "[ˈʊnɛʁˌvaʁtɪt]",
+        "pos": "Adj./Adv.",
+        "english": "unexpected, unexpectedly",
+        "breakdown": [
+          {
+            "part": "un-",
+            "meaning": "negating prefix",
+            "note": ""
+          },
+          {
+            "part": "er-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "wart-",
+            "meaning": "wait",
+            "note": "from warten"
+          },
+          {
+            "part": "-et",
+            "meaning": "past participle suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'un-awaited' — that which was not waited for / anticipated.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sein Besuch war völlig unerwartet.",
+            "en": "His visit was completely unexpected."
+          },
+          {
+            "de": "Unerwartet begann es zu schneien.",
+            "en": "Unexpectedly it began to snow."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "erwartet",
+            "meaning": "expected, anticipated"
+          },
+          {
+            "word": "die Erwartung",
+            "meaning": "expectation"
+          },
+          {
+            "word": "erwarten",
+            "meaning": "to expect, to await"
+          },
+          {
+            "word": "unvorhergesehen",
+            "meaning": "unforeseen — near-synonym"
+          }
+        ],
+        "mnemonic": "UN-er-WART-et: you didn't have to WAIT for it — it came out of nowhere.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "book_page": 107,
+    "section": "Angst und Sorge",
+    "insight": "sich fürchten vor + Dative vs. Angst haben vor + Dative — both mean to be afraid of, but Angst haben is more colloquial and common in speech: Ich habe Angst vor Spinnen. ⚠ die Angst (fear/anxiety) vs. die Enge (tightness/narrowness) — historically related: both come from Latin angustus (narrow), since anxiety was felt as a tightening of the chest. beunruhigen is the formal verb for to worry/unsettle — it takes a direct object: Das beunruhigt mich.",
+    "words": [
+      {
+        "id": "sich fürchten",
+        "german": "sich fürchten",
+        "pronunciation": "[zɪç ˈfʏʁçtən]",
+        "pos": "V.refl.",
+        "english": "to be afraid, to fear",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "fürcht-",
+            "meaning": "fear",
+            "note": "from Furcht"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "fürchtete sich",
+          "perf": "hat sich gefürchtet",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Das Kind fürchtet sich vor der Dunkelheit.",
+            "en": "The child is afraid of the dark."
+          },
+          {
+            "de": "Sie fürchtete sich davor, allein zu sein.",
+            "en": "She was afraid of being alone."
+          }
+        ],
+        "grammar_notes": "sich fürchten vor + Dative: Ich fürchte mich vor Spinnen. More formal than Angst haben vor.",
+        "word_family": [
+          {
+            "word": "die Furcht",
+            "meaning": "fear (formal/literary)"
+          },
+          {
+            "word": "furchtbar",
+            "meaning": "terrible, awful"
+          },
+          {
+            "word": "fürchterlich",
+            "meaning": "dreadful, terrible"
+          },
+          {
+            "word": "furchtsam",
+            "meaning": "timid, fearful"
+          }
+        ],
+        "mnemonic": "FÜRCHTEN: 'FURCH-ten' — the FURROW in your brow when you're scared.",
+        "present_examples": []
+      },
+      {
+        "id": "die Angst",
+        "german": "die Angst",
+        "pronunciation": "[aŋst]",
+        "pos": "N.f.",
+        "english": "fear, anxiety, dread",
+        "breakdown": [
+          {
+            "part": "Angst",
+            "meaning": "fear",
+            "note": "from Latin angustus = narrow — anxiety as tightening"
+          }
+        ],
+        "breakdown_note": "Angst haben vor + Dative (colloquial) vs. sich fürchten vor (formal). Angst um + Accusative = fear FOR someone's wellbeing.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe Angst vor Spinnen.",
+            "en": "I'm afraid of spiders."
+          },
+          {
+            "de": "Sie hat Angst um ihre Kinder.",
+            "en": "She is worried/afraid for her children."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "ängstlich",
+            "meaning": "anxious, timid"
+          },
+          {
+            "word": "die Angststörung",
+            "meaning": "anxiety disorder"
+          },
+          {
+            "word": "angsteinflößend",
+            "meaning": "frightening, intimidating"
+          },
+          {
+            "word": "die Enge",
+            "meaning": "narrowness, tightness — ⚠ same Latin root angustus",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "ANGST: this word itself is borrowed into English — you already know it!",
+        "present_examples": []
+      },
+      {
+        "id": "sich sorgen",
+        "german": "sich sorgen",
+        "pronunciation": "[zɪç ˈzɔʁɡən]",
+        "pos": "V.refl.",
+        "english": "to worry, to be concerned",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "sorg-",
+            "meaning": "concern",
+            "note": "from Sorge"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "sorgte sich",
+          "perf": "hat sich gesorgt",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Sie sorgt sich sehr um ihre alte Mutter.",
+            "en": "She worries a lot about her elderly mother."
+          },
+          {
+            "de": "Du machst dir zu viele Sorgen!",
+            "en": "You worry too much!"
+          }
+        ],
+        "grammar_notes": "sich sorgen um + Accusative = to worry about/for someone. Different from sich kümmern um (to take care of).",
+        "word_family": [
+          {
+            "word": "die Sorge",
+            "meaning": "worry, concern"
+          },
+          {
+            "word": "sorgenvoll",
+            "meaning": "worried, full of concerns"
+          },
+          {
+            "word": "sich kümmern",
+            "meaning": "to take care of (action, not emotion)"
+          },
+          {
+            "word": "sorgfältig",
+            "meaning": "careful, thorough — same root!"
+          }
+        ],
+        "mnemonic": "SORGEN: SORROW + concern — you sorrow over someone's wellbeing.",
+        "present_examples": []
+      },
+      {
+        "id": "die Sorge",
+        "german": "die Sorge",
+        "pronunciation": "[ˈzɔʁɡə]",
+        "pos": "N.f.",
+        "english": "worry, concern; care",
+        "breakdown": [
+          {
+            "part": "Sorge",
+            "meaning": "care/worry",
+            "note": "from Old High German sorga"
+          }
+        ],
+        "breakdown_note": "die Sorge has two meanings: (1) worry (Ich habe Sorge um ihn) and (2) care/concern as a positive act (die Fürsorge = welfare). Context clarifies.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das macht mir große Sorge.",
+            "en": "That worries me a great deal."
+          },
+          {
+            "de": "Keine Sorge! (= Don't worry!)",
+            "en": "No worries!"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich sorgen",
+            "meaning": "to worry"
+          },
+          {
+            "word": "sorgenvoll",
+            "meaning": "worried"
+          },
+          {
+            "word": "die Fürsorge",
+            "meaning": "welfare, care"
+          },
+          {
+            "word": "sorglos",
+            "meaning": "carefree, unconcerned"
+          }
+        ],
+        "mnemonic": "SORGE: sounds like 'sorrow' — a sorrowful concern.",
+        "present_examples": []
+      },
+      {
+        "id": "beunruhigen",
+        "german": "beunruhigen",
+        "pronunciation": "[bəˈʊnʁuːɪɡən]",
+        "pos": "V.t.",
+        "english": "to worry, to unsettle, to alarm",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "un-",
+            "meaning": "negating",
+            "note": ""
+          },
+          {
+            "part": "Ruhe",
+            "meaning": "calm/rest",
+            "note": ""
+          },
+          {
+            "part": "-igen",
+            "meaning": "verb suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'to make someone un-calm'. Takes a direct Accusative object: Das beunruhigt mich.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Nachrichten beunruhigten sie sehr.",
+            "en": "The news worried her a great deal."
+          },
+          {
+            "de": "Es beunruhigt mich, dass er nicht zurückgeschrieben hat.",
+            "en": "It worries me that he hasn't written back."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Unruhe",
+            "meaning": "unrest, anxiety, agitation"
+          },
+          {
+            "word": "unruhig",
+            "meaning": "restless, anxious"
+          },
+          {
+            "word": "die Ruhe",
+            "meaning": "calm, rest, silence"
+          },
+          {
+            "word": "ruhig",
+            "meaning": "calm, quiet"
+          }
+        ],
+        "mnemonic": "be-UN-RUHE-igen: taking away someone's RUHE (calm).",
+        "present_examples": []
+      },
+      {
+        "id": "ängstlich",
+        "german": "ängstlich",
+        "pronunciation": "[ˈɛŋstlɪç]",
+        "pos": "Adj.",
+        "english": "anxious, fearful, timid",
+        "breakdown": [
+          {
+            "part": "Angst",
+            "meaning": "fear",
+            "note": ""
+          },
+          {
+            "part": "-lich",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er ist von Natur aus ängstlich.",
+            "en": "He is anxious by nature."
+          },
+          {
+            "de": "Sie warf einen ängstlichen Blick zur Tür.",
+            "en": "She cast an anxious glance at the door."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Angst",
+            "meaning": "fear"
+          },
+          {
+            "word": "die Ängstlichkeit",
+            "meaning": "anxiousness, timidity"
+          },
+          {
+            "word": "verängstigt",
+            "meaning": "frightened, terrified"
+          },
+          {
+            "word": "angsterfüllt",
+            "meaning": "filled with fear"
+          }
+        ],
+        "mnemonic": "ÄNGSTLICH: Angst + -lich = 'fear-like' — having the quality of fear.",
+        "present_examples": []
+      },
+      {
+        "id": "nervös",
+        "german": "nervös",
+        "pronunciation": "[nɛʁˈvøːs]",
+        "pos": "Adj.",
+        "english": "nervous, anxious, edgy",
+        "breakdown": [
+          {
+            "part": "Nerv",
+            "meaning": "nerve",
+            "note": "from Latin nervus"
+          },
+          {
+            "part": "-ös",
+            "meaning": "adjectival suffix",
+            "note": "from French -eux"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Vor dem Auftritt war sie sehr nervös.",
+            "en": "Before the performance she was very nervous."
+          },
+          {
+            "de": "Hör auf, du machst mich nervös!",
+            "en": "Stop it, you're making me nervous!"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Nerv",
+            "meaning": "nerve"
+          },
+          {
+            "word": "nerven",
+            "meaning": "to get on someone's nerves"
+          },
+          {
+            "word": "die Nervosität",
+            "meaning": "nervousness"
+          },
+          {
+            "word": "nervlich",
+            "meaning": "relating to the nerves"
+          }
+        ],
+        "mnemonic": "NERVÖS: 'nerve-ose' — your nerves are in overdose mode.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "book_page": 108,
+    "section": "Scham und Verlegenheit",
+    "insight": "peinlich is an adjective, not a verb — you cannot say *es peinlicht mich. Use: Es ist mir peinlich (I find it embarrassing) or Das war peinlich (That was embarrassing). ⚠ verlegen has two completely different meanings: (1) embarrassed (adjective) and (2) to misplace something / to relocate (verb) — Das Buch ist verlegt (the book is mislaid OR published). sich blamieren (from French blâmer) = to make a fool of oneself, to disgrace oneself publicly.",
+    "words": [
+      {
+        "id": "sich schämen",
+        "german": "sich schämen",
+        "pronunciation": "[zɪç ˈʃɛːmən]",
+        "pos": "V.refl.",
+        "english": "to be ashamed, to feel shame",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "scham-",
+            "meaning": "shame",
+            "note": "from Scham"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "schämte sich",
+          "perf": "hat sich geschämt",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Er schämt sich für das, was er gesagt hat.",
+            "en": "He is ashamed of what he said."
+          },
+          {
+            "de": "Du solltest dich schämen!",
+            "en": "You should be ashamed of yourself!"
+          }
+        ],
+        "grammar_notes": "sich schämen für + Accusative = to be ashamed of: Ich schäme mich für mein Verhalten.",
+        "word_family": [
+          {
+            "word": "die Scham",
+            "meaning": "shame"
+          },
+          {
+            "word": "schamlos",
+            "meaning": "shameless"
+          },
+          {
+            "word": "schamhaft",
+            "meaning": "bashful, modest"
+          },
+          {
+            "word": "beschämt",
+            "meaning": "ashamed, embarrassed"
+          }
+        ],
+        "mnemonic": "SCHÄMEN: SHAME + -en — literally 'to shame oneself'.",
+        "present_examples": []
+      },
+      {
+        "id": "die Scham",
+        "german": "die Scham",
+        "pronunciation": "[ʃaːm]",
+        "pos": "N.f.",
+        "english": "shame",
+        "breakdown": [
+          {
+            "part": "Scham",
+            "meaning": "shame",
+            "note": "from Old High German scama"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Vor Scham wurde sie rot.",
+            "en": "She turned red with shame."
+          },
+          {
+            "de": "Er fühlte tiefe Scham über sein Verhalten.",
+            "en": "He felt deep shame about his behaviour."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich schämen",
+            "meaning": "to be ashamed"
+          },
+          {
+            "word": "schamlos",
+            "meaning": "shameless"
+          },
+          {
+            "word": "die Schande",
+            "meaning": "disgrace, shame (stronger)"
+          },
+          {
+            "word": "schamhaft",
+            "meaning": "bashful"
+          }
+        ],
+        "mnemonic": "SCHAM: SHAME — direct cognate, easy to remember.",
+        "present_examples": []
+      },
+      {
+        "id": "peinlich",
+        "german": "peinlich",
+        "pronunciation": "[ˈpaɪ̯nlɪç]",
+        "pos": "Adj.",
+        "english": "embarrassing; awkward; (archaic) painful",
+        "breakdown": [
+          {
+            "part": "Pein",
+            "meaning": "pain/torment",
+            "note": "from Latin poena = punishment"
+          },
+          {
+            "part": "-lich",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "peinlich is an adjective — never a verb. Use: Es ist mir peinlich (I find it embarrassing) or Das war peinlich (That was embarrassing). Never *es peinlicht mich.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das war so eine peinliche Situation.",
+            "en": "That was such an embarrassing situation."
+          },
+          {
+            "de": "Es ist mir wirklich peinlich, das zuzugeben.",
+            "en": "I find it really embarrassing to admit that."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Peinlichkeit",
+            "meaning": "embarrassment, awkwardness"
+          },
+          {
+            "word": "die Pein",
+            "meaning": "torment, agony (literary)"
+          },
+          {
+            "word": "peinigen",
+            "meaning": "to torment (literary)"
+          },
+          {
+            "word": "pinlich",
+            "meaning": "⚠ misspelling — always peinlich",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "PEINLICH: PAIN + -lich — embarrassment is painful.",
+        "present_examples": []
+      },
+      {
+        "id": "verlegen",
+        "german": "verlegen",
+        "pronunciation": "[fɛʁˈleːɡən]",
+        "pos": "Adj. / V.t.",
+        "english": "(adj.) embarrassed, awkward; (v.) to misplace; to publish; to relocate",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "away/change prefix",
+            "note": ""
+          },
+          {
+            "part": "leg-",
+            "meaning": "lay/place",
+            "note": "from legen"
+          },
+          {
+            "part": "-en",
+            "meaning": "suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Two completely different meanings: verlegen (adj.) = embarrassed; verlegen (verb) = to misplace / to publish a book / to lay a cable. Always check part of speech.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er sah verlegen zur Seite.",
+            "en": "He looked away in embarrassment."
+          },
+          {
+            "de": "Ich habe meinen Schlüssel verlegt.",
+            "en": "I have misplaced my key."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Verlegenheit",
+            "meaning": "embarrassment"
+          },
+          {
+            "word": "der Verleger",
+            "meaning": "publisher"
+          },
+          {
+            "word": "der Verlag",
+            "meaning": "publishing house"
+          },
+          {
+            "word": "legen",
+            "meaning": "to lay/place"
+          }
+        ],
+        "mnemonic": "VERLEGEN: 'ver-lay-gen' — feel so embarrassed you mislay everything.",
+        "present_examples": []
+      },
+      {
+        "id": "die Verlegenheit",
+        "german": "die Verlegenheit",
+        "pronunciation": "[fɛʁˈleːɡənhaɪ̯t]",
+        "pos": "N.f.",
+        "english": "embarrassment; awkward situation",
+        "breakdown": [
+          {
+            "part": "verlegen",
+            "meaning": "embarrassed",
+            "note": ""
+          },
+          {
+            "part": "-heit",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er errötete vor Verlegenheit.",
+            "en": "He blushed with embarrassment."
+          },
+          {
+            "de": "Die Frage brachte sie in Verlegenheit.",
+            "en": "The question put her in an awkward position."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "verlegen",
+            "meaning": "embarrassed"
+          },
+          {
+            "word": "jemanden in Verlegenheit bringen",
+            "meaning": "to embarrass someone"
+          },
+          {
+            "word": "die Peinlichkeit",
+            "meaning": "embarrassment — near-synonym"
+          }
+        ],
+        "mnemonic": "VERLEGENHEIT: the -heit makes the adjective verlegen into the noun 'the state of embarrassment'.",
+        "present_examples": []
+      },
+      {
+        "id": "sich blamieren",
+        "german": "sich blamieren",
+        "pronunciation": "[zɪç blaˈmiːʁən]",
+        "pos": "V.refl.",
+        "english": "to make a fool of oneself, to disgrace oneself",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "blamier-",
+            "meaning": "blame/disgrace",
+            "note": "from French blâmer"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "blamierte sich",
+          "perf": "hat sich blamiert",
+          "note": "weak verb, loanword from French"
+        },
+        "examples": [
+          {
+            "de": "Er hat sich vor allen blamiert.",
+            "en": "He made a fool of himself in front of everyone."
+          },
+          {
+            "de": "Mit dieser Aussage hat sie sich total blamiert.",
+            "en": "With that statement she completely disgraced herself."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Blamage",
+            "meaning": "disgrace, humiliation"
+          },
+          {
+            "word": "blamabel",
+            "meaning": "disgraceful, shameful"
+          },
+          {
+            "word": "die Scham",
+            "meaning": "shame — related feeling"
+          }
+        ],
+        "mnemonic": "BLAMIEREN: BLAME yourself publicly — a blamage (embarrassment).",
+        "present_examples": []
+      },
+      {
+        "id": "beschämt",
+        "german": "beschämt",
+        "pronunciation": "[bəˈʃɛːmt]",
+        "pos": "Adj.",
+        "english": "ashamed, embarrassed, abashed",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "scham-",
+            "meaning": "shame",
+            "note": ""
+          },
+          {
+            "part": "-t",
+            "meaning": "past participle as adj.",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie schaute beschämt auf den Boden.",
+            "en": "She looked at the floor in shame."
+          },
+          {
+            "de": "Er war beschämt über seine Reaktion.",
+            "en": "He was ashamed of his reaction."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich schämen",
+            "meaning": "to be ashamed"
+          },
+          {
+            "word": "die Scham",
+            "meaning": "shame"
+          },
+          {
+            "word": "beschämen",
+            "meaning": "to shame someone"
+          },
+          {
+            "word": "schamlos",
+            "meaning": "shameless"
+          }
+        ],
+        "mnemonic": "BESCHÄMT: be-SHAME-d — the be- prefix intensifies the shame.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "book_page": 109,
+    "section": "Hoffnung und Enttäuschung",
+    "insight": "hoffen takes auf + Accusative: Ich hoffe auf eine Antwort (I'm hoping for a reply). ⚠ die Hoffnung vs. die Erwartung — Hoffnung = hope (emotional, uncertain); Erwartung = expectation (more rational, anticipated). enttäuschen literally = to dis-illusion (ent- = un- + täuschen = to deceive/illude): to disappoint someone is to free them from their illusion — a wonderfully logical etymology. verzweifeln is a strong warning word: total despair; used carefully in serious contexts.",
+    "words": [
+      {
+        "id": "hoffen",
+        "german": "hoffen",
+        "pronunciation": "[ˈhɔfən]",
+        "pos": "V.i.",
+        "english": "to hope",
+        "breakdown": [
+          {
+            "part": "hoff-",
+            "meaning": "hope",
+            "note": "from Middle High German hoffen"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "hoffte",
+          "perf": "hat gehofft",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Ich hoffe auf besseres Wetter.",
+            "en": "I'm hoping for better weather."
+          },
+          {
+            "de": "Wir hoffen, dass alles gut geht.",
+            "en": "We hope everything goes well."
+          }
+        ],
+        "grammar_notes": "hoffen auf + Accusative = to hope for: Ich hoffe auf eine Antwort. hoffen, dass + clause: Ich hoffe, dass du kommst.",
+        "word_family": [
+          {
+            "word": "die Hoffnung",
+            "meaning": "hope"
+          },
+          {
+            "word": "hoffnungsvoll",
+            "meaning": "hopeful"
+          },
+          {
+            "word": "hoffnungslos",
+            "meaning": "hopeless"
+          },
+          {
+            "word": "hoffentlich",
+            "meaning": "hopefully, I hope"
+          }
+        ],
+        "mnemonic": "HOFFEN: 'HOPEfen' — hoffen and hope share ancient Germanic roots.",
+        "present_examples": []
+      },
+      {
+        "id": "die Hoffnung",
+        "german": "die Hoffnung",
+        "pronunciation": "[ˈhɔfnʊŋ]",
+        "pos": "N.f.",
+        "english": "hope",
+        "breakdown": [
+          {
+            "part": "hoffen",
+            "meaning": "to hope",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Hoffnung stirbt zuletzt.",
+            "en": "Hope dies last. (proverb)"
+          },
+          {
+            "de": "Er hat die Hoffnung nicht aufgegeben.",
+            "en": "He has not given up hope."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "hoffen",
+            "meaning": "to hope"
+          },
+          {
+            "word": "hoffnungsvoll",
+            "meaning": "hopeful"
+          },
+          {
+            "word": "hoffnungslos",
+            "meaning": "hopeless"
+          },
+          {
+            "word": "die Zuversicht",
+            "meaning": "confidence, optimism — near-synonym"
+          }
+        ],
+        "mnemonic": "HOFFNUNG: hoffen + -ung = 'the act/state of hoping'.",
+        "present_examples": []
+      },
+      {
+        "id": "enttäuschen",
+        "german": "enttäuschen",
+        "pronunciation": "[ɛntˈtɔɪ̯ʃən]",
+        "pos": "V.t.",
+        "english": "to disappoint",
+        "breakdown": [
+          {
+            "part": "ent-",
+            "meaning": "removal prefix",
+            "note": ""
+          },
+          {
+            "part": "täusch-",
+            "meaning": "deceive/illude",
+            "note": "from täuschen"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'to un-deceive' someone — to strip away the illusion they had. Takes direct Accusative: Du hast mich enttäuscht.",
+        "conjugation": {
+          "prät": "enttäuschte",
+          "perf": "hat enttäuscht",
+          "note": "weak, inseparable"
+        },
+        "examples": [
+          {
+            "de": "Das Ergebnis hat mich sehr enttäuscht.",
+            "en": "The result disappointed me a great deal."
+          },
+          {
+            "de": "Ich will dich nicht enttäuschen.",
+            "en": "I don't want to disappoint you."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Enttäuschung",
+            "meaning": "disappointment"
+          },
+          {
+            "word": "enttäuscht",
+            "meaning": "disappointed"
+          },
+          {
+            "word": "täuschen",
+            "meaning": "to deceive, to be wrong"
+          },
+          {
+            "word": "sich täuschen",
+            "meaning": "to be mistaken"
+          }
+        ],
+        "mnemonic": "ENT-täuschen: ent- removes the illusion (Täuschung). Disillusion = disappointment.",
+        "present_examples": []
+      },
+      {
+        "id": "die Enttäuschung",
+        "german": "die Enttäuschung",
+        "pronunciation": "[ɛntˈtɔɪ̯ʃʊŋ]",
+        "pos": "N.f.",
+        "english": "disappointment",
+        "breakdown": [
+          {
+            "part": "enttäuschen",
+            "meaning": "to disappoint",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Seine Enttäuschung war deutlich zu sehen.",
+            "en": "His disappointment was clearly visible."
+          },
+          {
+            "de": "Es war eine große Enttäuschung für uns alle.",
+            "en": "It was a great disappointment for all of us."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "enttäuschen",
+            "meaning": "to disappoint"
+          },
+          {
+            "word": "enttäuscht",
+            "meaning": "disappointed"
+          },
+          {
+            "word": "die Erwartung",
+            "meaning": "expectation — what preceded the disappointment"
+          }
+        ],
+        "mnemonic": "Enttäuschung: the -ung nominalises the verb — 'the act of dis-illusioning'.",
+        "present_examples": []
+      },
+      {
+        "id": "enttäuscht",
+        "german": "enttäuscht",
+        "pronunciation": "[ɛntˈtɔɪ̯ʃt]",
+        "pos": "Adj.",
+        "english": "disappointed",
+        "breakdown": [
+          {
+            "part": "enttäuschen",
+            "meaning": "to disappoint",
+            "note": ""
+          },
+          {
+            "part": "-t",
+            "meaning": "past participle as adj.",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie ist enttäuscht von seinem Verhalten.",
+            "en": "She is disappointed by his behaviour."
+          },
+          {
+            "de": "Die Mannschaft war enttäuscht über die Niederlage.",
+            "en": "The team was disappointed about the defeat."
+          }
+        ],
+        "grammar_notes": "enttäuscht von + Dative = disappointed in/by someone: Ich bin enttäuscht von dir. enttäuscht über + Accusative = disappointed about something.",
+        "word_family": [
+          {
+            "word": "enttäuschen",
+            "meaning": "to disappoint"
+          },
+          {
+            "word": "die Enttäuschung",
+            "meaning": "disappointment"
+          },
+          {
+            "word": "frustriert",
+            "meaning": "frustrated — stronger than enttäuscht"
+          }
+        ],
+        "mnemonic": "ENTTÄUSCHT: the -t at the end = past participle used as adj. — 'having been dis-illusioned'.",
+        "present_examples": []
+      },
+      {
+        "id": "verzweifeln",
+        "german": "verzweifeln",
+        "pronunciation": "[fɛʁˈtsvaɪ̯fəln]",
+        "pos": "V.i.",
+        "english": "to despair, to be in despair",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "intensifying prefix indicating going too far",
+            "note": ""
+          },
+          {
+            "part": "Zweifel",
+            "meaning": "doubt",
+            "note": ""
+          },
+          {
+            "part": "-n",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'to doubt beyond repair'. Takes an + Dative: an etwas verzweifeln (to despair over something).",
+        "conjugation": {
+          "prät": "verzweifelte",
+          "perf": "ist verzweifelt",
+          "note": "uses sein as auxiliary (change of state)"
+        },
+        "examples": [
+          {
+            "de": "Sie verzweifelte an der unlösbaren Aufgabe.",
+            "en": "She despaired over the unsolvable task."
+          },
+          {
+            "de": "Ich bin fast am Verzweifeln.",
+            "en": "I'm almost at the point of despair."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Verzweiflung",
+            "meaning": "despair"
+          },
+          {
+            "word": "verzweifelt",
+            "meaning": "desperate, in despair"
+          },
+          {
+            "word": "der Zweifel",
+            "meaning": "doubt"
+          },
+          {
+            "word": "zweifeln",
+            "meaning": "to doubt"
+          }
+        ],
+        "mnemonic": "VER-ZWEIFEL-n: ver- pushes doubt (Zweifel) past the limit — despair.",
+        "present_examples": []
+      },
+      {
+        "id": "die Verzweiflung",
+        "german": "die Verzweiflung",
+        "pronunciation": "[fɛʁˈtsvaɪ̯flʊŋ]",
+        "pos": "N.f.",
+        "english": "despair, desperation",
+        "breakdown": [
+          {
+            "part": "verzweifeln",
+            "meaning": "to despair",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "In seiner Verzweiflung rief er um Hilfe.",
+            "en": "In his despair he called for help."
+          },
+          {
+            "de": "Die Verzweiflung stand ihr ins Gesicht geschrieben.",
+            "en": "Despair was written on her face."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "verzweifeln",
+            "meaning": "to despair"
+          },
+          {
+            "word": "verzweifelt",
+            "meaning": "desperate"
+          },
+          {
+            "word": "der Zweifel",
+            "meaning": "doubt"
+          },
+          {
+            "word": "hoffnungslos",
+            "meaning": "hopeless — related state"
+          }
+        ],
+        "mnemonic": "VERZWEIFLUNG: -ung = the noun form of verzweifeln. Doubt × despair.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "book_page": 110,
+    "section": "Liebe und Zuneigung",
+    "insight": "sich verlieben is always reflexive: Ich verliebe mich in ihn — never *ich verliebe ihn. ⚠ die Sehnsucht vs. das Verlangen — Sehnsucht = deep longing/yearning (poetic, often for something distant or unattainable); Verlangen = desire/craving (more physical or immediate). Sehnsucht is one of German's most famous untranslatable words — it combines sehnen (to yearn) + Sucht (addiction/craving), literally 'yearning-addiction'. bewundern takes a direct Accusative object: Ich bewundere sie sehr.",
+    "words": [
+      {
+        "id": "sich verlieben",
+        "german": "sich verlieben",
+        "pronunciation": "[zɪç fɛʁˈliːbən]",
+        "pos": "V.refl.",
+        "english": "to fall in love",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "ver-",
+            "meaning": "change-of-state prefix",
+            "note": ""
+          },
+          {
+            "part": "lieb-",
+            "meaning": "love",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "verliebte sich",
+          "perf": "hat sich verliebt",
+          "note": "weak, inseparable"
+        },
+        "examples": [
+          {
+            "de": "Er hat sich auf den ersten Blick in sie verliebt.",
+            "en": "He fell in love with her at first sight."
+          },
+          {
+            "de": "Hast du dich verliebt?",
+            "en": "Have you fallen in love?"
+          }
+        ],
+        "grammar_notes": "sich verlieben in + Accusative: Ich habe mich in sie verliebt. Always reflexive — you cannot say *ich verliebe sie.",
+        "word_family": [
+          {
+            "word": "die Liebe",
+            "meaning": "love"
+          },
+          {
+            "word": "verliebt",
+            "meaning": "in love"
+          },
+          {
+            "word": "lieben",
+            "meaning": "to love"
+          },
+          {
+            "word": "der Verliebte",
+            "meaning": "the person in love"
+          }
+        ],
+        "mnemonic": "VER-LIEB-en: ver- transforms lieb (love) into the act of falling into it.",
+        "present_examples": []
+      },
+      {
+        "id": "die Liebe",
+        "german": "die Liebe",
+        "pronunciation": "[ˈliːbə]",
+        "pos": "N.f.",
+        "english": "love",
+        "breakdown": [
+          {
+            "part": "Liebe",
+            "meaning": "love",
+            "note": "from lieb = dear, beloved"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Liebe auf den ersten Blick.",
+            "en": "Love at first sight."
+          },
+          {
+            "de": "Aus Liebe zu ihr blieb er.",
+            "en": "Out of love for her he stayed."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "lieben",
+            "meaning": "to love"
+          },
+          {
+            "word": "liebevoll",
+            "meaning": "loving, affectionate"
+          },
+          {
+            "word": "der Liebling",
+            "meaning": "darling, favourite"
+          },
+          {
+            "word": "die Zuneigung",
+            "meaning": "affection — milder than Liebe"
+          }
+        ],
+        "mnemonic": "LIEBE: 'lee-buh' — think of 'love' with a German accent.",
+        "present_examples": []
+      },
+      {
+        "id": "lieben",
+        "german": "lieben",
+        "pronunciation": "[ˈliːbən]",
+        "pos": "V.t.",
+        "english": "to love",
+        "breakdown": [
+          {
+            "part": "lieb-",
+            "meaning": "love/dear",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "liebte",
+          "perf": "hat geliebt",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Ich liebe dich.",
+            "en": "I love you."
+          },
+          {
+            "de": "Sie liebt es, am Meer zu sitzen.",
+            "en": "She loves sitting by the sea."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Liebe",
+            "meaning": "love"
+          },
+          {
+            "word": "liebevoll",
+            "meaning": "loving"
+          },
+          {
+            "word": "beliebt",
+            "meaning": "popular, beloved"
+          },
+          {
+            "word": "lieb",
+            "meaning": "dear, kind, sweet"
+          }
+        ],
+        "mnemonic": "LIEBEN: related to 'love' — both from Proto-Germanic *lubą.",
+        "present_examples": []
+      },
+      {
+        "id": "die Sehnsucht",
+        "german": "die Sehnsucht",
+        "pronunciation": "[ˈzeːnzʊxt]",
+        "pos": "N.f.",
+        "english": "longing, yearning, deep desire",
+        "breakdown": [
+          {
+            "part": "sehnen",
+            "meaning": "to yearn",
+            "note": ""
+          },
+          {
+            "part": "Sucht",
+            "meaning": "addiction/craving",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "One of German's famous untranslatables — combines sehnen (to yearn) + Sucht (addiction/compulsion). A yearning so deep it becomes an addiction. Often used for something distant, lost, or unattainable.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie hatte Sehnsucht nach ihrer Heimat.",
+            "en": "She longed for her homeland."
+          },
+          {
+            "de": "Sein Blick verriet eine tiefe Sehnsucht.",
+            "en": "His gaze revealed a deep longing."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich sehnen",
+            "meaning": "to long for"
+          },
+          {
+            "word": "sehnsüchtig",
+            "meaning": "longing, yearning"
+          },
+          {
+            "word": "das Verlangen",
+            "meaning": "desire, craving — more immediate"
+          },
+          {
+            "word": "das Heimweh",
+            "meaning": "homesickness — specific type of Sehnsucht"
+          }
+        ],
+        "mnemonic": "SEHNSUCHT: yearning (sehnen) + addiction (Sucht) — you're addicted to the thing you miss.",
+        "present_examples": []
+      },
+      {
+        "id": "sich sehnen",
+        "german": "sich sehnen",
+        "pronunciation": "[zɪç ˈzeːnən]",
+        "pos": "V.refl.",
+        "english": "to long for, to yearn",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "sehn-",
+            "meaning": "yearning/longing",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "sehnte sich",
+          "perf": "hat sich gesehnt",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Er sehnte sich nach seiner Familie.",
+            "en": "He longed for his family."
+          },
+          {
+            "de": "Sie sehnt sich nach Wärme und Sonne.",
+            "en": "She yearns for warmth and sunshine."
+          }
+        ],
+        "grammar_notes": "sich sehnen nach + Dative: Ich sehne mich nach Ruhe (I long for peace and quiet).",
+        "word_family": [
+          {
+            "word": "die Sehnsucht",
+            "meaning": "deep longing"
+          },
+          {
+            "word": "sehnsüchtig",
+            "meaning": "longing"
+          },
+          {
+            "word": "die Sehnsucht nach der Ferne",
+            "meaning": "wanderlust"
+          }
+        ],
+        "mnemonic": "SICH SEHNEN: 'say-nen' — you SAY the name of the thing you miss.",
+        "present_examples": []
+      },
+      {
+        "id": "bewundern",
+        "german": "bewundern",
+        "pronunciation": "[bəˈvʊndɐn]",
+        "pos": "V.t.",
+        "english": "to admire",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix (makes verb transitive)",
+            "note": ""
+          },
+          {
+            "part": "Wunder",
+            "meaning": "wonder/miracle",
+            "note": ""
+          },
+          {
+            "part": "-n",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "bewunderte",
+          "perf": "hat bewundert",
+          "note": "weak, inseparable"
+        },
+        "examples": [
+          {
+            "de": "Ich bewundere ihren Mut sehr.",
+            "en": "I admire her courage a great deal."
+          },
+          {
+            "de": "Das Gemälde wurde von allen bewundert.",
+            "en": "The painting was admired by everyone."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Bewunderung",
+            "meaning": "admiration"
+          },
+          {
+            "word": "bewundernswert",
+            "meaning": "admirable, worthy of admiration"
+          },
+          {
+            "word": "das Wunder",
+            "meaning": "wonder, miracle"
+          },
+          {
+            "word": "wunderbar",
+            "meaning": "wonderful"
+          }
+        ],
+        "mnemonic": "BE-WUNDER-n: to be full of WONDER at someone — that's admiration.",
+        "present_examples": []
+      },
+      {
+        "id": "die Zuneigung",
+        "german": "die Zuneigung",
+        "pronunciation": "[ˈtsuːnaɪ̯ɡʊŋ]",
+        "pos": "N.f.",
+        "english": "affection, fondness",
+        "breakdown": [
+          {
+            "part": "zu-",
+            "meaning": "towards",
+            "note": ""
+          },
+          {
+            "part": "Neig-",
+            "meaning": "inclination/tilt",
+            "note": "from neigen"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'an inclination towards someone'. Milder than Liebe — affection and fondness without necessarily implying romantic love.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er zeigte ihr seine Zuneigung durch kleine Gesten.",
+            "en": "He showed her his affection through small gestures."
+          },
+          {
+            "de": "Sie empfand tiefe Zuneigung für ihn.",
+            "en": "She felt deep affection for him."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "neigen",
+            "meaning": "to lean, to incline"
+          },
+          {
+            "word": "die Neigung",
+            "meaning": "inclination, tendency — ⚠ not the same as Zuneigung",
+            "lookalike": true
+          },
+          {
+            "word": "zuneigen",
+            "meaning": "to lean towards (figuratively)"
+          },
+          {
+            "word": "die Liebe",
+            "meaning": "love — stronger than Zuneigung"
+          }
+        ],
+        "mnemonic": "ZU-NEIGUNG: you LEAN (neigen) towards someone — affection.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "book_page": 111,
+    "section": "Neid, Eifersucht und Stolz",
+    "insight": "neidisch and eifersüchtig are both translated as 'jealous' in English, but German separates them: neidisch = envious (wanting what someone else has); eifersüchtig = jealous (afraid of losing someone's affection — used for relationships). ⚠ der Neid vs. der Neider — der Neid is the emotion; der Neider is the person feeling it. beneiden takes a direct object + um: Ich beneide dich um dein Talent (I envy you your talent). der Stolz (pride) pairs with stolz sein auf + Accusative: Ich bin stolz auf dich.",
+    "words": [
+      {
+        "id": "neidisch",
+        "german": "neidisch",
+        "pronunciation": "[ˈnaɪ̯dɪʃ]",
+        "pos": "Adj.",
+        "english": "envious, jealous (of what others have)",
+        "breakdown": [
+          {
+            "part": "Neid",
+            "meaning": "envy",
+            "note": ""
+          },
+          {
+            "part": "-isch",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich bin ein bisschen neidisch auf deine Reisepläne.",
+            "en": "I'm a bit envious of your travel plans."
+          },
+          {
+            "de": "Sie warf ihm einen neidischen Blick zu.",
+            "en": "She shot him an envious glance."
+          }
+        ],
+        "grammar_notes": "neidisch auf + Accusative = envious of: Ich bin neidisch auf seinen Erfolg.",
+        "word_family": [
+          {
+            "word": "der Neid",
+            "meaning": "envy"
+          },
+          {
+            "word": "beneiden",
+            "meaning": "to envy someone"
+          },
+          {
+            "word": "neidlos",
+            "meaning": "without envy, ungrudging"
+          },
+          {
+            "word": "der Neider",
+            "meaning": "envious person"
+          }
+        ],
+        "mnemonic": "NEIDISCH: 'NEEDY-ish' — wanting what you don't have.",
+        "present_examples": []
+      },
+      {
+        "id": "der Neid",
+        "german": "der Neid",
+        "pronunciation": "[naɪ̯t]",
+        "pos": "N.m.",
+        "english": "envy",
+        "breakdown": [
+          {
+            "part": "Neid",
+            "meaning": "envy",
+            "note": "from Old High German nīd = hatred, envy"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Neid ist eine der sieben Todsünden.",
+            "en": "Envy is one of the seven deadly sins."
+          },
+          {
+            "de": "Sein Erfolg erweckte Neid bei den Kollegen.",
+            "en": "His success aroused envy among colleagues."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "neidisch",
+            "meaning": "envious"
+          },
+          {
+            "word": "beneiden",
+            "meaning": "to envy"
+          },
+          {
+            "word": "die Missgunst",
+            "meaning": "ill will, resentment — related concept"
+          },
+          {
+            "word": "die Eifersucht",
+            "meaning": "jealousy — different from envy!"
+          }
+        ],
+        "mnemonic": "NEID: sounds like 'needy' — envy stems from feeling needy.",
+        "present_examples": []
+      },
+      {
+        "id": "beneiden",
+        "german": "beneiden",
+        "pronunciation": "[bəˈnaɪ̯dən]",
+        "pos": "V.t.",
+        "english": "to envy (someone)",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "neid-",
+            "meaning": "envy",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "beneidete",
+          "perf": "hat beneidet",
+          "note": "weak, inseparable"
+        },
+        "examples": [
+          {
+            "de": "Ich beneide dich um deine Ruhe.",
+            "en": "I envy you your composure."
+          },
+          {
+            "de": "Sie wurde von allen um ihre Schönheit beneidet.",
+            "en": "She was envied by everyone for her beauty."
+          }
+        ],
+        "grammar_notes": "beneiden + Accusative + um + Accusative: Ich beneide dich um dein Talent (I envy you your talent).",
+        "word_family": [
+          {
+            "word": "der Neid",
+            "meaning": "envy"
+          },
+          {
+            "word": "neidisch",
+            "meaning": "envious"
+          },
+          {
+            "word": "beneidenswert",
+            "meaning": "enviable"
+          }
+        ],
+        "mnemonic": "BE-NEID-en: to actively direct your NEID (envy) at someone.",
+        "present_examples": []
+      },
+      {
+        "id": "eifersüchtig",
+        "german": "eifersüchtig",
+        "pronunciation": "[ˈaɪ̯fɐˌzʏçtɪç]",
+        "pos": "Adj.",
+        "english": "jealous (of losing affection/attention)",
+        "breakdown": [
+          {
+            "part": "Eifer",
+            "meaning": "zeal/eagerness",
+            "note": ""
+          },
+          {
+            "part": "sucht",
+            "meaning": "addiction/craving",
+            "note": "from Sucht"
+          },
+          {
+            "part": "-ig",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "eifersüchtig = jealous in relationships (fear of losing someone). Distinguish from neidisch = envious (wanting what others have).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er ist eifersüchtig auf jeden, der mit ihr spricht.",
+            "en": "He is jealous of everyone who talks to her."
+          },
+          {
+            "de": "Eifersucht ist keine Liebe.",
+            "en": "Jealousy is not love."
+          }
+        ],
+        "grammar_notes": "eifersüchtig auf + Accusative: Er ist eifersüchtig auf ihren neuen Freund.",
+        "word_family": [
+          {
+            "word": "die Eifersucht",
+            "meaning": "jealousy"
+          },
+          {
+            "word": "der Eifer",
+            "meaning": "zeal, eagerness"
+          },
+          {
+            "word": "eifrig",
+            "meaning": "eager, zealous"
+          },
+          {
+            "word": "neidisch",
+            "meaning": "envious — different emotion!"
+          }
+        ],
+        "mnemonic": "EIFER-SÜCHTIG: addicted (süchtig) to your zeal (Eifer) to keep someone — that's jealousy.",
+        "present_examples": []
+      },
+      {
+        "id": "die Eifersucht",
+        "german": "die Eifersucht",
+        "pronunciation": "[ˈaɪ̯fɐˌzʊxt]",
+        "pos": "N.f.",
+        "english": "jealousy",
+        "breakdown": [
+          {
+            "part": "Eifer",
+            "meaning": "zeal",
+            "note": ""
+          },
+          {
+            "part": "Sucht",
+            "meaning": "craving/addiction",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Eifersucht vergiftete ihre Beziehung.",
+            "en": "Jealousy poisoned their relationship."
+          },
+          {
+            "de": "Aus Eifersucht handelte er unklug.",
+            "en": "Out of jealousy he acted unwisely."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "eifersüchtig",
+            "meaning": "jealous"
+          },
+          {
+            "word": "der Eifer",
+            "meaning": "zeal"
+          },
+          {
+            "word": "die Sucht",
+            "meaning": "addiction"
+          },
+          {
+            "word": "der Neid",
+            "meaning": "envy — different concept"
+          }
+        ],
+        "mnemonic": "EIFERSUCHT: jealousy = an ADDICTION (Sucht) to your ZEAL (Eifer) to hold on.",
+        "present_examples": []
+      },
+      {
+        "id": "der Stolz",
+        "german": "der Stolz",
+        "pronunciation": "[ʃtɔlts]",
+        "pos": "N.m.",
+        "english": "pride",
+        "breakdown": [
+          {
+            "part": "Stolz",
+            "meaning": "pride",
+            "note": "from Middle High German stolz = stately, proud"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Seine Augen leuchteten vor Stolz.",
+            "en": "His eyes gleamed with pride."
+          },
+          {
+            "de": "Sie erfüllte ihn mit Stolz.",
+            "en": "She filled him with pride."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "stolz",
+            "meaning": "proud"
+          },
+          {
+            "word": "stolzieren",
+            "meaning": "to strut, to swagger"
+          },
+          {
+            "word": "der Nationalstolz",
+            "meaning": "national pride"
+          },
+          {
+            "word": "selbststolz",
+            "meaning": "self-important, smug"
+          }
+        ],
+        "mnemonic": "STOLZ: 'STOLTS' — someone who STROLLS with their chest puffed out.",
+        "present_examples": []
+      },
+      {
+        "id": "stolz",
+        "german": "stolz",
+        "pronunciation": "[ʃtɔlts]",
+        "pos": "Adj.",
+        "english": "proud",
+        "breakdown": [
+          {
+            "part": "stolz",
+            "meaning": "proud",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich bin sehr stolz auf deine Leistung.",
+            "en": "I'm very proud of your achievement."
+          },
+          {
+            "de": "Er trug stolz seine Uniform.",
+            "en": "He wore his uniform proudly."
+          }
+        ],
+        "grammar_notes": "stolz auf + Accusative: Ich bin stolz auf dich (I'm proud of you). Can also mean 'steep' in reference to prices colloquially: ein stolzer Preis = a steep price.",
+        "word_family": [
+          {
+            "word": "der Stolz",
+            "meaning": "pride"
+          },
+          {
+            "word": "stolzieren",
+            "meaning": "to strut"
+          },
+          {
+            "word": "selbstbewusst",
+            "meaning": "self-confident — positive version of pride"
+          },
+          {
+            "word": "hochmütig",
+            "meaning": "arrogant — negative version of pride"
+          }
+        ],
+        "mnemonic": "STOLZ: you STOLT (strut) when you're proud.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "book_page": 112,
+    "section": "Einsamkeit und Verbundenheit",
+    "insight": "vermissen = to miss (a person or thing that is absent): Ich vermisse dich. ⚠ das Heimweh (homesickness) vs. das Fernweh (wanderlust) — a beautiful antonym pair: Heim (home) + Weh (ache/pain) vs. Fern (far/distance) + Weh. die Geborgenheit is another famously untranslatable German word — the feeling of being safe, sheltered and loved; closer to 'cosy security' than simple 'safety'. sich verbunden fühlen mit = to feel connected to — takes mit + Dative.",
+    "words": [
+      {
+        "id": "einsam",
+        "german": "einsam",
+        "pronunciation": "[ˈaɪ̯nzaːm]",
+        "pos": "Adj.",
+        "english": "lonely, solitary",
+        "breakdown": [
+          {
+            "part": "ein-",
+            "meaning": "one/alone",
+            "note": ""
+          },
+          {
+            "part": "-sam",
+            "meaning": "adjectival suffix = inclined to",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie fühlt sich sehr einsam seit dem Umzug.",
+            "en": "She feels very lonely since the move."
+          },
+          {
+            "de": "Er lebte einsam in den Bergen.",
+            "en": "He lived alone/in solitude in the mountains."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Einsamkeit",
+            "meaning": "loneliness, solitude"
+          },
+          {
+            "word": "allein",
+            "meaning": "alone (factual, not necessarily lonely)"
+          },
+          {
+            "word": "vereinsamen",
+            "meaning": "to become lonely"
+          },
+          {
+            "word": "einsiedlerisch",
+            "meaning": "hermit-like, reclusive"
+          }
+        ],
+        "mnemonic": "EINSAM: EIN (one) + -sam — being 'one-some', all alone.",
+        "present_examples": []
+      },
+      {
+        "id": "die Einsamkeit",
+        "german": "die Einsamkeit",
+        "pronunciation": "[ˈaɪ̯nzaːmkaɪ̯t]",
+        "pos": "N.f.",
+        "english": "loneliness; solitude",
+        "breakdown": [
+          {
+            "part": "einsam",
+            "meaning": "lonely",
+            "note": ""
+          },
+          {
+            "part": "-keit",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Einsamkeit can be positive (solitude one chooses) or negative (loneliness one suffers). Context and pairing (genießen vs. leiden) clarifies.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er litt unter großer Einsamkeit.",
+            "en": "He suffered from great loneliness."
+          },
+          {
+            "de": "Sie genoss die Einsamkeit des Waldes.",
+            "en": "She enjoyed the solitude of the forest."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "einsam",
+            "meaning": "lonely"
+          },
+          {
+            "word": "die Isolation",
+            "meaning": "isolation"
+          },
+          {
+            "word": "die Stille",
+            "meaning": "stillness, quiet — associated feeling"
+          }
+        ],
+        "mnemonic": "EINSAMKEIT: einsam + -keit = 'the state of being one-some'.",
+        "present_examples": []
+      },
+      {
+        "id": "vermissen",
+        "german": "vermissen",
+        "pronunciation": "[fɛʁˈmɪsən]",
+        "pos": "V.t.",
+        "english": "to miss (someone/something absent)",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "away/loss prefix",
+            "note": ""
+          },
+          {
+            "part": "miss-",
+            "meaning": "miss",
+            "note": "from missen = to lack"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "vermisste",
+          "perf": "hat vermisst",
+          "note": "weak, inseparable"
+        },
+        "examples": [
+          {
+            "de": "Ich vermisse dich sehr.",
+            "en": "I miss you a lot."
+          },
+          {
+            "de": "Sie vermisst die Wärme des Südens.",
+            "en": "She misses the warmth of the south."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "vermisst",
+            "meaning": "missing (person)"
+          },
+          {
+            "word": "die Vermisstenanzeige",
+            "meaning": "missing persons report"
+          },
+          {
+            "word": "die Sehnsucht",
+            "meaning": "deep longing — related emotion"
+          },
+          {
+            "word": "missen",
+            "meaning": "to lack/do without (archaic)"
+          }
+        ],
+        "mnemonic": "VER-MISS-en: to MISS something with the intensity of ver-.",
+        "present_examples": []
+      },
+      {
+        "id": "das Heimweh",
+        "german": "das Heimweh",
+        "pronunciation": "[ˈhaɪ̯mveː]",
+        "pos": "N.n.",
+        "english": "homesickness",
+        "breakdown": [
+          {
+            "part": "Heim",
+            "meaning": "home",
+            "note": ""
+          },
+          {
+            "part": "Weh",
+            "meaning": "ache/pain",
+            "note": "from weh = ow, painful"
+          }
+        ],
+        "breakdown_note": "Heimweh pairs with Fernweh as perfect antonyms: Heimweh = longing for home; Fernweh = longing for distant places (wanderlust).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Im ersten Jahr im Ausland hatte er starkes Heimweh.",
+            "en": "In the first year abroad he had strong homesickness."
+          },
+          {
+            "de": "Das Lied weckte in ihr das Heimweh.",
+            "en": "The song awoke homesickness in her."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "das Fernweh",
+            "meaning": "wanderlust — ⚠ perfect antonym: longing for distance",
+            "lookalike": true
+          },
+          {
+            "word": "das Heim",
+            "meaning": "home"
+          },
+          {
+            "word": "das Weh",
+            "meaning": "ache, pain"
+          },
+          {
+            "word": "Heimweh haben",
+            "meaning": "to be homesick"
+          }
+        ],
+        "mnemonic": "HEIM-WEH: HOME + OUCH — it hurts to be away from home.",
+        "present_examples": []
+      },
+      {
+        "id": "die Geborgenheit",
+        "german": "die Geborgenheit",
+        "pronunciation": "[ɡəˈbɔʁɡənhaɪ̯t]",
+        "pos": "N.f.",
+        "english": "sense of security, shelter, feeling of being safe and loved",
+        "breakdown": [
+          {
+            "part": "ge-",
+            "meaning": "collective prefix",
+            "note": ""
+          },
+          {
+            "part": "borg-",
+            "meaning": "shelter/protect",
+            "note": "from bergen"
+          },
+          {
+            "part": "-en-",
+            "meaning": "",
+            "note": ""
+          },
+          {
+            "part": "-heit",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "One of German's most cherished untranslatables. The feeling of being warm, safe, sheltered, and loved all at once — beyond simple 'safety'.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das kleine Haus vermittelte ihr ein Gefühl von Geborgenheit.",
+            "en": "The little house gave her a sense of security and warmth."
+          },
+          {
+            "de": "Kinder brauchen Geborgenheit.",
+            "en": "Children need a sense of safe belonging."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "geborgen",
+            "meaning": "safe, sheltered, secure"
+          },
+          {
+            "word": "bergen",
+            "meaning": "to shelter, to rescue, to contain"
+          },
+          {
+            "word": "die Sicherheit",
+            "meaning": "safety/security — more factual, less emotional"
+          },
+          {
+            "word": "sich aufgehoben fühlen",
+            "meaning": "to feel in safe hands — near-synonym"
+          }
+        ],
+        "mnemonic": "GEBORGENHEIT: ge-BORG-en — like being safely stored in a BURG (castle), protected.",
+        "present_examples": []
+      },
+      {
+        "id": "die Verbundenheit",
+        "german": "die Verbundenheit",
+        "pronunciation": "[fɛʁˈbʊndənhaɪ̯t]",
+        "pos": "N.f.",
+        "english": "sense of connection, bond, solidarity",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "bund-",
+            "meaning": "bond/tie",
+            "note": "from binden"
+          },
+          {
+            "part": "-en-",
+            "meaning": "",
+            "note": ""
+          },
+          {
+            "part": "-heit",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie spürte eine tiefe Verbundenheit mit der Natur.",
+            "en": "She felt a deep connection with nature."
+          },
+          {
+            "de": "Die Verbundenheit in der Gruppe war stark.",
+            "en": "The sense of solidarity in the group was strong."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "verbunden",
+            "meaning": "connected, bonded; grateful"
+          },
+          {
+            "word": "verbinden",
+            "meaning": "to connect, to unite"
+          },
+          {
+            "word": "der Bund",
+            "meaning": "bond, alliance, federation"
+          },
+          {
+            "word": "die Einsamkeit",
+            "meaning": "loneliness — the antonym"
+          }
+        ],
+        "mnemonic": "VER-BUND-EN-HEIT: the state of being BOUND (verbunden) together.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "book_page": 113,
+    "section": "Stress und Erschöpfung",
+    "insight": "erschöpft is the past participle of erschöpfen used as an adjective — literally 'emptied out' (schöpfen = to scoop/draw water; er-schöpfen = to drain completely). ⚠ überfordert (overwhelmed with demands) vs. überarbeitet (overworked) — similar feelings, different causes: überfordert = the task exceeds your ability; überarbeitet = you've done too much. ausgebrannt (burnt out) is a compound: aus (out) + gebrannt (burned) — the metaphor of a fire that has used up all its fuel.",
+    "words": [
+      {
+        "id": "erschöpft",
+        "german": "erschöpft",
+        "pronunciation": "[ɛʁˈʃœpft]",
+        "pos": "Adj.",
+        "english": "exhausted, drained",
+        "breakdown": [
+          {
+            "part": "er-",
+            "meaning": "prefix (to completion)",
+            "note": ""
+          },
+          {
+            "part": "schöpf-",
+            "meaning": "to scoop/draw",
+            "note": "from schöpfen"
+          },
+          {
+            "part": "-t",
+            "meaning": "past participle as adj.",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'scooped out' — like a well that has been emptied. The full verb is erschöpfen: Die Arbeit erschöpft mich.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Nach der langen Wanderung war ich völlig erschöpft.",
+            "en": "After the long hike I was completely exhausted."
+          },
+          {
+            "de": "Sie sieht erschöpft aus.",
+            "en": "She looks exhausted."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Erschöpfung",
+            "meaning": "exhaustion"
+          },
+          {
+            "word": "erschöpfen",
+            "meaning": "to exhaust, to drain"
+          },
+          {
+            "word": "schöpfen",
+            "meaning": "to draw/scoop (water); to create"
+          },
+          {
+            "word": "ausgelaugt",
+            "meaning": "drained, washed out — near-synonym"
+          }
+        ],
+        "mnemonic": "ERSCHÖPFT: er-SCHÖPF-t — the well has been SCOOPED empty.",
+        "present_examples": []
+      },
+      {
+        "id": "die Erschöpfung",
+        "german": "die Erschöpfung",
+        "pronunciation": "[ɛʁˈʃœpfʊŋ]",
+        "pos": "N.f.",
+        "english": "exhaustion",
+        "breakdown": [
+          {
+            "part": "erschöpfen",
+            "meaning": "to exhaust",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er brach vor Erschöpfung zusammen.",
+            "en": "He collapsed from exhaustion."
+          },
+          {
+            "de": "Die Erschöpfung nach dem Projekt war enorm.",
+            "en": "The exhaustion after the project was enormous."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "erschöpft",
+            "meaning": "exhausted"
+          },
+          {
+            "word": "erschöpfen",
+            "meaning": "to exhaust"
+          },
+          {
+            "word": "die Müdigkeit",
+            "meaning": "tiredness — milder than Erschöpfung"
+          },
+          {
+            "word": "der Erschöpfungszustand",
+            "meaning": "state of exhaustion"
+          }
+        ],
+        "mnemonic": "ERSCHÖPFUNG: exhaustion as a noun — the -ung suffix nominalises the verb.",
+        "present_examples": []
+      },
+      {
+        "id": "gestresst",
+        "german": "gestresst",
+        "pronunciation": "[ɡəˈʃtʁɛst]",
+        "pos": "Adj.",
+        "english": "stressed",
+        "breakdown": [
+          {
+            "part": "ge-",
+            "meaning": "past participle prefix",
+            "note": ""
+          },
+          {
+            "part": "stress-",
+            "meaning": "stress",
+            "note": "loanword from English"
+          },
+          {
+            "part": "-t",
+            "meaning": "past participle suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich bin diese Woche total gestresst.",
+            "en": "I'm totally stressed this week."
+          },
+          {
+            "de": "Sie wirkt sehr gestresst.",
+            "en": "She seems very stressed."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Stress",
+            "meaning": "stress (loanword)"
+          },
+          {
+            "word": "stressen",
+            "meaning": "to stress someone out"
+          },
+          {
+            "word": "stressig",
+            "meaning": "stressful"
+          },
+          {
+            "word": "stressfrei",
+            "meaning": "stress-free"
+          }
+        ],
+        "mnemonic": "GESTRESST: the German past-participle of 'stress' — even the word feels stressed.",
+        "present_examples": []
+      },
+      {
+        "id": "überfordert",
+        "german": "überfordert",
+        "pronunciation": "[ˌyːbɐˈfɔʁdɐt]",
+        "pos": "Adj.",
+        "english": "overwhelmed, overtaxed",
+        "breakdown": [
+          {
+            "part": "über-",
+            "meaning": "over/beyond",
+            "note": ""
+          },
+          {
+            "part": "forder-",
+            "meaning": "demand/require",
+            "note": "from fordern"
+          },
+          {
+            "part": "-t",
+            "meaning": "past participle as adj.",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "überfordert = the task exceeds your capacity. Different from überarbeitet (overworked = worked too many hours).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Mit so vielen Aufgaben ist sie total überfordert.",
+            "en": "With so many tasks she is totally overwhelmed."
+          },
+          {
+            "de": "Er war von der Technik überfordert.",
+            "en": "He was overwhelmed by the technology."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "überfordern",
+            "meaning": "to overtax, to overwhelm"
+          },
+          {
+            "word": "fordern",
+            "meaning": "to demand, to require"
+          },
+          {
+            "word": "die Forderung",
+            "meaning": "demand"
+          },
+          {
+            "word": "überarbeitet",
+            "meaning": "overworked — ⚠ different cause of stress",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "ÜBER-FORDER-t: OVER-demanded — too much is being asked of you.",
+        "present_examples": []
+      },
+      {
+        "id": "ausgebrannt",
+        "german": "ausgebrannt",
+        "pronunciation": "[ˈaʊ̯sɡəˌbʁant]",
+        "pos": "Adj.",
+        "english": "burnt out",
+        "breakdown": [
+          {
+            "part": "aus-",
+            "meaning": "out/fully",
+            "note": ""
+          },
+          {
+            "part": "ge-",
+            "meaning": "past participle",
+            "note": ""
+          },
+          {
+            "part": "brannt",
+            "meaning": "burned",
+            "note": "from brennen"
+          }
+        ],
+        "breakdown_note": "Literally 'burned out' — like a fire that has used up all its fuel. The German equivalent of burnout.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Nach Jahren der Überlastung war er ausgebrannt.",
+            "en": "After years of overwork he was burnt out."
+          },
+          {
+            "de": "Sie fühlt sich ausgebrannt und braucht eine Pause.",
+            "en": "She feels burnt out and needs a break."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "brennen",
+            "meaning": "to burn"
+          },
+          {
+            "word": "der Burn-out",
+            "meaning": "burnout (also used as loanword)"
+          },
+          {
+            "word": "ausbrennen",
+            "meaning": "to burn out"
+          },
+          {
+            "word": "erschöpft",
+            "meaning": "exhausted — related state"
+          }
+        ],
+        "mnemonic": "AUS-ge-BRANNT: the fire (brennen) has burned AUS (out) — total burnout.",
+        "present_examples": []
+      },
+      {
+        "id": "sich erholen",
+        "german": "sich erholen",
+        "pronunciation": "[zɪç ɛʁˈhoːlən]",
+        "pos": "V.refl.",
+        "english": "to recover, to recuperate, to relax",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "er-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "hol-",
+            "meaning": "fetch/bring back",
+            "note": "from holen"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'to fetch oneself back' to full capacity. Used for recovering from illness, stress, and also just relaxing on holiday.",
+        "conjugation": {
+          "prät": "erholte sich",
+          "perf": "hat sich erholt",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Ich muss mich von der Arbeitswoche erholen.",
+            "en": "I need to recover from the work week."
+          },
+          {
+            "de": "Im Urlaub hat sie sich gut erholt.",
+            "en": "She recovered well during the holiday."
+          }
+        ],
+        "grammar_notes": "sich erholen von + Dative = to recover from: Ich erhole mich von der Erkältung.",
+        "word_family": [
+          {
+            "word": "die Erholung",
+            "meaning": "recovery, recreation"
+          },
+          {
+            "word": "erholt",
+            "meaning": "recovered, refreshed"
+          },
+          {
+            "word": "erholsam",
+            "meaning": "restful, recuperative"
+          },
+          {
+            "word": "holen",
+            "meaning": "to fetch — ⚠ erholen ≠ simply holen",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "SICH ERHOLEN: er-HOLEN yourself back — fetch your energy from somewhere.",
+        "present_examples": []
+      },
+      {
+        "id": "die Erholung",
+        "german": "die Erholung",
+        "pronunciation": "[ɛʁˈhoːlʊŋ]",
+        "pos": "N.f.",
+        "english": "recovery, rest, recreation",
+        "breakdown": [
+          {
+            "part": "sich erholen",
+            "meaning": "to recover",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er braucht dringend Erholung.",
+            "en": "He urgently needs rest and recovery."
+          },
+          {
+            "de": "Der Urlaub diente der Erholung.",
+            "en": "The holiday served for recuperation."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich erholen",
+            "meaning": "to recover"
+          },
+          {
+            "word": "erholsam",
+            "meaning": "restful"
+          },
+          {
+            "word": "das Erholungsgebiet",
+            "meaning": "recreation area"
+          },
+          {
+            "word": "die Ruhe",
+            "meaning": "calm — related concept"
+          }
+        ],
+        "mnemonic": "ERHOLUNG: -ung turns the verb into the noun — 'the act of recovering'.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "book_page": 114,
+    "section": "Mitgefühl und Verständnis",
+    "insight": "das Mitgefühl (empathy/sympathy) vs. das Verständnis (understanding) — Mitgefühl is emotional (feeling with someone); Verständnis is cognitive (understanding someone's position). ⚠ einfühlsam (empathetic) vs. gefühlvoll (emotionally expressive) — einfühlsam describes your capacity to understand others; gefühlvoll describes your own emotional expression. Rücksicht nehmen auf + Accusative = to show consideration for — Rücksicht (consideration) literally means 'looking back' (rück = back + Sicht = view/sight).",
+    "words": [
+      {
+        "id": "das Mitgefühl",
+        "german": "das Mitgefühl",
+        "pronunciation": "[ˈmɪtɡəˌfyːl]",
+        "pos": "N.n.",
+        "english": "sympathy, empathy, compassion",
+        "breakdown": [
+          {
+            "part": "mit-",
+            "meaning": "with/together",
+            "note": ""
+          },
+          {
+            "part": "Gefühl",
+            "meaning": "feeling",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'feeling-with' someone. More emotional than das Verständnis (understanding), which is more cognitive.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie zeigte großes Mitgefühl mit den Opfern.",
+            "en": "She showed great sympathy for the victims."
+          },
+          {
+            "de": "Er drückte sein Mitgefühl aus.",
+            "en": "He expressed his sympathy."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "mitfühlen",
+            "meaning": "to empathise, to sympathise"
+          },
+          {
+            "word": "das Gefühl",
+            "meaning": "feeling"
+          },
+          {
+            "word": "einfühlsam",
+            "meaning": "empathetic"
+          },
+          {
+            "word": "das Mitleid",
+            "meaning": "pity — ⚠ stronger: suffering WITH, not just feeling with",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "MIT-GEFÜHL: feeling (Gefühl) WITH (mit) someone — that's empathy.",
+        "present_examples": []
+      },
+      {
+        "id": "mitfühlen",
+        "german": "mitfühlen",
+        "pronunciation": "[ˈmɪtfyːlən]",
+        "pos": "V.i.",
+        "english": "to empathise, to feel for someone",
+        "breakdown": [
+          {
+            "part": "mit-",
+            "meaning": "with",
+            "note": ""
+          },
+          {
+            "part": "fühl-",
+            "meaning": "feel",
+            "note": "from fühlen"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "fühlte mit",
+          "perf": "hat mitgefühlt",
+          "note": "separable weak verb"
+        },
+        "examples": [
+          {
+            "de": "Ich kann mit dir mitfühlen.",
+            "en": "I can empathise with you."
+          },
+          {
+            "de": "Sie fühlte mit ihm mit, als er die schlechten Nachrichten erhielt.",
+            "en": "She felt for him when he received the bad news."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "das Mitgefühl",
+            "meaning": "empathy"
+          },
+          {
+            "word": "fühlen",
+            "meaning": "to feel"
+          },
+          {
+            "word": "einfühlsam",
+            "meaning": "empathetic"
+          }
+        ],
+        "mnemonic": "MIT-FÜHLEN: to FEEL (fühlen) WITH (mit) — separable verb.",
+        "present_examples": []
+      },
+      {
+        "id": "das Verständnis",
+        "german": "das Verständnis",
+        "pronunciation": "[fɛʁˈʃtɛntnɪs]",
+        "pos": "N.n.",
+        "english": "understanding, comprehension; sympathy",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "ständ-",
+            "meaning": "stand/comprehend",
+            "note": "from verstehen"
+          },
+          {
+            "part": "-nis",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Two meanings: (1) cognitive understanding (Verständnis für Mathematik) and (2) sympathetic understanding of a situation (Ich habe Verständnis für deine Lage).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe Verständnis für deine schwierige Situation.",
+            "en": "I have understanding/sympathy for your difficult situation."
+          },
+          {
+            "de": "Danke für Ihr Verständnis.",
+            "en": "Thank you for your understanding."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "verstehen",
+            "meaning": "to understand"
+          },
+          {
+            "word": "verständnisvoll",
+            "meaning": "understanding, sympathetic"
+          },
+          {
+            "word": "unverständlich",
+            "meaning": "incomprehensible"
+          },
+          {
+            "word": "das Missverständnis",
+            "meaning": "misunderstanding"
+          }
+        ],
+        "mnemonic": "VER-STÄNDNIS: ver-STAND-nis — it takes VERSTEHen (understanding) to feel Verständnis.",
+        "present_examples": []
+      },
+      {
+        "id": "einfühlsam",
+        "german": "einfühlsam",
+        "pronunciation": "[ˈaɪ̯nfyːlzaːm]",
+        "pos": "Adj.",
+        "english": "empathetic, sensitive, perceptive",
+        "breakdown": [
+          {
+            "part": "ein-",
+            "meaning": "in/into",
+            "note": ""
+          },
+          {
+            "part": "fühl-",
+            "meaning": "feel",
+            "note": ""
+          },
+          {
+            "part": "-sam",
+            "meaning": "inclined to",
+            "note": "adjectival suffix"
+          }
+        ],
+        "breakdown_note": "Literally 'inclined to feel oneself into others'. Describes a personality trait — capacity to put yourself in others' shoes.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie ist eine sehr einfühlsame Therapeutin.",
+            "en": "She is a very empathetic therapist."
+          },
+          {
+            "de": "Sein einfühlsames Verhalten hat mir sehr geholfen.",
+            "en": "His empathetic behaviour helped me a lot."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich einfühlen",
+            "meaning": "to empathise, to put oneself in someone's place"
+          },
+          {
+            "word": "das Einfühlungsvermögen",
+            "meaning": "empathy, capacity to empathise"
+          },
+          {
+            "word": "das Mitgefühl",
+            "meaning": "compassion"
+          },
+          {
+            "word": "gefühlvoll",
+            "meaning": "emotionally expressive — ⚠ different: describes your own expression",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "EIN-FÜHL-SAM: feeling (fühl) your way INTO (ein) others — empathy.",
+        "present_examples": []
+      },
+      {
+        "id": "die Rücksicht",
+        "german": "die Rücksicht",
+        "pronunciation": "[ˈʁʏkzɪçt]",
+        "pos": "N.f.",
+        "english": "consideration, regard, thoughtfulness",
+        "breakdown": [
+          {
+            "part": "Rück-",
+            "meaning": "back",
+            "note": ""
+          },
+          {
+            "part": "Sicht",
+            "meaning": "view/sight",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'looking back' — consideration means pausing to look back at how your actions affect others. Rücksicht nehmen auf + Accusative = to show consideration for.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Bitte nehmen Sie Rücksicht auf die anderen Fahrgäste.",
+            "en": "Please show consideration for the other passengers."
+          },
+          {
+            "de": "Er handelt ohne Rücksicht auf andere.",
+            "en": "He acts without regard for others."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "rücksichtsvoll",
+            "meaning": "considerate, thoughtful"
+          },
+          {
+            "word": "rücksichtslos",
+            "meaning": "inconsiderate, reckless"
+          },
+          {
+            "word": "die Rücksichtnahme",
+            "meaning": "showing consideration"
+          },
+          {
+            "word": "die Sicht",
+            "meaning": "view, sight"
+          }
+        ],
+        "mnemonic": "RÜCK-SICHT: BACK-LOOK — look back to consider others.",
+        "present_examples": []
+      },
+      {
+        "id": "rücksichtsvoll",
+        "german": "rücksichtsvoll",
+        "pronunciation": "[ˈʁʏkzɪçtsfɔl]",
+        "pos": "Adj.",
+        "english": "considerate, thoughtful, mindful",
+        "breakdown": [
+          {
+            "part": "Rücksicht",
+            "meaning": "consideration",
+            "note": ""
+          },
+          {
+            "part": "-s-",
+            "meaning": "linking element",
+            "note": ""
+          },
+          {
+            "part": "voll",
+            "meaning": "full",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er ist immer rücksichtsvoll gegenüber seinen Mitmenschen.",
+            "en": "He is always considerate towards his fellow human beings."
+          },
+          {
+            "de": "Ein rücksichtsvoller Fahrer hält Abstand.",
+            "en": "A considerate driver keeps a safe distance."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Rücksicht",
+            "meaning": "consideration"
+          },
+          {
+            "word": "rücksichtslos",
+            "meaning": "inconsiderate — ⚠ direct antonym",
+            "lookalike": true
+          },
+          {
+            "word": "aufmerksam",
+            "meaning": "attentive, considerate — near-synonym"
+          }
+        ],
+        "mnemonic": "RÜCKSICHTS-VOLL: FULL of consideration (Rücksicht).",
+        "present_examples": []
+      },
+      {
+        "id": "Anteil nehmen",
+        "german": "Anteil nehmen",
+        "pronunciation": "[ˈantaɪ̯l ˈneːmən]",
+        "pos": "V.phrase",
+        "english": "to show compassion, to express sympathy",
+        "breakdown": [
+          {
+            "part": "Anteil",
+            "meaning": "share/part",
+            "note": ""
+          },
+          {
+            "part": "nehmen",
+            "meaning": "to take",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Anteil nehmen an + Dative = to take an interest in / to share in someone's experience. In condolence contexts: herzliches Beileid / aufrichtiges Mitgefühl are also common.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Wir nehmen herzlichen Anteil an Ihrem Verlust.",
+            "en": "We extend our sincere sympathies for your loss."
+          },
+          {
+            "de": "Sie nimmt immer Anteil an den Problemen anderer.",
+            "en": "She always shows sympathy for others' problems."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Anteil",
+            "meaning": "share, portion; involvement"
+          },
+          {
+            "word": "teilnehmen",
+            "meaning": "to participate"
+          },
+          {
+            "word": "das Beileid",
+            "meaning": "condolences"
+          },
+          {
+            "word": "das Mitgefühl",
+            "meaning": "compassion"
+          }
+        ],
+        "mnemonic": "ANTEIL NEHMEN: take your SHARE (Anteil) of someone's pain — that's compassion.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "book_page": 115,
+    "section": "Stimmung und Gemüt",
+    "insight": "die Stimmung has two meanings: (1) mood/emotional state and (2) atmosphere/vibe of a place. Context always clarifies: Die Stimmung ist gut (the mood/atmosphere is good). ⚠ launisch (moody) vs. schlecht gelaunt (in a bad mood) — launisch describes a general personality trait (habitually changeable mood); schlecht gelaunt describes a temporary state right now. gelassen comes from lassen (to let/allow) — gelassen = someone who lets things go, stays composed.",
+    "words": [
+      {
+        "id": "die Stimmung",
+        "german": "die Stimmung",
+        "pronunciation": "[ˈʃtɪmʊŋ]",
+        "pos": "N.f.",
+        "english": "mood; atmosphere, vibe",
+        "breakdown": [
+          {
+            "part": "Stimm-",
+            "meaning": "voice/tune",
+            "note": "from Stimme = voice"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Two meanings: (1) someone's personal mood (Meine Stimmung ist heute gut) and (2) the atmosphere of a place or event (Die Stimmung im Stadion war toll). Same word for both.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Stimmung auf der Party war großartig.",
+            "en": "The atmosphere at the party was great."
+          },
+          {
+            "de": "Er ist heute nicht in bester Stimmung.",
+            "en": "He is not in the best of moods today."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "stimmen",
+            "meaning": "to be right; to tune (an instrument)"
+          },
+          {
+            "word": "stimmungsvoll",
+            "meaning": "atmospheric, full of atmosphere"
+          },
+          {
+            "word": "die Verstimmung",
+            "meaning": "bad mood; discord"
+          },
+          {
+            "word": "gut/schlecht gelaunt",
+            "meaning": "in a good/bad mood — near-synonym"
+          }
+        ],
+        "mnemonic": "STIMMUNG: from Stimme (voice) — the mood sets the TONE of a place.",
+        "present_examples": []
+      },
+      {
+        "id": "das Gemüt",
+        "german": "das Gemüt",
+        "pronunciation": "[ɡəˈmyːt]",
+        "pos": "N.n.",
+        "english": "disposition, temperament, heart, soul",
+        "breakdown": [
+          {
+            "part": "Ge-",
+            "meaning": "collective prefix",
+            "note": ""
+          },
+          {
+            "part": "Mut",
+            "meaning": "courage/spirit",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "das Gemüt is a rich, somewhat old-fashioned word for a person's inner emotional nature. Ein gemütlicher Mensch = a warm, easy-going person.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie hat ein sonniges Gemüt.",
+            "en": "She has a sunny disposition."
+          },
+          {
+            "de": "Das geht mir ans Gemüt.",
+            "en": "That touches my heart / gets to me emotionally."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "gemütlich",
+            "meaning": "cosy, comfortable, easy-going"
+          },
+          {
+            "word": "die Gemütlichkeit",
+            "meaning": "cosiness, conviviality"
+          },
+          {
+            "word": "gemütvoll",
+            "meaning": "warm-hearted, soulful"
+          },
+          {
+            "word": "der Mut",
+            "meaning": "courage — ⚠ Gemüt is not 'good courage'",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "GEMÜT: ge-MUT — your spirit/soul collected together inside you.",
+        "present_examples": []
+      },
+      {
+        "id": "launisch",
+        "german": "launisch",
+        "pronunciation": "[ˈlaʊ̯nɪʃ]",
+        "pos": "Adj.",
+        "english": "moody, temperamental, changeable",
+        "breakdown": [
+          {
+            "part": "Laune",
+            "meaning": "mood/whim",
+            "note": ""
+          },
+          {
+            "part": "-isch",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "launisch describes a habitual character trait — someone who is frequently moody or unpredictable. Different from schlecht gelaunt (in a bad mood right now).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er ist sehr launisch — man weiß nie, wie er drauf ist.",
+            "en": "He is very moody — you never know what mood he'll be in."
+          },
+          {
+            "de": "Das launische Aprilwetter überraschte uns.",
+            "en": "The changeable April weather surprised us."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Laune",
+            "meaning": "mood, whim"
+          },
+          {
+            "word": "gut/schlecht gelaunt",
+            "meaning": "in a good/bad mood (current state)"
+          },
+          {
+            "word": "launenhaft",
+            "meaning": "capricious, unpredictable — near-synonym"
+          },
+          {
+            "word": "die Grille",
+            "meaning": "whim, caprice (literary) — related"
+          }
+        ],
+        "mnemonic": "LAUNISCH: 'loon-ish' — like a LOON, unpredictably moody.",
+        "present_examples": []
+      },
+      {
+        "id": "reizbar",
+        "german": "reizbar",
+        "pronunciation": "[ˈʁaɪ̯tsbɑːʁ]",
+        "pos": "Adj.",
+        "english": "irritable, touchy, quick-tempered",
+        "breakdown": [
+          {
+            "part": "Reiz-",
+            "meaning": "stimulus/irritation",
+            "note": "from reizen"
+          },
+          {
+            "part": "-bar",
+            "meaning": "capable of/inclined to",
+            "note": "adjectival suffix"
+          }
+        ],
+        "breakdown_note": "Literally 'capable of being stimulated/irritated'. reizbar describes a disposition toward irritability. Note: reizend means 'charming/delightful' — same root, opposite feel!",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er ist sehr reizbar, wenn er müde ist.",
+            "en": "He is very irritable when he's tired."
+          },
+          {
+            "de": "Die Hitze macht mich reizbar.",
+            "en": "The heat makes me irritable."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "reizen",
+            "meaning": "to irritate; to charm; to stimulate"
+          },
+          {
+            "word": "reizend",
+            "meaning": "charming, delightful — ⚠ same root, opposite meaning!",
+            "lookalike": true
+          },
+          {
+            "word": "der Reiz",
+            "meaning": "stimulus; charm; irritation"
+          },
+          {
+            "word": "gereizt",
+            "meaning": "irritated, testy"
+          }
+        ],
+        "mnemonic": "REIZBAR: easily REIZ-ed (irritated) — hair-trigger temper.",
+        "present_examples": []
+      },
+      {
+        "id": "gelassen",
+        "german": "gelassen",
+        "pronunciation": "[ɡəˈlasən]",
+        "pos": "Adj.",
+        "english": "calm, composed, unflappable",
+        "breakdown": [
+          {
+            "part": "ge-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "lass-",
+            "meaning": "let/allow",
+            "note": "from lassen"
+          },
+          {
+            "part": "-en",
+            "meaning": "past participle",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'having let things be'. Someone who lets things go without getting worked up. The opposite of reizbar.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie blieb trotz der Provokation völlig gelassen.",
+            "en": "She remained completely composed despite the provocation."
+          },
+          {
+            "de": "Er reagierte gelassen auf die schlechten Nachrichten.",
+            "en": "He reacted calmly to the bad news."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Gelassenheit",
+            "meaning": "composure, equanimity"
+          },
+          {
+            "word": "lassen",
+            "meaning": "to let, to allow"
+          },
+          {
+            "word": "ruhig",
+            "meaning": "calm, quiet — near-synonym"
+          },
+          {
+            "word": "gleichmütig",
+            "meaning": "even-tempered — near-synonym"
+          }
+        ],
+        "mnemonic": "GELASSEN: ge-LASS-en — you've LASSEN (let) it all go. Total calm.",
+        "present_examples": []
+      },
+      {
+        "id": "die Gelassenheit",
+        "german": "die Gelassenheit",
+        "pronunciation": "[ɡəˈlasənhaɪ̯t]",
+        "pos": "N.f.",
+        "english": "composure, equanimity, serenity",
+        "breakdown": [
+          {
+            "part": "gelassen",
+            "meaning": "calm",
+            "note": ""
+          },
+          {
+            "part": "-heit",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Mit großer Gelassenheit ertrug er die Kritik.",
+            "en": "He bore the criticism with great composure."
+          },
+          {
+            "de": "Gelassenheit ist eine wichtige Tugend.",
+            "en": "Composure is an important virtue."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "gelassen",
+            "meaning": "calm, composed"
+          },
+          {
+            "word": "lassen",
+            "meaning": "to let"
+          },
+          {
+            "word": "die Ruhe",
+            "meaning": "calm, quiet"
+          },
+          {
+            "word": "die Gleichgültigkeit",
+            "meaning": "indifference — ⚠ not the same: Gelassenheit is active serenity; Gleichgültigkeit is passive not caring",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "GELASSENHEIT: -heit makes the adjective into the noun — 'the state of having let go'.",
+        "present_examples": []
+      },
+      {
+        "id": "gut gelaunt",
+        "german": "gut gelaunt",
+        "pronunciation": "[ɡuːt ɡəˈlaʊ̯nt]",
+        "pos": "Adj.phrase",
+        "english": "in a good mood",
+        "breakdown": [
+          {
+            "part": "gut",
+            "meaning": "good",
+            "note": ""
+          },
+          {
+            "part": "ge-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "launt",
+            "meaning": "mooded",
+            "note": "from Laune = mood"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er kam heute morgen besonders gut gelaunt ins Büro.",
+            "en": "He came into the office in a particularly good mood this morning."
+          },
+          {
+            "de": "Wenn sie gut gelaunt ist, singt sie immer.",
+            "en": "When she's in a good mood she always sings."
+          }
+        ],
+        "grammar_notes": "gut gelaunt / schlecht gelaunt = in a good/bad mood (current state). Different from launisch (habitually moody as character trait).",
+        "word_family": [
+          {
+            "word": "schlecht gelaunt",
+            "meaning": "in a bad mood"
+          },
+          {
+            "word": "die Laune",
+            "meaning": "mood"
+          },
+          {
+            "word": "launisch",
+            "meaning": "moody (character trait)"
+          },
+          {
+            "word": "bester Laune sein",
+            "meaning": "to be in the best of moods"
+          }
+        ],
+        "mnemonic": "GUT GELAUNT: good-LAUNE-d — your Laune (mood) is gut (good).",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "book_page": 116,
+    "section": "Empfinden und Wahrnehmen",
+    "insight": "empfinden, spüren, fühlen — three verbs for 'to feel': fühlen = general feel (ich fühle mich gut); spüren = to sense/notice physically (Ich spüre den Wind); empfinden = to perceive an emotion deeply (Ich empfinde Dankbarkeit). ⚠ das Gefühl (feeling/emotion/sense) vs. die Empfindung (sensation/perception) — Gefühl is broader; Empfindung is more specific to physical or fine-grained emotional sensation. wahrnehmen (separable) = to perceive — ich nehme wahr: takes a direct Accusative object.",
+    "words": [
+      {
+        "id": "die Empfindung",
+        "german": "die Empfindung",
+        "pronunciation": "[ɛmˈpfɪndʊŋ]",
+        "pos": "N.f.",
+        "english": "sensation, perception, feeling",
+        "breakdown": [
+          {
+            "part": "empfinden",
+            "meaning": "to feel/perceive",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "More specific than das Gefühl — Empfindung refers to a particular physical or refined emotional sensation. Plural: Empfindungen.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Eine seltsame Empfindung überkam sie.",
+            "en": "A strange sensation came over her."
+          },
+          {
+            "de": "Er konnte seine Empfindungen kaum in Worte fassen.",
+            "en": "He could barely put his feelings into words."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "empfinden",
+            "meaning": "to feel, to perceive"
+          },
+          {
+            "word": "empfindlich",
+            "meaning": "sensitive, touchy"
+          },
+          {
+            "word": "empfindsam",
+            "meaning": "sensitive, sentimental (literary)"
+          },
+          {
+            "word": "der Empfang",
+            "meaning": "reception — ⚠ different root: empfangen = to receive",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "EMPFINDUNG: empfinden + -ung — the sensation of perceiving something deeply.",
+        "present_examples": []
+      },
+      {
+        "id": "wahrnehmen",
+        "german": "wahrnehmen",
+        "pronunciation": "[ˈvaːʁneːmən]",
+        "pos": "V.t.",
+        "english": "to perceive, to notice, to be aware of",
+        "breakdown": [
+          {
+            "part": "wahr-",
+            "meaning": "true/real",
+            "note": "from wahr"
+          },
+          {
+            "part": "nehm-",
+            "meaning": "take",
+            "note": "from nehmen"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'to take something as real/true' — to perceive it. Separable: Ich nehme wahr. Also means 'to take advantage of an opportunity': eine Gelegenheit wahrnehmen.",
+        "conjugation": {
+          "prät": "nahm wahr",
+          "perf": "hat wahrgenommen",
+          "note": "separable strong verb (nehmen class)"
+        },
+        "examples": [
+          {
+            "de": "Sie nahm eine Veränderung in seinem Verhalten wahr.",
+            "en": "She perceived a change in his behaviour."
+          },
+          {
+            "de": "Bitte nehmen Sie diese Gelegenheit wahr.",
+            "en": "Please take advantage of this opportunity."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Wahrnehmung",
+            "meaning": "perception"
+          },
+          {
+            "word": "wahr",
+            "meaning": "true, real"
+          },
+          {
+            "word": "wahrhaft",
+            "meaning": "truly, genuinely"
+          },
+          {
+            "word": "nehmen",
+            "meaning": "to take"
+          }
+        ],
+        "mnemonic": "WAHR-NEHMEN: TAKE (nehmen) something as REAL (wahr) — perceive it.",
+        "present_examples": []
+      },
+      {
+        "id": "spüren",
+        "german": "spüren",
+        "pronunciation": "[ˈʃpyːʁən]",
+        "pos": "V.t.",
+        "english": "to feel, to sense, to notice (physically)",
+        "breakdown": [
+          {
+            "part": "Spur",
+            "meaning": "trace/track",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "spüren is more physical/sensory than fühlen. You spüren wind, a presence, pain. It's about detecting something through your senses.",
+        "conjugation": {
+          "prät": "spürte",
+          "perf": "hat gespürt",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Ich spüre den Wind auf meiner Haut.",
+            "en": "I feel/sense the wind on my skin."
+          },
+          {
+            "de": "Er spürte, dass etwas nicht stimmte.",
+            "en": "He sensed that something was wrong."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Spur",
+            "meaning": "trace, track, lane"
+          },
+          {
+            "word": "aufspüren",
+            "meaning": "to track down, to sniff out"
+          },
+          {
+            "word": "nachspüren",
+            "meaning": "to trace, to explore (a feeling)"
+          },
+          {
+            "word": "fühlen",
+            "meaning": "to feel (more emotional than spüren)"
+          }
+        ],
+        "mnemonic": "SPÜREN: following the SPUR (trace) — sensing something's presence.",
+        "present_examples": []
+      },
+      {
+        "id": "empfinden",
+        "german": "empfinden",
+        "pronunciation": "[ɛmˈpfɪndən]",
+        "pos": "V.t.",
+        "english": "to feel, to perceive (an emotion deeply)",
+        "breakdown": [
+          {
+            "part": "em-",
+            "meaning": "variant of ein- (into)",
+            "note": ""
+          },
+          {
+            "part": "pfind-",
+            "meaning": "find/feel",
+            "note": "from finden"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "empfand",
+          "perf": "hat empfunden",
+          "note": "strong verb (finden class)"
+        },
+        "examples": [
+          {
+            "de": "Ich empfinde tiefe Dankbarkeit für ihre Hilfe.",
+            "en": "I feel deep gratitude for her help."
+          },
+          {
+            "de": "Er empfand es als Beleidigung.",
+            "en": "He perceived it as an insult."
+          }
+        ],
+        "grammar_notes": "More elevated than fühlen — used for deeper, more articulate emotional experience: Ich empfinde Dankbarkeit (I feel gratitude). empfinden als = to perceive as: Ich empfinde das als unfair.",
+        "word_family": [
+          {
+            "word": "die Empfindung",
+            "meaning": "sensation, feeling"
+          },
+          {
+            "word": "empfindlich",
+            "meaning": "sensitive, touchy"
+          },
+          {
+            "word": "fühlen",
+            "meaning": "to feel (everyday, general)"
+          },
+          {
+            "word": "spüren",
+            "meaning": "to sense physically"
+          }
+        ],
+        "mnemonic": "EMPFINDEN: strong verb — empfand, empfunden. Deep emotional finding.",
+        "present_examples": []
+      },
+      {
+        "id": "das Gefühl",
+        "german": "das Gefühl",
+        "pronunciation": "[ɡəˈfyːl]",
+        "pos": "N.n.",
+        "english": "feeling, emotion; sense, intuition",
+        "breakdown": [
+          {
+            "part": "ge-",
+            "meaning": "collective prefix",
+            "note": ""
+          },
+          {
+            "part": "fühl-",
+            "meaning": "feel",
+            "note": "from fühlen"
+          },
+          {
+            "part": "-",
+            "meaning": "",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "das Gefühl is the broadest word for 'feeling'. It covers emotions (ein gutes Gefühl), physical sensations (ein Kribbeln), and intuition (ein komisches Gefühl haben).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe das Gefühl, dass etwas fehlt.",
+            "en": "I have the feeling that something is missing."
+          },
+          {
+            "de": "Sie hat ein gutes Gefühl für Sprache.",
+            "en": "She has a good feel for language."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "fühlen",
+            "meaning": "to feel"
+          },
+          {
+            "word": "gefühlvoll",
+            "meaning": "emotional, full of feeling"
+          },
+          {
+            "word": "gefühllos",
+            "meaning": "numb, unfeeling"
+          },
+          {
+            "word": "die Empfindung",
+            "meaning": "sensation — more specific than Gefühl"
+          }
+        ],
+        "mnemonic": "GEFÜHL: ge + fühlen — 'the collected feelings'. The master noun of emotion.",
+        "present_examples": []
+      },
+      {
+        "id": "das Wohlbefinden",
+        "german": "das Wohlbefinden",
+        "pronunciation": "[ˈvoːlbəˌfɪndən]",
+        "pos": "N.n.",
+        "english": "well-being, welfare",
+        "breakdown": [
+          {
+            "part": "wohl",
+            "meaning": "well/good",
+            "note": ""
+          },
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "finden",
+            "meaning": "to find",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'finding oneself well'. Used in formal and health contexts: für das körperliche und seelische Wohlbefinden (for physical and mental well-being).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sein Wohlbefinden liegt mir am Herzen.",
+            "en": "His well-being is close to my heart."
+          },
+          {
+            "de": "Sport fördert das Wohlbefinden.",
+            "en": "Sport promotes well-being."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich wohlfühlen",
+            "meaning": "to feel well, to feel at ease"
+          },
+          {
+            "word": "wohl",
+            "meaning": "well, probably"
+          },
+          {
+            "word": "das Befinden",
+            "meaning": "state of health, how one is doing"
+          },
+          {
+            "word": "das Wohlergehen",
+            "meaning": "welfare, well-being — near-synonym"
+          }
+        ],
+        "mnemonic": "WOHL-BEFINDEN: WOHL (well) + BeFINDen (how you find yourself) = well-being.",
+        "present_examples": []
+      },
+      {
+        "id": "innerlich",
+        "german": "innerlich",
+        "pronunciation": "[ˈɪnɐlɪç]",
+        "pos": "Adj./Adv.",
+        "english": "inner, inward, internal; inwardly",
+        "breakdown": [
+          {
+            "part": "inner-",
+            "meaning": "inner",
+            "note": "from innen"
+          },
+          {
+            "part": "-lich",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie lachte innerlich, sagte aber nichts.",
+            "en": "She laughed inwardly but said nothing."
+          },
+          {
+            "de": "Er war innerlich aufgewühlt, wirkte aber ruhig.",
+            "en": "He was inwardly agitated but appeared calm."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "innen",
+            "meaning": "inside"
+          },
+          {
+            "word": "inner",
+            "meaning": "inner, internal"
+          },
+          {
+            "word": "die Innerlichkeit",
+            "meaning": "inwardness, introspection"
+          },
+          {
+            "word": "äußerlich",
+            "meaning": "external, outward — ⚠ direct antonym",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "INNERLICH: INNER + -lich = 'in an inner way'. What happens inside.",
+        "present_examples": []
+      }
+    ]
+  }
+]

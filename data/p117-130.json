@@ -1,0 +1,5327 @@
+[
+  {
+    "day": 1,
+    "book_page": 117,
+    "section": "Körper und Organe",
+    "insight": "das Gehirn vs. das Hirn — both mean brain, but Gehirn is the standard medical/formal term; Hirn is informal and also used figuratively: Streng dein Hirn an! (Use your brain!). ⚠ die Leber (liver) vs. liefern (to deliver) — no relation, but beginners often confuse them phonetically. atmen is a regular verb but watch the present tense: ich atme, du atmest (the -e- is inserted for pronunciation). der Atem (breath) is the noun; atmen is the verb — like Schritt (step) and schreiten (to stride).",
+    "words": [
+      {
+        "id": "das Gehirn",
+        "german": "das Gehirn",
+        "pronunciation": "[ɡəˈhɪʁn]",
+        "pos": "N.n.",
+        "english": "brain",
+        "breakdown": [
+          {
+            "part": "ge-",
+            "meaning": "collective prefix",
+            "note": ""
+          },
+          {
+            "part": "Hirn",
+            "meaning": "brain",
+            "note": "from Old High German hirni"
+          }
+        ],
+        "breakdown_note": "das Gehirn is the standard term; das Hirn is informal and also used figuratively (Streng dein Hirn an! = Use your brain!).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das menschliche Gehirn ist ein faszinierendes Organ.",
+            "en": "The human brain is a fascinating organ."
+          },
+          {
+            "de": "Eine Gehirnerschütterung ist eine ernste Verletzung.",
+            "en": "A concussion is a serious injury."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "das Hirn",
+            "meaning": "brain (informal)"
+          },
+          {
+            "word": "die Gehirnerschütterung",
+            "meaning": "concussion"
+          },
+          {
+            "word": "hirnlos",
+            "meaning": "brainless"
+          },
+          {
+            "word": "das Gehirntumor",
+            "meaning": "brain tumour"
+          }
+        ],
+        "mnemonic": "GEHIRN: ge + Hirn — collective brain. Think 'gear-n' — the brain is your mental gear.",
+        "present_examples": []
+      },
+      {
+        "id": "das Herz",
+        "german": "das Herz",
+        "pronunciation": "[hɛʁts]",
+        "pos": "N.n.",
+        "english": "heart",
+        "breakdown": [
+          {
+            "part": "Herz",
+            "meaning": "heart",
+            "note": "from Old High German herza"
+          }
+        ],
+        "breakdown_note": "das Herz is used both medically (das Herzschlag = heartbeat) and emotionally (von Herzen = from the heart; Herzschmerz = heartache).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Herz schlägt etwa 70 Mal pro Minute.",
+            "en": "The heart beats about 70 times per minute."
+          },
+          {
+            "de": "Das geht mir ans Herz.",
+            "en": "That touches my heart."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "herzlich",
+            "meaning": "heartfelt, warm, cordial"
+          },
+          {
+            "word": "der Herzschlag",
+            "meaning": "heartbeat"
+          },
+          {
+            "word": "der Herzinfarkt",
+            "meaning": "heart attack"
+          },
+          {
+            "word": "herzlos",
+            "meaning": "heartless"
+          }
+        ],
+        "mnemonic": "HERZ: close to English 'heart' — both from Proto-Germanic *hertô.",
+        "present_examples": []
+      },
+      {
+        "id": "die Lunge",
+        "german": "die Lunge",
+        "pronunciation": "[ˈlʊŋə]",
+        "pos": "N.f.",
+        "english": "lung",
+        "breakdown": [
+          {
+            "part": "Lunge",
+            "meaning": "lung",
+            "note": "from Old High German lunga = the light organ"
+          }
+        ],
+        "breakdown_note": "Often used in plural: die Lungen. Etymologically related to 'light' — the lung was the 'light (not heavy) organ'. Same root as English 'lung'.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Rauchen schadet den Lungen.",
+            "en": "Smoking damages the lungs."
+          },
+          {
+            "de": "Er hat eine Lungenentzündung.",
+            "en": "He has pneumonia."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Lungenentzündung",
+            "meaning": "pneumonia"
+          },
+          {
+            "word": "der Lungenkrebs",
+            "meaning": "lung cancer"
+          },
+          {
+            "word": "lungenfreundlich",
+            "meaning": "lung-friendly"
+          },
+          {
+            "word": "die Leber",
+            "meaning": "liver — ⚠ another organ, not related",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "LUNGE: cognate with English 'lung' — and etymologically 'the light organ'.",
+        "present_examples": []
+      },
+      {
+        "id": "die Leber",
+        "german": "die Leber",
+        "pronunciation": "[ˈleːbɐ]",
+        "pos": "N.f.",
+        "english": "liver",
+        "breakdown": [
+          {
+            "part": "Leber",
+            "meaning": "liver",
+            "note": "from Old High German lebara — related to leben (to live)"
+          }
+        ],
+        "breakdown_note": "Etymologically linked to leben (to live) — the liver was seen as the seat of life. NOT related to liefern (to deliver), which beginners sometimes confuse phonetically.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Leber ist das größte innere Organ.",
+            "en": "The liver is the largest internal organ."
+          },
+          {
+            "de": "Er leidet an einer Lebererkrankung.",
+            "en": "He suffers from a liver disease."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Lebererkrankung",
+            "meaning": "liver disease"
+          },
+          {
+            "word": "die Leberzirrhose",
+            "meaning": "cirrhosis of the liver"
+          },
+          {
+            "word": "leben",
+            "meaning": "to live — same root"
+          },
+          {
+            "word": "liefern",
+            "meaning": "to deliver — ⚠ sounds similar, completely unrelated",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "LEBER: LEBER-n = to LIVE. The liver keeps you alive.",
+        "present_examples": []
+      },
+      {
+        "id": "atmen",
+        "german": "atmen",
+        "pronunciation": "[ˈaːtmən]",
+        "pos": "V.i.",
+        "english": "to breathe",
+        "breakdown": [
+          {
+            "part": "Atem",
+            "meaning": "breath",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Note the conjugation: ich atme, du atmest (the -e- is inserted before -st for pronunciation). Tief atmen = to breathe deeply.",
+        "conjugation": {
+          "prät": "atmete",
+          "perf": "hat geatmet",
+          "note": "weak verb; du atmest (not *du atmst)"
+        },
+        "examples": [
+          {
+            "de": "Atmen Sie tief ein und wieder aus.",
+            "en": "Breathe in deeply and out again."
+          },
+          {
+            "de": "In der Höhe ist es schwerer zu atmen.",
+            "en": "At altitude it is harder to breathe."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Atem",
+            "meaning": "breath"
+          },
+          {
+            "word": "die Atmung",
+            "meaning": "breathing, respiration"
+          },
+          {
+            "word": "atemlos",
+            "meaning": "breathless"
+          },
+          {
+            "word": "einatmen / ausatmen",
+            "meaning": "to inhale / to exhale"
+          }
+        ],
+        "mnemonic": "ATMEN: 'ahtmen' — sounds like the sound of breathing.",
+        "present_examples": []
+      },
+      {
+        "id": "der Atem",
+        "german": "der Atem",
+        "pronunciation": "[ˈaːtəm]",
+        "pos": "N.m.",
+        "english": "breath",
+        "breakdown": [
+          {
+            "part": "Atem",
+            "meaning": "breath",
+            "note": "from Sanskrit ātman = self/soul/breath"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ihm blieb der Atem weg vor Staunen.",
+            "en": "He was breathless with amazement."
+          },
+          {
+            "de": "Sie holte tief Atem vor dem Sprung.",
+            "en": "She took a deep breath before the jump."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "atmen",
+            "meaning": "to breathe"
+          },
+          {
+            "word": "atemlos",
+            "meaning": "breathless"
+          },
+          {
+            "word": "der Atemzug",
+            "meaning": "breath (single breath)"
+          },
+          {
+            "word": "verschnaufen",
+            "meaning": "to catch one's breath"
+          }
+        ],
+        "mnemonic": "ATEM: Sanskrit ātman = breath/soul — ancient, cosmic.",
+        "present_examples": []
+      },
+      {
+        "id": "der Muskel",
+        "german": "der Muskel",
+        "pronunciation": "[ˈmʊskəl]",
+        "pos": "N.m.",
+        "english": "muscle",
+        "breakdown": [
+          {
+            "part": "Muskel",
+            "meaning": "muscle",
+            "note": "from Latin musculus = little mouse (muscle moving under skin looks like a mouse)"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Nach dem Training tun mir alle Muskeln weh.",
+            "en": "After training all my muscles ache."
+          },
+          {
+            "de": "Er trainiert seine Muskeln im Fitnessstudio.",
+            "en": "He trains his muscles in the gym."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "muskulös",
+            "meaning": "muscular"
+          },
+          {
+            "word": "der Muskelkater",
+            "meaning": "muscle soreness (DOMS) — lit. 'muscle tomcat'"
+          },
+          {
+            "word": "die Muskelzerrung",
+            "meaning": "muscle strain"
+          },
+          {
+            "word": "die Maus",
+            "meaning": "mouse — ⚠ same Latin root musculus!",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "MUSKEL: from Latin musculus = 'little mouse' — a flexed muscle looks like a mouse running under the skin.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "book_page": 118,
+    "section": "Krankheit und Symptome",
+    "insight": "krank is the core adjective; die Krankheit is its noun. The verb erkranken (to fall ill) is formal: Er ist an Grippe erkrankt (He came down with flu). ⚠ das Symptom (pl. die Symptome) — borrowed from Greek; always neuter in German. das Fieber specifically means a raised temperature — not just 'fever' in the metaphorical English sense. Fieber messen = to take someone's temperature; Fieber haben = to have a temperature.",
+    "words": [
+      {
+        "id": "krank",
+        "german": "krank",
+        "pronunciation": "[kʁaŋk]",
+        "pos": "Adj.",
+        "english": "sick, ill",
+        "breakdown": [
+          {
+            "part": "krank",
+            "meaning": "sick",
+            "note": "from Old High German kranc = weak, feeble"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie war eine Woche lang krank.",
+            "en": "She was ill for a week."
+          },
+          {
+            "de": "Er hat sich krank gemeldet.",
+            "en": "He called in sick."
+          }
+        ],
+        "grammar_notes": "krank sein = to be ill. erkranken = to fall ill (formal, + an + Dative: an Grippe erkranken). krank machen = to make sick; sich krank melden = to call in sick.",
+        "word_family": [
+          {
+            "word": "die Krankheit",
+            "meaning": "illness, disease"
+          },
+          {
+            "word": "erkranken",
+            "meaning": "to fall ill (formal)"
+          },
+          {
+            "word": "der Kranke",
+            "meaning": "the sick person"
+          },
+          {
+            "word": "das Krankenhaus",
+            "meaning": "hospital"
+          }
+        ],
+        "mnemonic": "KRANK: sounds like 'crank' — feeling cranky because you're sick.",
+        "present_examples": []
+      },
+      {
+        "id": "die Krankheit",
+        "german": "die Krankheit",
+        "pronunciation": "[ˈkʁaŋkhaɪ̯t]",
+        "pos": "N.f.",
+        "english": "illness, disease, sickness",
+        "breakdown": [
+          {
+            "part": "krank",
+            "meaning": "sick",
+            "note": ""
+          },
+          {
+            "part": "-heit",
+            "meaning": "noun suffix = state of",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Krankheit dauerte drei Wochen.",
+            "en": "The illness lasted three weeks."
+          },
+          {
+            "de": "Viele Krankheiten sind heilbar.",
+            "en": "Many diseases are curable."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "krank",
+            "meaning": "sick"
+          },
+          {
+            "word": "die Erkrankung",
+            "meaning": "the falling ill, the condition (formal/medical)"
+          },
+          {
+            "word": "die Volkskrankheit",
+            "meaning": "common/widespread disease"
+          },
+          {
+            "word": "krankheitsbedingt",
+            "meaning": "due to illness"
+          }
+        ],
+        "mnemonic": "KRANK-HEIT: krank + -heit = 'the state of being sick'.",
+        "present_examples": []
+      },
+      {
+        "id": "das Symptom",
+        "german": "das Symptom",
+        "pronunciation": "[zʏmˈtoːm]",
+        "pos": "N.n.",
+        "english": "symptom",
+        "breakdown": [
+          {
+            "part": "Symptom",
+            "meaning": "symptom",
+            "note": "from Greek symptōma = occurrence, coincidence"
+          }
+        ],
+        "breakdown_note": "Plural: die Symptome. Always neuter in German. A loanword from Greek via Latin.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Welche Symptome haben Sie?",
+            "en": "What symptoms do you have?"
+          },
+          {
+            "de": "Fieber ist ein typisches Symptom einer Erkältung.",
+            "en": "Fever is a typical symptom of a cold."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "symptomatisch",
+            "meaning": "symptomatic"
+          },
+          {
+            "word": "symptomfrei",
+            "meaning": "symptom-free, asymptomatic"
+          },
+          {
+            "word": "die Anzeichen",
+            "meaning": "signs, indicators — everyday synonym"
+          }
+        ],
+        "mnemonic": "SYMPTOM: identical to English — Greek loanword in both languages.",
+        "present_examples": []
+      },
+      {
+        "id": "das Fieber",
+        "german": "das Fieber",
+        "pronunciation": "[ˈfiːbɐ]",
+        "pos": "N.n.",
+        "english": "fever, (high) temperature",
+        "breakdown": [
+          {
+            "part": "Fieber",
+            "meaning": "fever",
+            "note": "from Latin febris"
+          }
+        ],
+        "breakdown_note": "Fieber specifically means a raised body temperature. Fieber haben = to have a fever; Fieber messen = to take a temperature. Not used metaphorically as freely as English 'fever'.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Kind hat hohes Fieber.",
+            "en": "The child has a high fever."
+          },
+          {
+            "de": "Das Fieber ist über Nacht gesunken.",
+            "en": "The fever went down overnight."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "fieberhaft",
+            "meaning": "feverish (also: hectic, frantic)"
+          },
+          {
+            "word": "fiebern",
+            "meaning": "to have a fever; to be feverishly excited"
+          },
+          {
+            "word": "Fieber messen",
+            "meaning": "to take temperature"
+          },
+          {
+            "word": "das Frösteln",
+            "meaning": "the chills — accompanying symptom"
+          }
+        ],
+        "mnemonic": "FIEBER: from Latin febris — the FEVER burns.",
+        "present_examples": []
+      },
+      {
+        "id": "der Husten",
+        "german": "der Husten",
+        "pronunciation": "[ˈhʊstən]",
+        "pos": "N.m.",
+        "english": "cough (the condition/noun)",
+        "breakdown": [
+          {
+            "part": "husten",
+            "meaning": "to cough",
+            "note": ""
+          },
+          {
+            "part": "-",
+            "meaning": "nominalised infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er hat einen starken Husten.",
+            "en": "He has a bad cough."
+          },
+          {
+            "de": "Der Husten hört nicht auf.",
+            "en": "The cough won't stop."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "husten",
+            "meaning": "to cough"
+          },
+          {
+            "word": "der Hustensaft",
+            "meaning": "cough syrup"
+          },
+          {
+            "word": "das Hustenbonbon",
+            "meaning": "throat lozenge"
+          },
+          {
+            "word": "der Keuchhusten",
+            "meaning": "whooping cough"
+          }
+        ],
+        "mnemonic": "HUSTEN: sounds like 'hoost-en' — the WHOOSHING sound of coughing.",
+        "present_examples": []
+      },
+      {
+        "id": "husten",
+        "german": "husten",
+        "pronunciation": "[ˈhʊstən]",
+        "pos": "V.i.",
+        "english": "to cough",
+        "breakdown": [
+          {
+            "part": "hust-",
+            "meaning": "cough sound",
+            "note": "onomatopoeic"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "hustete",
+          "perf": "hat gehustet",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Er hustete die ganze Nacht.",
+            "en": "He coughed all night."
+          },
+          {
+            "de": "Bitte husten Sie in Ihre Armbeuge.",
+            "en": "Please cough into your elbow."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Husten",
+            "meaning": "cough (noun)"
+          },
+          {
+            "word": "der Hustensaft",
+            "meaning": "cough syrup"
+          },
+          {
+            "word": "niesen",
+            "meaning": "to sneeze — related respiratory action"
+          }
+        ],
+        "mnemonic": "HUSTEN: onomatopoeic — 'hoost!' — that's the sound.",
+        "present_examples": []
+      },
+      {
+        "id": "die Erkältung",
+        "german": "die Erkältung",
+        "pronunciation": "[ɛʁˈkɛltʊŋ]",
+        "pos": "N.f.",
+        "english": "cold (illness)",
+        "breakdown": [
+          {
+            "part": "er-",
+            "meaning": "prefix (change of state)",
+            "note": ""
+          },
+          {
+            "part": "kält-",
+            "meaning": "cold",
+            "note": "from kalt"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'the cooling' — catching a cold was seen as the result of getting chilled. Eine Erkältung bekommen / haben = to catch / have a cold.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe eine schlimme Erkältung.",
+            "en": "I have a bad cold."
+          },
+          {
+            "de": "Bei einer Erkältung hilft viel Ruhe.",
+            "en": "For a cold, lots of rest helps."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich erkälten",
+            "meaning": "to catch a cold"
+          },
+          {
+            "word": "kalt",
+            "meaning": "cold"
+          },
+          {
+            "word": "die Kälte",
+            "meaning": "coldness, cold temperature"
+          },
+          {
+            "word": "die Grippe",
+            "meaning": "influenza/flu — ⚠ much more serious than Erkältung",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "ERKÄLTUNG: er-KÄLT-ung — the body getting COLD (kalt) and catching it.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "book_page": 119,
+    "section": "Beim Arzt",
+    "insight": "das Rezept has two completely different everyday meanings: (1) a doctor's prescription and (2) a cooking recipe. Context always makes it clear — auf Rezept (on prescription) vs. das Rezept für Kuchen (cake recipe). ⚠ die Praxis (doctor's surgery/practice) vs. die Praxis (practice/application in abstract sense) — same word, two meanings: in der Praxis (in practice) vs. in die Praxis gehen (go to the doctor). der Befund = medical finding/result — from befinden (to find/assess), not to be confused with der Fund (a find/discovery).",
+    "words": [
+      {
+        "id": "untersuchen",
+        "german": "untersuchen",
+        "pronunciation": "[ˌʊntɐˈzuːxən]",
+        "pos": "V.t.",
+        "english": "to examine, to investigate",
+        "breakdown": [
+          {
+            "part": "unter-",
+            "meaning": "under/thoroughly",
+            "note": ""
+          },
+          {
+            "part": "such-",
+            "meaning": "seek/look",
+            "note": "from suchen"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "untersuchte",
+          "perf": "hat untersucht",
+          "note": "weak, inseparable"
+        },
+        "examples": [
+          {
+            "de": "Der Arzt untersuchte den Patienten gründlich.",
+            "en": "The doctor examined the patient thoroughly."
+          },
+          {
+            "de": "Die Polizei untersuchte den Tatort.",
+            "en": "The police investigated the crime scene."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Untersuchung",
+            "meaning": "examination, investigation"
+          },
+          {
+            "word": "suchen",
+            "meaning": "to search, to look for"
+          },
+          {
+            "word": "die Nachuntersuchung",
+            "meaning": "follow-up examination"
+          },
+          {
+            "word": "die Routineuntersuchung",
+            "meaning": "routine check-up"
+          }
+        ],
+        "mnemonic": "UNTERSUCHEN: thorough-SUCHEN (searching) — examining thoroughly.",
+        "present_examples": []
+      },
+      {
+        "id": "die Untersuchung",
+        "german": "die Untersuchung",
+        "pronunciation": "[ˌʊntɐˈzuːxʊŋ]",
+        "pos": "N.f.",
+        "english": "examination, investigation, check-up",
+        "breakdown": [
+          {
+            "part": "untersuchen",
+            "meaning": "to examine",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Untersuchung ergab keinen Befund.",
+            "en": "The examination found nothing."
+          },
+          {
+            "de": "Er braucht eine gründliche Untersuchung.",
+            "en": "He needs a thorough examination."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "untersuchen",
+            "meaning": "to examine"
+          },
+          {
+            "word": "der Befund",
+            "meaning": "finding/result of examination"
+          },
+          {
+            "word": "die Blutuntersuchung",
+            "meaning": "blood test"
+          }
+        ],
+        "mnemonic": "UNTERSUCHUNG: the -ung nominalises untersuchen — 'the examination'.",
+        "present_examples": []
+      },
+      {
+        "id": "verschreiben",
+        "german": "verschreiben",
+        "pronunciation": "[fɛʁˈʃʁaɪ̯bən]",
+        "pos": "V.t.",
+        "english": "to prescribe (medication)",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "schreib-",
+            "meaning": "write",
+            "note": "from schreiben"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Also means 'to write incorrectly' (sich verschreiben = to make a writing error). Context makes the meaning clear.",
+        "conjugation": {
+          "prät": "verschrieb",
+          "perf": "hat verschrieben",
+          "note": "strong (schreiben class), inseparable"
+        },
+        "examples": [
+          {
+            "de": "Der Arzt verschrieb ihr Antibiotika.",
+            "en": "The doctor prescribed her antibiotics."
+          },
+          {
+            "de": "Das Medikament ist verschreibungspflichtig.",
+            "en": "The medication requires a prescription."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "das Rezept",
+            "meaning": "prescription (also: recipe!)"
+          },
+          {
+            "word": "verschreibungspflichtig",
+            "meaning": "prescription-only"
+          },
+          {
+            "word": "schreiben",
+            "meaning": "to write"
+          },
+          {
+            "word": "sich verschreiben",
+            "meaning": "to make a writing error — ⚠ same verb, different meaning",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "VER-SCHREIB-en: WRITE (schreiben) a prescription — ver- makes it 'for/towards'.",
+        "present_examples": []
+      },
+      {
+        "id": "das Rezept",
+        "german": "das Rezept",
+        "pronunciation": "[ʁeˈtsɛpt]",
+        "pos": "N.n.",
+        "english": "prescription; recipe",
+        "breakdown": [
+          {
+            "part": "Rezept",
+            "meaning": "recipe/prescription",
+            "note": "from Latin receptum = something received"
+          }
+        ],
+        "breakdown_note": "das Rezept has two everyday meanings: (1) a doctor's prescription (auf Rezept = on prescription) and (2) a cooking recipe. Context always clarifies.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Arzt hat mir ein Rezept ausgestellt.",
+            "en": "The doctor issued me a prescription."
+          },
+          {
+            "de": "Das Rezept für diesen Kuchen ist geheim.",
+            "en": "The recipe for this cake is secret."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "verschreiben",
+            "meaning": "to prescribe"
+          },
+          {
+            "word": "rezeptfrei",
+            "meaning": "over-the-counter (no prescription needed)"
+          },
+          {
+            "word": "verschreibungspflichtig",
+            "meaning": "prescription-only"
+          },
+          {
+            "word": "das Kochrezept",
+            "meaning": "cooking recipe — ⚠ same word, different domain",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "REZEPT: 'reh-TSEPT' — a recipe for medicine OR food. Latin receptum.",
+        "present_examples": []
+      },
+      {
+        "id": "die Diagnose",
+        "german": "die Diagnose",
+        "pronunciation": "[diaɡˈnoːzə]",
+        "pos": "N.f.",
+        "english": "diagnosis",
+        "breakdown": [
+          {
+            "part": "dia-",
+            "meaning": "through",
+            "note": "from Greek"
+          },
+          {
+            "part": "gnose",
+            "meaning": "knowledge",
+            "note": "from Greek gnōsis"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Diagnose lautete Diabetes.",
+            "en": "The diagnosis was diabetes."
+          },
+          {
+            "de": "Eine frühe Diagnose verbessert die Heilungschancen.",
+            "en": "An early diagnosis improves the chances of recovery."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "diagnostizieren",
+            "meaning": "to diagnose"
+          },
+          {
+            "word": "die Fehldiagnose",
+            "meaning": "misdiagnosis"
+          },
+          {
+            "word": "der Befund",
+            "meaning": "medical finding — what leads to the diagnosis"
+          },
+          {
+            "word": "die Prognose",
+            "meaning": "prognosis — ⚠ what comes AFTER diagnosis",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "DIAGNOSE: dia (through) + gnose (knowledge) — knowing through examination. Same as English.",
+        "present_examples": []
+      },
+      {
+        "id": "die Praxis",
+        "german": "die Praxis",
+        "pronunciation": "[ˈpʁaksis]",
+        "pos": "N.f.",
+        "english": "doctor's practice/surgery; practice (application)",
+        "breakdown": [
+          {
+            "part": "Praxis",
+            "meaning": "practice",
+            "note": "from Greek praxis = action, doing"
+          }
+        ],
+        "breakdown_note": "Two meanings: (1) a doctor's or dentist's office/surgery (in die Praxis gehen) and (2) practical application as opposed to theory (in der Praxis = in practice).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Praxis ist montags geschlossen.",
+            "en": "The surgery/practice is closed on Mondays."
+          },
+          {
+            "de": "In der Praxis sieht das anders aus.",
+            "en": "In practice it looks different."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "praktisch",
+            "meaning": "practical"
+          },
+          {
+            "word": "die Theorie",
+            "meaning": "theory — antonym in 'theory vs. practice'"
+          },
+          {
+            "word": "praktizieren",
+            "meaning": "to practise (medicine)"
+          },
+          {
+            "word": "der Praktiker",
+            "meaning": "practitioner, practical person"
+          }
+        ],
+        "mnemonic": "PRAXIS: Greek for 'doing' — both the doctor's doing-place AND the act of doing.",
+        "present_examples": []
+      },
+      {
+        "id": "der Befund",
+        "german": "der Befund",
+        "pronunciation": "[bəˈfʊnt]",
+        "pos": "N.m.",
+        "english": "medical finding, test result",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "fund",
+            "meaning": "find",
+            "note": "from finden/befinden"
+          }
+        ],
+        "breakdown_note": "der Befund = what the doctor/test finds. Der Befund ist unauffällig = the results are unremarkable (normal). Do not confuse with der Fund (a discovery/find in general contexts).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Befund war positiv, leider.",
+            "en": "The result was positive, unfortunately."
+          },
+          {
+            "de": "Alle Befunde sind normal.",
+            "en": "All findings/results are normal."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "befinden",
+            "meaning": "to find; sich befinden = to be located"
+          },
+          {
+            "word": "der Fund",
+            "meaning": "a find/discovery (non-medical) — ⚠ related but different",
+            "lookalike": true
+          },
+          {
+            "word": "unauffällig",
+            "meaning": "unremarkable (normal in medical results)"
+          },
+          {
+            "word": "die Untersuchung",
+            "meaning": "examination that produces the Befund"
+          }
+        ],
+        "mnemonic": "BE-FUND: what is beFUNDen (found) by the doctor — the finding.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "book_page": 120,
+    "section": "Medikamente",
+    "insight": "einnehmen (separable) = to take medication: Nehmen Sie die Tablette zweimal täglich ein. ⚠ die Nebenwirkung (side effect) = Neben (beside/secondary) + Wirkung (effect) — a beautifully transparent compound. Contrast: die Wirkung (the intended effect). verträglich = tolerable/compatible (gut verträglich = well-tolerated); unverträglich = intolerable — both come from tragen (to bear/carry): verträglich literally means 'bearable'. Also: Nahrungsmittelunverträglichkeit = food intolerance.",
+    "words": [
+      {
+        "id": "das Medikament",
+        "german": "das Medikament",
+        "pronunciation": "[medɪkaˈmɛnt]",
+        "pos": "N.n.",
+        "english": "medication, medicine",
+        "breakdown": [
+          {
+            "part": "Medikament",
+            "meaning": "medication",
+            "note": "from Latin medicamentum = remedy"
+          }
+        ],
+        "breakdown_note": "Plural: die Medikamente. More formal than das Mittel (remedy). Also: die Arznei (archaic/formal). Ein Medikament einnehmen = to take a medication.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Medikament muss zweimal täglich eingenommen werden.",
+            "en": "The medication must be taken twice daily."
+          },
+          {
+            "de": "Verschreibungspflichtige Medikamente brauchen ein Rezept.",
+            "en": "Prescription medications require a prescription."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Medizin",
+            "meaning": "medicine (the field); medication"
+          },
+          {
+            "word": "medizinisch",
+            "meaning": "medical"
+          },
+          {
+            "word": "das Arzneimittel",
+            "meaning": "pharmaceutical, drug (formal)"
+          },
+          {
+            "word": "die Tablette",
+            "meaning": "tablet — most common form"
+          }
+        ],
+        "mnemonic": "MEDIKAMENT: medi-KAMENT — 'medi' = medicine, from Latin medicus (doctor).",
+        "present_examples": []
+      },
+      {
+        "id": "die Tablette",
+        "german": "die Tablette",
+        "pronunciation": "[taˈblɛtə]",
+        "pos": "N.f.",
+        "english": "tablet, pill",
+        "breakdown": [
+          {
+            "part": "Tablette",
+            "meaning": "tablet",
+            "note": "from French tablette = small tablet, from Latin tabula = board"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Nehmen Sie bitte zwei Tabletten nach dem Essen.",
+            "en": "Please take two tablets after meals."
+          },
+          {
+            "de": "Die Tabletten müssen mit viel Wasser eingenommen werden.",
+            "en": "The tablets must be taken with plenty of water."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Pille",
+            "meaning": "pill (also colloquial for contraceptive pill)"
+          },
+          {
+            "word": "die Kapsel",
+            "meaning": "capsule"
+          },
+          {
+            "word": "das Medikament",
+            "meaning": "medication (broader term)"
+          },
+          {
+            "word": "einnehmen",
+            "meaning": "to take (medication)"
+          }
+        ],
+        "mnemonic": "TABLETTE: like a little TABLE (tabula) — a flat pill.",
+        "present_examples": []
+      },
+      {
+        "id": "die Dosis",
+        "german": "die Dosis",
+        "pronunciation": "[ˈdoːzɪs]",
+        "pos": "N.f.",
+        "english": "dose",
+        "breakdown": [
+          {
+            "part": "Dosis",
+            "meaning": "dose",
+            "note": "from Greek dosis = a giving, from didōmi = to give"
+          }
+        ],
+        "breakdown_note": "Plural: die Dosen OR die Dosierungen. Die richtige Dosis = the correct dose. Überdosierung = overdose.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Dosis muss vom Arzt festgelegt werden.",
+            "en": "The dose must be determined by the doctor."
+          },
+          {
+            "de": "Eine zu hohe Dosis ist gefährlich.",
+            "en": "Too high a dose is dangerous."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "dosieren",
+            "meaning": "to dose, to measure out"
+          },
+          {
+            "word": "die Dosierung",
+            "meaning": "dosage"
+          },
+          {
+            "word": "die Überdosierung",
+            "meaning": "overdose"
+          },
+          {
+            "word": "die Drogendosis",
+            "meaning": "drug dose"
+          }
+        ],
+        "mnemonic": "DOSIS: Greek 'dosis' = a giving — what is given to you by the doctor. Same in English.",
+        "present_examples": []
+      },
+      {
+        "id": "die Nebenwirkung",
+        "german": "die Nebenwirkung",
+        "pronunciation": "[ˈneːbənˌvɪʁkʊŋ]",
+        "pos": "N.f.",
+        "english": "side effect",
+        "breakdown": [
+          {
+            "part": "Neben-",
+            "meaning": "beside/secondary",
+            "note": ""
+          },
+          {
+            "part": "Wirkung",
+            "meaning": "effect",
+            "note": "from wirken = to work/take effect"
+          }
+        ],
+        "breakdown_note": "Literally 'secondary effect' — Wirkung = intended effect; Nebenwirkung = unintended side effect. A beautifully transparent compound.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Medikament hat starke Nebenwirkungen.",
+            "en": "The medication has strong side effects."
+          },
+          {
+            "de": "Lesen Sie die Liste der Nebenwirkungen sorgfältig.",
+            "en": "Read the list of side effects carefully."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Wirkung",
+            "meaning": "effect (intended)"
+          },
+          {
+            "word": "wirken",
+            "meaning": "to work, to take effect"
+          },
+          {
+            "word": "wirksam",
+            "meaning": "effective"
+          },
+          {
+            "word": "nebenbei",
+            "meaning": "on the side, additionally"
+          }
+        ],
+        "mnemonic": "NEBEN-WIRKUNG: the EFFECT (Wirkung) that happens BESIDE (neben) the main one.",
+        "present_examples": []
+      },
+      {
+        "id": "einnehmen",
+        "german": "einnehmen",
+        "pronunciation": "[ˈaɪ̯nneːmən]",
+        "pos": "V.t.",
+        "english": "to take (medication); to occupy; to earn",
+        "breakdown": [
+          {
+            "part": "ein-",
+            "meaning": "in/into",
+            "note": "separable prefix"
+          },
+          {
+            "part": "nehm-",
+            "meaning": "take",
+            "note": "from nehmen"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Multiple meanings: (1) to take medication (zweimal täglich einnehmen), (2) to occupy a position/place (eine wichtige Stelle einnehmen), (3) to earn/take in money.",
+        "conjugation": {
+          "prät": "nahm ein",
+          "perf": "hat eingenommen",
+          "note": "separable strong verb (nehmen class)"
+        },
+        "examples": [
+          {
+            "de": "Nehmen Sie die Tablette nach dem Frühstück ein.",
+            "en": "Take the tablet after breakfast."
+          },
+          {
+            "de": "Er nimmt eine wichtige Position im Unternehmen ein.",
+            "en": "He occupies an important position in the company."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "nehmen",
+            "meaning": "to take"
+          },
+          {
+            "word": "die Einnahme",
+            "meaning": "intake (medication); income; capture"
+          },
+          {
+            "word": "einnehmen lassen",
+            "meaning": "to have taken"
+          },
+          {
+            "word": "das Einnehmen",
+            "meaning": "the taking (of medication)"
+          }
+        ],
+        "mnemonic": "EIN-NEHMEN: take IN (ein) — swallow it in.",
+        "present_examples": []
+      },
+      {
+        "id": "verträglich",
+        "german": "verträglich",
+        "pronunciation": "[fɛʁˈtʁɛːklɪç]",
+        "pos": "Adj.",
+        "english": "tolerable, compatible, well-tolerated; agreeable",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "träg-",
+            "meaning": "bear/carry",
+            "note": "from tragen"
+          },
+          {
+            "part": "-lich",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "From tragen (to bear/carry) → verträglich = bearable, tolerable. Gut verträglich = well-tolerated (medication). Also used for people: ein verträglicher Mensch = an easy-going person.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Medikament ist gut verträglich.",
+            "en": "The medication is well-tolerated."
+          },
+          {
+            "de": "Er ist ein sehr verträglicher Mensch.",
+            "en": "He is a very easy-going person."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "unverträglich",
+            "meaning": "intolerable, incompatible"
+          },
+          {
+            "word": "tragen",
+            "meaning": "to carry, to bear"
+          },
+          {
+            "word": "die Verträglichkeit",
+            "meaning": "tolerability, compatibility"
+          },
+          {
+            "word": "die Nahrungsmittelunverträglichkeit",
+            "meaning": "food intolerance"
+          }
+        ],
+        "mnemonic": "VERTRÄGLICH: VER-TRAG-lich — like a TREATY (Vertrag) — it agrees with you.",
+        "present_examples": []
+      },
+      {
+        "id": "unverträglich",
+        "german": "unverträglich",
+        "pronunciation": "[ˌʊnfɛʁˈtʁɛːklɪç]",
+        "pos": "Adj.",
+        "english": "intolerable, incompatible; intolerant (of food); disagreeable",
+        "breakdown": [
+          {
+            "part": "un-",
+            "meaning": "negating prefix",
+            "note": ""
+          },
+          {
+            "part": "verträglich",
+            "meaning": "tolerable",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Manche Menschen sind laktoseunverträglich.",
+            "en": "Some people are lactose intolerant."
+          },
+          {
+            "de": "Dieses Medikament ist mit Alkohol unverträglich.",
+            "en": "This medication is incompatible with alcohol."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "verträglich",
+            "meaning": "tolerable, compatible"
+          },
+          {
+            "word": "die Unverträglichkeit",
+            "meaning": "intolerance, incompatibility"
+          },
+          {
+            "word": "die Laktoseintoleranz",
+            "meaning": "lactose intolerance — medical synonym"
+          }
+        ],
+        "mnemonic": "UN-VERTRÄGLICH: the un- prefix flips verträglich — incompatible, intolerable.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "book_page": 121,
+    "section": "Behandlung und Heilung",
+    "insight": "heilen (to heal/cure) vs. heilig (holy/sacred) — same root heilen (whole, healthy): health, healing, and holiness all come from the same Proto-Germanic concept of wholeness. ⚠ sich erholen (to recover/recuperate) vs. holen (to fetch/get) — er-holen literally means 'to fetch oneself back' to full capacity. genesen is a formal/literary verb for recovery: Er ist genesen (He has recovered). Prefer sich erholen in everyday speech; genesen appears in medical reports and literature.",
+    "words": [
+      {
+        "id": "behandeln",
+        "german": "behandeln",
+        "pronunciation": "[bəˈhandəln]",
+        "pos": "V.t.",
+        "english": "to treat (medically); to handle, to deal with",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "handel-",
+            "meaning": "handle/deal",
+            "note": "from Hand = hand"
+          },
+          {
+            "part": "-n",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "behandelte",
+          "perf": "hat behandelt",
+          "note": "weak, inseparable"
+        },
+        "examples": [
+          {
+            "de": "Der Arzt behandelt sie mit Antibiotika.",
+            "en": "The doctor is treating her with antibiotics."
+          },
+          {
+            "de": "Wie behandelst du dieses Problem?",
+            "en": "How do you handle this problem?"
+          }
+        ],
+        "grammar_notes": "Two main meanings: (1) medical treatment (Der Arzt behandelt den Patienten) and (2) to deal with/handle something (ein Thema behandeln = to cover a topic).",
+        "word_family": [
+          {
+            "word": "die Behandlung",
+            "meaning": "treatment"
+          },
+          {
+            "word": "die Hand",
+            "meaning": "hand — literal root"
+          },
+          {
+            "word": "handeln",
+            "meaning": "to act; to trade"
+          },
+          {
+            "word": "fehlbehandeln",
+            "meaning": "to mistreat"
+          }
+        ],
+        "mnemonic": "BE-HANDELN: to put your HANDS (Hand) to something — to handle/treat.",
+        "present_examples": []
+      },
+      {
+        "id": "die Behandlung",
+        "german": "die Behandlung",
+        "pronunciation": "[bəˈhandlʊŋ]",
+        "pos": "N.f.",
+        "english": "treatment",
+        "breakdown": [
+          {
+            "part": "behandeln",
+            "meaning": "to treat",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Behandlung dauert sechs Wochen.",
+            "en": "The treatment lasts six weeks."
+          },
+          {
+            "de": "Er ist in ärztlicher Behandlung.",
+            "en": "He is under medical treatment."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "behandeln",
+            "meaning": "to treat"
+          },
+          {
+            "word": "die Fehlbehandlung",
+            "meaning": "malpractice"
+          },
+          {
+            "word": "die Chemotherapie",
+            "meaning": "chemotherapy — specific type of treatment"
+          }
+        ],
+        "mnemonic": "BEHANDLUNG: behandeln + -ung = 'the treatment'.",
+        "present_examples": []
+      },
+      {
+        "id": "heilen",
+        "german": "heilen",
+        "pronunciation": "[ˈhaɪ̯lən]",
+        "pos": "V.",
+        "english": "to heal, to cure",
+        "breakdown": [
+          {
+            "part": "heil-",
+            "meaning": "whole/healthy",
+            "note": "from Old High German heil"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "heilen can be transitive (to cure someone: Der Arzt heilte ihn) or intransitive (to heal: Die Wunde heilt). Root heil- = whole, healthy — connected to 'holy' and 'health' historically.",
+        "conjugation": {
+          "prät": "heilte",
+          "perf": "hat geheilt (tr.) / ist geheilt (intr.)",
+          "note": "weak; uses sein when intransitive (wound heals itself)"
+        },
+        "examples": [
+          {
+            "de": "Die Wunde ist gut geheilt.",
+            "en": "The wound has healed well."
+          },
+          {
+            "de": "Diese Krankheit ist nicht heilbar.",
+            "en": "This disease is not curable."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Heilung",
+            "meaning": "healing, cure"
+          },
+          {
+            "word": "heilbar",
+            "meaning": "curable"
+          },
+          {
+            "word": "unheilbar",
+            "meaning": "incurable"
+          },
+          {
+            "word": "heilig",
+            "meaning": "holy, sacred — ⚠ same root heil-, different meaning",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "HEILEN: heil = whole — to make whole again. Healing = restoring wholeness.",
+        "present_examples": []
+      },
+      {
+        "id": "die Heilung",
+        "german": "die Heilung",
+        "pronunciation": "[ˈhaɪ̯lʊŋ]",
+        "pos": "N.f.",
+        "english": "healing, recovery, cure",
+        "breakdown": [
+          {
+            "part": "heilen",
+            "meaning": "to heal",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Heilung dauerte mehrere Monate.",
+            "en": "The healing/recovery took several months."
+          },
+          {
+            "de": "Es gibt keine Heilung für diese Krankheit.",
+            "en": "There is no cure for this disease."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "heilen",
+            "meaning": "to heal"
+          },
+          {
+            "word": "heilbar",
+            "meaning": "curable"
+          },
+          {
+            "word": "die Selbstheilung",
+            "meaning": "self-healing"
+          },
+          {
+            "word": "der Heilungsprozess",
+            "meaning": "healing process"
+          }
+        ],
+        "mnemonic": "HEILUNG: heilen + -ung = 'the act of healing'. -ung nominalises the verb.",
+        "present_examples": []
+      },
+      {
+        "id": "sich erholen",
+        "german": "sich erholen",
+        "pronunciation": "[zɪç ɛʁˈhoːlən]",
+        "pos": "V.refl.",
+        "english": "to recover, to recuperate",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "er-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "hol-",
+            "meaning": "fetch",
+            "note": "from holen"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "erholte sich",
+          "perf": "hat sich erholt",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Sie erholt sich gut von der Operation.",
+            "en": "She is recovering well from the operation."
+          },
+          {
+            "de": "Er braucht Zeit, um sich zu erholen.",
+            "en": "He needs time to recuperate."
+          }
+        ],
+        "grammar_notes": "sich erholen von + Dative = to recover from: Ich erhole mich von der Operation.",
+        "word_family": [
+          {
+            "word": "die Erholung",
+            "meaning": "recovery, recuperation"
+          },
+          {
+            "word": "erholsam",
+            "meaning": "restful, recuperative"
+          },
+          {
+            "word": "genesen",
+            "meaning": "to recover (formal/literary)"
+          },
+          {
+            "word": "holen",
+            "meaning": "to fetch — ⚠ the base verb, different meaning",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "SICH ERHOLEN: fetch (holen) yourself back to health — er-holen.",
+        "present_examples": []
+      },
+      {
+        "id": "die Erholung",
+        "german": "die Erholung",
+        "pronunciation": "[ɛʁˈhoːlʊŋ]",
+        "pos": "N.f.",
+        "english": "recovery, rest, recreation",
+        "breakdown": [
+          {
+            "part": "sich erholen",
+            "meaning": "to recover",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er braucht dringend Erholung.",
+            "en": "He urgently needs rest and recovery."
+          },
+          {
+            "de": "Der Urlaub dient der Erholung.",
+            "en": "The holiday serves for recuperation."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich erholen",
+            "meaning": "to recover"
+          },
+          {
+            "word": "erholsam",
+            "meaning": "restful"
+          },
+          {
+            "word": "das Erholungsgebiet",
+            "meaning": "recreation area"
+          }
+        ],
+        "mnemonic": "ERHOLUNG: -ung nominalises sich erholen — 'the state of recovery'.",
+        "present_examples": []
+      },
+      {
+        "id": "genesen",
+        "german": "genesen",
+        "pronunciation": "[ɡəˈneːzən]",
+        "pos": "V.i.",
+        "english": "to recover, to convalesce (formal/literary)",
+        "breakdown": [
+          {
+            "part": "ge-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "nesen",
+            "meaning": "to recover",
+            "note": "Old High German: nesen = to be saved, to survive"
+          }
+        ],
+        "breakdown_note": "Formal and literary synonym for sich erholen. Er ist genesen appears in medical reports; prefer sich erholen in everyday speech.",
+        "conjugation": {
+          "prät": "genas",
+          "perf": "ist genesen",
+          "note": "strong verb (archaic); uses sein auxiliary"
+        },
+        "examples": [
+          {
+            "de": "Er ist vollständig von seiner Krankheit genesen.",
+            "en": "He has fully recovered from his illness."
+          },
+          {
+            "de": "Die Genesenden brauchen viel Ruhe.",
+            "en": "Those convalescing need a lot of rest."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Genesung",
+            "meaning": "recovery, convalescence (formal)"
+          },
+          {
+            "word": "der/die Genesende",
+            "meaning": "convalescent person"
+          },
+          {
+            "word": "sich erholen",
+            "meaning": "to recover (everyday)"
+          },
+          {
+            "word": "genas",
+            "meaning": "preterite — strong verb"
+          }
+        ],
+        "mnemonic": "GENESEN: sounds like 'ge-NAZE-en' — to be SAVED from illness. Ancient, formal.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "book_page": 122,
+    "section": "Prävention und Vorsorge",
+    "insight": "vorbeugen (separable) = to prevent: vor (before) + beugen (to bend) — literally 'to bend forward before something happens'; the sense evolved to mean preventing illness. ⚠ die Vorsorge (prevention/precaution) vs. die Fürsorge (care/welfare) — both have Sorge (care/worry) at their core: vor- (before) vs. für- (for). die Impfung (vaccination) comes from impfen, which originally meant to graft a plant — the same 'insertion' metaphor as the English 'inoculate'.",
+    "words": [
+      {
+        "id": "vorbeugen",
+        "german": "vorbeugen",
+        "pronunciation": "[ˈfoːɐ̯ˌbɔɪ̯ɡən]",
+        "pos": "V.i./t.",
+        "english": "to prevent, to take precautions against",
+        "breakdown": [
+          {
+            "part": "vor-",
+            "meaning": "before/forward",
+            "note": "separable prefix"
+          },
+          {
+            "part": "beug-",
+            "meaning": "bend",
+            "note": "from beugen"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'to bend forward before something happens'. Takes Dative: einer Krankheit vorbeugen = to prevent a disease.",
+        "conjugation": {
+          "prät": "beugte vor",
+          "perf": "hat vorgebeugt",
+          "note": "separable weak verb"
+        },
+        "examples": [
+          {
+            "de": "Regelmäßige Bewegung beugt vielen Krankheiten vor.",
+            "en": "Regular exercise prevents many diseases."
+          },
+          {
+            "de": "Impfungen beugen Infektionen vor.",
+            "en": "Vaccinations prevent infections."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Vorbeugung",
+            "meaning": "prevention, precaution"
+          },
+          {
+            "word": "beugen",
+            "meaning": "to bend; to conjugate (grammar)"
+          },
+          {
+            "word": "die Prävention",
+            "meaning": "prevention (loanword)"
+          },
+          {
+            "word": "vorsorgen",
+            "meaning": "to take precautions — near-synonym"
+          }
+        ],
+        "mnemonic": "VOR-BEUGEN: BEND (beugen) FORWARD (vor) — lean in before it happens.",
+        "present_examples": []
+      },
+      {
+        "id": "die Vorsorge",
+        "german": "die Vorsorge",
+        "pronunciation": "[ˈfoːɐ̯ˌzɔʁɡə]",
+        "pos": "N.f.",
+        "english": "prevention, precaution, provision",
+        "breakdown": [
+          {
+            "part": "vor-",
+            "meaning": "before",
+            "note": ""
+          },
+          {
+            "part": "Sorge",
+            "meaning": "care/worry",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'caring before' something goes wrong. die Vorsorgeuntersuchung = preventive health check-up (very common in German healthcare).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Zur Vorsorge sollte man regelmäßig zum Arzt gehen.",
+            "en": "As a precaution one should go to the doctor regularly."
+          },
+          {
+            "de": "Die Vorsorgeuntersuchung ist kostenlos.",
+            "en": "The preventive check-up is free."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "vorbeugen",
+            "meaning": "to prevent"
+          },
+          {
+            "word": "die Vorsorgeuntersuchung",
+            "meaning": "preventive check-up"
+          },
+          {
+            "word": "die Fürsorge",
+            "meaning": "welfare, care — ⚠ für = for (people in need), not vor (before)",
+            "lookalike": true
+          },
+          {
+            "word": "vorsorglich",
+            "meaning": "as a precaution"
+          }
+        ],
+        "mnemonic": "VOR-SORGE: CARE (Sorge) BEFORE (vor) — caring in advance.",
+        "present_examples": []
+      },
+      {
+        "id": "die Impfung",
+        "german": "die Impfung",
+        "pronunciation": "[ˈɪmpfʊŋ]",
+        "pos": "N.f.",
+        "english": "vaccination, immunisation",
+        "breakdown": [
+          {
+            "part": "impfen",
+            "meaning": "to vaccinate",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "impfen originally meant to graft a plant (inserting a cutting into rootstock) — the same insertion metaphor as inoculation. Sich impfen lassen = to get vaccinated.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Grippeimpfung wird jährlich empfohlen.",
+            "en": "The flu vaccination is recommended annually."
+          },
+          {
+            "de": "Haben Sie alle Impfungen?",
+            "en": "Do you have all your vaccinations?"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "impfen",
+            "meaning": "to vaccinate"
+          },
+          {
+            "word": "der Impfstoff",
+            "meaning": "vaccine"
+          },
+          {
+            "word": "die Schutzimpfung",
+            "meaning": "protective vaccination"
+          },
+          {
+            "word": "der Impfpass",
+            "meaning": "vaccination record/booklet"
+          }
+        ],
+        "mnemonic": "IMPFUNG: from 'impfen' — the GRAFT that protects. Same idea as 'inoculate'.",
+        "present_examples": []
+      },
+      {
+        "id": "sich impfen lassen",
+        "german": "sich impfen lassen",
+        "pronunciation": "[zɪç ˈɪmpfən ˈlasən]",
+        "pos": "V.phrase",
+        "english": "to get vaccinated",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "impfen",
+            "meaning": "to vaccinate",
+            "note": ""
+          },
+          {
+            "part": "lassen",
+            "meaning": "to let/have done",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "lassen + infinitive = to have something done (causative). sich impfen lassen = to have yourself vaccinated (by someone else). Very common construction in German.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe mich gegen Tetanus impfen lassen.",
+            "en": "I got vaccinated against tetanus."
+          },
+          {
+            "de": "Lassen Sie sich so früh wie möglich impfen.",
+            "en": "Get vaccinated as early as possible."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Impfung",
+            "meaning": "vaccination"
+          },
+          {
+            "word": "lassen",
+            "meaning": "to let, to have done"
+          },
+          {
+            "word": "impfen",
+            "meaning": "to vaccinate (active)"
+          },
+          {
+            "word": "der Impftermin",
+            "meaning": "vaccination appointment"
+          }
+        ],
+        "mnemonic": "SICH IMPFEN LASSEN: let yourself be vaccinated — lassen = have it done.",
+        "present_examples": []
+      },
+      {
+        "id": "schützen",
+        "german": "schützen",
+        "pronunciation": "[ˈʃʏtsən]",
+        "pos": "V.t.",
+        "english": "to protect",
+        "breakdown": [
+          {
+            "part": "Schutz",
+            "meaning": "protection",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "schützte",
+          "perf": "hat geschützt",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Sonnencreme schützt die Haut vor UV-Strahlen.",
+            "en": "Sunscreen protects the skin from UV rays."
+          },
+          {
+            "de": "Wir müssen die Umwelt schützen.",
+            "en": "We must protect the environment."
+          }
+        ],
+        "grammar_notes": "schützen vor + Dative = to protect from: Die Impfung schützt vor der Grippe.",
+        "word_family": [
+          {
+            "word": "der Schutz",
+            "meaning": "protection"
+          },
+          {
+            "word": "schutzlos",
+            "meaning": "unprotected, defenceless"
+          },
+          {
+            "word": "der Schutzimpfung",
+            "meaning": "protective vaccination"
+          },
+          {
+            "word": "beschützen",
+            "meaning": "to protect (someone, more personal)"
+          }
+        ],
+        "mnemonic": "SCHÜTZEN: SCHÜTZ = shield — to shield/protect.",
+        "present_examples": []
+      },
+      {
+        "id": "der Schutz",
+        "german": "der Schutz",
+        "pronunciation": "[ʃʊts]",
+        "pos": "N.m.",
+        "english": "protection",
+        "breakdown": [
+          {
+            "part": "Schutz",
+            "meaning": "protection",
+            "note": "from schützen"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Helm bietet Schutz vor Verletzungen.",
+            "en": "The helmet provides protection against injuries."
+          },
+          {
+            "de": "Unter dem Schutz des Gesetzes stehen.",
+            "en": "To be under the protection of the law."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "schützen",
+            "meaning": "to protect"
+          },
+          {
+            "word": "schutzlos",
+            "meaning": "unprotected"
+          },
+          {
+            "word": "der Datenschutz",
+            "meaning": "data protection"
+          },
+          {
+            "word": "der Naturschutz",
+            "meaning": "nature conservation"
+          }
+        ],
+        "mnemonic": "SCHUTZ: the SHOOT (Schuss?) — no, think SHIELD. Protection.",
+        "present_examples": []
+      },
+      {
+        "id": "risikoreich",
+        "german": "risikoreich",
+        "pronunciation": "[ˈʁiːzikoˌʁaɪ̯ç]",
+        "pos": "Adj.",
+        "english": "high-risk, risky",
+        "breakdown": [
+          {
+            "part": "Risiko",
+            "meaning": "risk",
+            "note": "from Italian rischio"
+          },
+          {
+            "part": "reich",
+            "meaning": "rich/full of",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Fallschirmspringen ist eine risikoreich Sportart.",
+            "en": "Skydiving is a high-risk sport."
+          },
+          {
+            "de": "Das ist ein risikoreiches Unterfangen.",
+            "en": "That is a risky undertaking."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "das Risiko",
+            "meaning": "risk"
+          },
+          {
+            "word": "riskant",
+            "meaning": "risky — near-synonym"
+          },
+          {
+            "word": "riskieren",
+            "meaning": "to risk"
+          },
+          {
+            "word": "risikolos",
+            "meaning": "risk-free — ⚠ antonym: -los vs. -reich",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "RISIKO-REICH: RICH in RISK — full of danger.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "book_page": 123,
+    "section": "Ernährung und Sport",
+    "insight": "Sport treiben is the standard German phrase for doing sports — never *Sport machen (that's an anglicism). Ich treibe Sport = I do sport/exercise. ⚠ die Ausdauer (stamina/endurance/perseverance) = aus (through to the end) + dauern (to last) — the same word used for physical endurance AND mental perseverance: Er hat viel Ausdauer (He has a lot of stamina / He is very persistent). ausgewogen (balanced) = aus (out) + gewogen (weighed) — literally 'weighed out evenly'.",
+    "words": [
+      {
+        "id": "sich ernähren",
+        "german": "sich ernähren",
+        "pronunciation": "[zɪç ɛʁˈnɛːʁən]",
+        "pos": "V.refl.",
+        "english": "to eat, to feed oneself, to live on (a diet)",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "er-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "nähr-",
+            "meaning": "nourish",
+            "note": "from Nahrung"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "ernährte sich",
+          "perf": "hat sich ernährt",
+          "note": "weak, inseparable"
+        },
+        "examples": [
+          {
+            "de": "Sie ernährt sich vegetarisch.",
+            "en": "She follows a vegetarian diet."
+          },
+          {
+            "de": "Er ernährt seine Familie allein.",
+            "en": "He alone supports/feeds his family."
+          }
+        ],
+        "grammar_notes": "sich ernähren von + Dative = to live on, to eat: Er ernährt sich von Obst und Gemüse.",
+        "word_family": [
+          {
+            "word": "die Ernährung",
+            "meaning": "diet, nutrition"
+          },
+          {
+            "word": "die Nahrung",
+            "meaning": "food, nourishment"
+          },
+          {
+            "word": "nähren",
+            "meaning": "to nourish, to feed (literary)"
+          },
+          {
+            "word": "nahrhaft",
+            "meaning": "nutritious"
+          }
+        ],
+        "mnemonic": "SICH ERNÄHREN: er-NÄHR-en — nourishing (Nahrung) yourself.",
+        "present_examples": []
+      },
+      {
+        "id": "die Ernährung",
+        "german": "die Ernährung",
+        "pronunciation": "[ɛʁˈnɛːʁʊŋ]",
+        "pos": "N.f.",
+        "english": "nutrition, diet, food intake",
+        "breakdown": [
+          {
+            "part": "sich ernähren",
+            "meaning": "to feed oneself",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Eine gesunde Ernährung ist wichtig.",
+            "en": "A healthy diet is important."
+          },
+          {
+            "de": "Die Ernährung beeinflusst die Gesundheit.",
+            "en": "Diet influences health."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich ernähren",
+            "meaning": "to eat, to feed oneself"
+          },
+          {
+            "word": "der Ernährungsberater",
+            "meaning": "dietician, nutritionist"
+          },
+          {
+            "word": "die Fehlernährung",
+            "meaning": "malnutrition"
+          },
+          {
+            "word": "die Nahrung",
+            "meaning": "food, nourishment"
+          }
+        ],
+        "mnemonic": "ERNÄHRUNG: ernähren + -ung = 'the diet/nutrition'.",
+        "present_examples": []
+      },
+      {
+        "id": "ausgewogen",
+        "german": "ausgewogen",
+        "pronunciation": "[ˈaʊ̯sɡəˌvoːɡən]",
+        "pos": "Adj.",
+        "english": "balanced, well-balanced",
+        "breakdown": [
+          {
+            "part": "aus-",
+            "meaning": "out",
+            "note": ""
+          },
+          {
+            "part": "ge-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "wogen",
+            "meaning": "weighed",
+            "note": "from wiegen"
+          }
+        ],
+        "breakdown_note": "Literally 'weighed out evenly' — balanced in all respects. Eine ausgewogene Ernährung = a balanced diet.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Eine ausgewogene Ernährung enthält alle Nährstoffe.",
+            "en": "A balanced diet contains all nutrients."
+          },
+          {
+            "de": "Das Urteil war ausgewogen.",
+            "en": "The verdict was balanced/fair."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "wiegen",
+            "meaning": "to weigh"
+          },
+          {
+            "word": "das Gleichgewicht",
+            "meaning": "balance, equilibrium"
+          },
+          {
+            "word": "einseitig",
+            "meaning": "one-sided — antonym in nutrition context"
+          },
+          {
+            "word": "auswiegen",
+            "meaning": "to weigh out"
+          }
+        ],
+        "mnemonic": "AUS-GE-WOGEN: weighed OUT — perfectly balanced on the scales.",
+        "present_examples": []
+      },
+      {
+        "id": "der Nährstoff",
+        "german": "der Nährstoff",
+        "pronunciation": "[ˈnɛːɐ̯ʃtɔf]",
+        "pos": "N.m.",
+        "english": "nutrient",
+        "breakdown": [
+          {
+            "part": "nähr-",
+            "meaning": "nourish",
+            "note": "from nähren"
+          },
+          {
+            "part": "Stoff",
+            "meaning": "substance/material",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'nourishing substance'. Plural: die Nährstoffe. Nährstoffreich = nutrient-rich; nährstoffarm = nutrient-poor.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Obst und Gemüse sind reich an Nährstoffen.",
+            "en": "Fruit and vegetables are rich in nutrients."
+          },
+          {
+            "de": "Der Körper braucht verschiedene Nährstoffe.",
+            "en": "The body needs various nutrients."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "nähren",
+            "meaning": "to nourish"
+          },
+          {
+            "word": "nahrhaft",
+            "meaning": "nutritious"
+          },
+          {
+            "word": "der Stoff",
+            "meaning": "substance, material, fabric"
+          },
+          {
+            "word": "nährstoffreich",
+            "meaning": "nutrient-rich"
+          }
+        ],
+        "mnemonic": "NÄHR-STOFF: nourishing (nähr-) SUBSTANCE (Stoff) — nutrient.",
+        "present_examples": []
+      },
+      {
+        "id": "Sport treiben",
+        "german": "Sport treiben",
+        "pronunciation": "[ˈʃpɔʁt ˈtʁaɪ̯bən]",
+        "pos": "V.phrase",
+        "english": "to do sport, to exercise",
+        "breakdown": [
+          {
+            "part": "Sport",
+            "meaning": "sport",
+            "note": "loanword from English"
+          },
+          {
+            "part": "treiben",
+            "meaning": "to drive/pursue",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "The standard German phrase for doing sport. Never *Sport machen — that is an anglicism. Treiben here means to pursue/engage in an activity.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie treibt dreimal pro Woche Sport.",
+            "en": "She does sport three times a week."
+          },
+          {
+            "de": "Regelmäßig Sport zu treiben ist gesund.",
+            "en": "Doing sport regularly is healthy."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Sport",
+            "meaning": "sport"
+          },
+          {
+            "word": "sportlich",
+            "meaning": "sporty, athletic"
+          },
+          {
+            "word": "treiben",
+            "meaning": "to drive, to pursue"
+          },
+          {
+            "word": "Sport machen",
+            "meaning": "⚠ anglicism — use Sport treiben instead",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "SPORT TREIBEN: you DRIVE yourself to do sport. Treiben = pursue.",
+        "present_examples": []
+      },
+      {
+        "id": "trainieren",
+        "german": "trainieren",
+        "pronunciation": "[tʁeˈniːʁən]",
+        "pos": "V.",
+        "english": "to train, to work out",
+        "breakdown": [
+          {
+            "part": "trainier-",
+            "meaning": "train",
+            "note": "from French/English train"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "trainierte",
+          "perf": "hat trainiert",
+          "note": "weak verb, loanword"
+        },
+        "examples": [
+          {
+            "de": "Er trainiert täglich im Fitnessstudio.",
+            "en": "He trains daily at the gym."
+          },
+          {
+            "de": "Die Mannschaft trainiert für das nächste Spiel.",
+            "en": "The team is training for the next game."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "das Training",
+            "meaning": "training, workout"
+          },
+          {
+            "word": "der Trainer",
+            "meaning": "trainer, coach"
+          },
+          {
+            "word": "das Trainingslager",
+            "meaning": "training camp"
+          },
+          {
+            "word": "gut trainiert",
+            "meaning": "well-trained, fit"
+          }
+        ],
+        "mnemonic": "TRAINIEREN: from French entraîner — same as English 'to train'.",
+        "present_examples": []
+      },
+      {
+        "id": "die Ausdauer",
+        "german": "die Ausdauer",
+        "pronunciation": "[ˈaʊ̯sdaʊ̯ɐ]",
+        "pos": "N.f.",
+        "english": "stamina, endurance; perseverance",
+        "breakdown": [
+          {
+            "part": "aus-",
+            "meaning": "out/through to the end",
+            "note": ""
+          },
+          {
+            "part": "dauern",
+            "meaning": "to last",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Used for both physical endurance (sport) AND mental perseverance. Er hat viel Ausdauer = He has great stamina / He is very persistent.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ausdauertraining stärkt das Herz.",
+            "en": "Endurance training strengthens the heart."
+          },
+          {
+            "de": "Diese Aufgabe erfordert viel Ausdauer.",
+            "en": "This task requires a lot of perseverance."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "ausdauernd",
+            "meaning": "enduring, persevering"
+          },
+          {
+            "word": "dauern",
+            "meaning": "to last"
+          },
+          {
+            "word": "die Dauer",
+            "meaning": "duration"
+          },
+          {
+            "word": "die Geduld",
+            "meaning": "patience — related virtue"
+          }
+        ],
+        "mnemonic": "AUS-DAUER: lasting (dauern) all the way OUT (aus) — endurance.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "book_page": 124,
+    "section": "Verletzung und Erste Hilfe",
+    "insight": "sich verletzen is reflexive: Ich habe mich verletzt (I hurt myself). For a specific body part, add the Accusative: Ich habe mir den Arm verletzt (I injured my arm) — note the Dative reflexive mir here, because der Arm is already the Accusative object. ⚠ verbinden (to bandage) vs. sich verbinden (to connect/unite) — same verb, very different contexts. der Verband = dressing/bandage (medical) AND association/federation (organisational) — always check context.",
+    "words": [
+      {
+        "id": "sich verletzen",
+        "german": "sich verletzen",
+        "pronunciation": "[zɪç fɛʁˈlɛtsən]",
+        "pos": "V.refl.",
+        "english": "to injure oneself, to hurt oneself",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive (dative)",
+            "note": ""
+          },
+          {
+            "part": "ver-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "letz-",
+            "meaning": "hurt/injure",
+            "note": "from letzen"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "verletzte sich",
+          "perf": "hat sich verletzt",
+          "note": "weak, inseparable"
+        },
+        "examples": [
+          {
+            "de": "Sie hat sich beim Sport verletzt.",
+            "en": "She injured herself doing sport."
+          },
+          {
+            "de": "Er hat sich den Knöchel verstaucht.",
+            "en": "He sprained his ankle."
+          }
+        ],
+        "grammar_notes": "For a body part: sich + Dative + Accusative: Ich habe mir den Arm verletzt (the arm is the Acc. object; mir = Dat. reflexive).",
+        "word_family": [
+          {
+            "word": "die Verletzung",
+            "meaning": "injury"
+          },
+          {
+            "word": "verletzt",
+            "meaning": "injured"
+          },
+          {
+            "word": "der Verletzte",
+            "meaning": "the injured person"
+          },
+          {
+            "word": "unverletzt",
+            "meaning": "uninjured, unharmed"
+          }
+        ],
+        "mnemonic": "SICH VERLETZEN: ver- intensifies the harm — to seriously hurt yourself.",
+        "present_examples": []
+      },
+      {
+        "id": "die Verletzung",
+        "german": "die Verletzung",
+        "pronunciation": "[fɛʁˈlɛtsʊŋ]",
+        "pos": "N.f.",
+        "english": "injury, wound",
+        "breakdown": [
+          {
+            "part": "sich verletzen",
+            "meaning": "to injure",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Verletzung heilt gut.",
+            "en": "The injury is healing well."
+          },
+          {
+            "de": "Er erlitt eine schwere Verletzung.",
+            "en": "He suffered a serious injury."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich verletzen",
+            "meaning": "to injure oneself"
+          },
+          {
+            "word": "die Sportverletzung",
+            "meaning": "sports injury"
+          },
+          {
+            "word": "verletzt",
+            "meaning": "injured"
+          },
+          {
+            "word": "die Wunde",
+            "meaning": "wound — result of injury"
+          }
+        ],
+        "mnemonic": "VERLETZUNG: -ung makes the verb into the noun — 'the injury'.",
+        "present_examples": []
+      },
+      {
+        "id": "der Unfall",
+        "german": "der Unfall",
+        "pronunciation": "[ˈʊnfal]",
+        "pos": "N.m.",
+        "english": "accident",
+        "breakdown": [
+          {
+            "part": "un-",
+            "meaning": "bad/unfortunate",
+            "note": ""
+          },
+          {
+            "part": "Fall",
+            "meaning": "fall/case",
+            "note": "from fallen"
+          }
+        ],
+        "breakdown_note": "Literally 'a bad fall/occurrence'. Der Unfall passiert = an accident happens. einen Unfall haben = to have an accident. der Arbeitsunfall = workplace accident.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Es gab einen schweren Unfall auf der Autobahn.",
+            "en": "There was a serious accident on the motorway."
+          },
+          {
+            "de": "Hat es einen Unfall gegeben?",
+            "en": "Was there an accident?"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "verunfallen",
+            "meaning": "to have an accident (formal)"
+          },
+          {
+            "word": "der Verkehrsunfall",
+            "meaning": "traffic accident"
+          },
+          {
+            "word": "der Fall",
+            "meaning": "fall; case — ⚠ Unfall is not just a fall",
+            "lookalike": true
+          },
+          {
+            "word": "die Unfallversicherung",
+            "meaning": "accident insurance"
+          }
+        ],
+        "mnemonic": "UN-FALL: an UNhappy FALL — an accident.",
+        "present_examples": []
+      },
+      {
+        "id": "die Wunde",
+        "german": "die Wunde",
+        "pronunciation": "[ˈvʊndə]",
+        "pos": "N.f.",
+        "english": "wound",
+        "breakdown": [
+          {
+            "part": "Wunde",
+            "meaning": "wound",
+            "note": "from Old High German wunta"
+          }
+        ],
+        "breakdown_note": "die Wunde = an open wound or cut. Die Wunde verbinden = to dress/bandage a wound. Die Wunde heilt = the wound heals.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Wunde muss desinfiziert werden.",
+            "en": "The wound must be disinfected."
+          },
+          {
+            "de": "Er hatte eine tiefe Wunde am Arm.",
+            "en": "He had a deep wound on his arm."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "verwunden",
+            "meaning": "to wound (literary/formal)"
+          },
+          {
+            "word": "wundgelegen",
+            "meaning": "bedsore (having lain wounded)"
+          },
+          {
+            "word": "verbinden",
+            "meaning": "to bandage a wound"
+          },
+          {
+            "word": "wunderbar",
+            "meaning": "wonderful — ⚠ Wunder = wonder, different root",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "WUNDE: 'VOON-duh' — cognate with English 'wound'.",
+        "present_examples": []
+      },
+      {
+        "id": "verbinden",
+        "german": "verbinden",
+        "pronunciation": "[fɛʁˈbɪndən]",
+        "pos": "V.t.",
+        "english": "to bandage; to connect, to link",
+        "breakdown": [
+          {
+            "part": "ver-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "bind-",
+            "meaning": "bind",
+            "note": "from binden"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Two main meanings: (1) medical: to dress/bandage a wound (jemanden verbinden); (2) to connect/link things or people (Städte verbinden = to connect cities).",
+        "conjugation": {
+          "prät": "verband",
+          "perf": "hat verbunden",
+          "note": "strong (binden class), inseparable"
+        },
+        "examples": [
+          {
+            "de": "Die Sanitäterin verband die Wunde.",
+            "en": "The paramedic bandaged the wound."
+          },
+          {
+            "de": "Eine Brücke verbindet die beiden Stadtteile.",
+            "en": "A bridge connects the two districts."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Verband",
+            "meaning": "bandage/dressing; association/federation"
+          },
+          {
+            "word": "binden",
+            "meaning": "to bind, to tie"
+          },
+          {
+            "word": "die Verbindung",
+            "meaning": "connection, link, bond"
+          },
+          {
+            "word": "verbunden",
+            "meaning": "connected; grateful"
+          }
+        ],
+        "mnemonic": "VER-BIND-EN: BIND together — both wound-binding and connecting.",
+        "present_examples": []
+      },
+      {
+        "id": "der Verband",
+        "german": "der Verband",
+        "pronunciation": "[fɛʁˈbant]",
+        "pos": "N.m.",
+        "english": "bandage, dressing; association, federation",
+        "breakdown": [
+          {
+            "part": "verbinden",
+            "meaning": "to bind/bandage",
+            "note": ""
+          },
+          {
+            "part": "-and",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "der Verband has two completely different meanings: (1) a medical bandage/dressing and (2) an association or federation (Sportverband = sports federation). Always check context.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Verband muss täglich gewechselt werden.",
+            "en": "The dressing must be changed daily."
+          },
+          {
+            "de": "Er ist Mitglied im Deutschen Fußball-Verband.",
+            "en": "He is a member of the German Football Association."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "verbinden",
+            "meaning": "to bandage; to connect"
+          },
+          {
+            "word": "der Sportverband",
+            "meaning": "sports federation"
+          },
+          {
+            "word": "die Verbandsmaterial",
+            "meaning": "bandaging material"
+          },
+          {
+            "word": "die Verbindung",
+            "meaning": "connection — ⚠ not the same as Verband",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "VERBAND: VER-BAND — it BANDS (binds) the wound. Also bands people together (federation).",
+        "present_examples": []
+      },
+      {
+        "id": "bluten",
+        "german": "bluten",
+        "pronunciation": "[ˈbluːtən]",
+        "pos": "V.i.",
+        "english": "to bleed",
+        "breakdown": [
+          {
+            "part": "Blut",
+            "meaning": "blood",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "blutete",
+          "perf": "hat geblutet",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Die Wunde blutet stark.",
+            "en": "The wound is bleeding heavily."
+          },
+          {
+            "de": "Er hat geblutet und musste ins Krankenhaus.",
+            "en": "He bled and had to go to hospital."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "das Blut",
+            "meaning": "blood"
+          },
+          {
+            "word": "die Blutung",
+            "meaning": "bleeding, haemorrhage"
+          },
+          {
+            "word": "blutend",
+            "meaning": "bleeding"
+          },
+          {
+            "word": "der Blutdruck",
+            "meaning": "blood pressure"
+          }
+        ],
+        "mnemonic": "BLUTEN: Blut (blood) + -en — to BLOOD, i.e. to bleed.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "book_page": 125,
+    "section": "Das Krankenhaus",
+    "insight": "stationär (inpatient) vs. ambulant (outpatient) — the essential hospital pair. ⚠ ambulant looks like 'ambulance' but die Ambulanz is the emergency department / outpatient clinic, not the vehicle — der Krankenwagen or der Rettungswagen is the ambulance vehicle. operieren takes a direct object: Der Arzt operiert den Patienten — but you can also say: Der Patient wird operiert (passive). die Notaufnahme = emergency admissions; der Notfall = the emergency itself.",
+    "words": [
+      {
+        "id": "das Krankenhaus",
+        "german": "das Krankenhaus",
+        "pronunciation": "[ˈkʁaŋkənhaʊ̯s]",
+        "pos": "N.n.",
+        "english": "hospital",
+        "breakdown": [
+          {
+            "part": "Kranken-",
+            "meaning": "sick people (genitive)",
+            "note": "from krank"
+          },
+          {
+            "part": "Haus",
+            "meaning": "house",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'house of the sick'. ins Krankenhaus = to hospital; im Krankenhaus = in hospital. Colloquial synonym: die Klinik.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er muss ins Krankenhaus eingeliefert werden.",
+            "en": "He has to be admitted to hospital."
+          },
+          {
+            "de": "Sie arbeitet im Krankenhaus als Pflegerin.",
+            "en": "She works as a nurse in the hospital."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "krank",
+            "meaning": "sick"
+          },
+          {
+            "word": "der Krankenwagen",
+            "meaning": "ambulance"
+          },
+          {
+            "word": "die Krankenversicherung",
+            "meaning": "health insurance"
+          },
+          {
+            "word": "die Klinik",
+            "meaning": "clinic, hospital — near-synonym"
+          }
+        ],
+        "mnemonic": "KRANKEN-HAUS: the HOUSE (Haus) for SICK PEOPLE (Kranken).",
+        "present_examples": []
+      },
+      {
+        "id": "stationär",
+        "german": "stationär",
+        "pronunciation": "[ˌʃtatsi̯oˈnɛːɐ̯]",
+        "pos": "Adj./Adv.",
+        "english": "inpatient (admitted to hospital)",
+        "breakdown": [
+          {
+            "part": "Station",
+            "meaning": "ward/station",
+            "note": "from Latin statio"
+          },
+          {
+            "part": "-är",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "stationär = admitted to a hospital ward (staying overnight/longer). Antonym: ambulant = outpatient. Stationär behandelt werden = to be treated as an inpatient.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er wird stationär behandelt.",
+            "en": "He is being treated as an inpatient."
+          },
+          {
+            "de": "Nach der Operation blieb sie drei Tage stationär.",
+            "en": "After the operation she stayed three days as an inpatient."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "ambulant",
+            "meaning": "outpatient — ⚠ direct antonym",
+            "lookalike": true
+          },
+          {
+            "word": "die Station",
+            "meaning": "ward, station"
+          },
+          {
+            "word": "die stationäre Behandlung",
+            "meaning": "inpatient treatment"
+          }
+        ],
+        "mnemonic": "STATIONÄR: staying on the STATION (ward) — inpatient.",
+        "present_examples": []
+      },
+      {
+        "id": "ambulant",
+        "german": "ambulant",
+        "pronunciation": "[ˌambʊˈlant]",
+        "pos": "Adj./Adv.",
+        "english": "outpatient",
+        "breakdown": [
+          {
+            "part": "ambulant",
+            "meaning": "outpatient/mobile",
+            "note": "from Latin ambulare = to walk"
+          }
+        ],
+        "breakdown_note": "ambulant = treated without hospital admission. ⚠ die Ambulanz in German = the emergency/outpatient department of a hospital, NOT the vehicle. Der Krankenwagen / der Rettungswagen = the ambulance vehicle.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Operation kann ambulant durchgeführt werden.",
+            "en": "The operation can be done on an outpatient basis."
+          },
+          {
+            "de": "Er wird ambulant in der Klinik behandelt.",
+            "en": "He is treated as an outpatient at the clinic."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "stationär",
+            "meaning": "inpatient — ⚠ direct antonym"
+          },
+          {
+            "word": "die Ambulanz",
+            "meaning": "outpatient department/emergency unit (NOT the vehicle!)"
+          },
+          {
+            "word": "der Krankenwagen",
+            "meaning": "ambulance vehicle"
+          },
+          {
+            "word": "ambulieren",
+            "meaning": "to walk around (medical context)"
+          }
+        ],
+        "mnemonic": "AMBULANT: ambulare = to walk — the patient walks in and walks out.",
+        "present_examples": []
+      },
+      {
+        "id": "die Notaufnahme",
+        "german": "die Notaufnahme",
+        "pronunciation": "[ˈnoːtˌaʊ̯fnaːmə]",
+        "pos": "N.f.",
+        "english": "emergency room, A&E",
+        "breakdown": [
+          {
+            "part": "Not-",
+            "meaning": "emergency/distress",
+            "note": ""
+          },
+          {
+            "part": "Aufnahme",
+            "meaning": "admission/intake",
+            "note": "from aufnehmen"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er wurde sofort in die Notaufnahme gebracht.",
+            "en": "He was taken straight to the emergency room."
+          },
+          {
+            "de": "Die Notaufnahme ist rund um die Uhr geöffnet.",
+            "en": "The A&E is open 24/7."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Not",
+            "meaning": "distress, emergency, need"
+          },
+          {
+            "word": "aufnehmen",
+            "meaning": "to admit, to receive, to record"
+          },
+          {
+            "word": "der Notfall",
+            "meaning": "emergency case"
+          },
+          {
+            "word": "der Notruf",
+            "meaning": "emergency call (112 in Germany)"
+          }
+        ],
+        "mnemonic": "NOT-AUFNAHME: ADMISSION (Aufnahme) in DISTRESS (Not) — the A&E.",
+        "present_examples": []
+      },
+      {
+        "id": "der Notfall",
+        "german": "der Notfall",
+        "pronunciation": "[ˈnoːtfal]",
+        "pos": "N.m.",
+        "english": "emergency",
+        "breakdown": [
+          {
+            "part": "Not-",
+            "meaning": "distress/emergency",
+            "note": ""
+          },
+          {
+            "part": "Fall",
+            "meaning": "case/fall",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Im Notfall rufen Sie bitte 112.",
+            "en": "In an emergency please call 112."
+          },
+          {
+            "de": "Das ist kein Notfall.",
+            "en": "This is not an emergency."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Notaufnahme",
+            "meaning": "emergency room"
+          },
+          {
+            "word": "die Not",
+            "meaning": "distress, need"
+          },
+          {
+            "word": "notfalls",
+            "meaning": "if necessary, in case of emergency"
+          },
+          {
+            "word": "der Unfall",
+            "meaning": "accident — ⚠ Unfall = accident; Notfall = emergency situation",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "NOT-FALL: a distressing (Not) case (Fall) — an emergency.",
+        "present_examples": []
+      },
+      {
+        "id": "operieren",
+        "german": "operieren",
+        "pronunciation": "[opeˈʁiːʁən]",
+        "pos": "V.",
+        "english": "to operate (surgically)",
+        "breakdown": [
+          {
+            "part": "operier-",
+            "meaning": "operate",
+            "note": "from Latin operari = to work"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "operierte",
+          "perf": "hat operiert",
+          "note": "weak verb, loanword"
+        },
+        "examples": [
+          {
+            "de": "Sie wurde am Herzen operiert.",
+            "en": "She was operated on on her heart."
+          },
+          {
+            "de": "Der Chirurg hat erfolgreich operiert.",
+            "en": "The surgeon operated successfully."
+          }
+        ],
+        "grammar_notes": "Transitive: Der Arzt operiert den Patienten. Or passive: Der Patient wird operiert. Sich operieren lassen = to have an operation.",
+        "word_family": [
+          {
+            "word": "die Operation",
+            "meaning": "operation, surgery"
+          },
+          {
+            "word": "der Operationssaal",
+            "meaning": "operating theatre"
+          },
+          {
+            "word": "operabel",
+            "meaning": "operable"
+          },
+          {
+            "word": "der Chirurg",
+            "meaning": "surgeon"
+          }
+        ],
+        "mnemonic": "OPERIEREN: Latin operari = to work. The surgeon OPERATES = works on you.",
+        "present_examples": []
+      },
+      {
+        "id": "die Operation",
+        "german": "die Operation",
+        "pronunciation": "[opeʁaˈtsi̯oːn]",
+        "pos": "N.f.",
+        "english": "operation, surgery",
+        "breakdown": [
+          {
+            "part": "operieren",
+            "meaning": "to operate",
+            "note": ""
+          },
+          {
+            "part": "-tion",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Operation dauerte vier Stunden.",
+            "en": "The operation lasted four hours."
+          },
+          {
+            "de": "Nach der Operation braucht man Ruhe.",
+            "en": "After the operation one needs rest."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "operieren",
+            "meaning": "to operate"
+          },
+          {
+            "word": "der Eingriff",
+            "meaning": "procedure, surgical intervention — synonym"
+          },
+          {
+            "word": "die Vollnarkose",
+            "meaning": "general anaesthesia"
+          },
+          {
+            "word": "ambulant operieren",
+            "meaning": "to operate on an outpatient basis"
+          }
+        ],
+        "mnemonic": "OPERATION: same as English — Latin operatio. Known internationally.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "book_page": 126,
+    "section": "Psychische Gesundheit",
+    "insight": "deprimiert is the past participle of deprimieren used as adjective — borrowed from Latin deprimere (to press down). ⚠ die Depression (clinical depression) vs. deprimiert (feeling depressed today) — use deprimiert for a current mood; die Depression for the diagnosed condition. die Stressbewältigung = Stress + Bewältigung (coping/mastering) — Bewältigung comes from walten (to rule/govern): to master/overcome stress. entspannen is separable in some uses: Ich entspanne mich (I relax) — always reflexive for 'I relax'.",
+    "words": [
+      {
+        "id": "deprimiert",
+        "german": "deprimiert",
+        "pronunciation": "[depʁiˈmiːɐ̯t]",
+        "pos": "Adj.",
+        "english": "depressed, low",
+        "breakdown": [
+          {
+            "part": "deprimier-",
+            "meaning": "depress",
+            "note": "from Latin deprimere = to press down"
+          },
+          {
+            "part": "-t",
+            "meaning": "past participle as adj.",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "deprimiert = feeling depressed (current state). die Depression = the clinical condition. Don't use deprimiert for clinical diagnosis.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich bin heute sehr deprimiert.",
+            "en": "I am very down/depressed today."
+          },
+          {
+            "de": "Das schlechte Wetter macht mich deprimiert.",
+            "en": "The bad weather makes me feel low."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Depression",
+            "meaning": "depression (clinical condition)"
+          },
+          {
+            "word": "deprimieren",
+            "meaning": "to depress, to get someone down"
+          },
+          {
+            "word": "niedergeschlagen",
+            "meaning": "downcast, dejected — near-synonym"
+          },
+          {
+            "word": "die Depression",
+            "meaning": "⚠ clinical condition, not just a bad day",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "DEPRIMIERT: de-PRESS-ed — pressed down.",
+        "present_examples": []
+      },
+      {
+        "id": "die Depression",
+        "german": "die Depression",
+        "pronunciation": "[depʁɛˈsi̯oːn]",
+        "pos": "N.f.",
+        "english": "depression (clinical condition)",
+        "breakdown": [
+          {
+            "part": "Depression",
+            "meaning": "depression",
+            "note": "from Latin depressio = pressing down"
+          }
+        ],
+        "breakdown_note": "die Depression refers to the clinical mental health condition. For everyday low mood, use deprimiert or niedergeschlagen. Also used in economics: wirtschaftliche Depression.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie leidet an einer schweren Depression.",
+            "en": "She suffers from severe depression."
+          },
+          {
+            "de": "Eine Depression ist eine ernste Erkrankung.",
+            "en": "Depression is a serious illness."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "deprimiert",
+            "meaning": "feeling depressed (current state)"
+          },
+          {
+            "word": "der Therapeut",
+            "meaning": "therapist"
+          },
+          {
+            "word": "die Antidepressiva",
+            "meaning": "antidepressants (pl.)"
+          },
+          {
+            "word": "die Wirtschaftsdepression",
+            "meaning": "economic depression"
+          }
+        ],
+        "mnemonic": "DEPRESSION: same as English — Latin depressio. Pressing down on the spirit.",
+        "present_examples": []
+      },
+      {
+        "id": "der Burn-out",
+        "german": "der Burn-out",
+        "pronunciation": "[ˈbœːɐ̯naʊ̯t]",
+        "pos": "N.m.",
+        "english": "burnout",
+        "breakdown": [
+          {
+            "part": "burn",
+            "meaning": "burn",
+            "note": "from English"
+          },
+          {
+            "part": "out",
+            "meaning": "out",
+            "note": "from English"
+          }
+        ],
+        "breakdown_note": "An English loanword used in German psychology and medicine. Synonym: das Ausgebranntsein. Einen Burn-out erleiden = to suffer burnout.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er hat einen Burn-out erlitten und arbeitet nicht mehr.",
+            "en": "He suffered a burnout and is no longer working."
+          },
+          {
+            "de": "Burn-out ist im modernen Arbeitsleben häufig.",
+            "en": "Burnout is common in modern working life."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "ausgebrannt",
+            "meaning": "burnt out — German equivalent"
+          },
+          {
+            "word": "die Erschöpfung",
+            "meaning": "exhaustion — related state"
+          },
+          {
+            "word": "das Overload",
+            "meaning": "overload — often used alongside Burn-out"
+          },
+          {
+            "word": "sich erholen",
+            "meaning": "to recover — the remedy"
+          }
+        ],
+        "mnemonic": "BURN-OUT: English loanword — the fire burned out completely.",
+        "present_examples": []
+      },
+      {
+        "id": "die Stressbewältigung",
+        "german": "die Stressbewältigung",
+        "pronunciation": "[ˈʃtʁɛsˌbəvɛltɪɡʊŋ]",
+        "pos": "N.f.",
+        "english": "stress management, coping with stress",
+        "breakdown": [
+          {
+            "part": "Stress",
+            "meaning": "stress",
+            "note": "English loanword"
+          },
+          {
+            "part": "Bewältigung",
+            "meaning": "mastering/coping",
+            "note": "from bewältigen"
+          }
+        ],
+        "breakdown_note": "bewältigen = to master, to overcome. Stressbewältigung = overcoming/managing stress. Ein wichtiges Thema in der modernen Arbeitswelt.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Yoga ist eine wirksame Methode zur Stressbewältigung.",
+            "en": "Yoga is an effective method of stress management."
+          },
+          {
+            "de": "Stressbewältigung muss man üben.",
+            "en": "Stress management must be practised."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "bewältigen",
+            "meaning": "to cope with, to master"
+          },
+          {
+            "word": "die Bewältigung",
+            "meaning": "coping, mastering"
+          },
+          {
+            "word": "der Stress",
+            "meaning": "stress"
+          },
+          {
+            "word": "stressfrei",
+            "meaning": "stress-free"
+          }
+        ],
+        "mnemonic": "STRESS-BEWÄLTIGUNG: MASTERING (Bewältigung) your STRESS.",
+        "present_examples": []
+      },
+      {
+        "id": "entspannen",
+        "german": "entspannen",
+        "pronunciation": "[ɛntˈʃpanən]",
+        "pos": "V.refl./t.",
+        "english": "to relax",
+        "breakdown": [
+          {
+            "part": "ent-",
+            "meaning": "removal prefix",
+            "note": ""
+          },
+          {
+            "part": "spann-",
+            "meaning": "tension",
+            "note": "from spannen"
+          }
+        ],
+        "breakdown_note": "Literally 'to remove tension'. Can be reflexive (sich entspannen = to relax) or transitive (Musik entspannt mich = music relaxes me).",
+        "conjugation": {
+          "prät": "entspannte (sich)",
+          "perf": "hat sich entspannt",
+          "note": "weak, inseparable"
+        },
+        "examples": [
+          {
+            "de": "Ich entspanne mich am liebsten beim Lesen.",
+            "en": "I prefer to relax while reading."
+          },
+          {
+            "de": "Musik entspannt mich sehr.",
+            "en": "Music relaxes me a great deal."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Entspannung",
+            "meaning": "relaxation"
+          },
+          {
+            "word": "entspannt",
+            "meaning": "relaxed"
+          },
+          {
+            "word": "die Spannung",
+            "meaning": "tension; excitement; voltage"
+          },
+          {
+            "word": "angespannt",
+            "meaning": "tense — antonym"
+          }
+        ],
+        "mnemonic": "ENT-SPANNEN: remove (ent-) the TENSION (Spannung) — relax.",
+        "present_examples": []
+      },
+      {
+        "id": "die Entspannung",
+        "german": "die Entspannung",
+        "pronunciation": "[ɛntˈʃpanʊŋ]",
+        "pos": "N.f.",
+        "english": "relaxation; relief of tension",
+        "breakdown": [
+          {
+            "part": "entspannen",
+            "meaning": "to relax",
+            "note": ""
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Zur Entspannung gehe ich schwimmen.",
+            "en": "For relaxation I go swimming."
+          },
+          {
+            "de": "Politische Entspannung zwischen den Ländern.",
+            "en": "Political relaxation/détente between the countries."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "entspannen",
+            "meaning": "to relax"
+          },
+          {
+            "word": "entspannt",
+            "meaning": "relaxed"
+          },
+          {
+            "word": "die Entspannungsübung",
+            "meaning": "relaxation exercise"
+          },
+          {
+            "word": "die Anspannung",
+            "meaning": "tension — ⚠ direct antonym: an- vs. ent-",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "ENTSPANNUNG: relaxation — -ung turns the verb into the noun.",
+        "present_examples": []
+      },
+      {
+        "id": "meditieren",
+        "german": "meditieren",
+        "pronunciation": "[mediˈtiːʁən]",
+        "pos": "V.i.",
+        "english": "to meditate",
+        "breakdown": [
+          {
+            "part": "meditier-",
+            "meaning": "meditate",
+            "note": "from Latin meditari = to think over"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "meditierte",
+          "perf": "hat meditiert",
+          "note": "weak verb, loanword"
+        },
+        "examples": [
+          {
+            "de": "Sie meditiert täglich zwanzig Minuten.",
+            "en": "She meditates twenty minutes daily."
+          },
+          {
+            "de": "Meditieren hilft bei Stress.",
+            "en": "Meditating helps with stress."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Meditation",
+            "meaning": "meditation"
+          },
+          {
+            "word": "die Achtsamkeit",
+            "meaning": "mindfulness"
+          },
+          {
+            "word": "entspannen",
+            "meaning": "to relax — complementary practice"
+          }
+        ],
+        "mnemonic": "MEDITIEREN: same as 'to meditate' — Latin meditari.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "book_page": 127,
+    "section": "Schmerz und Beschwerden",
+    "insight": "schmerzen is the verb form: Mein Rücken schmerzt (My back hurts/aches) — more formal than wehtun. ⚠ chronisch (chronic) vs. akut (acute) — both from Latin/Greek medical terms: chronisch = long-lasting (from chronos, time); akut = immediate/urgent (from acutus, sharp). die Beschwerde (pl. die Beschwerden) = complaint/ailment — in medical German, Beschwerden are the symptoms a patient reports: Welche Beschwerden haben Sie? (What symptoms do you have?)",
+    "words": [
+      {
+        "id": "schmerzen",
+        "german": "schmerzen",
+        "pronunciation": "[ˈʃmɛʁtsən]",
+        "pos": "V.i.",
+        "english": "to hurt, to ache, to pain",
+        "breakdown": [
+          {
+            "part": "Schmerz",
+            "meaning": "pain",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "More formal than wehtun. Mein Rücken schmerzt = My back aches. Also used figuratively: Das schmerzt mich = That pains me (emotionally).",
+        "conjugation": {
+          "prät": "schmerzte",
+          "perf": "hat geschmerzt",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Mein Knie schmerzt beim Treppensteigen.",
+            "en": "My knee hurts when climbing stairs."
+          },
+          {
+            "de": "Es schmerzt mich, so etwas zu hören.",
+            "en": "It pains me to hear something like that."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Schmerz",
+            "meaning": "pain"
+          },
+          {
+            "word": "schmerzhaft",
+            "meaning": "painful"
+          },
+          {
+            "word": "schmerzlos",
+            "meaning": "painless"
+          },
+          {
+            "word": "wehtun",
+            "meaning": "to hurt — more colloquial synonym"
+          }
+        ],
+        "mnemonic": "SCHMERZEN: Schmerz + -en — the pain SMARTS.",
+        "present_examples": []
+      },
+      {
+        "id": "schmerzhaft",
+        "german": "schmerzhaft",
+        "pronunciation": "[ˈʃmɛʁtshaft]",
+        "pos": "Adj.",
+        "english": "painful",
+        "breakdown": [
+          {
+            "part": "Schmerz",
+            "meaning": "pain",
+            "note": ""
+          },
+          {
+            "part": "-haft",
+            "meaning": "having the quality of",
+            "note": "adjectival suffix"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Verletzung ist sehr schmerzhaft.",
+            "en": "The injury is very painful."
+          },
+          {
+            "de": "Es ist ein schmerzhafter Prozess.",
+            "en": "It is a painful process."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Schmerz",
+            "meaning": "pain"
+          },
+          {
+            "word": "schmerzen",
+            "meaning": "to hurt"
+          },
+          {
+            "word": "schmerzlos",
+            "meaning": "painless"
+          },
+          {
+            "word": "schmerzlich",
+            "meaning": "painful (emotionally) — ⚠ -lich = emotional pain; -haft = physical pain often",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "SCHMERZ-HAFT: having (-haft) the quality of pain (Schmerz).",
+        "present_examples": []
+      },
+      {
+        "id": "der Kopfschmerz",
+        "german": "der Kopfschmerz",
+        "pronunciation": "[ˈkɔpfʃmɛʁts]",
+        "pos": "N.m.",
+        "english": "headache",
+        "breakdown": [
+          {
+            "part": "Kopf",
+            "meaning": "head",
+            "note": ""
+          },
+          {
+            "part": "Schmerz",
+            "meaning": "pain",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Usually used in plural: die Kopfschmerzen (I have a headache = Ich habe Kopfschmerzen). Also: Kopfweh (more colloquial).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe schreckliche Kopfschmerzen.",
+            "en": "I have terrible headaches."
+          },
+          {
+            "de": "Gegen Kopfschmerzen helfen oft Aspirin.",
+            "en": "Aspirin often helps against headaches."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Schmerz",
+            "meaning": "pain"
+          },
+          {
+            "word": "der Kopf",
+            "meaning": "head"
+          },
+          {
+            "word": "das Kopfweh",
+            "meaning": "headache (colloquial)"
+          },
+          {
+            "word": "die Migräne",
+            "meaning": "migraine — severe headache"
+          }
+        ],
+        "mnemonic": "KOPF-SCHMERZ: HEAD (Kopf) + PAIN (Schmerz). Head pain.",
+        "present_examples": []
+      },
+      {
+        "id": "der Rückenschmerz",
+        "german": "der Rückenschmerz",
+        "pronunciation": "[ˈʁʏkənʃmɛʁts]",
+        "pos": "N.m.",
+        "english": "back pain",
+        "breakdown": [
+          {
+            "part": "Rücken",
+            "meaning": "back",
+            "note": ""
+          },
+          {
+            "part": "Schmerz",
+            "meaning": "pain",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Usually plural: Rückenschmerzen haben. Very common complaint: Rückenschmerzen sind eine Volkskrankheit.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich habe chronische Rückenschmerzen.",
+            "en": "I have chronic back pain."
+          },
+          {
+            "de": "Rückenschmerzen sind in Deutschland sehr verbreitet.",
+            "en": "Back pain is very widespread in Germany."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Rücken",
+            "meaning": "back (of the body)"
+          },
+          {
+            "word": "der Schmerz",
+            "meaning": "pain"
+          },
+          {
+            "word": "die Rückenschmerzen",
+            "meaning": "back pain (pl. — most common form)"
+          },
+          {
+            "word": "der Bandscheibenvorfall",
+            "meaning": "slipped disc"
+          }
+        ],
+        "mnemonic": "RÜCKEN-SCHMERZ: BACK (Rücken) + PAIN (Schmerz).",
+        "present_examples": []
+      },
+      {
+        "id": "chronisch",
+        "german": "chronisch",
+        "pronunciation": "[ˈkʁoːnɪʃ]",
+        "pos": "Adj.",
+        "english": "chronic",
+        "breakdown": [
+          {
+            "part": "chron-",
+            "meaning": "time",
+            "note": "from Greek chronos"
+          },
+          {
+            "part": "-isch",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "chronisch = long-lasting, persistent (weeks/months/years). Opposite: akut (acute = sudden onset, short-term). Chronische Schmerzen = chronic pain.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er leidet an chronischen Rückenschmerzen.",
+            "en": "He suffers from chronic back pain."
+          },
+          {
+            "de": "Chronische Erkrankungen erfordern Langzeitbehandlung.",
+            "en": "Chronic diseases require long-term treatment."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "akut",
+            "meaning": "acute — ⚠ direct antonym: sudden/urgent"
+          },
+          {
+            "word": "die Chronik",
+            "meaning": "chronicle (same Greek root: chronos)"
+          },
+          {
+            "word": "chronologisch",
+            "meaning": "chronological"
+          },
+          {
+            "word": "die Chronizität",
+            "meaning": "chronicity"
+          }
+        ],
+        "mnemonic": "CHRONISCH: CHRON-isch = TIME-ish — it goes on and on over time.",
+        "present_examples": []
+      },
+      {
+        "id": "akut",
+        "german": "akut",
+        "pronunciation": "[aˈkuːt]",
+        "pos": "Adj.",
+        "english": "acute, urgent, immediate",
+        "breakdown": [
+          {
+            "part": "akut",
+            "meaning": "acute",
+            "note": "from Latin acutus = sharp"
+          }
+        ],
+        "breakdown_note": "akut = sudden onset, urgent, immediate — the opposite of chronisch. Ein akutes Problem = an urgent/pressing problem. Akute Schmerzen = sudden/sharp pain.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Der Patient hatte akute Bauchschmerzen.",
+            "en": "The patient had acute abdominal pain."
+          },
+          {
+            "de": "Das ist ein akutes Problem, das sofort gelöst werden muss.",
+            "en": "That is an urgent problem that must be solved immediately."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "chronisch",
+            "meaning": "chronic — ⚠ direct antonym: long-lasting"
+          },
+          {
+            "word": "die Akutklinik",
+            "meaning": "acute care clinic"
+          },
+          {
+            "word": "dringend",
+            "meaning": "urgent — near-synonym in non-medical use"
+          }
+        ],
+        "mnemonic": "AKUT: ACUTE — sharp, sudden, RIGHT NOW. Same as English.",
+        "present_examples": []
+      },
+      {
+        "id": "die Beschwerde",
+        "german": "die Beschwerde",
+        "pronunciation": "[bəˈʃveːɐ̯də]",
+        "pos": "N.f.",
+        "english": "complaint; ailment (pl: Beschwerden = symptoms)",
+        "breakdown": [
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "schwer",
+            "meaning": "heavy/difficult",
+            "note": ""
+          },
+          {
+            "part": "-de",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Two important uses: (1) a complaint (formal: eine Beschwerde einreichen = to file a complaint) and (2) medical Beschwerden (pl.) = symptoms a patient reports. Welche Beschwerden haben Sie? is what a German doctor asks.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Welche Beschwerden haben Sie?",
+            "en": "What symptoms/complaints do you have?"
+          },
+          {
+            "de": "Er reichte eine Beschwerde beim Chef ein.",
+            "en": "He filed a complaint with the boss."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich beschweren",
+            "meaning": "to complain"
+          },
+          {
+            "word": "schwer",
+            "meaning": "heavy, difficult"
+          },
+          {
+            "word": "die Beschwerden",
+            "meaning": "symptoms (plural, medical context)"
+          },
+          {
+            "word": "das Symptom",
+            "meaning": "symptom — more clinical/technical"
+          }
+        ],
+        "mnemonic": "BESCHWERDE: be-SCHWER-de — something HEAVY (schwer) weighing on you.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "book_page": 128,
+    "section": "Schlaf und Erholung",
+    "insight": "einschlafen is separable: Ich schlafe ein — and it is also used for a limb falling asleep: Mein Fuß ist eingeschlafen (My foot has gone to sleep). ⚠ die Schlaflosigkeit (insomnia) = Schlaf (sleep) + los (without) + igkeit (noun suffix) — literally 'sleep-lessness'. Compare: arbeitslos (unemployed), hoffnungslos (hopeless). ausgeruht (rested/refreshed) = aus + geruht (past participle of ruhen, to rest) — feeling 'fully rested out'. Contrast: erschöpft (exhausted).",
+    "words": [
+      {
+        "id": "schlafen",
+        "german": "schlafen",
+        "pronunciation": "[ˈʃlaːfən]",
+        "pos": "V.i.",
+        "english": "to sleep",
+        "breakdown": [
+          {
+            "part": "schlaf-",
+            "meaning": "sleep",
+            "note": "from Old High German slāfan"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "schlief",
+          "perf": "hat geschlafen",
+          "note": "strong verb; er schläft (vowel change in present)"
+        },
+        "examples": [
+          {
+            "de": "Ich habe heute Nacht schlecht geschlafen.",
+            "en": "I slept badly last night."
+          },
+          {
+            "de": "Wie viele Stunden schläfst du pro Nacht?",
+            "en": "How many hours do you sleep per night?"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Schlaf",
+            "meaning": "sleep"
+          },
+          {
+            "word": "einschlafen",
+            "meaning": "to fall asleep"
+          },
+          {
+            "word": "aufwachen",
+            "meaning": "to wake up"
+          },
+          {
+            "word": "schläfrig",
+            "meaning": "sleepy"
+          }
+        ],
+        "mnemonic": "SCHLAFEN: strong verb — schlief, geschlafen. Think 'to SLEEP'.",
+        "present_examples": []
+      },
+      {
+        "id": "der Schlaf",
+        "german": "der Schlaf",
+        "pronunciation": "[ʃlaːf]",
+        "pos": "N.m.",
+        "english": "sleep",
+        "breakdown": [
+          {
+            "part": "Schlaf",
+            "meaning": "sleep",
+            "note": "nominalised verb"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Acht Stunden Schlaf sind ideal.",
+            "en": "Eight hours of sleep are ideal."
+          },
+          {
+            "de": "Mir fehlt der Schlaf.",
+            "en": "I am lacking sleep."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "schlafen",
+            "meaning": "to sleep"
+          },
+          {
+            "word": "der Tiefschlaf",
+            "meaning": "deep sleep"
+          },
+          {
+            "word": "der Schlafmangel",
+            "meaning": "lack of sleep"
+          },
+          {
+            "word": "schlaflos",
+            "meaning": "sleepless"
+          }
+        ],
+        "mnemonic": "SCHLAF: the noun of schlafen. SLEEP.",
+        "present_examples": []
+      },
+      {
+        "id": "einschlafen",
+        "german": "einschlafen",
+        "pronunciation": "[ˈaɪ̯nˌʃlaːfən]",
+        "pos": "V.i.",
+        "english": "to fall asleep; (of a limb) to go to sleep/go numb",
+        "breakdown": [
+          {
+            "part": "ein-",
+            "meaning": "in/into",
+            "note": "separable prefix"
+          },
+          {
+            "part": "schlaf-",
+            "meaning": "sleep",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Uses sein as auxiliary (change of state). Also used when a limb goes numb: Mein Bein ist eingeschlafen.",
+        "conjugation": {
+          "prät": "schlief ein",
+          "perf": "ist eingeschlafen",
+          "note": "separable strong verb; uses sein (change of state)"
+        },
+        "examples": [
+          {
+            "de": "Ich bin sofort eingeschlafen.",
+            "en": "I fell asleep immediately."
+          },
+          {
+            "de": "Mein Fuß ist eingeschlafen.",
+            "en": "My foot has gone to sleep (gone numb)."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "schlafen",
+            "meaning": "to sleep"
+          },
+          {
+            "word": "aufwachen",
+            "meaning": "to wake up — ⚠ antonym"
+          },
+          {
+            "word": "einnicken",
+            "meaning": "to doze off — colloquial synonym"
+          },
+          {
+            "word": "ausschlafen",
+            "meaning": "to sleep in, to have a full sleep"
+          }
+        ],
+        "mnemonic": "EIN-SCHLAFEN: fall IN-to sleep — ist eingeschlafen (sein verb).",
+        "present_examples": []
+      },
+      {
+        "id": "aufwachen",
+        "german": "aufwachen",
+        "pronunciation": "[ˈaʊ̯fˌvaxən]",
+        "pos": "V.i.",
+        "english": "to wake up",
+        "breakdown": [
+          {
+            "part": "auf-",
+            "meaning": "up",
+            "note": "separable prefix"
+          },
+          {
+            "part": "wach-",
+            "meaning": "awake",
+            "note": "from wachen"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "wachte auf",
+          "perf": "ist aufgewacht",
+          "note": "separable weak verb; uses sein (change of state)"
+        },
+        "examples": [
+          {
+            "de": "Ich wache jeden Morgen um sechs Uhr auf.",
+            "en": "I wake up every morning at six o'clock."
+          },
+          {
+            "de": "Er ist mitten in der Nacht aufgewacht.",
+            "en": "He woke up in the middle of the night."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "wach",
+            "meaning": "awake"
+          },
+          {
+            "word": "aufwecken",
+            "meaning": "to wake someone up (transitive)"
+          },
+          {
+            "word": "einschlafen",
+            "meaning": "to fall asleep — ⚠ direct antonym"
+          },
+          {
+            "word": "erwachen",
+            "meaning": "to awaken (literary)"
+          }
+        ],
+        "mnemonic": "AUF-WACHEN: wake UP (auf) — ist aufgewacht (sein verb).",
+        "present_examples": []
+      },
+      {
+        "id": "die Schlaflosigkeit",
+        "german": "die Schlaflosigkeit",
+        "pronunciation": "[ˈʃlaːfˌloːzɪçkaɪ̯t]",
+        "pos": "N.f.",
+        "english": "insomnia, sleeplessness",
+        "breakdown": [
+          {
+            "part": "Schlaf",
+            "meaning": "sleep",
+            "note": ""
+          },
+          {
+            "part": "los",
+            "meaning": "without/lacking",
+            "note": ""
+          },
+          {
+            "part": "-igkeit",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'sleep-less-ness'. Very transparent compound: Schlaf + los + -igkeit. Medical term: die Insomnie (loanword). An schlaflosen Nächten leiden = to suffer from sleepless nights.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sie leidet unter chronischer Schlaflosigkeit.",
+            "en": "She suffers from chronic insomnia."
+          },
+          {
+            "de": "Stress ist häufig die Ursache von Schlaflosigkeit.",
+            "en": "Stress is often the cause of insomnia."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "schlaflos",
+            "meaning": "sleepless"
+          },
+          {
+            "word": "schlafen",
+            "meaning": "to sleep"
+          },
+          {
+            "word": "die Insomnie",
+            "meaning": "insomnia (medical loanword)"
+          },
+          {
+            "word": "die Müdigkeit",
+            "meaning": "tiredness — what insomnia causes"
+          }
+        ],
+        "mnemonic": "SCHLAF-LOS-IGKEIT: sleep (Schlaf) + without (-los) + -igkeit = sleeplessness.",
+        "present_examples": []
+      },
+      {
+        "id": "schlaflos",
+        "german": "schlaflos",
+        "pronunciation": "[ˈʃlaːfloːs]",
+        "pos": "Adj.",
+        "english": "sleepless",
+        "breakdown": [
+          {
+            "part": "Schlaf",
+            "meaning": "sleep",
+            "note": ""
+          },
+          {
+            "part": "-los",
+            "meaning": "without",
+            "note": "adjectival suffix"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er verbrachte eine schlaflose Nacht.",
+            "en": "He spent a sleepless night."
+          },
+          {
+            "de": "Ich lag schlaflos im Bett.",
+            "en": "I lay sleepless in bed."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Schlaflosigkeit",
+            "meaning": "insomnia"
+          },
+          {
+            "word": "arbeitslos",
+            "meaning": "unemployed — same -los pattern"
+          },
+          {
+            "word": "hoffnungslos",
+            "meaning": "hopeless — same -los pattern"
+          },
+          {
+            "word": "ausgeruht",
+            "meaning": "rested — antonym"
+          }
+        ],
+        "mnemonic": "SCHLAF-LOS: without (-los) sleep (Schlaf) — sleepless.",
+        "present_examples": []
+      },
+      {
+        "id": "ausgeruht",
+        "german": "ausgeruht",
+        "pronunciation": "[ˈaʊ̯sɡəˌʁuːt]",
+        "pos": "Adj.",
+        "english": "rested, refreshed",
+        "breakdown": [
+          {
+            "part": "aus-",
+            "meaning": "out/fully",
+            "note": ""
+          },
+          {
+            "part": "ge-",
+            "meaning": "past participle prefix",
+            "note": ""
+          },
+          {
+            "part": "ruht",
+            "meaning": "rested",
+            "note": "from ruhen = to rest"
+          }
+        ],
+        "breakdown_note": "Literally 'fully rested out'. The positive counterpart to erschöpft. Ich bin ausgeruht = I am fully rested.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Ich bin heute morgen ausgeruht und fit.",
+            "en": "I am rested and fit this morning."
+          },
+          {
+            "de": "Nach dem Urlaub fühlt man sich ausgeruht.",
+            "en": "After the holiday one feels refreshed."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "ruhen",
+            "meaning": "to rest"
+          },
+          {
+            "word": "die Ruhe",
+            "meaning": "calm, quiet, rest"
+          },
+          {
+            "word": "erholt",
+            "meaning": "recovered — near-synonym"
+          },
+          {
+            "word": "erschöpft",
+            "meaning": "exhausted — ⚠ direct antonym",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "AUS-ge-RUHT: fully RESTED (ruhen) OUT (aus) — energised.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "book_page": 129,
+    "section": "Sucht und Abhängigkeit",
+    "insight": "die Sucht (addiction) and süchtig (addicted) come from the verb suchen (to seek/search) — originally meant a sickness or craving that drives you to keep searching. ⚠ die Abhängigkeit (dependence/addiction) vs. die Unabhängigkeit (independence) — perfect antonyms: ab-hängig = hanging off something (dependent); un-abhängig = not hanging off anything. der Entzug = withdrawal — literally 'the pulling away' (entziehen = to withdraw/deprive). Used in: Drogenentzug (drug withdrawal), Alkoholentzug (alcohol withdrawal).",
+    "words": [
+      {
+        "id": "die Sucht",
+        "german": "die Sucht",
+        "pronunciation": "[zʊxt]",
+        "pos": "N.f.",
+        "english": "addiction, compulsion",
+        "breakdown": [
+          {
+            "part": "Sucht",
+            "meaning": "addiction",
+            "note": "from suchen = to seek — originally meant compulsive searching/sickness"
+          }
+        ],
+        "breakdown_note": "Originally meant a compulsive sickness/craving — someone who kept 'seeking' something they couldn't stop. Related to suchen (to seek).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Alkoholsucht ist eine ernste Krankheit.",
+            "en": "Alcohol addiction is a serious illness."
+          },
+          {
+            "de": "Er kämpft gegen seine Sucht.",
+            "en": "He is fighting his addiction."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "süchtig",
+            "meaning": "addicted"
+          },
+          {
+            "word": "die Drogensucht",
+            "meaning": "drug addiction"
+          },
+          {
+            "word": "die Eifersucht",
+            "meaning": "jealousy — same Sucht root!"
+          },
+          {
+            "word": "suchen",
+            "meaning": "to seek — ⚠ historical root, not modern meaning",
+            "lookalike": true
+          }
+        ],
+        "mnemonic": "SUCHT: from SUCHEN (to seek) — you keep compulsively seeking more.",
+        "present_examples": []
+      },
+      {
+        "id": "süchtig",
+        "german": "süchtig",
+        "pronunciation": "[ˈzʏçtɪç]",
+        "pos": "Adj.",
+        "english": "addicted",
+        "breakdown": [
+          {
+            "part": "Sucht",
+            "meaning": "addiction",
+            "note": ""
+          },
+          {
+            "part": "-ig",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er ist nikotinsüchtig.",
+            "en": "He is addicted to nicotine."
+          },
+          {
+            "de": "Social Media macht süchtig.",
+            "en": "Social media is addictive."
+          }
+        ],
+        "grammar_notes": "süchtig nach + Dative = addicted to: Er ist süchtig nach Koffein.",
+        "word_family": [
+          {
+            "word": "die Sucht",
+            "meaning": "addiction"
+          },
+          {
+            "word": "abhängig",
+            "meaning": "dependent — near-synonym"
+          },
+          {
+            "word": "drogensüchtig",
+            "meaning": "drug-addicted"
+          },
+          {
+            "word": "spielsüchtig",
+            "meaning": "addicted to gambling"
+          }
+        ],
+        "mnemonic": "SÜCHTIG: Sucht + -ig = 'having the quality of addiction'.",
+        "present_examples": []
+      },
+      {
+        "id": "die Abhängigkeit",
+        "german": "die Abhängigkeit",
+        "pronunciation": "[apˈhɛŋɪçkaɪ̯t]",
+        "pos": "N.f.",
+        "english": "dependence, dependency, addiction",
+        "breakdown": [
+          {
+            "part": "ab-",
+            "meaning": "off/from",
+            "note": "separable prefix"
+          },
+          {
+            "part": "hängig",
+            "meaning": "hanging",
+            "note": "from hängen"
+          },
+          {
+            "part": "-keit",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'hanging off something' — dependent on it. Antonym: die Unabhängigkeit (independence) — not hanging off anything.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Abhängigkeit von Medikamenten ist problematisch.",
+            "en": "Dependence on medication is problematic."
+          },
+          {
+            "de": "Er hat eine körperliche Abhängigkeit entwickelt.",
+            "en": "He has developed a physical dependency."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "abhängig",
+            "meaning": "dependent, addicted"
+          },
+          {
+            "word": "die Unabhängigkeit",
+            "meaning": "independence — ⚠ perfect antonym"
+          },
+          {
+            "word": "die Sucht",
+            "meaning": "addiction — near-synonym"
+          },
+          {
+            "word": "hängen",
+            "meaning": "to hang — the physical image"
+          }
+        ],
+        "mnemonic": "AB-HÄNGIG-KEIT: HANGING (hängen) OFF (ab) something — dependent on it.",
+        "present_examples": []
+      },
+      {
+        "id": "abhängig",
+        "german": "abhängig",
+        "pronunciation": "[ˈaphɛŋɪç]",
+        "pos": "Adj.",
+        "english": "dependent, addicted",
+        "breakdown": [
+          {
+            "part": "ab-",
+            "meaning": "off/from",
+            "note": ""
+          },
+          {
+            "part": "häng-",
+            "meaning": "hang",
+            "note": "from hängen"
+          },
+          {
+            "part": "-ig",
+            "meaning": "adjectival suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er ist stark von Koffein abhängig.",
+            "en": "He is heavily dependent on caffeine."
+          },
+          {
+            "de": "Die Entscheidung ist von vielen Faktoren abhängig.",
+            "en": "The decision depends on many factors."
+          }
+        ],
+        "grammar_notes": "abhängig von + Dative: Er ist abhängig von Alkohol. Also used generally: Das hängt von dir ab (That depends on you).",
+        "word_family": [
+          {
+            "word": "die Abhängigkeit",
+            "meaning": "dependence"
+          },
+          {
+            "word": "unabhängig",
+            "meaning": "independent"
+          },
+          {
+            "word": "davon abhängen",
+            "meaning": "to depend on it"
+          },
+          {
+            "word": "hängen",
+            "meaning": "to hang"
+          }
+        ],
+        "mnemonic": "AB-HÄNGIG: hanging OFF something — you're hooked.",
+        "present_examples": []
+      },
+      {
+        "id": "der Entzug",
+        "german": "der Entzug",
+        "pronunciation": "[ɛntˈtsuːk]",
+        "pos": "N.m.",
+        "english": "withdrawal (from addiction); deprivation",
+        "breakdown": [
+          {
+            "part": "ent-",
+            "meaning": "removal prefix",
+            "note": ""
+          },
+          {
+            "part": "Zug",
+            "meaning": "pull/drawing",
+            "note": "from ziehen = to pull"
+          }
+        ],
+        "breakdown_note": "Literally 'the pulling away/removing'. Einen Entzug machen = to go through withdrawal. Der Alkoholentzug = alcohol withdrawal. Also used generally: Nahrungsentzug = food deprivation.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er macht gerade einen Drogenentzug.",
+            "en": "He is currently going through drug withdrawal."
+          },
+          {
+            "de": "Die Entzugssymptome waren stark.",
+            "en": "The withdrawal symptoms were severe."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "entziehen",
+            "meaning": "to withdraw, to deprive"
+          },
+          {
+            "word": "ziehen",
+            "meaning": "to pull"
+          },
+          {
+            "word": "die Entzugssymptome",
+            "meaning": "withdrawal symptoms"
+          },
+          {
+            "word": "der Schlafentzug",
+            "meaning": "sleep deprivation"
+          }
+        ],
+        "mnemonic": "ENT-ZUG: pulling (Zug) away (ent-) the substance — withdrawal.",
+        "present_examples": []
+      },
+      {
+        "id": "rauchen",
+        "german": "rauchen",
+        "pronunciation": "[ˈʁaʊ̯xən]",
+        "pos": "V.i./t.",
+        "english": "to smoke",
+        "breakdown": [
+          {
+            "part": "Rauch",
+            "meaning": "smoke",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": {
+          "prät": "rauchte",
+          "perf": "hat geraucht",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Er hat zehn Jahre lang geraucht.",
+            "en": "He smoked for ten years."
+          },
+          {
+            "de": "Rauchen ist in vielen öffentlichen Gebäuden verboten.",
+            "en": "Smoking is banned in many public buildings."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "der Rauch",
+            "meaning": "smoke"
+          },
+          {
+            "word": "der Raucher",
+            "meaning": "smoker"
+          },
+          {
+            "word": "das Rauchen",
+            "meaning": "smoking (noun)"
+          },
+          {
+            "word": "das Nichtrauchen",
+            "meaning": "non-smoking"
+          }
+        ],
+        "mnemonic": "RAUCHEN: Rauch (smoke) + -en — to make smoke / to smoke.",
+        "present_examples": []
+      },
+      {
+        "id": "aufhören",
+        "german": "aufhören",
+        "pronunciation": "[ˈaʊ̯fˌhøːʁən]",
+        "pos": "V.i.",
+        "english": "to stop, to quit, to cease",
+        "breakdown": [
+          {
+            "part": "auf-",
+            "meaning": "up/stop",
+            "note": "separable prefix"
+          },
+          {
+            "part": "hör-",
+            "meaning": "listen/hear",
+            "note": "from hören"
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "aufhören mit + Dative = to stop doing: aufhören mit dem Rauchen = to quit smoking. aufhören zu + Infinitive: Ich höre auf zu rauchen.",
+        "conjugation": {
+          "prät": "hörte auf",
+          "perf": "hat aufgehört",
+          "note": "separable weak verb"
+        },
+        "examples": [
+          {
+            "de": "Er hat mit dem Rauchen aufgehört.",
+            "en": "He has stopped smoking."
+          },
+          {
+            "de": "Hör auf damit!",
+            "en": "Stop it! Quit it!"
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "hören",
+            "meaning": "to hear, to listen"
+          },
+          {
+            "word": "die Aufhörung",
+            "meaning": "cessation (formal)"
+          },
+          {
+            "word": "aufgeben",
+            "meaning": "to give up — near-synonym in quitting context"
+          },
+          {
+            "word": "beginnen",
+            "meaning": "to begin — ⚠ antonym"
+          }
+        ],
+        "mnemonic": "AUF-HÖREN: STOP listening to the craving — HEAR (hören) it no more.",
+        "present_examples": []
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "book_page": 130,
+    "section": "Körperpflege und Hygiene",
+    "insight": "sich pflegen (to take care of oneself) vs. pflegen zu + Infinitive (to be in the habit of doing): Er pflegt nach dem Essen spazieren zu gehen (He is in the habit of going for a walk after eating). ⚠ die Reinigung (cleaning/purification) vs. die Reinheit (purity/cleanliness) — Reinigung is the process; Reinheit is the state. Also: die Reinigung = the dry cleaner's (shop). gepflegt as an adjective can describe both a person (well-groomed) and a place (well-kept) or even a conversation: ein gepflegtes Gespräch (a refined/civilised conversation).",
+    "words": [
+      {
+        "id": "die Körperpflege",
+        "german": "die Körperpflege",
+        "pronunciation": "[ˈkœʁpɐˌpfleːɡə]",
+        "pos": "N.f.",
+        "english": "personal hygiene, personal care",
+        "breakdown": [
+          {
+            "part": "Körper",
+            "meaning": "body",
+            "note": ""
+          },
+          {
+            "part": "Pflege",
+            "meaning": "care",
+            "note": "from pflegen"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Zur Körperpflege gehört regelmäßiges Waschen.",
+            "en": "Personal care includes regular washing."
+          },
+          {
+            "de": "Körperpflege ist ein wichtiger Teil des Alltags.",
+            "en": "Personal hygiene is an important part of daily life."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "pflegen",
+            "meaning": "to care for, to tend"
+          },
+          {
+            "word": "der Körper",
+            "meaning": "body"
+          },
+          {
+            "word": "die Pflege",
+            "meaning": "care, nursing"
+          },
+          {
+            "word": "pflegebedürftig",
+            "meaning": "in need of care"
+          }
+        ],
+        "mnemonic": "KÖRPER-PFLEGE: BODY (Körper) + CARE (Pflege) = personal care.",
+        "present_examples": []
+      },
+      {
+        "id": "sich pflegen",
+        "german": "sich pflegen",
+        "pronunciation": "[zɪç ˈpfleːɡən]",
+        "pos": "V.refl.",
+        "english": "to take care of oneself, to groom oneself",
+        "breakdown": [
+          {
+            "part": "sich",
+            "meaning": "reflexive",
+            "note": ""
+          },
+          {
+            "part": "pfleg-",
+            "meaning": "tend/care",
+            "note": ""
+          },
+          {
+            "part": "-en",
+            "meaning": "infinitive",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "pflegen zu + Infinitive = to be in the habit of: Er pflegt nach dem Essen spazieren zu gehen (He is in the habit of walking after dinner). This is a distinct formal use.",
+        "conjugation": {
+          "prät": "pflegte sich",
+          "perf": "hat sich gepflegt",
+          "note": "weak verb"
+        },
+        "examples": [
+          {
+            "de": "Sie pflegt sich sehr sorgfältig.",
+            "en": "She takes great care of herself."
+          },
+          {
+            "de": "Er pflegt zu sagen, dass Gesundheit das Wichtigste ist.",
+            "en": "He is in the habit of saying that health is the most important thing."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Pflege",
+            "meaning": "care, nursing"
+          },
+          {
+            "word": "gepflegt",
+            "meaning": "well-groomed, well-kept"
+          },
+          {
+            "word": "die Körperpflege",
+            "meaning": "personal hygiene"
+          },
+          {
+            "word": "pflegeleicht",
+            "meaning": "easy-care, low-maintenance"
+          }
+        ],
+        "mnemonic": "SICH PFLEGEN: take CARE (pflegen) of yourself — self-care.",
+        "present_examples": []
+      },
+      {
+        "id": "die Hygiene",
+        "german": "die Hygiene",
+        "pronunciation": "[hyˈɡi̯eːnə]",
+        "pos": "N.f.",
+        "english": "hygiene",
+        "breakdown": [
+          {
+            "part": "Hygiene",
+            "meaning": "hygiene",
+            "note": "from Greek Hygieia = goddess of health/cleanliness"
+          }
+        ],
+        "breakdown_note": null,
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Gute Hygiene verhindert Krankheiten.",
+            "en": "Good hygiene prevents diseases."
+          },
+          {
+            "de": "Auf der Intensivstation ist Hygiene besonders wichtig.",
+            "en": "In intensive care hygiene is especially important."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "hygienisch",
+            "meaning": "hygienic"
+          },
+          {
+            "word": "unhygienisch",
+            "meaning": "unhygienic"
+          },
+          {
+            "word": "die Mundhygiene",
+            "meaning": "oral hygiene"
+          },
+          {
+            "word": "die Händehygiene",
+            "meaning": "hand hygiene"
+          }
+        ],
+        "mnemonic": "HYGIENE: Greek goddess Hygieia — same word as in English.",
+        "present_examples": []
+      },
+      {
+        "id": "gepflegt",
+        "german": "gepflegt",
+        "pronunciation": "[ɡəˈpfleːkt]",
+        "pos": "Adj.",
+        "english": "well-groomed, well-kept; refined",
+        "breakdown": [
+          {
+            "part": "ge-",
+            "meaning": "past participle prefix",
+            "note": ""
+          },
+          {
+            "part": "pfleg-",
+            "meaning": "care/tend",
+            "note": ""
+          },
+          {
+            "part": "-t",
+            "meaning": "past participle suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "gepflegt can describe a person (well-groomed), a place (well-kept), or even a conversation/meal: ein gepflegtes Gespräch = a refined/civilised conversation; ein gepflegtes Bier = a well-poured beer.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Er sieht immer sehr gepflegt aus.",
+            "en": "He always looks very well-groomed."
+          },
+          {
+            "de": "Der Garten war sorgfältig gepflegt.",
+            "en": "The garden was carefully kept."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "pflegen",
+            "meaning": "to care for"
+          },
+          {
+            "word": "ungepflegt",
+            "meaning": "unkempt, neglected — ⚠ direct antonym"
+          },
+          {
+            "word": "die Pflege",
+            "meaning": "care"
+          },
+          {
+            "word": "gepflegt wirken",
+            "meaning": "to appear well-groomed"
+          }
+        ],
+        "mnemonic": "GE-PFLEGT: past participle of pflegen as adj. — well-tended, well-cared-for.",
+        "present_examples": []
+      },
+      {
+        "id": "die Reinigung",
+        "german": "die Reinigung",
+        "pronunciation": "[ˈʁaɪ̯nɪɡʊŋ]",
+        "pos": "N.f.",
+        "english": "cleaning, purification; dry cleaner's",
+        "breakdown": [
+          {
+            "part": "reinig-",
+            "meaning": "clean",
+            "note": "from rein = clean"
+          },
+          {
+            "part": "-ung",
+            "meaning": "noun suffix",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "die Reinigung = (1) the act of cleaning/purification, (2) a dry cleaner's shop (Ich bringe mein Jackett zur Reinigung). Reinheit = the state of purity/cleanliness.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Die Reinigung der Wunde ist wichtig.",
+            "en": "Cleaning the wound is important."
+          },
+          {
+            "de": "Er brachte seinen Anzug zur Reinigung.",
+            "en": "He took his suit to the dry cleaner's."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "rein",
+            "meaning": "clean, pure"
+          },
+          {
+            "word": "reinigen",
+            "meaning": "to clean, to purify"
+          },
+          {
+            "word": "die Reinheit",
+            "meaning": "cleanliness, purity — ⚠ state vs. process",
+            "lookalike": true
+          },
+          {
+            "word": "sauber machen",
+            "meaning": "to clean — everyday colloquial"
+          }
+        ],
+        "mnemonic": "REINIGUNG: rein (clean) + -ig- + -ung = 'the cleaning'.",
+        "present_examples": []
+      },
+      {
+        "id": "sauber",
+        "german": "sauber",
+        "pronunciation": "[ˈzaʊ̯bɐ]",
+        "pos": "Adj.",
+        "english": "clean, tidy",
+        "breakdown": [
+          {
+            "part": "sauber",
+            "meaning": "clean",
+            "note": "from Middle High German sûber"
+          }
+        ],
+        "breakdown_note": "sauber = clean (the practical state). rein = pure/clean (more absolute, also moral purity). sauber machen = to clean/tidy. Sauberkeit = cleanliness.",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Das Zimmer ist sauber.",
+            "en": "The room is clean."
+          },
+          {
+            "de": "Mach bitte die Küche sauber.",
+            "en": "Please clean the kitchen."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "die Sauberkeit",
+            "meaning": "cleanliness"
+          },
+          {
+            "word": "sauber machen",
+            "meaning": "to clean"
+          },
+          {
+            "word": "schmutzig",
+            "meaning": "dirty — ⚠ direct antonym"
+          },
+          {
+            "word": "rein",
+            "meaning": "pure, clean — more absolute than sauber"
+          }
+        ],
+        "mnemonic": "SAUBER: 'ZOW-ber' — think of SCRUBBING until it's clean.",
+        "present_examples": []
+      },
+      {
+        "id": "das Wohlbefinden",
+        "german": "das Wohlbefinden",
+        "pronunciation": "[ˈvoːlbəˌfɪndən]",
+        "pos": "N.n.",
+        "english": "well-being, welfare",
+        "breakdown": [
+          {
+            "part": "wohl",
+            "meaning": "well/good",
+            "note": ""
+          },
+          {
+            "part": "be-",
+            "meaning": "prefix",
+            "note": ""
+          },
+          {
+            "part": "finden",
+            "meaning": "to find",
+            "note": ""
+          }
+        ],
+        "breakdown_note": "Literally 'finding oneself well'. Used in formal contexts: körperliches und seelisches Wohlbefinden (physical and mental well-being).",
+        "conjugation": null,
+        "examples": [
+          {
+            "de": "Sport fördert das allgemeine Wohlbefinden.",
+            "en": "Sport promotes general well-being."
+          },
+          {
+            "de": "Ihr Wohlbefinden liegt mir am Herzen.",
+            "en": "Your well-being is close to my heart."
+          }
+        ],
+        "grammar_notes": null,
+        "word_family": [
+          {
+            "word": "sich wohlfühlen",
+            "meaning": "to feel well, at ease"
+          },
+          {
+            "word": "wohl",
+            "meaning": "well, probably"
+          },
+          {
+            "word": "das Befinden",
+            "meaning": "how one is doing, state of health"
+          },
+          {
+            "word": "das Wohlergehen",
+            "meaning": "welfare — near-synonym"
+          }
+        ],
+        "mnemonic": "WOHL-BE-FINDEN: finding (befinden) oneself WELL (wohl) — well-being.",
+        "present_examples": []
+      }
+    ]
+  }
+]

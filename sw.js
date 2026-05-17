@@ -1,4 +1,4 @@
-const CACHE    = "deutsch-v3";
+const CACHE    = "deutsch-v4";
 const PRECACHE = [
   "/", "/index.html", "/style.css", "/manifest.json",
   "/js/app.js", "/js/sr.js", "/js/data.js", "/js/state.js",
@@ -7,6 +7,7 @@ const PRECACHE = [
   "/js/screens/flashcard.js", "/js/screens/stats-screen.js",
   "/js/screens/bookmarks-screen.js", "/js/screens/settings.js",
   "/data/p75-88.json", "/data/p89-102.json", "/data/extra-b1b2.json",
+  "/data/p103-116.json", "/data/p117-130.json",
 ];
 
 self.addEventListener("install", e => {

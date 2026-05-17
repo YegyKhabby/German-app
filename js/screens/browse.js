@@ -7,6 +7,8 @@ const BATCH_LABELS = {
   "p75-88":     "p.75-88",
   "p89-102":    "p.89-102",
   "extra-b1b2": "Extra B1-B2",
+  "p103-116":   "p.103-116",
+  "p117-130":   "p.117-130",
 };
 
 export async function renderBrowse() {
