@@ -1,4 +1,4 @@
-import { getBatches, loadAllBatches, getAllWords, buildSearchIndex, search, getWordById } from "../data.js";
+import { getBatches, loadAllBatches, loadBatch, getAllWords, buildSearchIndex, search, getWordById } from "../data.js";
 import { loadStats, localDateStr } from "../state.js";
 import { getDueIds } from "../sr.js";
 import { navigate } from "../router.js";
@@ -25,11 +25,30 @@ function renderBatchPills() {
   const container = document.getElementById("batch-pills");
   container.textContent = "";
   getBatches().forEach(batch => {
-    const btn = document.createElement("button");
-    btn.className   = "batch-pill";
-    btn.textContent = batch.label;
-    btn.onclick = () => { window._activeBatch = batch.id; navigate("browse"); };
-    container.appendChild(btn);
+    const row = document.createElement("div");
+    row.className = "batch-row";
+
+    const browseBtn = document.createElement("button");
+    browseBtn.className   = "batch-pill";
+    browseBtn.textContent = batch.label;
+    browseBtn.onclick = () => { window._activeBatch = batch.id; navigate("browse"); };
+
+    const quizBtn = document.createElement("button");
+    quizBtn.className   = "batch-quiz-btn";
+    quizBtn.title       = "Quiz this batch";
+    quizBtn.textContent = "🎯";
+    quizBtn.onclick = async () => {
+      quizBtn.disabled = true;
+      quizBtn.textContent = "…";
+      const days = await loadBatch(batch.id);
+      const words = days.flatMap(d => d.words);
+      window._pendingSession = { words, source: batch.label };
+      navigate("flashcard");
+    };
+
+    row.appendChild(browseBtn);
+    row.appendChild(quizBtn);
+    container.appendChild(row);
   });
 }
 

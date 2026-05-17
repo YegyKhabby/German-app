@@ -248,9 +248,11 @@ function buildTabContent(tabId, word) {
         span.textContent = item;
         row.appendChild(span);
       } else {
+        if (item.lookalike) row.classList.add("wf-lookalike");
+
         const wordEl = document.createElement("span");
         wordEl.className = "wf-word";
-        wordEl.textContent = item.word || item.german || "";
+        wordEl.textContent = (item.lookalike ? "⚠ " : "") + (item.word || item.german || "");
 
         const meaningEl = document.createElement("span");
         meaningEl.className = "wf-meaning";
